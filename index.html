@@ -200,10 +200,10 @@
 
   .quota-row {
     display: grid;
-    grid-template-columns: 1fr 65px 65px 65px 90px;
-    gap: 8px;
-    padding: 5px 0;
-    font-size: 13px;
+    grid-template-columns: 1fr 70px 70px 75px 120px;
+    gap: 12px;
+    padding: 6px 0;
+    font-size: 14px;
     align-items: center;
     border-bottom: 1px solid #f2f3f5;
   }
@@ -211,7 +211,7 @@
   .quota-row .label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .quota-row .paused { color: var(--text-muted); font-style: italic; }
   .quota-row .num { text-align: right; font-variant-numeric: tabular-nums; }
-  .quota-row .needed { font-weight: 600; }
+  .quota-row .needed { font-weight: 600; font-size: 15px; }
   .quota-row .needed.red { color: var(--red); }
   .quota-row .needed.yellow { color: var(--yellow); }
   .quota-row .needed.green { color: var(--green); }
@@ -229,7 +229,7 @@
     align-items: center;
     gap: 6px;
   }
-  .fill-pct { font-size: 11px; color: var(--text-secondary); min-width: 36px; text-align: right; }
+  .fill-pct { font-size: 13px; color: var(--text-secondary); min-width: 42px; text-align: right; }
 
   /* --- EMPTY STATE --- */
   .empty-state {
@@ -255,7 +255,7 @@
     .mission-header { padding: 12px; gap: 10px; flex-wrap: wrap; }
     .progress-wrap { width: 100%; text-align: left; }
     .mission-meta { gap: 8px; }
-    .quota-row { grid-template-columns: 1fr 50px 50px 50px 70px; font-size: 12px; }
+    .quota-row { grid-template-columns: 1fr 55px 55px 60px 90px; font-size: 13px; }
   }
 </style>
 </head>

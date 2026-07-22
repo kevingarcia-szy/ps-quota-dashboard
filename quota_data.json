@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T03:18:25",
-  "mission_count": 32,
+  "last_updated": "2026-07-22T03:44:16",
+  "mission_count": 34,
   "missions": [
     {
       "ref_name": "MIS-6d120 Kenvue US CBI Self Care",
@@ -1641,8 +1641,8 @@
     {
       "ref_name": "MIS-ae3b2 UTA - IQ",
       "target": 1000,
-      "filled": 714,
-      "fill_pct": 71.4,
+      "filled": 715,
+      "fill_pct": 71.5,
       "ir": "23.3",
       "loi": "2",
       "launch_date": "2026-07-21 16:10:00",
@@ -1719,9 +1719,9 @@
             {
               "label": "Male | 45 - 54",
               "target": 100,
-              "filled": 47,
-              "needed": 53,
-              "fill_pct": 47.0,
+              "filled": 48,
+              "needed": 52,
+              "fill_pct": 48.0,
               "is_paused": false
             },
             {
@@ -1730,6 +1730,106 @@
               "filled": 14,
               "needed": 96,
               "fill_pct": 12.7,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-e6b7b UTA - IQ",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "0.5",
+      "launch_date": "2026-07-22 10:24:41",
+      "oof": "8/5/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender x Age",
+          "cells": [
+            {
+              "label": "Female | 20 - 29",
+              "target": 230,
+              "filled": 0,
+              "needed": 230,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 30 - 40",
+              "target": 270,
+              "filled": 0,
+              "needed": 270,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 20 - 29",
+              "target": 230,
+              "filled": 0,
+              "needed": 230,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 30 - 40",
+              "target": 270,
+              "filled": 0,
+              "needed": 270,
+              "fill_pct": 0.0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-7c5e5 UTA - IQ",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "1",
+      "launch_date": "2026-07-22 10:25:27",
+      "oof": "8/5/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender x Age",
+          "cells": [
+            {
+              "label": "Female | 20 - 29",
+              "target": 230,
+              "filled": 0,
+              "needed": 230,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 30 - 40",
+              "target": 270,
+              "filled": 0,
+              "needed": 270,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 20 - 29",
+              "target": 230,
+              "filled": 0,
+              "needed": 230,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 30 - 40",
+              "target": 270,
+              "filled": 0,
+              "needed": 270,
+              "fill_pct": 0.0,
               "is_paused": false
             }
           ]
@@ -2510,8 +2610,8 @@
     {
       "ref_name": "MIS-65de6 Mondelez R&D: Consumer Science",
       "target": 250,
-      "filled": 203,
-      "fill_pct": 81.2,
+      "filled": 204,
+      "fill_pct": 81.6,
       "ir": "17.8",
       "loi": "2",
       "launch_date": "2026-07-21 20:59:27",
@@ -2534,8 +2634,8 @@
     {
       "ref_name": "MIS-06424 Mondelez R&D: Consumer Science",
       "target": 250,
-      "filled": 192,
-      "fill_pct": 76.8,
+      "filled": 194,
+      "fill_pct": 77.6,
       "ir": "37",
       "loi": "1.5",
       "launch_date": "2026-07-21 21:38:42",
@@ -2546,9 +2646,9 @@
     {
       "ref_name": "MIS-bb7b5 US Bank Payments Team",
       "target": 650,
-      "filled": 10,
-      "fill_pct": 1.5,
-      "ir": "10.1",
+      "filled": 13,
+      "fill_pct": 2.0,
+      "ir": "10.7",
       "loi": "18",
       "launch_date": "2026-07-20 19:44:47",
       "oof": "8/3/2026",
@@ -2560,9 +2660,9 @@
             {
               "label": "18 - 54",
               "target": 325,
-              "filled": 5,
-              "needed": 320,
-              "fill_pct": 1.5,
+              "filled": 8,
+              "needed": 317,
+              "fill_pct": 2.5,
               "is_paused": false
             },
             {
@@ -2582,7 +2682,7 @@
       "target": 1500,
       "filled": 920,
       "fill_pct": 61.3,
-      "ir": "48.3",
+      "ir": "48.2",
       "loi": "10.5",
       "launch_date": "2026-07-21 14:02:26",
       "oof": "8/4/2026",
@@ -2868,7 +2968,7 @@
       "target": 750,
       "filled": 132,
       "fill_pct": 17.6,
-      "ir": "17.2",
+      "ir": "17.1",
       "loi": "8.5",
       "launch_date": "2026-07-21 16:49:17",
       "oof": "8/4/2026",

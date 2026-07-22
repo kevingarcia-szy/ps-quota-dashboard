@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T15:21:45",
+  "last_updated": "2026-07-22T15:47:50",
   "mission_count": 34,
   "missions": [
     {
@@ -128,8 +128,8 @@
     {
       "ref_name": "MIS-9d8b0 Canidae",
       "target": 1000,
-      "filled": 600,
-      "fill_pct": 60.0,
+      "filled": 601,
+      "fill_pct": 60.1,
       "ir": "12.5",
       "loi": "3.5",
       "launch_date": "2026-07-13 16:24:15",
@@ -595,7 +595,7 @@
       "target": 1000,
       "filled": 924,
       "fill_pct": 92.4,
-      "ir": "58.7",
+      "ir": "58.6",
       "loi": "12.5",
       "launch_date": "2026-07-14 14:52:32",
       "oof": "7/28/2026",
@@ -1321,9 +1321,9 @@
     {
       "ref_name": "MIS-ae3b2 UTA - IQ",
       "target": 1000,
-      "filled": 772,
-      "fill_pct": 77.2,
-      "ir": "21.6",
+      "filled": 773,
+      "fill_pct": 77.3,
+      "ir": "21.5",
       "loi": "2",
       "launch_date": "2026-07-21 16:10:00",
       "oof": "8/4/2026",
@@ -1359,9 +1359,9 @@
             {
               "label": "Female | 45 - 54",
               "target": 100,
-              "filled": 82,
-              "needed": 18,
-              "fill_pct": 82.0,
+              "filled": 83,
+              "needed": 17,
+              "fill_pct": 83.0,
               "is_paused": false
             },
             {
@@ -1510,344 +1510,6 @@
               "filled": 268,
               "needed": 2,
               "fill_pct": 99.3,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-57bd3 Tillamook",
-      "target": 800,
-      "filled": 804,
-      "fill_pct": 100.5,
-      "ir": "40.6",
-      "loi": "9.5",
-      "launch_date": "2026-07-17 15:29:28",
-      "oof": "7/31/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18-24",
-              "target": 128,
-              "filled": 82,
-              "needed": 46,
-              "fill_pct": 64.1,
-              "is_paused": false
-            },
-            {
-              "label": "25-34",
-              "target": 184,
-              "filled": 176,
-              "needed": 8,
-              "fill_pct": 95.7,
-              "is_paused": false
-            },
-            {
-              "label": "35-44",
-              "target": 176,
-              "filled": 185,
-              "needed": 0,
-              "fill_pct": 105.1,
-              "is_paused": false
-            },
-            {
-              "label": "45-54",
-              "target": 168,
-              "filled": 174,
-              "needed": 0,
-              "fill_pct": 103.6,
-              "is_paused": false
-            },
-            {
-              "label": "55-99",
-              "target": 144,
-              "filled": 187,
-              "needed": 0,
-              "fill_pct": 129.9,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 408,
-              "filled": 419,
-              "needed": 0,
-              "fill_pct": 102.7,
-              "is_paused": false
-            },
-            {
-              "label": "Male",
-              "target": 392,
-              "filled": 385,
-              "needed": 7,
-              "fill_pct": 98.2,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Region",
-          "cells": [
-            {
-              "label": "Northeast",
-              "target": 136,
-              "filled": 144,
-              "needed": 0,
-              "fill_pct": 105.9,
-              "is_paused": false
-            },
-            {
-              "label": "Midwest",
-              "target": 168,
-              "filled": 180,
-              "needed": 0,
-              "fill_pct": 107.1,
-              "is_paused": false
-            },
-            {
-              "label": "South",
-              "target": 304,
-              "filled": 313,
-              "needed": 0,
-              "fill_pct": 103.0,
-              "is_paused": false
-            },
-            {
-              "label": "West",
-              "target": 192,
-              "filled": 167,
-              "needed": 25,
-              "fill_pct": 87.0,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Segments",
-          "cells": [
-            {
-              "label": "Mavens",
-              "target": 136,
-              "filled": 137,
-              "needed": 0,
-              "fill_pct": 100.7,
-              "is_paused": false
-            },
-            {
-              "label": "Tastemakers",
-              "target": 104,
-              "filled": 104,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "Savorists",
-              "target": 160,
-              "filled": 210,
-              "needed": 0,
-              "fill_pct": 131.2,
-              "is_paused": false
-            },
-            {
-              "label": "Habituals",
-              "target": 136,
-              "filled": 136,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "Balancers",
-              "target": 264,
-              "filled": 217,
-              "needed": 47,
-              "fill_pct": 82.2,
-              "is_paused": false
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-54345 Tillamook",
-      "target": 800,
-      "filled": 17,
-      "fill_pct": 2.1,
-      "ir": "43.6",
-      "loi": "15.5",
-      "launch_date": "2026-07-22 18:56:03",
-      "oof": "8/5/2026",
-      "status": "behind",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18-24",
-              "target": 128,
-              "filled": 0,
-              "needed": 128,
-              "fill_pct": 0.0,
-              "is_paused": false
-            },
-            {
-              "label": "25-34",
-              "target": 184,
-              "filled": 0,
-              "needed": 184,
-              "fill_pct": 0.0,
-              "is_paused": false
-            },
-            {
-              "label": "35-44",
-              "target": 176,
-              "filled": 7,
-              "needed": 169,
-              "fill_pct": 4.0,
-              "is_paused": false
-            },
-            {
-              "label": "45-54",
-              "target": 168,
-              "filled": 1,
-              "needed": 167,
-              "fill_pct": 0.6,
-              "is_paused": false
-            },
-            {
-              "label": "55-99",
-              "target": 144,
-              "filled": 9,
-              "needed": 135,
-              "fill_pct": 6.2,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 408,
-              "filled": 13,
-              "needed": 395,
-              "fill_pct": 3.2,
-              "is_paused": false
-            },
-            {
-              "label": "Male",
-              "target": 392,
-              "filled": 4,
-              "needed": 388,
-              "fill_pct": 1.0,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Region",
-          "cells": [
-            {
-              "label": "Northeast",
-              "target": 136,
-              "filled": 4,
-              "needed": 132,
-              "fill_pct": 2.9,
-              "is_paused": false
-            },
-            {
-              "label": "Midwest",
-              "target": 168,
-              "filled": 6,
-              "needed": 162,
-              "fill_pct": 3.6,
-              "is_paused": false
-            },
-            {
-              "label": "South",
-              "target": 304,
-              "filled": 4,
-              "needed": 300,
-              "fill_pct": 1.3,
-              "is_paused": false
-            },
-            {
-              "label": "West",
-              "target": 192,
-              "filled": 3,
-              "needed": 189,
-              "fill_pct": 1.6,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "Segments",
-          "cells": [
-            {
-              "label": "Mavens",
-              "target": 136,
-              "filled": 4,
-              "needed": 132,
-              "fill_pct": 2.9,
-              "is_paused": false
-            },
-            {
-              "label": "Tastemakers",
-              "target": 104,
-              "filled": 1,
-              "needed": 103,
-              "fill_pct": 1.0,
-              "is_paused": false
-            },
-            {
-              "label": "Savorists",
-              "target": 160,
-              "filled": 5,
-              "needed": 155,
-              "fill_pct": 3.1,
-              "is_paused": false
-            },
-            {
-              "label": "Habituals",
-              "target": 136,
-              "filled": 6,
-              "needed": 130,
-              "fill_pct": 4.4,
-              "is_paused": false
-            },
-            {
-              "label": "Balancers",
-              "target": 264,
-              "filled": 1,
-              "needed": 263,
-              "fill_pct": 0.4,
-              "is_paused": false
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
               "is_paused": false
             }
           ]
@@ -2099,7 +1761,7 @@
       "target": 1000,
       "filled": 852,
       "fill_pct": 85.2,
-      "ir": "39.1",
+      "ir": "39",
       "loi": "4",
       "launch_date": "2026-07-20 14:11:02",
       "oof": "7/30/2026",
@@ -2713,9 +2375,9 @@
     {
       "ref_name": "MIS-3c9b2 Bausch + Lomb - Rx",
       "target": 750,
-      "filled": 453,
-      "fill_pct": 60.4,
-      "ir": "17.9",
+      "filled": 461,
+      "fill_pct": 61.5,
+      "ir": "17.8",
       "loi": "8.5",
       "launch_date": "2026-07-21 16:49:17",
       "oof": "8/4/2026",
@@ -2727,9 +2389,9 @@
             {
               "label": "Miebo User | 18 - 34",
               "target": 27,
-              "filled": 28,
+              "filled": 29,
               "needed": 0,
-              "fill_pct": 103.7,
+              "fill_pct": 107.4,
               "is_paused": false
             },
             {
@@ -2743,9 +2405,9 @@
             {
               "label": "Miebo User | 50 - 64",
               "target": 45,
-              "filled": 6,
-              "needed": 39,
-              "fill_pct": 13.3,
+              "filled": 7,
+              "needed": 38,
+              "fill_pct": 15.6,
               "is_paused": false
             },
             {
@@ -2759,17 +2421,17 @@
             {
               "label": "Comp User | 18 - 34",
               "target": 45,
-              "filled": 46,
+              "filled": 48,
               "needed": 0,
-              "fill_pct": 102.2,
+              "fill_pct": 106.7,
               "is_paused": false
             },
             {
               "label": "Comp User | 35 - 49",
               "target": 98,
-              "filled": 49,
-              "needed": 49,
-              "fill_pct": 50.0,
+              "filled": 50,
+              "needed": 48,
+              "fill_pct": 51.0,
               "is_paused": false
             },
             {
@@ -2783,9 +2445,9 @@
             {
               "label": "Comp User | 65 - 99",
               "target": 68,
-              "filled": 12,
-              "needed": 56,
-              "fill_pct": 17.6,
+              "filled": 13,
+              "needed": 55,
+              "fill_pct": 19.1,
               "is_paused": false
             },
             {
@@ -2807,9 +2469,9 @@
             {
               "label": "OTC User | 50 - 64",
               "target": 79,
-              "filled": 57,
-              "needed": 22,
-              "fill_pct": 72.2,
+              "filled": 59,
+              "needed": 20,
+              "fill_pct": 74.7,
               "is_paused": false
             },
             {
@@ -3326,13 +2988,13 @@
     {
       "ref_name": "MIS-8cfa5 Monin, Inc.",
       "target": 1000,
-      "filled": 491,
-      "fill_pct": 49.1,
-      "ir": "37.9",
+      "filled": 538,
+      "fill_pct": 53.8,
+      "ir": "39.4",
       "loi": "7",
       "launch_date": "2026-07-22 16:37:00",
       "oof": "8/5/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
@@ -3360,10 +3022,179 @@
       "quotas": []
     },
     {
+      "ref_name": "MIS-54345 Tillamook",
+      "target": 800,
+      "filled": 22,
+      "fill_pct": 2.8,
+      "ir": "46.8",
+      "loi": "15.5",
+      "launch_date": "2026-07-22 18:56:03",
+      "oof": "8/5/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "18-24",
+              "target": 128,
+              "filled": 0,
+              "needed": 128,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "25-34",
+              "target": 184,
+              "filled": 0,
+              "needed": 184,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "35-44",
+              "target": 176,
+              "filled": 7,
+              "needed": 169,
+              "fill_pct": 4.0,
+              "is_paused": false
+            },
+            {
+              "label": "45-54",
+              "target": 168,
+              "filled": 2,
+              "needed": 166,
+              "fill_pct": 1.2,
+              "is_paused": false
+            },
+            {
+              "label": "55-99",
+              "target": 144,
+              "filled": 13,
+              "needed": 131,
+              "fill_pct": 9.0,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 408,
+              "filled": 17,
+              "needed": 391,
+              "fill_pct": 4.2,
+              "is_paused": false
+            },
+            {
+              "label": "Male",
+              "target": 392,
+              "filled": 5,
+              "needed": 387,
+              "fill_pct": 1.3,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Region",
+          "cells": [
+            {
+              "label": "Northeast",
+              "target": 136,
+              "filled": 6,
+              "needed": 130,
+              "fill_pct": 4.4,
+              "is_paused": false
+            },
+            {
+              "label": "Midwest",
+              "target": 168,
+              "filled": 7,
+              "needed": 161,
+              "fill_pct": 4.2,
+              "is_paused": false
+            },
+            {
+              "label": "South",
+              "target": 304,
+              "filled": 5,
+              "needed": 299,
+              "fill_pct": 1.6,
+              "is_paused": false
+            },
+            {
+              "label": "West",
+              "target": 192,
+              "filled": 4,
+              "needed": 188,
+              "fill_pct": 2.1,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Segments",
+          "cells": [
+            {
+              "label": "Mavens",
+              "target": 136,
+              "filled": 5,
+              "needed": 131,
+              "fill_pct": 3.7,
+              "is_paused": false
+            },
+            {
+              "label": "Tastemakers",
+              "target": 104,
+              "filled": 1,
+              "needed": 103,
+              "fill_pct": 1.0,
+              "is_paused": false
+            },
+            {
+              "label": "Savorists",
+              "target": 160,
+              "filled": 7,
+              "needed": 153,
+              "fill_pct": 4.4,
+              "is_paused": false
+            },
+            {
+              "label": "Habituals",
+              "target": 136,
+              "filled": 7,
+              "needed": 129,
+              "fill_pct": 5.1,
+              "is_paused": false
+            },
+            {
+              "label": "Balancers",
+              "target": 264,
+              "filled": 2,
+              "needed": 262,
+              "fill_pct": 0.8,
+              "is_paused": false
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-ad8b0 Scotts Miracle-Gro",
       "target": 1000,
-      "filled": 7,
-      "fill_pct": 0.7,
+      "filled": 9,
+      "fill_pct": 0.9,
       "ir": "50",
       "loi": "3",
       "launch_date": "2026-07-22 19:04:29",
@@ -3374,9 +3205,9 @@
     {
       "ref_name": "MIS-f6a3d Dentsu Creative",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 1,
+      "fill_pct": 0.1,
+      "ir": "25",
       "loi": "7",
       "launch_date": "2026-07-22 20:49:01",
       "oof": "7/28/2026",
@@ -3420,9 +3251,9 @@
             {
               "label": "Male | 30 - 45",
               "target": 300,
-              "filled": 0,
-              "needed": 300,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 299,
+              "fill_pct": 0.3,
               "is_paused": false
             },
             {
@@ -3430,6 +3261,40 @@
               "target": 150,
               "filled": 0,
               "needed": 150,
+              "fill_pct": 0.0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-751f9 AppleCare - Erick",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-07-22 22:30:19",
+      "oof": "8/5/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
               "fill_pct": 0.0,
               "is_paused": false
             }

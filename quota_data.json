@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T10:10:40",
-  "mission_count": 32,
+  "last_updated": "2026-07-22T10:36:22",
+  "mission_count": 30,
   "missions": [
     {
       "ref_name": "MIS-52734 Associated Bank",
@@ -593,8 +593,8 @@
     {
       "ref_name": "MIS-a8ba8 AlixPartners",
       "target": 1000,
-      "filled": 922,
-      "fill_pct": 92.2,
+      "filled": 923,
+      "fill_pct": 92.3,
       "ir": "58.6",
       "loi": "12.5",
       "launch_date": "2026-07-14 14:52:32",
@@ -655,9 +655,9 @@
             {
               "label": "65 - 99",
               "target": 60,
-              "filled": 48,
-              "needed": 12,
-              "fill_pct": 80.0,
+              "filled": 49,
+              "needed": 11,
+              "fill_pct": 81.7,
               "is_paused": false
             }
           ]
@@ -700,9 +700,9 @@
             {
               "label": "$60,000 - $74,999",
               "target": 120,
-              "filled": 97,
-              "needed": 23,
-              "fill_pct": 80.8,
+              "filled": 98,
+              "needed": 22,
+              "fill_pct": 81.7,
               "is_paused": false
             },
             {
@@ -1323,7 +1323,7 @@
       "target": 1000,
       "filled": 744,
       "fill_pct": 74.4,
-      "ir": "22.6",
+      "ir": "22.5",
       "loi": "2",
       "launch_date": "2026-07-21 16:10:00",
       "oof": "8/4/2026",
@@ -1419,8 +1419,8 @@
     {
       "ref_name": "MIS-e6b7b UTA - IQ",
       "target": 1000,
-      "filled": 996,
-      "fill_pct": 99.6,
+      "filled": 997,
+      "fill_pct": 99.7,
       "ir": "100",
       "loi": "0.5",
       "launch_date": "2026-07-22 10:24:41",
@@ -1457,9 +1457,9 @@
             {
               "label": "Male | 30 - 40",
               "target": 270,
-              "filled": 264,
-              "needed": 6,
-              "fill_pct": 97.8,
+              "filled": 265,
+              "needed": 5,
+              "fill_pct": 98.1,
               "is_paused": false
             }
           ]
@@ -1469,8 +1469,8 @@
     {
       "ref_name": "MIS-7c5e5 UTA - IQ",
       "target": 1000,
-      "filled": 997,
-      "fill_pct": 99.7,
+      "filled": 999,
+      "fill_pct": 99.9,
       "ir": "100",
       "loi": "1",
       "launch_date": "2026-07-22 10:25:27",
@@ -1499,9 +1499,9 @@
             {
               "label": "Male | 20 - 29",
               "target": 230,
-              "filled": 229,
-              "needed": 1,
-              "fill_pct": 99.6,
+              "filled": 231,
+              "needed": 0,
+              "fill_pct": 100.4,
               "is_paused": false
             },
             {
@@ -1805,18 +1805,6 @@
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-e6fe6 Califia Farms",
-      "target": 1000,
-      "filled": 574,
-      "fill_pct": 57.4,
-      "ir": "27.2",
-      "loi": "3.5",
-      "launch_date": "2026-07-20 3:35:25",
-      "oof": "7/22/2026",
-      "status": "watch",
-      "quotas": []
     },
     {
       "ref_name": "MIS-f4d13 Canon",
@@ -2224,9 +2212,9 @@
     {
       "ref_name": "MIS-6a788 Mondelez R&D: Consumer Science",
       "target": 250,
-      "filled": 61,
-      "fill_pct": 24.4,
-      "ir": "15.9",
+      "filled": 62,
+      "fill_pct": 24.8,
+      "ir": "16.1",
       "loi": "21",
       "launch_date": "2026-07-20 16:05:53",
       "oof": "8/3/2026",
@@ -2268,138 +2256,11 @@
       ]
     },
     {
-      "ref_name": "MIS-83cfd Kenvue US CBI Self Care",
-      "target": 500,
-      "filled": 309,
-      "fill_pct": 61.8,
-      "ir": "42.6",
-      "loi": "14",
-      "launch_date": "2026-07-20 20:26:57",
-      "oof": "7/22/2026",
-      "status": "watch",
-      "quotas": [
-        {
-          "group": "Age x Gender",
-          "cells": [
-            {
-              "label": "18 - 24 | Female",
-              "target": 50,
-              "filled": 10,
-              "needed": 40,
-              "fill_pct": 20.0,
-              "is_paused": false
-            },
-            {
-              "label": "18 - 24 | Male",
-              "target": 50,
-              "filled": 6,
-              "needed": 44,
-              "fill_pct": 12.0,
-              "is_paused": false
-            },
-            {
-              "label": "25 - 34 | Female",
-              "target": 75,
-              "filled": 65,
-              "needed": 10,
-              "fill_pct": 86.7,
-              "is_paused": false
-            },
-            {
-              "label": "25 - 34 | Male",
-              "target": 75,
-              "filled": 34,
-              "needed": 41,
-              "fill_pct": 45.3,
-              "is_paused": false
-            },
-            {
-              "label": "35 - 54 | Female",
-              "target": 100,
-              "filled": 94,
-              "needed": 6,
-              "fill_pct": 94.0,
-              "is_paused": false
-            },
-            {
-              "label": "35 - 54 | Male",
-              "target": 100,
-              "filled": 83,
-              "needed": 17,
-              "fill_pct": 83.0,
-              "is_paused": false
-            },
-            {
-              "label": "55 - 65 | Female",
-              "target": 25,
-              "filled": 12,
-              "needed": 13,
-              "fill_pct": 48.0,
-              "is_paused": false
-            },
-            {
-              "label": "55 - 65 | Male",
-              "target": 25,
-              "filled": 5,
-              "needed": 20,
-              "fill_pct": 20.0,
-              "is_paused": false
-            }
-          ]
-        },
-        {
-          "group": "How many children under 13 do you have?",
-          "cells": [
-            {
-              "label": "1",
-              "target": 150,
-              "filled": 150,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "2",
-              "target": 250,
-              "filled": 115,
-              "needed": 135,
-              "fill_pct": 46.0,
-              "is_paused": false
-            },
-            {
-              "label": "3 \u2013 4",
-              "target": 100,
-              "filled": 44,
-              "needed": 56,
-              "fill_pct": 44.0,
-              "is_paused": false
-            },
-            {
-              "label": "5 or more",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            },
-            {
-              "label": "I don\u2019t have children under 13",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-6ae4d ALDI - Customer Insights & Analytics",
       "target": 1500,
-      "filled": 999,
-      "fill_pct": 66.6,
-      "ir": "47.2",
+      "filled": 1013,
+      "fill_pct": 67.5,
+      "ir": "47",
       "loi": "10.5",
       "launch_date": "2026-07-21 14:02:26",
       "oof": "8/4/2026",
@@ -2475,9 +2336,9 @@
             {
               "label": "Occasionals | No",
               "target": 210,
-              "filled": 195,
-              "needed": 15,
-              "fill_pct": 92.9,
+              "filled": 200,
+              "needed": 10,
+              "fill_pct": 95.2,
               "is_paused": false
             },
             {
@@ -2491,9 +2352,9 @@
             {
               "label": "Occasionals | Yes",
               "target": 120,
-              "filled": 115,
-              "needed": 5,
-              "fill_pct": 95.8,
+              "filled": 118,
+              "needed": 2,
+              "fill_pct": 98.3,
               "is_paused": false
             },
             {
@@ -2515,9 +2376,9 @@
             {
               "label": "Infrequents | No",
               "target": 60,
-              "filled": 45,
-              "needed": 15,
-              "fill_pct": 75.0,
+              "filled": 47,
+              "needed": 13,
+              "fill_pct": 78.3,
               "is_paused": false
             },
             {
@@ -2539,17 +2400,17 @@
             {
               "label": "P3M Lapsed | No",
               "target": 75,
-              "filled": 66,
-              "needed": 9,
-              "fill_pct": 88.0,
+              "filled": 69,
+              "needed": 6,
+              "fill_pct": 92.0,
               "is_paused": false
             },
             {
               "label": "P3M Lapsed | No",
               "target": 45,
-              "filled": 45,
+              "filled": 46,
               "needed": 0,
-              "fill_pct": 100.0,
+              "fill_pct": 102.2,
               "is_paused": false
             },
             {
@@ -2683,8 +2544,8 @@
     {
       "ref_name": "MIS-3c9b2 Bausch + Lomb - Rx",
       "target": 750,
-      "filled": 332,
-      "fill_pct": 44.3,
+      "filled": 340,
+      "fill_pct": 45.3,
       "ir": "17.4",
       "loi": "8.5",
       "launch_date": "2026-07-21 16:49:17",
@@ -2697,9 +2558,9 @@
             {
               "label": "Miebo User | 18 - 34",
               "target": 27,
-              "filled": 15,
-              "needed": 12,
-              "fill_pct": 55.6,
+              "filled": 16,
+              "needed": 11,
+              "fill_pct": 59.3,
               "is_paused": false
             },
             {
@@ -2737,9 +2598,9 @@
             {
               "label": "Comp User | 35 - 49",
               "target": 98,
-              "filled": 36,
-              "needed": 62,
-              "fill_pct": 36.7,
+              "filled": 38,
+              "needed": 60,
+              "fill_pct": 38.8,
               "is_paused": false
             },
             {
@@ -2761,17 +2622,17 @@
             {
               "label": "OTC User | 18 - 34",
               "target": 45,
-              "filled": 32,
-              "needed": 13,
-              "fill_pct": 71.1,
+              "filled": 34,
+              "needed": 11,
+              "fill_pct": 75.6,
               "is_paused": false
             },
             {
               "label": "OTC User | 35 - 49",
               "target": 98,
-              "filled": 68,
-              "needed": 30,
-              "fill_pct": 69.4,
+              "filled": 69,
+              "needed": 29,
+              "fill_pct": 70.4,
               "is_paused": false
             },
             {
@@ -2785,9 +2646,9 @@
             {
               "label": "OTC User | 65 - 99",
               "target": 68,
-              "filled": 65,
-              "needed": 3,
-              "fill_pct": 95.6,
+              "filled": 67,
+              "needed": 1,
+              "fill_pct": 98.5,
               "is_paused": false
             },
             {
@@ -3284,9 +3145,9 @@
     {
       "ref_name": "MIS-9d0c4 Scotts Miracle-Gro",
       "target": 1000,
-      "filled": 809,
-      "fill_pct": 80.9,
-      "ir": "99.6",
+      "filled": 848,
+      "fill_pct": 84.8,
+      "ir": "99.7",
       "loi": "3",
       "launch_date": "2026-07-22 14:36:50",
       "oof": "7/25/2026",
@@ -3296,9 +3157,9 @@
     {
       "ref_name": "MIS-051c2 Advantage Solutions",
       "target": 300,
-      "filled": 152,
-      "fill_pct": 50.7,
-      "ir": "57.4",
+      "filled": 210,
+      "fill_pct": 70.0,
+      "ir": "55.9",
       "loi": "1",
       "launch_date": "2026-07-22 15:52:38",
       "oof": "8/5/2026",

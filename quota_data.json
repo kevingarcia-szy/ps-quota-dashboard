@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T05:22:31",
+  "last_updated": "2026-07-23T05:48:41",
   "mission_count": 40,
   "missions": [
     {
@@ -1321,8 +1321,8 @@
     {
       "ref_name": "MIS-ae3b2 UTA - IQ",
       "target": 1000,
-      "filled": 798,
-      "fill_pct": 79.8,
+      "filled": 799,
+      "fill_pct": 79.9,
       "ir": "21.4",
       "loi": "2",
       "launch_date": "2026-07-21 16:10:00",
@@ -1359,9 +1359,9 @@
             {
               "label": "Female | 45 - 54",
               "target": 100,
-              "filled": 99,
-              "needed": 1,
-              "fill_pct": 99.0,
+              "filled": 100,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false
             },
             {
@@ -1399,9 +1399,9 @@
             {
               "label": "Male | 45 - 54",
               "target": 100,
-              "filled": 64,
-              "needed": 36,
-              "fill_pct": 64.0,
+              "filled": 65,
+              "needed": 35,
+              "fill_pct": 65.0,
               "is_paused": false
             },
             {
@@ -2377,7 +2377,7 @@
       "target": 750,
       "filled": 472,
       "fill_pct": 62.9,
-      "ir": "17.1",
+      "ir": "17",
       "loi": "8.5",
       "launch_date": "2026-07-21 16:49:17",
       "oof": "8/4/2026",
@@ -2988,9 +2988,9 @@
     {
       "ref_name": "MIS-8cfa5 Monin, Inc.",
       "target": 1000,
-      "filled": 606,
-      "fill_pct": 60.6,
-      "ir": "38.8",
+      "filled": 619,
+      "fill_pct": 61.9,
+      "ir": "39",
       "loi": "7",
       "launch_date": "2026-07-22 16:37:00",
       "oof": "8/5/2026",
@@ -3012,9 +3012,9 @@
     {
       "ref_name": "MIS-dac84 DSM",
       "target": 500,
-      "filled": 1,
-      "fill_pct": 0.2,
-      "ir": "14.3",
+      "filled": 2,
+      "fill_pct": 0.4,
+      "ir": "25",
       "loi": "4.5",
       "launch_date": "2026-07-22 18:47:56",
       "oof": "7/23/2026",
@@ -3036,13 +3036,13 @@
     {
       "ref_name": "MIS-54345 Tillamook",
       "target": 800,
-      "filled": 393,
-      "fill_pct": 49.1,
-      "ir": "50.1",
+      "filled": 403,
+      "fill_pct": 50.4,
+      "ir": "50.2",
       "loi": "15.5",
       "launch_date": "2026-07-22 18:56:03",
       "oof": "8/5/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Age",
@@ -3058,25 +3058,25 @@
             {
               "label": "25-34",
               "target": 184,
-              "filled": 54,
-              "needed": 130,
-              "fill_pct": 29.3,
+              "filled": 55,
+              "needed": 129,
+              "fill_pct": 29.9,
               "is_paused": false
             },
             {
               "label": "35-44",
               "target": 176,
-              "filled": 73,
-              "needed": 103,
-              "fill_pct": 41.5,
+              "filled": 77,
+              "needed": 99,
+              "fill_pct": 43.8,
               "is_paused": false
             },
             {
               "label": "45-54",
               "target": 168,
-              "filled": 110,
-              "needed": 58,
-              "fill_pct": 65.5,
+              "filled": 115,
+              "needed": 53,
+              "fill_pct": 68.5,
               "is_paused": false
             },
             {
@@ -3095,17 +3095,17 @@
             {
               "label": "Female",
               "target": 408,
-              "filled": 286,
-              "needed": 122,
-              "fill_pct": 70.1,
+              "filled": 292,
+              "needed": 116,
+              "fill_pct": 71.6,
               "is_paused": false
             },
             {
               "label": "Male",
               "target": 392,
-              "filled": 107,
-              "needed": 285,
-              "fill_pct": 27.3,
+              "filled": 111,
+              "needed": 281,
+              "fill_pct": 28.3,
               "is_paused": false
             }
           ]
@@ -3124,25 +3124,25 @@
             {
               "label": "Midwest",
               "target": 168,
-              "filled": 81,
-              "needed": 87,
-              "fill_pct": 48.2,
+              "filled": 82,
+              "needed": 86,
+              "fill_pct": 48.8,
               "is_paused": false
             },
             {
               "label": "South",
               "target": 304,
-              "filled": 170,
-              "needed": 134,
-              "fill_pct": 55.9,
+              "filled": 178,
+              "needed": 126,
+              "fill_pct": 58.6,
               "is_paused": false
             },
             {
               "label": "West",
               "target": 192,
-              "filled": 59,
-              "needed": 133,
-              "fill_pct": 30.7,
+              "filled": 60,
+              "needed": 132,
+              "fill_pct": 31.2,
               "is_paused": false
             }
           ]
@@ -3153,41 +3153,41 @@
             {
               "label": "Mavens",
               "target": 136,
-              "filled": 80,
-              "needed": 56,
-              "fill_pct": 58.8,
+              "filled": 81,
+              "needed": 55,
+              "fill_pct": 59.6,
               "is_paused": false
             },
             {
               "label": "Tastemakers",
               "target": 104,
-              "filled": 33,
-              "needed": 71,
-              "fill_pct": 31.7,
+              "filled": 35,
+              "needed": 69,
+              "fill_pct": 33.7,
               "is_paused": false
             },
             {
               "label": "Savorists",
               "target": 160,
-              "filled": 120,
-              "needed": 40,
-              "fill_pct": 75.0,
+              "filled": 124,
+              "needed": 36,
+              "fill_pct": 77.5,
               "is_paused": false
             },
             {
               "label": "Habituals",
               "target": 136,
-              "filled": 73,
-              "needed": 63,
-              "fill_pct": 53.7,
+              "filled": 75,
+              "needed": 61,
+              "fill_pct": 55.1,
               "is_paused": false
             },
             {
               "label": "Balancers",
               "target": 264,
-              "filled": 87,
-              "needed": 177,
-              "fill_pct": 33.0,
+              "filled": 88,
+              "needed": 176,
+              "fill_pct": 33.3,
               "is_paused": false
             },
             {
@@ -3205,9 +3205,9 @@
     {
       "ref_name": "MIS-ad8b0 Scotts Miracle-Gro",
       "target": 1000,
-      "filled": 88,
-      "fill_pct": 8.8,
-      "ir": "36.7",
+      "filled": 89,
+      "fill_pct": 8.9,
+      "ir": "36.9",
       "loi": "3",
       "launch_date": "2026-07-22 19:04:29",
       "oof": "7/25/2026",
@@ -3217,9 +3217,9 @@
     {
       "ref_name": "MIS-f6a3d Dentsu Creative",
       "target": 1000,
-      "filled": 7,
-      "fill_pct": 0.7,
-      "ir": "29.2",
+      "filled": 8,
+      "fill_pct": 0.8,
+      "ir": "32",
       "loi": "7",
       "launch_date": "2026-07-22 20:49:01",
       "oof": "7/28/2026",
@@ -3247,9 +3247,9 @@
             {
               "label": "Female | 46 - 61",
               "target": 100,
-              "filled": 0,
-              "needed": 100,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 99,
+              "fill_pct": 1.0,
               "is_paused": false
             },
             {
@@ -3283,8 +3283,8 @@
     {
       "ref_name": "MIS-751f9 AppleCare - Erick",
       "target": 500,
-      "filled": 348,
-      "fill_pct": 69.6,
+      "filled": 349,
+      "fill_pct": 69.8,
       "ir": "94.3",
       "loi": "4.5",
       "launch_date": "2026-07-22 22:30:19",
@@ -3305,9 +3305,9 @@
             {
               "label": "Male",
               "target": 250,
-              "filled": 96,
-              "needed": 154,
-              "fill_pct": 38.4,
+              "filled": 97,
+              "needed": 153,
+              "fill_pct": 38.8,
               "is_paused": false
             }
           ]

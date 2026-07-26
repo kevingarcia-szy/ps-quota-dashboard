@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T18:36:18",
-  "mission_count": 45,
+  "last_updated": "2026-07-25T19:04:01",
+  "mission_count": 44,
   "missions": [
     {
       "ref_name": "MIS-02501 Canidae",
@@ -784,8 +784,8 @@
     {
       "ref_name": "MIS-ad896 AlixPartners",
       "target": 1000,
-      "filled": 977,
-      "fill_pct": 97.7,
+      "filled": 978,
+      "fill_pct": 97.8,
       "ir": "63.3",
       "loi": "13.5",
       "launch_date": "2026-07-14 14:54:43",
@@ -806,9 +806,9 @@
             {
               "label": "21 - 24",
               "target": 70,
-              "filled": 76,
+              "filled": 77,
               "needed": 0,
-              "fill_pct": 108.6,
+              "fill_pct": 110.0,
               "is_paused": false
             },
             {
@@ -875,9 +875,9 @@
             {
               "label": "$35,000 - $44,999",
               "target": 120,
-              "filled": 65,
-              "needed": 55,
-              "fill_pct": 54.2,
+              "filled": 66,
+              "needed": 54,
+              "fill_pct": 55.0,
               "is_paused": false
             },
             {
@@ -1926,7 +1926,7 @@
       "target": 250,
       "filled": 98,
       "fill_pct": 39.2,
-      "ir": "15.3",
+      "ir": "15.2",
       "loi": "21",
       "launch_date": "2026-07-20 16:05:53",
       "oof": "8/3/2026",
@@ -1934,177 +1934,11 @@
       "quotas": []
     },
     {
-      "ref_name": "MIS-bb7b5 US Bank Payments Team",
-      "target": 650,
-      "filled": 642,
-      "fill_pct": 98.8,
-      "ir": "18.5",
-      "loi": "18",
-      "launch_date": "2026-07-20 19:44:47",
-      "oof": "8/6/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18 - 54",
-              "target": 325,
-              "filled": 333,
-              "needed": 0,
-              "fill_pct": 102.5,
-              "is_paused": false
-            },
-            {
-              "label": "55 - 99",
-              "target": 325,
-              "filled": 311,
-              "needed": 14,
-              "fill_pct": 95.7,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-b43d2 US Bank Payments Team",
-      "target": 200,
-      "filled": 177,
-      "fill_pct": 88.5,
-      "ir": "11.5",
-      "loi": "15",
-      "launch_date": "2026-07-24 13:33:56",
-      "oof": "8/7/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which of the following best represents your company's annual revenue last year?",
-          "cells": [
-            {
-              "label": "Less than $100,000",
-              "target": 70,
-              "filled": 46,
-              "needed": 24,
-              "fill_pct": 65.7,
-              "is_paused": false
-            },
-            {
-              "label": "$100,000 to less than $500,000",
-              "target": 80,
-              "filled": 80,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "$500,000 to less than $2.5 million",
-              "target": 20,
-              "filled": 21,
-              "needed": 0,
-              "fill_pct": 105.0,
-              "is_paused": false
-            },
-            {
-              "label": "$2.5 million to less than $10 million",
-              "target": 20,
-              "filled": 20,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "$10 million to less than $50 million",
-              "target": 10,
-              "filled": 10,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "More than $50 million",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-8aeda US Bank Payments Team",
-      "target": 600,
-      "filled": 439,
-      "fill_pct": 73.2,
-      "ir": "15",
-      "loi": "15.5",
-      "launch_date": "2026-07-24 13:39:45",
-      "oof": "8/7/2026",
-      "status": "watch",
-      "quotas": [
-        {
-          "group": "Which of the following best represents your company's annual revenue last year?",
-          "cells": [
-            {
-              "label": "Less than $100,000",
-              "target": 210,
-              "filled": 139,
-              "needed": 71,
-              "fill_pct": 66.2,
-              "is_paused": false
-            },
-            {
-              "label": "$100,000 to less than $500,000",
-              "target": 240,
-              "filled": 143,
-              "needed": 97,
-              "fill_pct": 59.6,
-              "is_paused": false
-            },
-            {
-              "label": "$500,000 to less than $2.5 million",
-              "target": 60,
-              "filled": 65,
-              "needed": 0,
-              "fill_pct": 108.3,
-              "is_paused": false
-            },
-            {
-              "label": "$2.5 million to less than $10 million",
-              "target": 60,
-              "filled": 61,
-              "needed": 0,
-              "fill_pct": 101.7,
-              "is_paused": false
-            },
-            {
-              "label": "$10 million to less than $50 million",
-              "target": 30,
-              "filled": 31,
-              "needed": 0,
-              "fill_pct": 103.3,
-              "is_paused": false
-            },
-            {
-              "label": "More than $50 million",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "https://app.suzy.com/brand/aacd76a3-a568-418a-89ca-b8939cca047d/insights/c05248b7-dbb4-469f-8cec-94dcb7bef31f",
       "target": 1500,
       "filled": 1137,
       "fill_pct": 75.8,
-      "ir": "39.8",
+      "ir": "39.7",
       "loi": "10.5",
       "launch_date": "2026-07-21 14:02:26",
       "oof": "8/4/2026",
@@ -2616,9 +2450,9 @@
     {
       "ref_name": "MIS-e0a28 Arc Worldwide",
       "target": 640,
-      "filled": 18,
-      "fill_pct": 2.8,
-      "ir": "4",
+      "filled": 19,
+      "fill_pct": 3.0,
+      "ir": "4.1",
       "loi": "21",
       "launch_date": "2026-07-22 14:33:22",
       "oof": "8/5/2026",
@@ -2630,9 +2464,9 @@
             {
               "label": "Female",
               "target": 192,
-              "filled": 10,
-              "needed": 182,
-              "fill_pct": 5.2,
+              "filled": 11,
+              "needed": 181,
+              "fill_pct": 5.7,
               "is_paused": false
             },
             {
@@ -2843,9 +2677,9 @@
             {
               "label": "Mississippi ",
               "target": 109,
-              "filled": 3,
-              "needed": 106,
-              "fill_pct": 2.8,
+              "filled": 4,
+              "needed": 105,
+              "fill_pct": 3.7,
               "is_paused": false
             },
             {
@@ -3073,7 +2907,7 @@
       "target": 800,
       "filled": 702,
       "fill_pct": 87.8,
-      "ir": "47",
+      "ir": "46.9",
       "loi": "15.5",
       "launch_date": "2026-07-22 18:56:03",
       "oof": "8/5/2026",
@@ -3577,7 +3411,7 @@
       "target": 1000,
       "filled": 688,
       "fill_pct": 68.8,
-      "ir": "42.8",
+      "ir": "42.6",
       "loi": "6.5",
       "launch_date": "2026-07-23 20:31:15",
       "oof": "7/29/2026",
@@ -3740,6 +3574,138 @@
       "quotas": []
     },
     {
+      "ref_name": "MIS-b43d2 US Bank Payments Team",
+      "target": 200,
+      "filled": 177,
+      "fill_pct": 88.5,
+      "ir": "11.5",
+      "loi": "15",
+      "launch_date": "2026-07-24 13:33:56",
+      "oof": "8/7/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Which of the following best represents your company's annual revenue last year?",
+          "cells": [
+            {
+              "label": "Less than $100,000",
+              "target": 70,
+              "filled": 46,
+              "needed": 24,
+              "fill_pct": 65.7,
+              "is_paused": false
+            },
+            {
+              "label": "$100,000 to less than $500,000",
+              "target": 80,
+              "filled": 80,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "$500,000 to less than $2.5 million",
+              "target": 20,
+              "filled": 21,
+              "needed": 0,
+              "fill_pct": 105.0,
+              "is_paused": false
+            },
+            {
+              "label": "$2.5 million to less than $10 million",
+              "target": 20,
+              "filled": 20,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "$10 million to less than $50 million",
+              "target": 10,
+              "filled": 10,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "More than $50 million",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-8aeda US Bank Payments Team",
+      "target": 600,
+      "filled": 444,
+      "fill_pct": 74.0,
+      "ir": "15",
+      "loi": "15.5",
+      "launch_date": "2026-07-24 13:39:45",
+      "oof": "8/7/2026",
+      "status": "watch",
+      "quotas": [
+        {
+          "group": "Which of the following best represents your company's annual revenue last year?",
+          "cells": [
+            {
+              "label": "Less than $100,000",
+              "target": 210,
+              "filled": 142,
+              "needed": 68,
+              "fill_pct": 67.6,
+              "is_paused": false
+            },
+            {
+              "label": "$100,000 to less than $500,000",
+              "target": 240,
+              "filled": 145,
+              "needed": 95,
+              "fill_pct": 60.4,
+              "is_paused": false
+            },
+            {
+              "label": "$500,000 to less than $2.5 million",
+              "target": 60,
+              "filled": 65,
+              "needed": 0,
+              "fill_pct": 108.3,
+              "is_paused": false
+            },
+            {
+              "label": "$2.5 million to less than $10 million",
+              "target": 60,
+              "filled": 61,
+              "needed": 0,
+              "fill_pct": 101.7,
+              "is_paused": false
+            },
+            {
+              "label": "$10 million to less than $50 million",
+              "target": 30,
+              "filled": 31,
+              "needed": 0,
+              "fill_pct": 103.3,
+              "is_paused": false
+            },
+            {
+              "label": "More than $50 million",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-d9ea3 DirecTV Consumer Insights",
       "target": 750,
       "filled": 706,
@@ -3805,9 +3771,9 @@
     {
       "ref_name": "MIS-dafeb Suja Juice",
       "target": 1000,
-      "filled": 586,
-      "fill_pct": 58.6,
-      "ir": "38",
+      "filled": 589,
+      "fill_pct": 58.9,
+      "ir": "37.9",
       "loi": "7.5",
       "launch_date": "2026-07-24 13:52:18",
       "oof": "8/7/2026",
@@ -3827,9 +3793,9 @@
             {
               "label": "Female | 25 - 34",
               "target": 150,
-              "filled": 70,
-              "needed": 80,
-              "fill_pct": 46.7,
+              "filled": 71,
+              "needed": 79,
+              "fill_pct": 47.3,
               "is_paused": false
             },
             {
@@ -3851,9 +3817,9 @@
             {
               "label": "Female | 55 - 65",
               "target": 170,
-              "filled": 113,
-              "needed": 57,
-              "fill_pct": 66.5,
+              "filled": 114,
+              "needed": 56,
+              "fill_pct": 67.1,
               "is_paused": false
             },
             {
@@ -3952,9 +3918,9 @@
             {
               "label": "$100,000 - $149,999",
               "target": 250,
-              "filled": 206,
-              "needed": 44,
-              "fill_pct": 82.4,
+              "filled": 208,
+              "needed": 42,
+              "fill_pct": 83.2,
               "is_paused": false
             },
             {
@@ -3981,9 +3947,9 @@
             {
               "label": "White",
               "target": 560,
-              "filled": 318,
-              "needed": 242,
-              "fill_pct": 56.8,
+              "filled": 319,
+              "needed": 241,
+              "fill_pct": 57.0,
               "is_paused": false
             },
             {
@@ -4021,9 +3987,9 @@
             {
               "label": "Hispanic (of Hispanic, Latino, or Spanish origin)",
               "target": 200,
-              "filled": 134,
-              "needed": 66,
-              "fill_pct": 67.0,
+              "filled": 135,
+              "needed": 65,
+              "fill_pct": 67.5,
               "is_paused": false
             },
             {
@@ -4189,7 +4155,7 @@
       "target": 1000,
       "filled": 52,
       "fill_pct": 5.2,
-      "ir": "16.7",
+      "ir": "16.6",
       "loi": "2.5",
       "launch_date": "2026-07-24 18:50:09",
       "oof": "8/7/2026",
@@ -4241,9 +4207,9 @@
     {
       "ref_name": "MIS-5dcd9 AT&T, Strategy",
       "target": 700,
-      "filled": 545,
-      "fill_pct": 77.9,
-      "ir": "25.6",
+      "filled": 558,
+      "fill_pct": 79.7,
+      "ir": "24.6",
       "loi": "10",
       "launch_date": "2026-07-24 20:47:20",
       "oof": "8/7/2026",
@@ -4263,9 +4229,9 @@
             {
               "label": "Neutral on all",
               "target": 280,
-              "filled": 199,
-              "needed": 81,
-              "fill_pct": 71.1,
+              "filled": 208,
+              "needed": 72,
+              "fill_pct": 74.3,
               "is_paused": false
             },
             {
@@ -4287,9 +4253,9 @@
             {
               "label": "Neutrall any",
               "target": 140,
-              "filled": 96,
-              "needed": 44,
-              "fill_pct": 68.6,
+              "filled": 100,
+              "needed": 40,
+              "fill_pct": 71.4,
               "is_paused": false
             },
             {
@@ -4324,33 +4290,33 @@
             {
               "label": "Accomplished & In Control",
               "target": 119,
-              "filled": 63,
-              "needed": 56,
-              "fill_pct": 52.9,
+              "filled": 65,
+              "needed": 54,
+              "fill_pct": 54.6,
               "is_paused": false
             },
             {
               "label": "Family-Oriented Enjoyment",
               "target": 119,
-              "filled": 50,
-              "needed": 69,
-              "fill_pct": 42.0,
+              "filled": 51,
+              "needed": 68,
+              "fill_pct": 42.9,
               "is_paused": false
             },
             {
               "label": "Individual Enjoyment",
               "target": 105,
-              "filled": 87,
-              "needed": 18,
-              "fill_pct": 82.9,
+              "filled": 94,
+              "needed": 11,
+              "fill_pct": 89.5,
               "is_paused": false
             },
             {
               "label": "Latest & Greatest Accomplished",
               "target": 119,
-              "filled": 31,
-              "needed": 88,
-              "fill_pct": 26.1,
+              "filled": 34,
+              "needed": 85,
+              "fill_pct": 28.6,
               "is_paused": false
             },
             {
@@ -4378,7 +4344,7 @@
       "target": 1000,
       "filled": 861,
       "fill_pct": 86.1,
-      "ir": "48.4",
+      "ir": "48.3",
       "loi": "25",
       "launch_date": "2026-07-24 21:23:31",
       "oof": "8/7/2026",

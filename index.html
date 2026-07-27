@@ -136,7 +136,19 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    cursor: text;
+    user-select: text;
   }
+  .mission-name:hover { color: var(--accent); }
+  .mission-name .copied-tip {
+    font-size: 10px;
+    font-weight: 400;
+    color: var(--green);
+    margin-left: 6px;
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .mission-name .copied-tip.show { opacity: 1; }
   .mission-meta {
     font-size: 12px;
     color: var(--text-secondary);
@@ -399,7 +411,7 @@
           <div class="mission-header" onclick="toggleCard(this)">
             <svg class="arrow" viewBox="0 0 20 20" fill="currentColor"><path d="M7.3 4.3a1 1 0 011.4 0l5 5a1 1 0 010 1.4l-5 5a1 1 0 01-1.4-1.4L11.6 10 7.3 5.7a1 1 0 010-1.4z"/></svg>
             <div class="mission-info">
-              <div class="mission-name">${escapeHTML(m.ref_name)}</div>
+              <div class="mission-name" onclick="copyName(event, this)">${escapeHTML(m.ref_name)}<span class="copied-tip">Copied!</span></div>
               <div class="mission-meta">
                 <span>IR: ${m.ir || '—'}%</span>
                 <span>LOI: ${m.loi || '—'}m</span>
@@ -416,6 +428,17 @@
           <div class="quota-detail">${colHeaders}${quotaHTML}</div>
         </div>`;
     }).join('');
+  }
+
+  // copy mission name to clipboard without toggling the card
+  function copyName(e, el) {
+    e.stopPropagation();  // don't expand/collapse the card
+    const name = el.textContent.replace('Copied!', '').trim();
+    navigator.clipboard.writeText(name).then(() => {
+      const tip = el.querySelector('.copied-tip');
+      tip.classList.add('show');
+      setTimeout(() => tip.classList.remove('show'), 1500);
+    });
   }
 
   // toggle card expand/collapse

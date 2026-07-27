@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T04:56:55",
-  "mission_count": 39,
+  "last_updated": "2026-07-27T05:24:17",
+  "mission_count": 40,
   "missions": [
     {
       "ref_name": "MIS-02501 Canidae",
@@ -2876,6 +2876,154 @@
       ]
     },
     {
+      "ref_name": "MIS-d4d41 Perrigo",
+      "target": 500,
+      "filled": 257,
+      "fill_pct": 51.4,
+      "ir": "25.1",
+      "loi": "6",
+      "launch_date": "2026-07-23 13:49:43",
+      "oof": "7/26/2026",
+      "status": "watch",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "13-17",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            },
+            {
+              "label": "18-24",
+              "target": 125,
+              "filled": 21,
+              "needed": 104,
+              "fill_pct": 16.8,
+              "is_paused": false
+            },
+            {
+              "label": "25-34",
+              "target": 125,
+              "filled": 48,
+              "needed": 77,
+              "fill_pct": 38.4,
+              "is_paused": false
+            },
+            {
+              "label": "35-49",
+              "target": 125,
+              "filled": 98,
+              "needed": 27,
+              "fill_pct": 78.4,
+              "is_paused": false
+            },
+            {
+              "label": "50-64",
+              "target": 125,
+              "filled": 90,
+              "needed": 35,
+              "fill_pct": 72.0,
+              "is_paused": false
+            },
+            {
+              "label": "65+",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 155,
+              "needed": 95,
+              "fill_pct": 62.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 102,
+              "needed": 148,
+              "fill_pct": 40.8,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Which toothbrush brand do you use?",
+          "cells": [
+            {
+              "label": "Colgate",
+              "target": 75,
+              "filled": 100,
+              "needed": 0,
+              "fill_pct": 133.3,
+              "is_paused": false
+            },
+            {
+              "label": "Oral B",
+              "target": 75,
+              "filled": 90,
+              "needed": 0,
+              "fill_pct": 120.0,
+              "is_paused": false
+            },
+            {
+              "label": "GUM (Sunstar)",
+              "target": 15,
+              "filled": 0,
+              "needed": 15,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Guru Nanda",
+              "target": 15,
+              "filled": 10,
+              "needed": 5,
+              "fill_pct": 66.7,
+              "is_paused": false
+            },
+            {
+              "label": "Store Brands (i.e., Equate, CVS Health, etc.)",
+              "target": 55,
+              "filled": 25,
+              "needed": 30,
+              "fill_pct": 45.5,
+              "is_paused": false
+            },
+            {
+              "label": "REACH",
+              "target": 250,
+              "filled": 26,
+              "needed": 224,
+              "fill_pct": 10.4,
+              "is_paused": false
+            },
+            {
+              "label": "Other",
+              "target": 15,
+              "filled": 6,
+              "needed": 9,
+              "fill_pct": 40.0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-50b32 Kenvue US CBI Self Care",
       "target": 1000,
       "filled": 713,
@@ -3622,9 +3770,9 @@
     {
       "ref_name": "MIS-1b198 Synchrony Financial",
       "target": 420,
-      "filled": 147,
-      "fill_pct": 35.0,
-      "ir": "63.4",
+      "filled": 148,
+      "fill_pct": 35.2,
+      "ir": "63.2",
       "loi": "10",
       "launch_date": "2026-07-24 19:52:06",
       "oof": "8/13/2026",
@@ -3636,9 +3784,9 @@
             {
               "label": "Married or Living with a partner",
               "target": 315,
-              "filled": 133,
-              "needed": 182,
-              "fill_pct": 42.2,
+              "filled": 134,
+              "needed": 181,
+              "fill_pct": 42.5,
               "is_paused": false
             },
             {

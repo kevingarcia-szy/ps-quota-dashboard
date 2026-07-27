@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T09:32:17",
-  "mission_count": 37,
+  "last_updated": "2026-07-27T10:00:00",
+  "mission_count": 41,
   "missions": [
     {
       "ref_name": "MIS-02501 Canidae",
       "target": 1000,
-      "filled": 114,
-      "fill_pct": 11.4,
+      "filled": 115,
+      "fill_pct": 11.5,
       "ir": "2.9",
       "loi": "4",
       "launch_date": "2026-07-13 15:59:48",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-9d8b0 Canidae",
       "target": 1000,
-      "filled": 833,
-      "fill_pct": 83.3,
+      "filled": 834,
+      "fill_pct": 83.4,
       "ir": "12.2",
       "loi": "3.5",
       "launch_date": "2026-07-13 16:24:15",
@@ -482,9 +482,9 @@
     {
       "ref_name": "MIS-eb8cb AlixPartners",
       "target": 1000,
-      "filled": 1002,
-      "fill_pct": 100.2,
-      "ir": "85.2",
+      "filled": 950,
+      "fill_pct": 95.0,
+      "ir": "84.5",
       "loi": "14",
       "launch_date": "2026-07-14 14:49:50",
       "oof": "8/3/2026",
@@ -496,9 +496,9 @@
             {
               "label": "18 - 21",
               "target": 50,
-              "filled": 50,
-              "needed": 0,
-              "fill_pct": 100.0,
+              "filled": 48,
+              "needed": 2,
+              "fill_pct": 96.0,
               "is_paused": false
             },
             {
@@ -512,41 +512,41 @@
             {
               "label": "25 - 34",
               "target": 150,
-              "filled": 152,
-              "needed": 0,
-              "fill_pct": 101.3,
+              "filled": 142,
+              "needed": 8,
+              "fill_pct": 94.7,
               "is_paused": false
             },
             {
               "label": "35 - 44",
               "target": 170,
-              "filled": 173,
-              "needed": 0,
-              "fill_pct": 101.8,
+              "filled": 159,
+              "needed": 11,
+              "fill_pct": 93.5,
               "is_paused": false
             },
             {
               "label": "45 - 54",
               "target": 160,
-              "filled": 160,
-              "needed": 0,
-              "fill_pct": 100.0,
+              "filled": 142,
+              "needed": 18,
+              "fill_pct": 88.8,
               "is_paused": false
             },
             {
               "label": "55 - 64",
               "target": 160,
-              "filled": 162,
-              "needed": 0,
-              "fill_pct": 101.2,
+              "filled": 157,
+              "needed": 3,
+              "fill_pct": 98.1,
               "is_paused": false
             },
             {
               "label": "65 - 99",
               "target": 260,
-              "filled": 260,
-              "needed": 0,
-              "fill_pct": 100.0,
+              "filled": 257,
+              "needed": 3,
+              "fill_pct": 98.8,
               "is_paused": false
             }
           ]
@@ -605,9 +605,311 @@
             {
               "label": "$100,000 - $149,999",
               "target": 300,
-              "filled": 330,
+              "filled": 278,
+              "needed": 22,
+              "fill_pct": 92.7,
+              "is_paused": true
+            },
+            {
+              "label": "$150,000 or more",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "I prefer not to answer",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-ebca1 AlixPartners",
+      "target": 1000,
+      "filled": 950,
+      "fill_pct": 95.0,
+      "ir": "54.3",
+      "loi": "13.5",
+      "launch_date": "2026-07-14 14:51:39",
+      "oof": "8/3/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "18 - 20",
+              "target": 50,
+              "filled": 31,
+              "needed": 19,
+              "fill_pct": 62.0,
+              "is_paused": false
+            },
+            {
+              "label": "21 - 24",
+              "target": 50,
+              "filled": 46,
+              "needed": 4,
+              "fill_pct": 92.0,
+              "is_paused": false
+            },
+            {
+              "label": "25 - 34",
+              "target": 150,
+              "filled": 155,
+              "needed": 0,
+              "fill_pct": 103.3,
+              "is_paused": false
+            },
+            {
+              "label": "35 - 44",
+              "target": 160,
+              "filled": 156,
+              "needed": 4,
+              "fill_pct": 97.5,
+              "is_paused": false
+            },
+            {
+              "label": "45 - 54",
+              "target": 150,
+              "filled": 143,
+              "needed": 7,
+              "fill_pct": 95.3,
+              "is_paused": false
+            },
+            {
+              "label": "55 - 64",
+              "target": 160,
+              "filled": 147,
+              "needed": 13,
+              "fill_pct": 91.9,
+              "is_paused": false
+            },
+            {
+              "label": "65 - 99",
+              "target": 280,
+              "filled": 272,
+              "needed": 8,
+              "fill_pct": 97.1,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Income Level",
+          "cells": [
+            {
+              "label": "Under $25,000",
+              "target": 90,
+              "filled": 93,
+              "needed": 0,
+              "fill_pct": 103.3,
+              "is_paused": true
+            },
+            {
+              "label": "$25,000 - $34,999",
+              "target": 120,
+              "filled": 132,
               "needed": 0,
               "fill_pct": 110.0,
+              "is_paused": true
+            },
+            {
+              "label": "$35,000 - $44,999",
+              "target": 130,
+              "filled": 126,
+              "needed": 4,
+              "fill_pct": 96.9,
+              "is_paused": true
+            },
+            {
+              "label": "$45,000 - $59,999",
+              "target": 120,
+              "filled": 142,
+              "needed": 0,
+              "fill_pct": 118.3,
+              "is_paused": true
+            },
+            {
+              "label": "$60,000 - $74,999",
+              "target": 110,
+              "filled": 116,
+              "needed": 0,
+              "fill_pct": 105.5,
+              "is_paused": true
+            },
+            {
+              "label": "$75,000 - $99,999",
+              "target": 90,
+              "filled": 97,
+              "needed": 0,
+              "fill_pct": 107.8,
+              "is_paused": true
+            },
+            {
+              "label": "$100,000 - $149,999",
+              "target": 290,
+              "filled": 244,
+              "needed": 46,
+              "fill_pct": 84.1,
+              "is_paused": true
+            },
+            {
+              "label": "$150,000 or more",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "I prefer not to answer",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-a8ba8 AlixPartners",
+      "target": 1000,
+      "filled": 1004,
+      "fill_pct": 100.4,
+      "ir": "59.1",
+      "loi": "12.5",
+      "launch_date": "2026-07-14 14:52:32",
+      "oof": "8/3/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "18 - 20",
+              "target": 70,
+              "filled": 57,
+              "needed": 13,
+              "fill_pct": 81.4,
+              "is_paused": false
+            },
+            {
+              "label": "21 - 24",
+              "target": 70,
+              "filled": 80,
+              "needed": 0,
+              "fill_pct": 114.3,
+              "is_paused": false
+            },
+            {
+              "label": "25 - 34",
+              "target": 300,
+              "filled": 313,
+              "needed": 0,
+              "fill_pct": 104.3,
+              "is_paused": false
+            },
+            {
+              "label": "35 - 44",
+              "target": 190,
+              "filled": 211,
+              "needed": 0,
+              "fill_pct": 111.1,
+              "is_paused": false
+            },
+            {
+              "label": "45 - 54",
+              "target": 170,
+              "filled": 180,
+              "needed": 0,
+              "fill_pct": 105.9,
+              "is_paused": false
+            },
+            {
+              "label": "55 - 64",
+              "target": 140,
+              "filled": 106,
+              "needed": 34,
+              "fill_pct": 75.7,
+              "is_paused": false
+            },
+            {
+              "label": "65 - 99",
+              "target": 60,
+              "filled": 57,
+              "needed": 3,
+              "fill_pct": 95.0,
+              "is_paused": false
+            }
+          ]
+        },
+        {
+          "group": "Income Level",
+          "cells": [
+            {
+              "label": "Under $25,000",
+              "target": 70,
+              "filled": 80,
+              "needed": 0,
+              "fill_pct": 114.3,
+              "is_paused": true
+            },
+            {
+              "label": "$25,000 - $34,999",
+              "target": 90,
+              "filled": 100,
+              "needed": 0,
+              "fill_pct": 111.1,
+              "is_paused": true
+            },
+            {
+              "label": "$35,000 - $44,999",
+              "target": 120,
+              "filled": 74,
+              "needed": 46,
+              "fill_pct": 61.7,
+              "is_paused": true
+            },
+            {
+              "label": "$45,000 - $59,999",
+              "target": 120,
+              "filled": 130,
+              "needed": 0,
+              "fill_pct": 108.3,
+              "is_paused": true
+            },
+            {
+              "label": "$60,000 - $74,999",
+              "target": 120,
+              "filled": 116,
+              "needed": 4,
+              "fill_pct": 96.7,
+              "is_paused": true
+            },
+            {
+              "label": "$75,000 - $99,999",
+              "target": 100,
+              "filled": 113,
+              "needed": 0,
+              "fill_pct": 113.0,
+              "is_paused": true
+            },
+            {
+              "label": "$100,000 - $149,999",
+              "target": 330,
+              "filled": 391,
+              "needed": 0,
+              "fill_pct": 118.5,
               "is_paused": true
             },
             {
@@ -786,7 +1088,7 @@
       "target": 1000,
       "filled": 993,
       "fill_pct": 99.3,
-      "ir": "63",
+      "ir": "62.9",
       "loi": "13.5",
       "launch_date": "2026-07-14 14:54:43",
       "oof": "8/3/2026",
@@ -1380,7 +1682,7 @@
       "target": 1000,
       "filled": 899,
       "fill_pct": 89.9,
-      "ir": "14.9",
+      "ir": "14.8",
       "loi": "4",
       "launch_date": "2026-07-20 14:07:23",
       "oof": "7/30/2026",
@@ -1499,7 +1801,7 @@
       "target": 1000,
       "filled": 864,
       "fill_pct": 86.4,
-      "ir": "31.8",
+      "ir": "31.7",
       "loi": "4",
       "launch_date": "2026-07-20 14:11:02",
       "oof": "7/30/2026",
@@ -1630,12 +1932,178 @@
       "target": 250,
       "filled": 186,
       "fill_pct": 74.4,
-      "ir": "16.6",
+      "ir": "16.5",
       "loi": "21",
       "launch_date": "2026-07-20 16:05:53",
       "oof": "8/3/2026",
       "status": "watch",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-bb7b5 US Bank Payments Team",
+      "target": 650,
+      "filled": 602,
+      "fill_pct": 92.6,
+      "ir": "17.3",
+      "loi": "18",
+      "launch_date": "2026-07-20 19:44:47",
+      "oof": "8/6/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "18 - 54",
+              "target": 325,
+              "filled": 314,
+              "needed": 11,
+              "fill_pct": 96.6,
+              "is_paused": false
+            },
+            {
+              "label": "55 - 99",
+              "target": 325,
+              "filled": 288,
+              "needed": 37,
+              "fill_pct": 88.6,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-b43d2 US Bank Payments Team",
+      "target": 200,
+      "filled": 197,
+      "fill_pct": 98.5,
+      "ir": "9.9",
+      "loi": "15",
+      "launch_date": "2026-07-24 13:33:56",
+      "oof": "8/7/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Which of the following best represents your company's annual revenue last year?",
+          "cells": [
+            {
+              "label": "Less than $100,000",
+              "target": 70,
+              "filled": 66,
+              "needed": 4,
+              "fill_pct": 94.3,
+              "is_paused": false
+            },
+            {
+              "label": "$100,000 to less than $500,000",
+              "target": 80,
+              "filled": 80,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "$500,000 to less than $2.5 million",
+              "target": 20,
+              "filled": 21,
+              "needed": 0,
+              "fill_pct": 105.0,
+              "is_paused": false
+            },
+            {
+              "label": "$2.5 million to less than $10 million",
+              "target": 20,
+              "filled": 20,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "$10 million to less than $50 million",
+              "target": 10,
+              "filled": 10,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false
+            },
+            {
+              "label": "More than $50 million",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-8aeda US Bank Payments Team",
+      "target": 600,
+      "filled": 604,
+      "fill_pct": 100.7,
+      "ir": "14.8",
+      "loi": "15.5",
+      "launch_date": "2026-07-24 13:39:45",
+      "oof": "8/7/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Which of the following best represents your company's annual revenue last year?",
+          "cells": [
+            {
+              "label": "Less than $100,000",
+              "target": 210,
+              "filled": 206,
+              "needed": 4,
+              "fill_pct": 98.1,
+              "is_paused": false
+            },
+            {
+              "label": "$100,000 to less than $500,000",
+              "target": 240,
+              "filled": 241,
+              "needed": 0,
+              "fill_pct": 100.4,
+              "is_paused": false
+            },
+            {
+              "label": "$500,000 to less than $2.5 million",
+              "target": 60,
+              "filled": 65,
+              "needed": 0,
+              "fill_pct": 108.3,
+              "is_paused": false
+            },
+            {
+              "label": "$2.5 million to less than $10 million",
+              "target": 60,
+              "filled": 61,
+              "needed": 0,
+              "fill_pct": 101.7,
+              "is_paused": false
+            },
+            {
+              "label": "$10 million to less than $50 million",
+              "target": 30,
+              "filled": 31,
+              "needed": 0,
+              "fill_pct": 103.3,
+              "is_paused": false
+            },
+            {
+              "label": "More than $50 million",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
     },
     {
       "ref_name": "MIS-6ae4d ALDI - Customer Insights & Analytics",
@@ -1914,9 +2382,9 @@
     {
       "ref_name": "MIS-31a70 Google SCG Marketing (VOE)",
       "target": 100,
-      "filled": 84,
-      "fill_pct": 84.0,
-      "ir": "5.9",
+      "filled": 85,
+      "fill_pct": 85.0,
+      "ir": "6",
       "loi": "6.5",
       "launch_date": "2026-07-21 14:49:26",
       "oof": "8/4/2026",
@@ -1928,7 +2396,7 @@
       "target": 640,
       "filled": 37,
       "fill_pct": 5.8,
-      "ir": "4.8",
+      "ir": "4.7",
       "loi": "21",
       "launch_date": "2026-07-22 14:33:22",
       "oof": "8/5/2026",
@@ -2381,9 +2849,9 @@
     {
       "ref_name": "MIS-dac84 DSM",
       "target": 500,
-      "filled": 243,
-      "fill_pct": 48.6,
-      "ir": "26.4",
+      "filled": 244,
+      "fill_pct": 48.8,
+      "ir": "26.5",
       "loi": "4.5",
       "launch_date": "2026-07-22 18:47:56",
       "oof": "8/16/2026",
@@ -2395,7 +2863,7 @@
       "target": 800,
       "filled": 740,
       "fill_pct": 92.5,
-      "ir": "42.6",
+      "ir": "42.5",
       "loi": "15.5",
       "launch_date": "2026-07-22 18:56:03",
       "oof": "8/5/2026",
@@ -2863,138 +3331,6 @@
       "quotas": []
     },
     {
-      "ref_name": "MIS-b43d2 US Bank Payments Team",
-      "target": 200,
-      "filled": 197,
-      "fill_pct": 98.5,
-      "ir": "9.9",
-      "loi": "15",
-      "launch_date": "2026-07-24 13:33:56",
-      "oof": "8/7/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which of the following best represents your company's annual revenue last year?",
-          "cells": [
-            {
-              "label": "Less than $100,000",
-              "target": 70,
-              "filled": 66,
-              "needed": 4,
-              "fill_pct": 94.3,
-              "is_paused": false
-            },
-            {
-              "label": "$100,000 to less than $500,000",
-              "target": 80,
-              "filled": 80,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "$500,000 to less than $2.5 million",
-              "target": 20,
-              "filled": 21,
-              "needed": 0,
-              "fill_pct": 105.0,
-              "is_paused": false
-            },
-            {
-              "label": "$2.5 million to less than $10 million",
-              "target": 20,
-              "filled": 20,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "$10 million to less than $50 million",
-              "target": 10,
-              "filled": 10,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false
-            },
-            {
-              "label": "More than $50 million",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-8aeda US Bank Payments Team",
-      "target": 600,
-      "filled": 604,
-      "fill_pct": 100.7,
-      "ir": "14.8",
-      "loi": "15.5",
-      "launch_date": "2026-07-24 13:39:45",
-      "oof": "8/7/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which of the following best represents your company's annual revenue last year?",
-          "cells": [
-            {
-              "label": "Less than $100,000",
-              "target": 210,
-              "filled": 206,
-              "needed": 4,
-              "fill_pct": 98.1,
-              "is_paused": false
-            },
-            {
-              "label": "$100,000 to less than $500,000",
-              "target": 240,
-              "filled": 241,
-              "needed": 0,
-              "fill_pct": 100.4,
-              "is_paused": false
-            },
-            {
-              "label": "$500,000 to less than $2.5 million",
-              "target": 60,
-              "filled": 65,
-              "needed": 0,
-              "fill_pct": 108.3,
-              "is_paused": false
-            },
-            {
-              "label": "$2.5 million to less than $10 million",
-              "target": 60,
-              "filled": 61,
-              "needed": 0,
-              "fill_pct": 101.7,
-              "is_paused": false
-            },
-            {
-              "label": "$10 million to less than $50 million",
-              "target": 30,
-              "filled": 31,
-              "needed": 0,
-              "fill_pct": 103.3,
-              "is_paused": false
-            },
-            {
-              "label": "More than $50 million",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-d9ea3 DirecTV Consumer Insights",
       "target": 750,
       "filled": 749,
@@ -3062,7 +3398,7 @@
       "target": 1000,
       "filled": 108,
       "fill_pct": 10.8,
-      "ir": "12.7",
+      "ir": "12.6",
       "loi": "19",
       "launch_date": "2026-07-24 18:07:06",
       "oof": "8/13/2026",
@@ -3133,7 +3469,7 @@
       "target": 1000,
       "filled": 136,
       "fill_pct": 13.6,
-      "ir": "14.4",
+      "ir": "14.3",
       "loi": "2.5",
       "launch_date": "2026-07-24 18:50:09",
       "oof": "8/7/2026",
@@ -3143,9 +3479,9 @@
     {
       "ref_name": "MIS-1b198 Synchrony Financial",
       "target": 420,
-      "filled": 181,
-      "fill_pct": 43.1,
-      "ir": "64.2",
+      "filled": 184,
+      "fill_pct": 43.8,
+      "ir": "64.3",
       "loi": "10",
       "launch_date": "2026-07-24 19:52:06",
       "oof": "8/13/2026",
@@ -3157,17 +3493,17 @@
             {
               "label": "Married or Living with a partner",
               "target": 315,
-              "filled": 161,
-              "needed": 154,
-              "fill_pct": 51.1,
+              "filled": 162,
+              "needed": 153,
+              "fill_pct": 51.4,
               "is_paused": false
             },
             {
               "label": "Not Married/Living with Partner",
               "target": 105,
-              "filled": 20,
-              "needed": 85,
-              "fill_pct": 19.0,
+              "filled": 22,
+              "needed": 83,
+              "fill_pct": 21.0,
               "is_paused": false
             },
             {
@@ -3187,7 +3523,7 @@
       "target": 700,
       "filled": 681,
       "fill_pct": 97.3,
-      "ir": "15.2",
+      "ir": "15.1",
       "loi": "10",
       "launch_date": "2026-07-24 20:47:20",
       "oof": "8/7/2026",
@@ -3694,6 +4030,104 @@
               "target": 20,
               "filled": 0,
               "needed": 20,
+              "fill_pct": 0.0,
+              "is_paused": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-31782 Sensient Technologies",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-07-27 16:27:58",
+      "oof": "7/29/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender x Age",
+          "cells": [
+            {
+              "label": "Female | 18-24",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 25-34",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 35-44",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 45-54",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Female | 55-99",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 18-24",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 25-34",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 35-44",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 45-54",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false
+            },
+            {
+              "label": "Male | 55-99",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
               "fill_pct": 0.0,
               "is_paused": false
             }

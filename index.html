@@ -379,12 +379,36 @@
             const clr = colorClass(pct);
             const pausedClass = cell.is_paused ? ' paused' : '';
             const pausedTag = cell.is_paused ? ' <span style="color:var(--text-muted);font-size:10px;">(PAUSED)</span>' : '';
+
+            // For range quotas, show "60-90" in target and smarter needed display
+            let targetDisplay, neededDisplay, neededClass;
+            if (cell.is_range) {
+              targetDisplay = cell.min_target + '-' + cell.max_target;
+              if (cell.needed_to_min > 0) {
+                // hasn't hit the floor yet — show needed to min in red/yellow
+                neededDisplay = cell.needed_to_min;
+                neededClass = colorClass(pct);
+              } else if (cell.open_to_max > 0) {
+                // hit the floor but cell is still open — show remaining capacity
+                neededDisplay = '✓ ' + cell.open_to_max + ' open';
+                neededClass = 'green';
+              } else {
+                // at or above max
+                neededDisplay = '—';
+                neededClass = '';
+              }
+            } else {
+              targetDisplay = cell.target;
+              neededDisplay = cell.needed > 0 ? cell.needed : '—';
+              neededClass = cell.needed > 0 ? clr : '';
+            }
+
             quotaHTML += `
               <div class="quota-row">
                 <div class="label${pausedClass}">${escapeHTML(cell.label)}${pausedTag}</div>
-                <div class="num">${cell.target}</div>
+                <div class="num">${targetDisplay}</div>
                 <div class="num">${cell.filled}</div>
-                <div class="num needed ${cell.needed > 0 ? clr : ''}">${cell.needed > 0 ? cell.needed : '—'}</div>
+                <div class="num needed ${neededClass}">${neededDisplay}</div>
                 <div class="fill-wrap">
                   <div class="mini-bar"><div class="mini-fill" style="width:${Math.min(pct, 100)}%;background:${barColor(pct)}"></div></div>
                   <div class="fill-pct">${pct}%</div>

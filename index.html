@@ -486,8 +486,24 @@
     return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  // load on page open
+  // load on page open, then auto-refresh every 5 minutes
+  // preserves which cards are expanded so PS doesn't lose their place
   loadData();
+  setInterval(() => {
+    // remember which cards are currently expanded before re-rendering
+    const openCards = new Set();
+    document.querySelectorAll('.mission-card.open').forEach(card => {
+      openCards.add(card.getAttribute('data-idx'));
+    });
+
+    loadData().then(() => {
+      // re-expand any cards that were open before the refresh
+      openCards.forEach(idx => {
+        const card = document.querySelector(`.mission-card[data-idx="${idx}"]`);
+        if (card) card.classList.add('open');
+      });
+    });
+  }, 5 * 60 * 1000);  // 5 minutes in milliseconds
 </script>
 </body>
 </html>

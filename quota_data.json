@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T19:10:17",
+  "last_updated": "2026-08-01T19:37:02",
   "mission_count": 46,
   "missions": [
     {
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-9d8b0 Canidae",
       "target": 1000,
-      "filled": 908,
-      "fill_pct": 90.8,
+      "filled": 909,
+      "fill_pct": 90.9,
       "ir": "11.3",
       "loi": "3.5",
       "launch_date": "2026-07-13 16:24:15",
@@ -217,9 +217,9 @@
     {
       "ref_name": "MIS-65585 L'Oreal LDB",
       "target": 500,
-      "filled": 242,
-      "fill_pct": 48.4,
-      "ir": "17.8",
+      "filled": 244,
+      "fill_pct": 48.8,
+      "ir": "17.6",
       "loi": "3.5",
       "launch_date": "2026-07-31 18:24:57",
       "oof": "8/14/2026",
@@ -1706,7 +1706,7 @@
       "target": 1000,
       "filled": 957,
       "fill_pct": 95.7,
-      "ir": "40",
+      "ir": "39.9",
       "loi": "5",
       "launch_date": "2026-07-31 14:25:30",
       "oof": "8/5/2026",
@@ -1864,9 +1864,9 @@
     {
       "ref_name": "MIS-20713 Kenvue US CBI Self Care",
       "target": 700,
-      "filled": 553,
-      "fill_pct": 79.0,
-      "ir": "14",
+      "filled": 555,
+      "fill_pct": 79.3,
+      "ir": "13.8",
       "loi": "10.5",
       "launch_date": "2026-07-31 17:08:15",
       "oof": "8/2/2026",
@@ -1891,6 +1891,19 @@
             {
               "label": "Amazon",
               "target": 140,
+              "filled": 119,
+              "needed": 21,
+              "fill_pct": 85.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 21,
+              "open_to_max": 21
+            },
+            {
+              "label": "Grocery Store ",
+              "target": 140,
               "filled": 118,
               "needed": 22,
               "fill_pct": 84.3,
@@ -1900,19 +1913,6 @@
               "max_target": 0,
               "needed_to_min": 22,
               "open_to_max": 22
-            },
-            {
-              "label": "Grocery Store ",
-              "target": 140,
-              "filled": 117,
-              "needed": 23,
-              "fill_pct": 83.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 23,
-              "open_to_max": 23
             },
             {
               "label": "Club Store (e.g. Costco)",
@@ -1975,7 +1975,7 @@
       "target": 700,
       "filled": 269,
       "fill_pct": 38.4,
-      "ir": "34.6",
+      "ir": "34.4",
       "loi": "10.5",
       "launch_date": "2026-07-31 18:33:02",
       "oof": "8/3/2026",
@@ -2566,8 +2566,8 @@
     {
       "ref_name": "MIS-07274 Symrise - Flavor Division",
       "target": 1000,
-      "filled": 927,
-      "fill_pct": 92.7,
+      "filled": 930,
+      "fill_pct": 93.0,
       "ir": "44",
       "loi": "20",
       "launch_date": "2026-07-29 3:34:34",
@@ -2593,15 +2593,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 430,
-              "needed": 70,
-              "fill_pct": 86.0,
+              "filled": 433,
+              "needed": 67,
+              "fill_pct": 86.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 70,
-              "open_to_max": 70
+              "needed_to_min": 67,
+              "open_to_max": 67
             }
           ]
         },
@@ -2637,28 +2637,28 @@
             {
               "label": "46-61",
               "target": 250,
-              "filled": 229,
-              "needed": 21,
-              "fill_pct": 91.6,
+              "filled": 230,
+              "needed": 20,
+              "fill_pct": 92.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 21,
-              "open_to_max": 21
+              "needed_to_min": 20,
+              "open_to_max": 20
             },
             {
               "label": "62+",
               "target": 250,
-              "filled": 248,
-              "needed": 2,
-              "fill_pct": 99.2,
+              "filled": 250,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         },
@@ -2707,15 +2707,15 @@
             {
               "label": "Asian",
               "target": 250,
-              "filled": 164,
-              "needed": 86,
-              "fill_pct": 65.6,
+              "filled": 167,
+              "needed": 83,
+              "fill_pct": 66.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 86,
-              "open_to_max": 86
+              "needed_to_min": 83,
+              "open_to_max": 83
             },
             {
               "label": "Other",
@@ -3766,9 +3766,9 @@
     {
       "ref_name": "MIS-971c9 Arc Worldwide",
       "target": 640,
-      "filled": 147,
-      "fill_pct": 23.0,
-      "ir": "15.1",
+      "filled": 148,
+      "fill_pct": 23.1,
+      "ir": "14.9",
       "loi": "21",
       "launch_date": "2026-07-30 20:01:52",
       "oof": "8/13/2026",
@@ -3780,15 +3780,15 @@
             {
               "label": "Female",
               "target": 192,
-              "filled": 69,
-              "needed": 123,
-              "fill_pct": 35.9,
+              "filled": 70,
+              "needed": 122,
+              "fill_pct": 36.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 123,
-              "open_to_max": 123
+              "needed_to_min": 122,
+              "open_to_max": 122
             },
             {
               "label": "Male",
@@ -3980,15 +3980,15 @@
             {
               "label": "Illinois",
               "target": 103,
-              "filled": 26,
-              "needed": 77,
-              "fill_pct": 25.2,
+              "filled": 27,
+              "needed": 76,
+              "fill_pct": 26.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 77,
-              "open_to_max": 77
+              "needed_to_min": 76,
+              "open_to_max": 76
             },
             {
               "label": "Indiana",
@@ -4615,7 +4615,7 @@
       "target": 500,
       "filled": 1,
       "fill_pct": 0.2,
-      "ir": "3.1",
+      "ir": "3",
       "loi": "7",
       "launch_date": "2026-07-31 14:12:12",
       "oof": "8/15/2026",
@@ -5342,9 +5342,9 @@
     {
       "ref_name": "MIS-81e7e Google SCG Marketing",
       "target": 1000,
-      "filled": 317,
-      "fill_pct": 31.7,
-      "ir": "63.9",
+      "filled": 319,
+      "fill_pct": 31.9,
+      "ir": "63.5",
       "loi": "2",
       "launch_date": "2026-07-31 20:12:37",
       "oof": "8/14/2026",

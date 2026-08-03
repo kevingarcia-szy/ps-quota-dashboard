@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T17:22:01",
-  "mission_count": 38,
+  "last_updated": "2026-08-02T17:48:35",
+  "mission_count": 39,
   "missions": [
     {
       "ref_name": "MIS-9d8b0 Canidae",
@@ -681,6 +681,128 @@
       ]
     },
     {
+      "ref_name": "MIS-21902 UTA - IQ",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5",
+      "launch_date": "2026-08-03 0:31:23",
+      "oof": "8/17/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age x Gender",
+          "cells": [
+            {
+              "label": "25 - 29 | Female",
+              "target": 60,
+              "filled": 0,
+              "needed": 60,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 60,
+              "open_to_max": 60
+            },
+            {
+              "label": "25 - 29 | Male",
+              "target": 60,
+              "filled": 0,
+              "needed": 60,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 60,
+              "open_to_max": 60
+            },
+            {
+              "label": "30 - 44 | Female",
+              "target": 190,
+              "filled": 0,
+              "needed": 190,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 190,
+              "open_to_max": 190
+            },
+            {
+              "label": "30 - 44 | Male",
+              "target": 190,
+              "filled": 0,
+              "needed": 190,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 190,
+              "open_to_max": 190
+            },
+            {
+              "label": "45 - 55 | Female",
+              "target": 130,
+              "filled": 0,
+              "needed": 130,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 130,
+              "open_to_max": 130
+            },
+            {
+              "label": "45 - 55 | Male",
+              "target": 130,
+              "filled": 0,
+              "needed": 130,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 130,
+              "open_to_max": 130
+            },
+            {
+              "label": "56 - 65 | Female",
+              "target": 120,
+              "filled": 0,
+              "needed": 120,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 120,
+              "open_to_max": 120
+            },
+            {
+              "label": "56 - 65 | Male",
+              "target": 120,
+              "filled": 0,
+              "needed": 120,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 120,
+              "open_to_max": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-54345 Tillamook",
       "target": 800,
       "filled": 793,
@@ -1313,9 +1435,9 @@
     {
       "ref_name": "MIS-0d4c2 Kenvue US CBI Self Care",
       "target": 700,
-      "filled": 366,
-      "fill_pct": 52.3,
-      "ir": "26.2",
+      "filled": 373,
+      "fill_pct": 53.3,
+      "ir": "25.8",
       "loi": "10.5",
       "launch_date": "2026-07-31 18:33:02",
       "oof": "8/3/2026",
@@ -1340,28 +1462,28 @@
             {
               "label": "Amazon",
               "target": 140,
-              "filled": 45,
-              "needed": 95,
-              "fill_pct": 32.1,
+              "filled": 47,
+              "needed": 93,
+              "fill_pct": 33.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 95,
-              "open_to_max": 95
+              "needed_to_min": 93,
+              "open_to_max": 93
             },
             {
               "label": "Grocery Store ",
               "target": 140,
-              "filled": 73,
-              "needed": 67,
-              "fill_pct": 52.1,
+              "filled": 75,
+              "needed": 65,
+              "fill_pct": 53.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 67,
-              "open_to_max": 67
+              "needed_to_min": 65,
+              "open_to_max": 65
             },
             {
               "label": "Club Store (e.g. Costco)",
@@ -1379,15 +1501,15 @@
             {
               "label": "Drug Store ",
               "target": 140,
-              "filled": 85,
-              "needed": 55,
-              "fill_pct": 60.7,
+              "filled": 88,
+              "needed": 52,
+              "fill_pct": 62.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 55,
-              "open_to_max": 55
+              "needed_to_min": 52,
+              "open_to_max": 52
             },
             {
               "label": "Target",
@@ -1760,7 +1882,7 @@
       "target": 1000,
       "filled": 944,
       "fill_pct": 94.4,
-      "ir": "43.4",
+      "ir": "43.3",
       "loi": "20",
       "launch_date": "2026-07-29 3:34:34",
       "oof": "8/28/2026",
@@ -2958,8 +3080,8 @@
     {
       "ref_name": "MIS-971c9 Arc Worldwide",
       "target": 640,
-      "filled": 284,
-      "fill_pct": 44.4,
+      "filled": 286,
+      "fill_pct": 44.7,
       "ir": "14.2",
       "loi": "21",
       "launch_date": "2026-07-30 20:01:52",
@@ -2985,15 +3107,15 @@
             {
               "label": "Male",
               "target": 448,
-              "filled": 137,
-              "needed": 311,
-              "fill_pct": 30.6,
+              "filled": 139,
+              "needed": 309,
+              "fill_pct": 31.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 311,
-              "open_to_max": 311
+              "needed_to_min": 309,
+              "open_to_max": 309
             }
           ]
         },
@@ -3172,15 +3294,15 @@
             {
               "label": "Illinois",
               "target": 103,
-              "filled": 54,
-              "needed": 49,
-              "fill_pct": 52.4,
+              "filled": 55,
+              "needed": 48,
+              "fill_pct": 53.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 49,
-              "open_to_max": 49
+              "needed_to_min": 48,
+              "open_to_max": 48
             },
             {
               "label": "Indiana",
@@ -3237,15 +3359,15 @@
             {
               "label": "Louisiana",
               "target": 109,
-              "filled": 56,
-              "needed": 53,
-              "fill_pct": 51.4,
+              "filled": 57,
+              "needed": 52,
+              "fill_pct": 52.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 53,
-              "open_to_max": 53
+              "needed_to_min": 52,
+              "open_to_max": 52
             },
             {
               "label": "Maine",
@@ -4534,9 +4656,9 @@
     {
       "ref_name": "MIS-81e7e Google SCG Marketing",
       "target": 1000,
-      "filled": 690,
-      "fill_pct": 69.0,
-      "ir": "61.4",
+      "filled": 698,
+      "fill_pct": 69.8,
+      "ir": "61.2",
       "loi": "2",
       "launch_date": "2026-07-31 20:12:37",
       "oof": "8/14/2026",

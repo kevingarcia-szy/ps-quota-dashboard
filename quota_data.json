@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T01:56:22",
+  "last_updated": "2026-08-09T02:20:04",
   "mission_count": 30,
   "missions": [
     {
@@ -2010,15 +2010,15 @@
             {
               "label": "45-54",
               "target": 220,
-              "filled": 219,
-              "needed": 1,
-              "fill_pct": 99.5,
+              "filled": 220,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "55-99",
@@ -2067,15 +2067,15 @@
             {
               "label": "$35,000 - $44,999",
               "target": 60,
-              "filled": 59,
-              "needed": 1,
-              "fill_pct": 98.3,
+              "filled": 60,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "$45,000 - $59,999",
@@ -2768,8 +2768,8 @@
     {
       "ref_name": "MIS-09087 DSM",
       "target": 600,
-      "filled": 280,
-      "fill_pct": 46.7,
+      "filled": 281,
+      "fill_pct": 46.8,
       "ir": "20.7",
       "loi": "3.5",
       "launch_date": "2026-08-07 3:52:24",
@@ -2990,9 +2990,9 @@
     {
       "ref_name": "MIS-603e7 Wonder",
       "target": 700,
-      "filled": 73,
-      "fill_pct": 10.4,
-      "ir": "39.5",
+      "filled": 76,
+      "fill_pct": 10.9,
+      "ir": "39",
       "loi": "21.5",
       "launch_date": "2026-08-07 16:28:32",
       "oof": "9/6/2026",
@@ -3017,15 +3017,15 @@
             {
               "label": "35 - 54",
               "target": 280,
-              "filled": 29,
-              "needed": 251,
-              "fill_pct": 10.4,
+              "filled": 32,
+              "needed": 248,
+              "fill_pct": 11.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 245,
               "max_target": 315,
-              "needed_to_min": 216,
-              "open_to_max": 286
+              "needed_to_min": 213,
+              "open_to_max": 283
             },
             {
               "label": "55 - 99",
@@ -3048,15 +3048,15 @@
             {
               "label": "Beverage Purchaser",
               "target": 350,
-              "filled": 47,
-              "needed": 303,
-              "fill_pct": 13.4,
+              "filled": 50,
+              "needed": 300,
+              "fill_pct": 14.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 315,
               "max_target": 385,
-              "needed_to_min": 268,
-              "open_to_max": 338
+              "needed_to_min": 265,
+              "open_to_max": 335
             },
             {
               "label": "Beverage Non-Purchaser",
@@ -3092,28 +3092,28 @@
             {
               "label": "Texas",
               "target": 105,
-              "filled": 18,
-              "needed": 87,
-              "fill_pct": 17.1,
+              "filled": 19,
+              "needed": 86,
+              "fill_pct": 18.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 70,
               "max_target": 140,
-              "needed_to_min": 52,
-              "open_to_max": 122
+              "needed_to_min": 51,
+              "open_to_max": 121
             },
             {
               "label": "Other States",
               "target": 595,
-              "filled": 55,
-              "needed": 540,
-              "fill_pct": 9.2,
+              "filled": 57,
+              "needed": 538,
+              "fill_pct": 9.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 630,
-              "needed_to_min": 505,
-              "open_to_max": 575
+              "needed_to_min": 503,
+              "open_to_max": 573
             },
             {
               "label": "None of the above",
@@ -3136,28 +3136,28 @@
             {
               "label": "Wonder User",
               "target": 140,
-              "filled": 4,
-              "needed": 136,
-              "fill_pct": 2.9,
+              "filled": 5,
+              "needed": 135,
+              "fill_pct": 3.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 105,
               "max_target": 175,
-              "needed_to_min": 101,
-              "open_to_max": 171
+              "needed_to_min": 100,
+              "open_to_max": 170
             },
             {
               "label": "Wonder Non-Rejector",
               "target": 560,
-              "filled": 69,
-              "needed": 491,
-              "fill_pct": 12.3,
+              "filled": 71,
+              "needed": 489,
+              "fill_pct": 12.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 525,
               "max_target": 595,
-              "needed_to_min": 456,
-              "open_to_max": 526
+              "needed_to_min": 454,
+              "open_to_max": 524
             },
             {
               "label": "None of the above",
@@ -3181,7 +3181,7 @@
       "target": 1000,
       "filled": 993,
       "fill_pct": 99.3,
-      "ir": "56.3",
+      "ir": "56.2",
       "loi": "5.5",
       "launch_date": "2026-08-07 16:33:36",
       "oof": "8/21/2026",
@@ -3740,9 +3740,9 @@
     {
       "ref_name": "MIS-d80c9 Olaplex, Inc.",
       "target": 1000,
-      "filled": 244,
-      "fill_pct": 24.4,
-      "ir": "25.5",
+      "filled": 245,
+      "fill_pct": 24.5,
+      "ir": "25.6",
       "loi": "13",
       "launch_date": "2026-08-07 21:55:58",
       "oof": "8/10/2026",
@@ -3767,15 +3767,15 @@
             {
               "label": "Sephora Hair Care Buyers",
               "target": 750,
-              "filled": 170,
-              "needed": 580,
-              "fill_pct": 22.7,
+              "filled": 171,
+              "needed": 579,
+              "fill_pct": 22.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 580,
-              "open_to_max": 580
+              "needed_to_min": 579,
+              "open_to_max": 579
             },
             {
               "label": "None of the above",
@@ -3797,9 +3797,9 @@
     {
       "ref_name": "MIS-08d03 ADM",
       "target": 1000,
-      "filled": 720,
-      "fill_pct": 72.0,
-      "ir": "61.8",
+      "filled": 721,
+      "fill_pct": 72.1,
+      "ir": "61.7",
       "loi": "11",
       "launch_date": "2026-08-08 14:59:33",
       "oof": "8/22/2026",

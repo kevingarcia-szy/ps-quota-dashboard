@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T14:10:12",
+  "last_updated": "2026-08-09T14:33:38",
   "mission_count": 32,
   "missions": [
     {
@@ -1500,7 +1500,7 @@
       "target": 640,
       "filled": 501,
       "fill_pct": 78.3,
-      "ir": "13.6",
+      "ir": "13.5",
       "loi": "21",
       "launch_date": "2026-07-30 20:01:52",
       "oof": "8/13/2026",
@@ -3000,9 +3000,9 @@
     {
       "ref_name": "MIS-a6212 Hunter - Tabasco",
       "target": 1000,
-      "filled": 978,
-      "fill_pct": 97.8,
-      "ir": "26.6",
+      "filled": 997,
+      "fill_pct": 99.7,
+      "ir": "26.7",
       "loi": "11.5",
       "launch_date": "2026-08-06 17:55:18",
       "oof": "8/27/2026",
@@ -3256,9 +3256,9 @@
     {
       "ref_name": "MIS-09087 DSM",
       "target": 600,
-      "filled": 378,
-      "fill_pct": 63.0,
-      "ir": "20.4",
+      "filled": 390,
+      "fill_pct": 65.0,
+      "ir": "20.5",
       "loi": "3.5",
       "launch_date": "2026-08-07 3:52:24",
       "oof": "8/10/2026",
@@ -3478,8 +3478,8 @@
     {
       "ref_name": "MIS-603e7 Wonder",
       "target": 700,
-      "filled": 525,
-      "fill_pct": 75.0,
+      "filled": 529,
+      "fill_pct": 75.6,
       "ir": "41.6",
       "loi": "21.5",
       "launch_date": "2026-08-07 16:28:32",
@@ -3492,28 +3492,28 @@
             {
               "label": "18 - 34",
               "target": 280,
-              "filled": 144,
-              "needed": 136,
-              "fill_pct": 51.4,
+              "filled": 145,
+              "needed": 135,
+              "fill_pct": 51.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 245,
               "max_target": 315,
-              "needed_to_min": 101,
-              "open_to_max": 171
+              "needed_to_min": 100,
+              "open_to_max": 170
             },
             {
               "label": "35 - 54",
               "target": 280,
-              "filled": 241,
-              "needed": 39,
-              "fill_pct": 86.1,
+              "filled": 244,
+              "needed": 36,
+              "fill_pct": 87.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 245,
               "max_target": 315,
-              "needed_to_min": 4,
-              "open_to_max": 74
+              "needed_to_min": 1,
+              "open_to_max": 71
             },
             {
               "label": "55 - 99",
@@ -3536,15 +3536,15 @@
             {
               "label": "Beverage Purchaser",
               "target": 350,
-              "filled": 351,
+              "filled": 355,
               "needed": 0,
-              "fill_pct": 100.3,
+              "fill_pct": 101.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 315,
               "max_target": 385,
               "needed_to_min": 0,
-              "open_to_max": 34
+              "open_to_max": 30
             },
             {
               "label": "Beverage Non-Purchaser",
@@ -3593,15 +3593,15 @@
             {
               "label": "Other States",
               "target": 595,
-              "filled": 407,
-              "needed": 188,
-              "fill_pct": 68.4,
+              "filled": 411,
+              "needed": 184,
+              "fill_pct": 69.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 630,
-              "needed_to_min": 153,
-              "open_to_max": 223
+              "needed_to_min": 149,
+              "open_to_max": 219
             },
             {
               "label": "None of the above",
@@ -3637,15 +3637,15 @@
             {
               "label": "Wonder Non-Rejector",
               "target": 560,
-              "filled": 488,
-              "needed": 72,
-              "fill_pct": 87.1,
+              "filled": 492,
+              "needed": 68,
+              "fill_pct": 87.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 525,
               "max_target": 595,
-              "needed_to_min": 37,
-              "open_to_max": 107
+              "needed_to_min": 33,
+              "open_to_max": 103
             },
             {
               "label": "None of the above",
@@ -4120,8 +4120,8 @@
     {
       "ref_name": "MIS-af4b4 US Bank Payments Team",
       "target": 800,
-      "filled": 582,
-      "fill_pct": 72.8,
+      "filled": 585,
+      "fill_pct": 73.1,
       "ir": "36.5",
       "loi": "12.5",
       "launch_date": "2026-08-07 20:02:22",
@@ -4147,15 +4147,15 @@
             {
               "label": "$100,000 to less than $500,000",
               "target": 320,
-              "filled": 220,
-              "needed": 100,
-              "fill_pct": 68.8,
+              "filled": 223,
+              "needed": 97,
+              "fill_pct": 69.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 100,
-              "open_to_max": 100
+              "needed_to_min": 97,
+              "open_to_max": 97
             },
             {
               "label": "$500,000 to less than $2.5 million",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T10:22:17",
-  "mission_count": 26,
+  "last_updated": "2026-08-11T10:45:24",
+  "mission_count": 25,
   "missions": [
     {
       "ref_name": "MIS-07274 Symrise - Flavor Division",
@@ -2288,9 +2288,9 @@
     {
       "ref_name": "MIS-ef121 Walmart CIS Cust Com Intel",
       "target": 1000,
-      "filled": 868,
-      "fill_pct": 86.8,
-      "ir": "54.8",
+      "filled": 869,
+      "fill_pct": 86.9,
+      "ir": "54.7",
       "loi": "10",
       "launch_date": "2026-08-10 14:35:49",
       "oof": "8/15/2026",
@@ -2328,15 +2328,15 @@
             {
               "label": "25 - 34 | Female",
               "target": 90,
-              "filled": 53,
-              "needed": 37,
-              "fill_pct": 58.9,
+              "filled": 54,
+              "needed": 36,
+              "fill_pct": 60.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 37,
-              "open_to_max": 37
+              "needed_to_min": 36,
+              "open_to_max": 36
             },
             {
               "label": "25 - 34 | Male",
@@ -2489,15 +2489,15 @@
             {
               "label": "More than $100,000",
               "target": 410,
-              "filled": 298,
-              "needed": 112,
-              "fill_pct": 72.7,
+              "filled": 299,
+              "needed": 111,
+              "fill_pct": 72.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 112,
-              "open_to_max": 112
+              "needed_to_min": 111,
+              "open_to_max": 111
             }
           ]
         }
@@ -2846,299 +2846,11 @@
       ]
     },
     {
-      "ref_name": "MIS-42416 DirecTV Consumer Insights (VOE)",
-      "target": 100,
-      "filled": 99,
-      "fill_pct": 99.0,
-      "ir": "11.2",
-      "loi": "6",
-      "launch_date": "2026-08-07 18:06:41",
-      "oof": "8/21/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 40,
-              "filled": 40,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Male",
-              "target": 60,
-              "filled": 59,
-              "needed": 1,
-              "fill_pct": 98.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            }
-          ]
-        },
-        {
-          "group": "Which of the following types of content do you watch?",
-          "cells": [
-            {
-              "label": "Comedy TV shows",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Drama TV shows",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Reality TV shows (e.g., Real Housewives, Survivor)",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Lifestyle TV shows (e.g., travel, home & garden, cooking)",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Family / Kids TV shows",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Movies (of any genre)",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Local News",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "National News",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Sports",
-              "target": 100,
-              "filled": 99,
-              "needed": 1,
-              "fill_pct": 99.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            },
-            {
-              "label": "Classic/Retro TV shows",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Documentary / Educational",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "True Crime",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Other",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        },
-        {
-          "group": "Which of the following types of video services do you currently pay for?",
-          "cells": [
-            {
-              "label": "Cable or Satellite (e.g., Comcast, DISH, DIRECTV, Spectrum)",
-              "target": 100,
-              "filled": 99,
-              "needed": 1,
-              "fill_pct": 99.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            },
-            {
-              "label": "Live TV Streaming (e.g., YouTube TV, Fubo, Hulu+Live, Sling, DIRECTV Streaming)",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Subscription Video On Demand services (e.g., Netflix, Prime Video, HBO Max)",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "I do not pay for any video services",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-af4b4 US Bank Payments Team",
       "target": 800,
       "filled": 739,
       "fill_pct": 92.4,
-      "ir": "28.5",
+      "ir": "28.4",
       "loi": "12.5",
       "launch_date": "2026-08-07 20:02:22",
       "oof": "8/14/2026",
@@ -3256,9 +2968,9 @@
     {
       "ref_name": "MIS-97652 Kenvue US CBI Hair",
       "target": 800,
-      "filled": 703,
-      "fill_pct": 87.9,
-      "ir": "75.1",
+      "filled": 708,
+      "fill_pct": 88.5,
+      "ir": "75.2",
       "loi": "6",
       "launch_date": "2026-08-10 17:12:25",
       "oof": "8/24/2026",
@@ -3270,15 +2982,15 @@
             {
               "label": "Female",
               "target": 640,
-              "filled": 548,
-              "needed": 92,
-              "fill_pct": 85.6,
+              "filled": 553,
+              "needed": 87,
+              "fill_pct": 86.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 92,
-              "open_to_max": 92
+              "needed_to_min": 87,
+              "open_to_max": 87
             },
             {
               "label": "Male",
@@ -3312,9 +3024,9 @@
     {
       "ref_name": "MIS-0d434 AppleCare - Leeza",
       "target": 1000,
-      "filled": 913,
-      "fill_pct": 91.3,
-      "ir": "47.1",
+      "filled": 975,
+      "fill_pct": 97.5,
+      "ir": "47.2",
       "loi": "6",
       "launch_date": "2026-08-10 18:08:08",
       "oof": "8/24/2026",
@@ -3339,15 +3051,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 407,
-              "needed": 93,
-              "fill_pct": 81.4,
+              "filled": 469,
+              "needed": 31,
+              "fill_pct": 93.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 93,
-              "open_to_max": 93
+              "needed_to_min": 31,
+              "open_to_max": 31
             }
           ]
         }
@@ -3356,8 +3068,8 @@
     {
       "ref_name": "MIS-2bc5e Synchrony Financial",
       "target": 1000,
-      "filled": 671,
-      "fill_pct": 67.1,
+      "filled": 672,
+      "fill_pct": 67.2,
       "ir": "65.6",
       "loi": "12",
       "launch_date": "2026-08-10 20:35:23",
@@ -3383,15 +3095,15 @@
             {
               "label": "30 - 45",
               "target": 300,
-              "filled": 211,
-              "needed": 89,
-              "fill_pct": 70.3,
+              "filled": 212,
+              "needed": 88,
+              "fill_pct": 70.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 89,
-              "open_to_max": 89
+              "needed_to_min": 88,
+              "open_to_max": 88
             },
             {
               "label": "46 - 61",
@@ -3440,15 +3152,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 212,
-              "needed": 288,
-              "fill_pct": 42.4,
+              "filled": 213,
+              "needed": 287,
+              "fill_pct": 42.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 288,
-              "open_to_max": 288
+              "needed_to_min": 287,
+              "open_to_max": 287
             }
           ]
         },
@@ -3471,15 +3183,15 @@
             {
               "label": "Middle",
               "target": 320,
-              "filled": 239,
-              "needed": 81,
-              "fill_pct": 74.7,
+              "filled": 240,
+              "needed": 80,
+              "fill_pct": 75.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 81,
-              "open_to_max": 81
+              "needed_to_min": 80,
+              "open_to_max": 80
             },
             {
               "label": "High",
@@ -3529,7 +3241,7 @@
       "target": 1000,
       "filled": 571,
       "fill_pct": 57.1,
-      "ir": "29.4",
+      "ir": "29.3",
       "loi": "1.5",
       "launch_date": "2026-08-10 21:32:25",
       "oof": "8/24/2026",
@@ -3541,7 +3253,7 @@
       "target": 1000,
       "filled": 992,
       "fill_pct": 99.2,
-      "ir": "61.7",
+      "ir": "61.4",
       "loi": "2.5",
       "launch_date": "2026-08-10 21:46:34",
       "oof": "8/24/2026",

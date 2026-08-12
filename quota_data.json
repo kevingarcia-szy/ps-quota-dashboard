@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T18:35:44",
-  "mission_count": 24,
+  "last_updated": "2026-08-12T18:58:45",
+  "mission_count": 27,
   "missions": [
     {
       "ref_name": "MIS-07274 Symrise - Flavor Division",
@@ -172,6 +172,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-e7c9a Symrise - Flavor Division",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2",
+      "launch_date": "2026-08-12 22:33:02",
+      "oof": "8/26/2026",
+      "status": "behind",
+      "quotas": []
     },
     {
       "ref_name": "MIS-c4b0f L'Oreal - Target Team",
@@ -2381,8 +2393,8 @@
     {
       "ref_name": "MIS-af4b4 US Bank Payments Team",
       "target": 800,
-      "filled": 818,
-      "fill_pct": 102.2,
+      "filled": 819,
+      "fill_pct": 102.4,
       "ir": "25.4",
       "loi": "12.5",
       "launch_date": "2026-08-07 20:02:22",
@@ -2395,9 +2407,9 @@
             {
               "label": "Less than $100,000",
               "target": 280,
-              "filled": 287,
+              "filled": 288,
               "needed": 0,
-              "fill_pct": 102.5,
+              "fill_pct": 102.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -2477,9 +2489,9 @@
     {
       "ref_name": "MIS-ef121 Walmart CIS Cust Com Intel",
       "target": 1000,
-      "filled": 930,
-      "fill_pct": 93.0,
-      "ir": "52.4",
+      "filled": 931,
+      "fill_pct": 93.1,
+      "ir": "52.3",
       "loi": "10",
       "launch_date": "2026-08-10 14:35:49",
       "oof": "8/15/2026",
@@ -2530,15 +2542,15 @@
             {
               "label": "25 - 34 | Male",
               "target": 90,
-              "filled": 64,
-              "needed": 26,
-              "fill_pct": 71.1,
+              "filled": 65,
+              "needed": 25,
+              "fill_pct": 72.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 60,
               "max_target": 120,
               "needed_to_min": 0,
-              "open_to_max": 56
+              "open_to_max": 55
             },
             {
               "label": "35 - 44 | Female",
@@ -2678,15 +2690,15 @@
             {
               "label": "More than $100,000",
               "target": 410,
-              "filled": 342,
-              "needed": 68,
-              "fill_pct": 83.4,
+              "filled": 343,
+              "needed": 67,
+              "fill_pct": 83.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 380,
               "max_target": 440,
-              "needed_to_min": 38,
-              "open_to_max": 98
+              "needed_to_min": 37,
+              "open_to_max": 97
             }
           ]
         }
@@ -2739,9 +2751,9 @@
     {
       "ref_name": "MIS-2bc5e Synchrony Financial",
       "target": 1300,
-      "filled": 1074,
-      "fill_pct": 82.6,
-      "ir": "64.7",
+      "filled": 1079,
+      "fill_pct": 83.0,
+      "ir": "64.8",
       "loi": "12",
       "launch_date": "2026-08-10 20:35:23",
       "oof": "9/9/2026",
@@ -2753,41 +2765,41 @@
             {
               "label": "18 - 29",
               "target": 390,
-              "filled": 140,
-              "needed": 250,
-              "fill_pct": 35.9,
+              "filled": 141,
+              "needed": 249,
+              "fill_pct": 36.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 325,
               "max_target": 455,
-              "needed_to_min": 185,
-              "open_to_max": 315
+              "needed_to_min": 184,
+              "open_to_max": 314
             },
             {
               "label": "30 - 45",
               "target": 390,
-              "filled": 345,
-              "needed": 45,
-              "fill_pct": 88.5,
+              "filled": 346,
+              "needed": 44,
+              "fill_pct": 88.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 325,
               "max_target": 455,
               "needed_to_min": 0,
-              "open_to_max": 110
+              "open_to_max": 109
             },
             {
               "label": "46 - 61",
               "target": 260,
-              "filled": 269,
+              "filled": 272,
               "needed": 0,
-              "fill_pct": 103.5,
+              "fill_pct": 104.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 195,
               "max_target": 325,
               "needed_to_min": 0,
-              "open_to_max": 56
+              "open_to_max": 53
             },
             {
               "label": "62 - 99",
@@ -2810,28 +2822,28 @@
             {
               "label": "Female",
               "target": 650,
-              "filled": 670,
+              "filled": 671,
               "needed": 0,
-              "fill_pct": 103.1,
+              "fill_pct": 103.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 585,
               "max_target": 715,
               "needed_to_min": 0,
-              "open_to_max": 45
+              "open_to_max": 44
             },
             {
               "label": "Male",
               "target": 650,
-              "filled": 404,
-              "needed": 246,
-              "fill_pct": 62.2,
+              "filled": 408,
+              "needed": 242,
+              "fill_pct": 62.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 585,
               "max_target": 715,
-              "needed_to_min": 181,
-              "open_to_max": 311
+              "needed_to_min": 177,
+              "open_to_max": 307
             }
           ]
         },
@@ -2854,41 +2866,41 @@
             {
               "label": "Middle",
               "target": 416,
-              "filled": 402,
-              "needed": 14,
-              "fill_pct": 96.6,
+              "filled": 404,
+              "needed": 12,
+              "fill_pct": 97.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 351,
               "max_target": 481,
               "needed_to_min": 0,
-              "open_to_max": 79
+              "open_to_max": 77
             },
             {
               "label": "High",
               "target": 403,
-              "filled": 196,
-              "needed": 207,
-              "fill_pct": 48.6,
+              "filled": 198,
+              "needed": 205,
+              "fill_pct": 49.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 338,
               "max_target": 468,
-              "needed_to_min": 142,
-              "open_to_max": 272
+              "needed_to_min": 140,
+              "open_to_max": 270
             },
             {
               "label": "PNTA",
               "target": 78,
-              "filled": 32,
-              "needed": 46,
-              "fill_pct": 41.0,
+              "filled": 33,
+              "needed": 45,
+              "fill_pct": 42.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 13,
               "max_target": 143,
               "needed_to_min": 0,
-              "open_to_max": 111
+              "open_to_max": 110
             },
             {
               "label": "None of the above",
@@ -3024,9 +3036,9 @@
     {
       "ref_name": "MIS-19f5d Monin, Inc.",
       "target": 1000,
-      "filled": 440,
-      "fill_pct": 44.0,
-      "ir": "24.8",
+      "filled": 463,
+      "fill_pct": 46.3,
+      "ir": "25",
       "loi": "4.5",
       "launch_date": "2026-08-11 18:23:57",
       "oof": "8/25/2026",
@@ -3036,9 +3048,9 @@
     {
       "ref_name": "MIS-ee971 pladis North America, Inc.",
       "target": 1000,
-      "filled": 904,
-      "fill_pct": 90.4,
-      "ir": "44.7",
+      "filled": 905,
+      "fill_pct": 90.5,
+      "ir": "44.5",
       "loi": "2",
       "launch_date": "2026-08-11 18:38:36",
       "oof": "8/25/2026",
@@ -3063,15 +3075,15 @@
             {
               "label": "Convenience Purchasers",
               "target": 600,
-              "filled": 503,
-              "needed": 97,
-              "fill_pct": 83.8,
+              "filled": 504,
+              "needed": 96,
+              "fill_pct": 84.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 97,
-              "open_to_max": 97
+              "needed_to_min": 96,
+              "open_to_max": 96
             },
             {
               "label": "None of the above",
@@ -3094,15 +3106,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 300,
-              "filled": 187,
-              "needed": 113,
-              "fill_pct": 62.3,
+              "filled": 188,
+              "needed": 112,
+              "fill_pct": 62.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 113,
-              "open_to_max": 113
+              "needed_to_min": 112,
+              "open_to_max": 112
             },
             {
               "label": "Choc, CCSS, Cookies, Crackers Purchasers",
@@ -3137,9 +3149,9 @@
     {
       "ref_name": "MIS-bcb23 pladis North America, Inc.",
       "target": 1000,
-      "filled": 646,
-      "fill_pct": 64.6,
-      "ir": "69.8",
+      "filled": 663,
+      "fill_pct": 66.3,
+      "ir": "69.1",
       "loi": "2.5",
       "launch_date": "2026-08-12 20:35:40",
       "oof": "8/26/2026",
@@ -3164,15 +3176,15 @@
             {
               "label": "Premium Chocolate Category",
               "target": 700,
-              "filled": 352,
-              "needed": 348,
-              "fill_pct": 50.3,
+              "filled": 362,
+              "needed": 338,
+              "fill_pct": 51.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 348,
-              "open_to_max": 348
+              "needed_to_min": 338,
+              "open_to_max": 338
             },
             {
               "label": "None of the above",
@@ -3218,9 +3230,9 @@
     {
       "ref_name": "MIS-835ac Kenvue US CBI Hair",
       "target": 400,
-      "filled": 248,
-      "fill_pct": 62.0,
-      "ir": "80.3",
+      "filled": 251,
+      "fill_pct": 62.7,
+      "ir": "80.5",
       "loi": "8.5",
       "launch_date": "2026-08-12 13:58:11",
       "oof": "8/26/2026",
@@ -3232,32 +3244,56 @@
             {
               "label": "Female",
               "target": 200,
-              "filled": 138,
-              "needed": 62,
-              "fill_pct": 69.0,
+              "filled": 139,
+              "needed": 61,
+              "fill_pct": 69.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 62,
-              "open_to_max": 62
+              "needed_to_min": 61,
+              "open_to_max": 61
             },
             {
               "label": "Male",
               "target": 200,
-              "filled": 110,
-              "needed": 90,
-              "fill_pct": 55.0,
+              "filled": 112,
+              "needed": 88,
+              "fill_pct": 56.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 90,
-              "open_to_max": 90
+              "needed_to_min": 88,
+              "open_to_max": 88
             }
           ]
         }
       ]
+    },
+    {
+      "ref_name": "Beard Licenses @ Walmart",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-08-12 22:49:54",
+      "oof": "8/26/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "Body Licenses @ Walmart",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-08-12 22:52:16",
+      "oof": "8/26/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

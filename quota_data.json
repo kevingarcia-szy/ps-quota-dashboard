@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T08:58:54",
-  "mission_count": 31,
+  "last_updated": "2026-08-13T09:22:09",
+  "mission_count": 30,
   "missions": [
     {
       "ref_name": "MIS-c4b0f L'Oreal - Target Team",
@@ -145,8 +145,8 @@
     {
       "ref_name": "MIS-971c9 Arc Worldwide",
       "target": 640,
-      "filled": 568,
-      "fill_pct": 88.8,
+      "filled": 569,
+      "fill_pct": 88.9,
       "ir": "13.4",
       "loi": "21",
       "launch_date": "2026-07-30 20:01:52",
@@ -172,15 +172,15 @@
             {
               "label": "Male",
               "target": 448,
-              "filled": 375,
-              "needed": 73,
-              "fill_pct": 83.7,
+              "filled": 376,
+              "needed": 72,
+              "fill_pct": 83.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 73,
-              "open_to_max": 73
+              "needed_to_min": 72,
+              "open_to_max": 72
             }
           ]
         },
@@ -385,15 +385,15 @@
             {
               "label": "Iowa",
               "target": 103,
-              "filled": 48,
-              "needed": 55,
-              "fill_pct": 46.6,
+              "filled": 49,
+              "needed": 54,
+              "fill_pct": 47.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 55,
-              "open_to_max": 55
+              "needed_to_min": 54,
+              "open_to_max": 54
             },
             {
               "label": "Kansas",
@@ -1554,9 +1554,9 @@
     {
       "ref_name": "MIS-bc96d UTA - IQ",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 163,
+      "fill_pct": 16.3,
+      "ir": "100",
       "loi": "4.5",
       "launch_date": "2026-08-13 0:51:54",
       "oof": "8/27/2026",
@@ -1568,54 +1568,54 @@
             {
               "label": "18 - 29 | Female",
               "target": 220,
-              "filled": 0,
-              "needed": 220,
-              "fill_pct": 0.0,
+              "filled": 45,
+              "needed": 175,
+              "fill_pct": 20.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 220,
-              "open_to_max": 220
+              "needed_to_min": 175,
+              "open_to_max": 175
             },
             {
               "label": "18 - 29 | Male",
               "target": 220,
-              "filled": 0,
-              "needed": 220,
-              "fill_pct": 0.0,
+              "filled": 30,
+              "needed": 190,
+              "fill_pct": 13.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 220,
-              "open_to_max": 220
+              "needed_to_min": 190,
+              "open_to_max": 190
             },
             {
               "label": "30 - 44 | Female",
               "target": 280,
-              "filled": 0,
-              "needed": 280,
-              "fill_pct": 0.0,
+              "filled": 90,
+              "needed": 190,
+              "fill_pct": 32.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 280,
-              "open_to_max": 280
+              "needed_to_min": 190,
+              "open_to_max": 190
             },
             {
               "label": "30 - 44 | Male",
               "target": 280,
-              "filled": 1,
-              "needed": 279,
-              "fill_pct": 0.4,
+              "filled": 77,
+              "needed": 203,
+              "fill_pct": 27.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 279,
-              "open_to_max": 279
+              "needed_to_min": 203,
+              "open_to_max": 203
             }
           ]
         }
@@ -1694,9 +1694,9 @@
     {
       "ref_name": "MIS-878fe UTA - IQ",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 489,
+      "fill_pct": 48.9,
+      "ir": "100",
       "loi": "1",
       "launch_date": "2026-08-13 1:11:45",
       "oof": "8/27/2026",
@@ -2570,177 +2570,6 @@
       ]
     },
     {
-      "ref_name": "MIS-2bc5e Synchrony Financial",
-      "target": 1300,
-      "filled": 1196,
-      "fill_pct": 92.0,
-      "ir": "66.4",
-      "loi": "12",
-      "launch_date": "2026-08-10 20:35:23",
-      "oof": "9/9/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18 - 29",
-              "target": 390,
-              "filled": 153,
-              "needed": 237,
-              "fill_pct": 39.2,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 325,
-              "max_target": 455,
-              "needed_to_min": 172,
-              "open_to_max": 302
-            },
-            {
-              "label": "30 - 45",
-              "target": 390,
-              "filled": 416,
-              "needed": 0,
-              "fill_pct": 106.7,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 325,
-              "max_target": 455,
-              "needed_to_min": 0,
-              "open_to_max": 39
-            },
-            {
-              "label": "46 - 61",
-              "target": 260,
-              "filled": 307,
-              "needed": 0,
-              "fill_pct": 118.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 195,
-              "max_target": 325,
-              "needed_to_min": 0,
-              "open_to_max": 18
-            },
-            {
-              "label": "62 - 99",
-              "target": 260,
-              "filled": 320,
-              "needed": 0,
-              "fill_pct": 123.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 195,
-              "max_target": 325,
-              "needed_to_min": 0,
-              "open_to_max": 5
-            }
-          ]
-        },
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 650,
-              "filled": 671,
-              "needed": 0,
-              "fill_pct": 103.2,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 585,
-              "max_target": 715,
-              "needed_to_min": 0,
-              "open_to_max": 44
-            },
-            {
-              "label": "Male",
-              "target": 650,
-              "filled": 525,
-              "needed": 125,
-              "fill_pct": 80.8,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 585,
-              "max_target": 715,
-              "needed_to_min": 60,
-              "open_to_max": 190
-            }
-          ]
-        },
-        {
-          "group": "HHI ",
-          "cells": [
-            {
-              "label": "Low",
-              "target": 403,
-              "filled": 460,
-              "needed": 0,
-              "fill_pct": 114.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 338,
-              "max_target": 468,
-              "needed_to_min": 0,
-              "open_to_max": 8
-            },
-            {
-              "label": "Middle",
-              "target": 416,
-              "filled": 436,
-              "needed": 0,
-              "fill_pct": 104.8,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 351,
-              "max_target": 481,
-              "needed_to_min": 0,
-              "open_to_max": 45
-            },
-            {
-              "label": "High",
-              "target": 403,
-              "filled": 266,
-              "needed": 137,
-              "fill_pct": 66.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 338,
-              "max_target": 468,
-              "needed_to_min": 72,
-              "open_to_max": 202
-            },
-            {
-              "label": "PNTA",
-              "target": 78,
-              "filled": 34,
-              "needed": 44,
-              "fill_pct": 43.6,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 13,
-              "max_target": 143,
-              "needed_to_min": 0,
-              "open_to_max": 109
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": true,
-              "is_range": true,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-5c20c Synchrony Financial",
       "target": 1150,
       "filled": 841,
@@ -2869,9 +2698,9 @@
     {
       "ref_name": "MIS-ee971 pladis North America, Inc.",
       "target": 1000,
-      "filled": 907,
-      "fill_pct": 90.7,
-      "ir": "43.8",
+      "filled": 909,
+      "fill_pct": 90.9,
+      "ir": "43.2",
       "loi": "2",
       "launch_date": "2026-08-11 18:38:36",
       "oof": "8/25/2026",
@@ -2896,15 +2725,15 @@
             {
               "label": "Convenience Purchasers",
               "target": 600,
-              "filled": 506,
-              "needed": 94,
-              "fill_pct": 84.3,
+              "filled": 508,
+              "needed": 92,
+              "fill_pct": 84.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 94,
-              "open_to_max": 94
+              "needed_to_min": 92,
+              "open_to_max": 92
             },
             {
               "label": "None of the above",
@@ -2927,15 +2756,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 300,
-              "filled": 190,
-              "needed": 110,
-              "fill_pct": 63.3,
+              "filled": 192,
+              "needed": 108,
+              "fill_pct": 64.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 110,
-              "open_to_max": 110
+              "needed_to_min": 108,
+              "open_to_max": 108
             },
             {
               "label": "Choc, CCSS, Cookies, Crackers Purchasers",
@@ -3095,9 +2924,9 @@
     {
       "ref_name": "MIS-e7c9a Symrise - Flavor Division",
       "target": 1000,
-      "filled": 356,
-      "fill_pct": 35.6,
-      "ir": "58.4",
+      "filled": 388,
+      "fill_pct": 38.8,
+      "ir": "58.8",
       "loi": "2",
       "launch_date": "2026-08-12 22:33:02",
       "oof": "8/26/2026",
@@ -3107,9 +2936,9 @@
     {
       "ref_name": "MIS-80ee5 Every Man Jack",
       "target": 1000,
-      "filled": 828,
-      "fill_pct": 82.8,
-      "ir": "72.2",
+      "filled": 852,
+      "fill_pct": 85.2,
+      "ir": "72.5",
       "loi": "2.5",
       "launch_date": "2026-08-12 22:49:54",
       "oof": "8/26/2026",
@@ -3131,9 +2960,9 @@
     {
       "ref_name": "MIS-fa801 Microsoft Edge Consumer GTM",
       "target": 1000,
-      "filled": 468,
-      "fill_pct": 46.8,
-      "ir": "51.6",
+      "filled": 473,
+      "fill_pct": 47.3,
+      "ir": "51.7",
       "loi": "6.5",
       "launch_date": "2026-08-12 23:02:49",
       "oof": "8/13/2026",

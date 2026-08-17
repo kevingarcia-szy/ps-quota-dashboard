@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T14:35:21",
-  "mission_count": 16,
+  "last_updated": "2026-08-17T14:59:50",
+  "mission_count": 19,
   "missions": [
     {
       "ref_name": "MIS-035c2 AlixPartners",
@@ -342,6 +342,120 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-5c20c Synchrony Financial",
+      "target": 1150,
+      "filled": 990,
+      "fill_pct": 86.1,
+      "ir": "17",
+      "loi": "8",
+      "launch_date": "2026-08-11 17:53:40",
+      "oof": "9/10/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 575,
+              "filled": 473,
+              "needed": 102,
+              "fill_pct": 82.3,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 518,
+              "max_target": 632,
+              "needed_to_min": 45,
+              "open_to_max": 159
+            },
+            {
+              "label": "Male",
+              "target": 575,
+              "filled": 517,
+              "needed": 58,
+              "fill_pct": 89.9,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 518,
+              "max_target": 632,
+              "needed_to_min": 1,
+              "open_to_max": 115
+            }
+          ]
+        },
+        {
+          "group": "How old are you?",
+          "cells": [
+            {
+              "label": "18-24",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "25-34",
+              "target": 299,
+              "filled": 257,
+              "needed": 42,
+              "fill_pct": 86.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 242,
+              "max_target": 356,
+              "needed_to_min": 0,
+              "open_to_max": 99
+            },
+            {
+              "label": "35-44",
+              "target": 322,
+              "filled": 308,
+              "needed": 14,
+              "fill_pct": 95.7,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 264,
+              "max_target": 380,
+              "needed_to_min": 0,
+              "open_to_max": 72
+            },
+            {
+              "label": "45-54",
+              "target": 299,
+              "filled": 206,
+              "needed": 93,
+              "fill_pct": 68.9,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 242,
+              "max_target": 356,
+              "needed_to_min": 36,
+              "open_to_max": 150
+            },
+            {
+              "label": "55+",
+              "target": 230,
+              "filled": 219,
+              "needed": 11,
+              "fill_pct": 95.2,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 172,
+              "max_target": 288,
+              "needed_to_min": 0,
+              "open_to_max": 69
             }
           ]
         }
@@ -1543,9 +1657,9 @@
     {
       "ref_name": "MIS-0eac2 Hearst Corporation",
       "target": 450,
-      "filled": 249,
-      "fill_pct": 55.3,
-      "ir": "44.8",
+      "filled": 276,
+      "fill_pct": 61.3,
+      "ir": "45.1",
       "loi": "3",
       "launch_date": "2026-08-17 15:22:47",
       "oof": "8/31/2026",
@@ -1555,9 +1669,9 @@
     {
       "ref_name": "MIS-90d80 Perrigo",
       "target": 1400,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 58,
+      "fill_pct": 4.1,
+      "ir": "78.4",
       "loi": "9",
       "launch_date": "2026-08-17 15:55:04",
       "oof": "8/31/2026",
@@ -1569,28 +1683,28 @@
             {
               "label": "18 - 44",
               "target": 700,
-              "filled": 0,
-              "needed": 700,
-              "fill_pct": 0.0,
+              "filled": 56,
+              "needed": 644,
+              "fill_pct": 8.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 700,
-              "open_to_max": 700
+              "needed_to_min": 644,
+              "open_to_max": 644
             },
             {
               "label": "45 - 80",
               "target": 700,
-              "filled": 0,
-              "needed": 700,
-              "fill_pct": 0.0,
+              "filled": 59,
+              "needed": 641,
+              "fill_pct": 8.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 700,
-              "open_to_max": 700
+              "needed_to_min": 641,
+              "open_to_max": 641
             }
           ]
         }
@@ -1599,13 +1713,13 @@
     {
       "ref_name": "MIS-744cd VMG Partners",
       "target": 1000,
-      "filled": 321,
-      "fill_pct": 32.1,
-      "ir": "46.7",
+      "filled": 593,
+      "fill_pct": 59.3,
+      "ir": "42.5",
       "loi": "16.5",
       "launch_date": "2026-08-17 16:59:22",
       "oof": "8/31/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Jesse & Bens Segment",
@@ -1613,52 +1727,52 @@
             {
               "label": "Current Buyer",
               "target": 200,
-              "filled": 7,
-              "needed": 193,
-              "fill_pct": 3.5,
+              "filled": 63,
+              "needed": 137,
+              "fill_pct": 31.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 193,
-              "open_to_max": 193
+              "is_range": true,
+              "min_target": 150,
+              "max_target": 250,
+              "needed_to_min": 87,
+              "open_to_max": 187
             },
             {
               "label": "Lapsed Buyer",
               "target": 200,
-              "filled": 19,
-              "needed": 181,
-              "fill_pct": 9.5,
+              "filled": 45,
+              "needed": 155,
+              "fill_pct": 22.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 181,
-              "open_to_max": 181
+              "is_range": true,
+              "min_target": 150,
+              "max_target": 250,
+              "needed_to_min": 105,
+              "open_to_max": 205
             },
             {
               "label": "Aware Non-Buyer",
               "target": 300,
-              "filled": 12,
-              "needed": 288,
-              "fill_pct": 4.0,
+              "filled": 50,
+              "needed": 250,
+              "fill_pct": 16.7,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 288,
-              "open_to_max": 288
+              "is_range": true,
+              "min_target": 250,
+              "max_target": 350,
+              "needed_to_min": 200,
+              "open_to_max": 300
             },
             {
               "label": "None of the above",
               "target": 300,
-              "filled": 300,
+              "filled": 435,
               "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "fill_pct": 145.0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 250,
+              "max_target": 350,
               "needed_to_min": 0,
               "open_to_max": 0
             }
@@ -1669,9 +1783,9 @@
     {
       "ref_name": "MIS-a1b34 Kenvue US CBI Hair",
       "target": 800,
-      "filled": 15,
-      "fill_pct": 1.9,
-      "ir": "36.6",
+      "filled": 52,
+      "fill_pct": 6.5,
+      "ir": "40.6",
       "loi": "6",
       "launch_date": "2026-08-17 17:10:03",
       "oof": "8/31/2026",
@@ -1683,28 +1797,28 @@
             {
               "label": "Female",
               "target": 640,
-              "filled": 6,
-              "needed": 634,
-              "fill_pct": 0.9,
+              "filled": 26,
+              "needed": 614,
+              "fill_pct": 4.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 634,
-              "open_to_max": 634
+              "needed_to_min": 614,
+              "open_to_max": 614
             },
             {
               "label": "Male",
               "target": 160,
-              "filled": 9,
-              "needed": 151,
-              "fill_pct": 5.6,
+              "filled": 26,
+              "needed": 134,
+              "fill_pct": 16.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 151,
-              "open_to_max": 151
+              "needed_to_min": 134,
+              "open_to_max": 134
             }
           ]
         }
@@ -1713,11 +1827,55 @@
     {
       "ref_name": "MIS-7a0af QuikTrip",
       "target": 1000,
+      "filled": 2,
+      "fill_pct": 0.2,
+      "ir": "100",
+      "loi": "3",
+      "launch_date": "2026-08-17 18:15:50",
+      "oof": "8/31/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "Male",
+              "target": 500,
+              "filled": 2,
+              "needed": 498,
+              "fill_pct": 0.4,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 498,
+              "open_to_max": 498
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-8a946 QuikTrip",
+      "target": 1000,
       "filled": 0,
       "fill_pct": 0.0,
       "ir": "0",
       "loi": "3",
-      "launch_date": "2026-08-17 18:15:50",
+      "launch_date": "2026-08-17 18:38:27",
       "oof": "8/31/2026",
       "status": "behind",
       "quotas": [
@@ -1762,6 +1920,18 @@
       "ir": "0",
       "loi": "4",
       "launch_date": "2026-08-17 18:16:51",
+      "oof": "8/31/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-3301a Bellisio Foods",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "3.5",
+      "launch_date": "2026-08-17 18:47:17",
       "oof": "8/31/2026",
       "status": "behind",
       "quotas": []

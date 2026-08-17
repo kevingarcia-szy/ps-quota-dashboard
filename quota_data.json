@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T11:01:33",
+  "last_updated": "2026-08-17T11:24:53",
   "mission_count": 12,
   "missions": [
     {
@@ -228,11 +228,11 @@
               "needed": 71,
               "fill_pct": 82.2,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 71,
-              "open_to_max": 71
+              "is_range": true,
+              "min_target": 320,
+              "max_target": 480,
+              "needed_to_min": 0,
+              "open_to_max": 151
             },
             {
               "label": "Male",
@@ -241,11 +241,11 @@
               "needed": 37,
               "fill_pct": 90.8,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 37,
-              "open_to_max": 37
+              "is_range": true,
+              "min_target": 320,
+              "max_target": 480,
+              "needed_to_min": 0,
+              "open_to_max": 117
             }
           ]
         },
@@ -259,11 +259,11 @@
               "needed": 108,
               "fill_pct": 84.1,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 108,
-              "open_to_max": 108
+              "is_range": true,
+              "min_target": 640,
+              "max_target": 720,
+              "needed_to_min": 68,
+              "open_to_max": 148
             },
             {
               "label": "Black / African American",
@@ -271,12 +271,12 @@
               "filled": 32,
               "needed": 0,
               "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
+              "is_paused": true,
+              "is_range": true,
               "min_target": 0,
-              "max_target": 0,
+              "max_target": 72,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 40
             },
             {
               "label": "Asian",
@@ -284,12 +284,12 @@
               "filled": 24,
               "needed": 0,
               "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
+              "is_paused": true,
+              "is_range": true,
               "min_target": 0,
-              "max_target": 0,
+              "max_target": 64,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 40
             },
             {
               "label": "Hispanic / Latino",
@@ -298,11 +298,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 24,
+              "max_target": 104,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 40
             },
             {
               "label": "Native American / Alaska Native",
@@ -311,7 +311,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": false,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -324,7 +324,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": false,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -337,7 +337,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": false,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -969,7 +969,7 @@
       "target": 1000,
       "filled": 919,
       "fill_pct": 91.9,
-      "ir": "44.2",
+      "ir": "44.1",
       "loi": "22.5",
       "launch_date": "2026-08-14 16:12:57",
       "oof": "9/13/2026",
@@ -1146,9 +1146,9 @@
     {
       "ref_name": "MIS-31856 Coca-Cola US TCR Main",
       "target": 660,
-      "filled": 564,
-      "fill_pct": 85.5,
-      "ir": "38.3",
+      "filled": 565,
+      "fill_pct": 85.6,
+      "ir": "37.6",
       "loi": "19.5",
       "launch_date": "2026-08-14 18:57:54",
       "oof": "9/3/2026",
@@ -1173,15 +1173,15 @@
             {
               "label": "Other Brand Consumer",
               "target": 165,
-              "filled": 65,
-              "needed": 100,
-              "fill_pct": 39.4,
+              "filled": 66,
+              "needed": 99,
+              "fill_pct": 40.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 100,
-              "open_to_max": 100
+              "needed_to_min": 99,
+              "open_to_max": 99
             },
             {
               "label": "None of the above",
@@ -1204,15 +1204,15 @@
             {
               "label": "Female",
               "target": 330,
-              "filled": 310,
-              "needed": 20,
-              "fill_pct": 93.9,
+              "filled": 311,
+              "needed": 19,
+              "fill_pct": 94.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 20,
-              "open_to_max": 20
+              "needed_to_min": 19,
+              "open_to_max": 19
             },
             {
               "label": "Male",
@@ -1358,7 +1358,7 @@
       "target": 1000,
       "filled": 998,
       "fill_pct": 99.8,
-      "ir": "28.3",
+      "ir": "28.2",
       "loi": "1.5",
       "launch_date": "2026-08-14 19:47:21",
       "oof": "8/28/2026",

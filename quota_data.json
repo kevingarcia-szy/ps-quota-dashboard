@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T12:59:34",
-  "mission_count": 13,
+  "last_updated": "2026-08-17T13:23:27",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-035c2 AlixPartners",
@@ -210,8 +210,8 @@
     {
       "ref_name": "MIS-0c15e Sazerac",
       "target": 800,
-      "filled": 692,
-      "fill_pct": 86.5,
+      "filled": 693,
+      "fill_pct": 86.6,
       "ir": "28.5",
       "loi": "11",
       "launch_date": "2026-08-04 11:09:41",
@@ -237,15 +237,15 @@
             {
               "label": "Male",
               "target": 400,
-              "filled": 363,
-              "needed": 37,
-              "fill_pct": 90.8,
+              "filled": 364,
+              "needed": 36,
+              "fill_pct": 91.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 320,
               "max_target": 480,
               "needed_to_min": 0,
-              "open_to_max": 117
+              "open_to_max": 116
             }
           ]
         },
@@ -255,15 +255,15 @@
             {
               "label": "White / Caucasian",
               "target": 680,
-              "filled": 572,
-              "needed": 108,
-              "fill_pct": 84.1,
+              "filled": 573,
+              "needed": 107,
+              "fill_pct": 84.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 640,
               "max_target": 720,
-              "needed_to_min": 68,
-              "open_to_max": 148
+              "needed_to_min": 67,
+              "open_to_max": 147
             },
             {
               "label": "Black / African American",
@@ -1148,7 +1148,7 @@
       "target": 660,
       "filled": 566,
       "fill_pct": 85.8,
-      "ir": "36.6",
+      "ir": "36.4",
       "loi": "19.5",
       "launch_date": "2026-08-14 18:57:54",
       "oof": "9/3/2026",
@@ -1722,9 +1722,9 @@
     {
       "ref_name": "MIS-0eac2 Hearst Corporation",
       "target": 450,
-      "filled": 84,
-      "fill_pct": 18.7,
-      "ir": "43.3",
+      "filled": 163,
+      "fill_pct": 36.2,
+      "ir": "44.4",
       "loi": "3",
       "launch_date": "2026-08-17 15:22:47",
       "oof": "8/31/2026",
@@ -1770,6 +1770,120 @@
               "max_target": 0,
               "needed_to_min": 700,
               "open_to_max": 700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-744cd VMG Partners",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "16.5",
+      "launch_date": "2026-08-17 16:59:22",
+      "oof": "8/31/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Jesse & Bens Segment",
+          "cells": [
+            {
+              "label": "Current Buyer",
+              "target": 200,
+              "filled": 0,
+              "needed": 200,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 200,
+              "open_to_max": 200
+            },
+            {
+              "label": "Lapsed Buyer",
+              "target": 200,
+              "filled": 0,
+              "needed": 200,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 200,
+              "open_to_max": 200
+            },
+            {
+              "label": "Aware Non-Buyer",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "None of the above",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-a1b34 Kenvue US CBI Hair",
+      "target": 800,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "6",
+      "launch_date": "2026-08-17 17:10:03",
+      "oof": "8/31/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 640,
+              "filled": 0,
+              "needed": 640,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 640,
+              "open_to_max": 640
+            },
+            {
+              "label": "Male",
+              "target": 160,
+              "filled": 0,
+              "needed": 160,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 160,
+              "open_to_max": 160
             }
           ]
         }

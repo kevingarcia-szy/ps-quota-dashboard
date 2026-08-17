@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T09:27:15",
-  "mission_count": 13,
+  "last_updated": "2026-08-17T09:50:49",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-5e761 UTA - IQ",
@@ -802,6 +802,146 @@
       ]
     },
     {
+      "ref_name": "MIS-0c15e Sazerac",
+      "target": 800,
+      "filled": 692,
+      "fill_pct": 86.5,
+      "ir": "28.5",
+      "loi": "11",
+      "launch_date": "2026-08-04 11:09:41",
+      "oof": "8/18/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 400,
+              "filled": 329,
+              "needed": 71,
+              "fill_pct": 82.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 71,
+              "open_to_max": 71
+            },
+            {
+              "label": "Male",
+              "target": 400,
+              "filled": 363,
+              "needed": 37,
+              "fill_pct": 90.8,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 37,
+              "open_to_max": 37
+            }
+          ]
+        },
+        {
+          "group": "Which of the following best describes your race or ethnicity?",
+          "cells": [
+            {
+              "label": "White / Caucasian",
+              "target": 680,
+              "filled": 572,
+              "needed": 108,
+              "fill_pct": 84.1,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 108,
+              "open_to_max": 108
+            },
+            {
+              "label": "Black / African American",
+              "target": 32,
+              "filled": 32,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Asian",
+              "target": 24,
+              "filled": 24,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Hispanic / Latino",
+              "target": 64,
+              "filled": 64,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Native American / Alaska Native",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Prefer not to disclose",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Other",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-ee971 pladis North America, Inc.",
       "target": 1000,
       "filled": 1004,
@@ -1392,7 +1532,7 @@
       "target": 660,
       "filled": 561,
       "fill_pct": 85.0,
-      "ir": "40.7",
+      "ir": "40.6",
       "loi": "19.5",
       "launch_date": "2026-08-14 18:57:54",
       "oof": "9/3/2026",

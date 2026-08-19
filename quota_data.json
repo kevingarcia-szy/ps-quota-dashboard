@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T11:07:10",
-  "mission_count": 14,
+  "last_updated": "2026-08-19T11:31:00",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-971c9 Arc Worldwide",
@@ -730,8 +730,8 @@
     {
       "ref_name": "MIS-0c15e Sazerac",
       "target": 800,
-      "filled": 744,
-      "fill_pct": 93.0,
+      "filled": 745,
+      "fill_pct": 93.1,
       "ir": "28.3",
       "loi": "11",
       "launch_date": "2026-08-04 11:09:41",
@@ -757,15 +757,15 @@
             {
               "label": "Male",
               "target": 400,
-              "filled": 392,
-              "needed": 8,
-              "fill_pct": 98.0,
+              "filled": 393,
+              "needed": 7,
+              "fill_pct": 98.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 320,
               "max_target": 480,
               "needed_to_min": 0,
-              "open_to_max": 88
+              "open_to_max": 87
             }
           ]
         },
@@ -775,15 +775,15 @@
             {
               "label": "White / Caucasian",
               "target": 680,
-              "filled": 615,
-              "needed": 65,
-              "fill_pct": 90.4,
+              "filled": 616,
+              "needed": 64,
+              "fill_pct": 90.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 640,
               "max_target": 720,
-              "needed_to_min": 25,
-              "open_to_max": 105
+              "needed_to_min": 24,
+              "open_to_max": 104
             },
             {
               "label": "Black / African American",
@@ -1381,9 +1381,9 @@
     {
       "ref_name": "MIS-90d80 Perrigo",
       "target": 1400,
-      "filled": 1371,
-      "fill_pct": 97.9,
-      "ir": "87",
+      "filled": 1393,
+      "fill_pct": 99.5,
+      "ir": "87.2",
       "loi": "9",
       "launch_date": "2026-08-17 15:55:04",
       "oof": "8/31/2026",
@@ -1395,15 +1395,15 @@
             {
               "label": "18 - 44",
               "target": 700,
-              "filled": 670,
-              "needed": 30,
-              "fill_pct": 95.7,
+              "filled": 692,
+              "needed": 8,
+              "fill_pct": 98.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 30,
-              "open_to_max": 30
+              "needed_to_min": 8,
+              "open_to_max": 8
             },
             {
               "label": "45 - 80",
@@ -1425,9 +1425,9 @@
     {
       "ref_name": "MIS-744cd VMG Partners",
       "target": 1000,
-      "filled": 734,
-      "fill_pct": 73.4,
-      "ir": "22.4",
+      "filled": 743,
+      "fill_pct": 74.3,
+      "ir": "22",
       "loi": "16.5",
       "launch_date": "2026-08-17 16:59:22",
       "oof": "8/31/2026",
@@ -1439,41 +1439,41 @@
             {
               "label": "Current Buyer",
               "target": 200,
-              "filled": 132,
-              "needed": 68,
-              "fill_pct": 66.0,
+              "filled": 135,
+              "needed": 65,
+              "fill_pct": 67.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 150,
               "max_target": 250,
-              "needed_to_min": 18,
-              "open_to_max": 118
+              "needed_to_min": 15,
+              "open_to_max": 115
             },
             {
               "label": "Lapsed Buyer",
               "target": 200,
-              "filled": 90,
-              "needed": 110,
-              "fill_pct": 45.0,
+              "filled": 95,
+              "needed": 105,
+              "fill_pct": 47.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 150,
               "max_target": 250,
-              "needed_to_min": 60,
-              "open_to_max": 160
+              "needed_to_min": 55,
+              "open_to_max": 155
             },
             {
               "label": "Aware Non-Buyer",
               "target": 300,
-              "filled": 73,
-              "needed": 227,
-              "fill_pct": 24.3,
+              "filled": 74,
+              "needed": 226,
+              "fill_pct": 24.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 250,
               "max_target": 350,
-              "needed_to_min": 177,
-              "open_to_max": 277
+              "needed_to_min": 176,
+              "open_to_max": 276
             },
             {
               "label": "None of the above",
@@ -1495,14 +1495,71 @@
     {
       "ref_name": "MIS-3edef Bellisio Foods",
       "target": 250,
-      "filled": 187,
-      "fill_pct": 74.8,
-      "ir": "8.5",
+      "filled": 206,
+      "fill_pct": 82.4,
+      "ir": "8.7",
       "loi": "3",
       "launch_date": "2026-08-17 19:04:19",
       "oof": "8/31/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-96b74 US Bank Payments Team",
+      "target": 500,
+      "filled": 238,
+      "fill_pct": 47.6,
+      "ir": "20.1",
+      "loi": "18",
+      "launch_date": "2026-08-17 19:03:58",
+      "oof": "9/6/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Ameriprise",
+          "cells": [
+            {
+              "label": "Ameriprise",
+              "target": 250,
+              "filled": 45,
+              "needed": 205,
+              "fill_pct": 18.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 205,
+              "open_to_max": 205
+            },
+            {
+              "label": "NOT -  Ameriprise",
+              "target": 250,
+              "filled": 193,
+              "needed": 57,
+              "fill_pct": 77.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 57,
+              "open_to_max": 57
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
     },
     {
       "ref_name": "MIS-c2133 AlixPartners",
@@ -1725,9 +1782,9 @@
     {
       "ref_name": "MIS-539ee Bausch + Lomb - Rx",
       "target": 1000,
-      "filled": 413,
-      "fill_pct": 41.3,
-      "ir": "19.7",
+      "filled": 414,
+      "fill_pct": 41.4,
+      "ir": "19.8",
       "loi": "16.5",
       "launch_date": "2026-08-18 17:38:48",
       "oof": "9/1/2026",
@@ -1804,15 +1861,15 @@
             {
               "label": "Female | OTC User",
               "target": 60,
-              "filled": 58,
-              "needed": 2,
-              "fill_pct": 96.7,
+              "filled": 59,
+              "needed": 1,
+              "fill_pct": 98.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 1,
+              "open_to_max": 1
             },
             {
               "label": "Female | None of the above",
@@ -1977,9 +2034,9 @@
     {
       "ref_name": "MIS-96c26 Scotts Miracle-Gro",
       "target": 1000,
-      "filled": 661,
-      "fill_pct": 66.1,
-      "ir": "69.2",
+      "filled": 664,
+      "fill_pct": 66.4,
+      "ir": "68.3",
       "loi": "6",
       "launch_date": "2026-08-18 18:09:43",
       "oof": "9/1/2026",
@@ -2004,15 +2061,15 @@
             {
               "label": "45 - 99",
               "target": 500,
-              "filled": 390,
-              "needed": 110,
-              "fill_pct": 78.0,
+              "filled": 393,
+              "needed": 107,
+              "fill_pct": 78.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 110,
-              "open_to_max": 110
+              "needed_to_min": 107,
+              "open_to_max": 107
             }
           ]
         },
@@ -2022,15 +2079,15 @@
             {
               "label": "Female",
               "target": 550,
-              "filled": 427,
-              "needed": 123,
-              "fill_pct": 77.6,
+              "filled": 430,
+              "needed": 120,
+              "fill_pct": 78.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 123,
-              "open_to_max": 123
+              "needed_to_min": 120,
+              "open_to_max": 120
             },
             {
               "label": "Male",
@@ -2053,15 +2110,15 @@
             {
               "label": "Weed Prevention Consumer",
               "target": 500,
-              "filled": 145,
-              "needed": 355,
-              "fill_pct": 29.0,
+              "filled": 148,
+              "needed": 352,
+              "fill_pct": 29.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 355,
-              "open_to_max": 355
+              "needed_to_min": 352,
+              "open_to_max": 352
             },
             {
               "label": "Weed Prevention Non-Consumer",
@@ -2096,9 +2153,9 @@
     {
       "ref_name": "MIS-5d4ce pladis North America, Inc.",
       "target": 1000,
-      "filled": 235,
-      "fill_pct": 23.5,
-      "ir": "19.4",
+      "filled": 247,
+      "fill_pct": 24.7,
+      "ir": "19.6",
       "loi": "3.5",
       "launch_date": "2026-08-18 21:14:59",
       "oof": "9/1/2026",
@@ -2110,28 +2167,28 @@
             {
               "label": "Target",
               "target": 300,
-              "filled": 73,
-              "needed": 227,
-              "fill_pct": 24.3,
+              "filled": 74,
+              "needed": 226,
+              "fill_pct": 24.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 227,
-              "open_to_max": 227
+              "needed_to_min": 226,
+              "open_to_max": 226
             },
             {
               "label": "Other Retailers",
               "target": 700,
-              "filled": 162,
-              "needed": 538,
-              "fill_pct": 23.1,
+              "filled": 173,
+              "needed": 527,
+              "fill_pct": 24.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 538,
-              "open_to_max": 538
+              "needed_to_min": 527,
+              "open_to_max": 527
             },
             {
               "label": "None of the above",

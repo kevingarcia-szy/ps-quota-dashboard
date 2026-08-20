@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T14:06:20",
-  "mission_count": 19,
+  "last_updated": "2026-08-20T14:30:51",
+  "mission_count": 20,
   "missions": [
     {
       "ref_name": "MIS-de3ec",
@@ -1152,9 +1152,9 @@
     {
       "ref_name": "MIS-96c26",
       "target": 1000,
-      "filled": 966,
-      "fill_pct": 96.6,
-      "ir": "43.1",
+      "filled": 968,
+      "fill_pct": 96.8,
+      "ir": "43",
       "loi": "6",
       "launch_date": "2026-08-18 18:09:43",
       "oof": "9/1/2026",
@@ -1166,15 +1166,15 @@
             {
               "label": "18 - 44",
               "target": 500,
-              "filled": 450,
-              "needed": 50,
-              "fill_pct": 90.0,
+              "filled": 452,
+              "needed": 48,
+              "fill_pct": 90.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 50,
-              "open_to_max": 50
+              "needed_to_min": 48,
+              "open_to_max": 48
             },
             {
               "label": "45 - 99",
@@ -1210,15 +1210,15 @@
             {
               "label": "Male",
               "target": 450,
-              "filled": 417,
-              "needed": 33,
-              "fill_pct": 92.7,
+              "filled": 419,
+              "needed": 31,
+              "fill_pct": 93.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 33,
-              "open_to_max": 33
+              "needed_to_min": 31,
+              "open_to_max": 31
             }
           ]
         },
@@ -1228,15 +1228,15 @@
             {
               "label": "Weed Prevention Consumer",
               "target": 500,
-              "filled": 434,
-              "needed": 66,
-              "fill_pct": 86.8,
+              "filled": 436,
+              "needed": 64,
+              "fill_pct": 87.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 64,
+              "open_to_max": 64
             },
             {
               "label": "Weed Prevention Non-Consumer",
@@ -1271,9 +1271,9 @@
     {
       "ref_name": "MIS-6a868",
       "target": 1000,
-      "filled": 898,
-      "fill_pct": 89.8,
-      "ir": "45.4",
+      "filled": 899,
+      "fill_pct": 89.9,
+      "ir": "45.3",
       "loi": "13",
       "launch_date": "2026-08-19 16:49:29",
       "oof": "9/3/2026",
@@ -1298,15 +1298,15 @@
             {
               "label": "45 - 99",
               "target": 450,
-              "filled": 474,
+              "filled": 475,
               "needed": 0,
-              "fill_pct": 105.3,
+              "fill_pct": 105.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 500,
               "needed_to_min": 0,
-              "open_to_max": 26
+              "open_to_max": 25
             }
           ]
         },
@@ -1329,15 +1329,15 @@
             {
               "label": "Non-Repellent Consumers",
               "target": 350,
-              "filled": 130,
-              "needed": 220,
-              "fill_pct": 37.1,
+              "filled": 131,
+              "needed": 219,
+              "fill_pct": 37.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 300,
               "max_target": 400,
-              "needed_to_min": 170,
-              "open_to_max": 270
+              "needed_to_min": 169,
+              "open_to_max": 269
             },
             {
               "label": "Non-Consumers",
@@ -1373,15 +1373,15 @@
             {
               "label": "Tomcat Consumer",
               "target": 380,
-              "filled": 242,
-              "needed": 138,
-              "fill_pct": 63.7,
+              "filled": 243,
+              "needed": 137,
+              "fill_pct": 63.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 330,
               "max_target": 430,
-              "needed_to_min": 88,
-              "open_to_max": 188
+              "needed_to_min": 87,
+              "open_to_max": 187
             },
             {
               "label": "Competitor Consumer",
@@ -1471,11 +1471,68 @@
       ]
     },
     {
+      "ref_name": "MIS-12ad7",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-08-20 18:22:02",
+      "oof": "9/3/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Donut Shop vs Other Pods",
+          "cells": [
+            {
+              "label": "Donut Shop",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Other Coffee Pods",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-d2abd",
       "target": 400,
-      "filled": 361,
-      "fill_pct": 90.2,
-      "ir": "31.3",
+      "filled": 364,
+      "fill_pct": 91.0,
+      "ir": "31.4",
       "loi": "3.5",
       "launch_date": "2026-08-19 19:33:41",
       "oof": "9/2/2026",
@@ -1630,8 +1687,8 @@
     {
       "ref_name": "MIS-3f81f",
       "target": 1000,
-      "filled": 334,
-      "fill_pct": 33.4,
+      "filled": 335,
+      "fill_pct": 33.5,
       "ir": "66.1",
       "loi": "5",
       "launch_date": "2026-08-19 22:06:35",
@@ -1642,9 +1699,9 @@
     {
       "ref_name": "MIS-94985",
       "target": 500,
-      "filled": 410,
-      "fill_pct": 82.0,
-      "ir": "34.3",
+      "filled": 424,
+      "fill_pct": 84.8,
+      "ir": "34.5",
       "loi": "5.5",
       "launch_date": "2026-08-20 11:24:38",
       "oof": "9/3/2026",
@@ -1656,7 +1713,7 @@
       "target": 1000,
       "filled": 3,
       "fill_pct": 0.3,
-      "ir": "42.9",
+      "ir": "37.5",
       "loi": "6.5",
       "launch_date": "2026-08-20 14:08:29",
       "oof": "9/3/2026",
@@ -1712,7 +1769,7 @@
       "target": 1000,
       "filled": 1,
       "fill_pct": 0.1,
-      "ir": "33.3",
+      "ir": "25",
       "loi": "11.5",
       "launch_date": "2026-08-20 15:26:24",
       "oof": "9/19/2026",

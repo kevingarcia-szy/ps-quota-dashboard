@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T14:30:51",
-  "mission_count": 20,
+  "last_updated": "2026-08-20T14:55:22",
+  "mission_count": 19,
   "missions": [
     {
       "ref_name": "MIS-de3ec",
@@ -1152,9 +1152,9 @@
     {
       "ref_name": "MIS-96c26",
       "target": 1000,
-      "filled": 968,
-      "fill_pct": 96.8,
-      "ir": "43",
+      "filled": 970,
+      "fill_pct": 97.0,
+      "ir": "42.9",
       "loi": "6",
       "launch_date": "2026-08-18 18:09:43",
       "oof": "9/1/2026",
@@ -1166,15 +1166,15 @@
             {
               "label": "18 - 44",
               "target": 500,
-              "filled": 452,
-              "needed": 48,
-              "fill_pct": 90.4,
+              "filled": 454,
+              "needed": 46,
+              "fill_pct": 90.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 48,
-              "open_to_max": 48
+              "needed_to_min": 46,
+              "open_to_max": 46
             },
             {
               "label": "45 - 99",
@@ -1210,15 +1210,15 @@
             {
               "label": "Male",
               "target": 450,
-              "filled": 419,
-              "needed": 31,
-              "fill_pct": 93.1,
+              "filled": 421,
+              "needed": 29,
+              "fill_pct": 93.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 31,
-              "open_to_max": 31
+              "needed_to_min": 29,
+              "open_to_max": 29
             }
           ]
         },
@@ -1228,15 +1228,15 @@
             {
               "label": "Weed Prevention Consumer",
               "target": 500,
-              "filled": 436,
-              "needed": 64,
-              "fill_pct": 87.2,
+              "filled": 438,
+              "needed": 62,
+              "fill_pct": 87.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 64,
-              "open_to_max": 64
+              "needed_to_min": 62,
+              "open_to_max": 62
             },
             {
               "label": "Weed Prevention Non-Consumer",
@@ -1271,13 +1271,13 @@
     {
       "ref_name": "MIS-6a868",
       "target": 1000,
-      "filled": 899,
-      "fill_pct": 89.9,
-      "ir": "45.3",
+      "filled": 736,
+      "fill_pct": 73.6,
+      "ir": "40.3",
       "loi": "13",
       "launch_date": "2026-08-19 16:49:29",
       "oof": "9/3/2026",
-      "status": "on_track",
+      "status": "watch",
       "quotas": [
         {
           "group": "Age",
@@ -1285,28 +1285,28 @@
             {
               "label": "18 - 44",
               "target": 550,
-              "filled": 424,
-              "needed": 126,
-              "fill_pct": 77.1,
+              "filled": 350,
+              "needed": 200,
+              "fill_pct": 63.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 500,
               "max_target": 600,
-              "needed_to_min": 76,
-              "open_to_max": 176
+              "needed_to_min": 150,
+              "open_to_max": 250
             },
             {
               "label": "45 - 99",
               "target": 450,
-              "filled": 475,
-              "needed": 0,
-              "fill_pct": 105.6,
+              "filled": 386,
+              "needed": 64,
+              "fill_pct": 85.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 500,
-              "needed_to_min": 0,
-              "open_to_max": 25
+              "needed_to_min": 14,
+              "open_to_max": 114
             }
           ]
         },
@@ -1316,35 +1316,35 @@
             {
               "label": "Repellent Consumers",
               "target": 400,
-              "filled": 238,
-              "needed": 162,
-              "fill_pct": 59.5,
+              "filled": 207,
+              "needed": 193,
+              "fill_pct": 51.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 350,
               "max_target": 450,
-              "needed_to_min": 112,
-              "open_to_max": 212
+              "needed_to_min": 143,
+              "open_to_max": 243
             },
             {
               "label": "Non-Repellent Consumers",
               "target": 350,
-              "filled": 131,
-              "needed": 219,
-              "fill_pct": 37.4,
+              "filled": 106,
+              "needed": 244,
+              "fill_pct": 30.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 300,
               "max_target": 400,
-              "needed_to_min": 169,
-              "open_to_max": 269
+              "needed_to_min": 194,
+              "open_to_max": 294
             },
             {
               "label": "Non-Consumers",
               "target": 250,
-              "filled": 530,
+              "filled": 423,
               "needed": 0,
-              "fill_pct": 212.0,
+              "fill_pct": 169.2,
               "is_paused": true,
               "is_range": true,
               "min_target": 200,
@@ -1373,153 +1373,39 @@
             {
               "label": "Tomcat Consumer",
               "target": 380,
-              "filled": 243,
-              "needed": 137,
-              "fill_pct": 63.9,
+              "filled": 204,
+              "needed": 176,
+              "fill_pct": 53.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 330,
               "max_target": 430,
-              "needed_to_min": 87,
-              "open_to_max": 187
+              "needed_to_min": 126,
+              "open_to_max": 226
             },
             {
               "label": "Competitor Consumer",
               "target": 370,
-              "filled": 126,
-              "needed": 244,
-              "fill_pct": 34.1,
+              "filled": 109,
+              "needed": 261,
+              "fill_pct": 29.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 320,
               "max_target": 420,
-              "needed_to_min": 194,
-              "open_to_max": 294
+              "needed_to_min": 211,
+              "open_to_max": 311
             },
             {
               "label": "None of the above",
               "target": 250,
-              "filled": 530,
+              "filled": 423,
               "needed": 0,
-              "fill_pct": 212.0,
+              "fill_pct": 169.2,
               "is_paused": true,
               "is_range": true,
               "min_target": 200,
               "max_target": 300,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-5d4ce",
-      "target": 1000,
-      "filled": 943,
-      "fill_pct": 94.3,
-      "ir": "15.7",
-      "loi": "3.5",
-      "launch_date": "2026-08-18 21:14:59",
-      "oof": "9/1/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Target vs. Other Retailers",
-          "cells": [
-            {
-              "label": "Target",
-              "target": 300,
-              "filled": 300,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Other Retailers",
-              "target": 700,
-              "filled": 643,
-              "needed": 57,
-              "fill_pct": 91.9,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 57,
-              "open_to_max": 57
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": true,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-12ad7",
-      "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
-      "loi": "2.5",
-      "launch_date": "2026-08-20 18:22:02",
-      "oof": "9/3/2026",
-      "status": "behind",
-      "quotas": [
-        {
-          "group": "Donut Shop vs Other Pods",
-          "cells": [
-            {
-              "label": "Donut Shop",
-              "target": 300,
-              "filled": 0,
-              "needed": 300,
-              "fill_pct": 0.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 300,
-              "open_to_max": 300
-            },
-            {
-              "label": "Other Coffee Pods",
-              "target": 700,
-              "filled": 0,
-              "needed": 700,
-              "fill_pct": 0.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 700,
-              "open_to_max": 700
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": true,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
             }
@@ -1699,9 +1585,9 @@
     {
       "ref_name": "MIS-94985",
       "target": 500,
-      "filled": 424,
-      "fill_pct": 84.8,
-      "ir": "34.5",
+      "filled": 425,
+      "fill_pct": 85.0,
+      "ir": "34.1",
       "loi": "5.5",
       "launch_date": "2026-08-20 11:24:38",
       "oof": "9/3/2026",
@@ -1713,7 +1599,7 @@
       "target": 1000,
       "filled": 3,
       "fill_pct": 0.3,
-      "ir": "37.5",
+      "ir": "27.3",
       "loi": "6.5",
       "launch_date": "2026-08-20 14:08:29",
       "oof": "9/3/2026",
@@ -1725,7 +1611,7 @@
       "target": 500,
       "filled": 1,
       "fill_pct": 0.2,
-      "ir": "20",
+      "ir": "16.7",
       "loi": "4.5",
       "launch_date": "2026-08-20 15:07:24",
       "oof": "9/3/2026",
@@ -1974,6 +1860,63 @@
               "max_target": 0,
               "needed_to_min": 250,
               "open_to_max": 250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-12ad7",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-08-20 18:22:02",
+      "oof": "9/3/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Donut Shop vs Other Pods",
+          "cells": [
+            {
+              "label": "Donut Shop",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Other Coffee Pods",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }

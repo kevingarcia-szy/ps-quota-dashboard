@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T11:00:30",
+  "last_updated": "2026-08-21T11:25:23",
   "mission_count": 17,
   "missions": [
     {
@@ -145,8 +145,8 @@
     {
       "ref_name": "MIS-e6fe4",
       "target": 1000,
-      "filled": 505,
-      "fill_pct": 50.5,
+      "filled": 515,
+      "fill_pct": 51.5,
       "ir": "31.6",
       "loi": "4",
       "launch_date": "2026-08-20 17:54:45",
@@ -172,35 +172,48 @@
             {
               "label": "25 - 34 | Male",
               "target": 170,
-              "filled": 79,
-              "needed": 91,
-              "fill_pct": 46.5,
+              "filled": 81,
+              "needed": 89,
+              "fill_pct": 47.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 91,
-              "open_to_max": 91
+              "needed_to_min": 89,
+              "open_to_max": 89
             },
             {
               "label": "35 - 44 | Female",
               "target": 170,
-              "filled": 106,
-              "needed": 64,
-              "fill_pct": 62.4,
+              "filled": 107,
+              "needed": 63,
+              "fill_pct": 62.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 64,
-              "open_to_max": 64
+              "needed_to_min": 63,
+              "open_to_max": 63
             },
             {
               "label": "35 - 44 | Male",
               "target": 170,
-              "filled": 97,
+              "filled": 100,
+              "needed": 70,
+              "fill_pct": 58.8,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 70,
+              "open_to_max": 70
+            },
+            {
+              "label": "45 - 54 | Female",
+              "target": 160,
+              "filled": 87,
               "needed": 73,
-              "fill_pct": 57.1,
+              "fill_pct": 54.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -209,30 +222,17 @@
               "open_to_max": 73
             },
             {
-              "label": "45 - 54 | Female",
-              "target": 160,
-              "filled": 84,
-              "needed": 76,
-              "fill_pct": 52.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 76,
-              "open_to_max": 76
-            },
-            {
               "label": "45 - 54 | Male",
               "target": 160,
-              "filled": 73,
-              "needed": 87,
-              "fill_pct": 45.6,
+              "filled": 74,
+              "needed": 86,
+              "fill_pct": 46.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 87,
-              "open_to_max": 87
+              "needed_to_min": 86,
+              "open_to_max": 86
             }
           ]
         }
@@ -243,7 +243,7 @@
       "target": 1000,
       "filled": 989,
       "fill_pct": 98.9,
-      "ir": "40.2",
+      "ir": "39.7",
       "loi": "22.5",
       "launch_date": "2026-08-14 16:12:57",
       "oof": "9/13/2026",
@@ -760,9 +760,9 @@
     {
       "ref_name": "MIS-539ee",
       "target": 1000,
-      "filled": 418,
-      "fill_pct": 41.8,
-      "ir": "12.9",
+      "filled": 419,
+      "fill_pct": 41.9,
+      "ir": "12.8",
       "loi": "16.5",
       "launch_date": "2026-08-18 17:38:48",
       "oof": "9/1/2026",
@@ -917,15 +917,15 @@
             {
               "label": "Male | Rx User",
               "target": 20,
-              "filled": 16,
-              "needed": 4,
-              "fill_pct": 80.0,
+              "filled": 17,
+              "needed": 3,
+              "fill_pct": 85.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 3,
+              "open_to_max": 3
             },
             {
               "label": "Male | OTC User",
@@ -1014,7 +1014,7 @@
       "target": 1000,
       "filled": 999,
       "fill_pct": 99.9,
-      "ir": "42.2",
+      "ir": "41.9",
       "loi": "6",
       "launch_date": "2026-08-18 18:09:43",
       "oof": "9/1/2026",
@@ -1276,9 +1276,9 @@
     {
       "ref_name": "MIS-06137",
       "target": 1150,
-      "filled": 942,
-      "fill_pct": 81.9,
-      "ir": "36.8",
+      "filled": 955,
+      "fill_pct": 83.0,
+      "ir": "36.5",
       "loi": "19.5",
       "launch_date": "2026-08-19 20:23:00",
       "oof": "9/2/2026",
@@ -1290,28 +1290,28 @@
             {
               "label": "Past 12-Month Avaline Drinkers",
               "target": 173,
-              "filled": 179,
+              "filled": 180,
               "needed": 0,
-              "fill_pct": 103.5,
+              "fill_pct": 104.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 115,
               "max_target": 230,
               "needed_to_min": 0,
-              "open_to_max": 51
+              "open_to_max": 50
             },
             {
               "label": "Past 12-Month Avaline NON Drinkers",
               "target": 978,
-              "filled": 740,
-              "needed": 238,
-              "fill_pct": 75.7,
+              "filled": 752,
+              "needed": 226,
+              "fill_pct": 76.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 920,
               "max_target": 1035,
-              "needed_to_min": 180,
-              "open_to_max": 295
+              "needed_to_min": 168,
+              "open_to_max": 283
             },
             {
               "label": "None of the above",
@@ -1347,15 +1347,15 @@
             {
               "label": "Past 12-Month Box Wine NON Consumers",
               "target": 863,
-              "filled": 488,
-              "needed": 375,
-              "fill_pct": 56.5,
+              "filled": 501,
+              "needed": 362,
+              "fill_pct": 58.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 805,
               "max_target": 920,
-              "needed_to_min": 317,
-              "open_to_max": 432
+              "needed_to_min": 304,
+              "open_to_max": 419
             },
             {
               "label": "None of the above",
@@ -1378,28 +1378,28 @@
             {
               "label": "Premium Wine Spenders ($10+/bottle)",
               "target": 805,
-              "filled": 790,
-              "needed": 15,
-              "fill_pct": 98.1,
+              "filled": 800,
+              "needed": 5,
+              "fill_pct": 99.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 690,
               "max_target": 920,
               "needed_to_min": 0,
-              "open_to_max": 130
+              "open_to_max": 120
             },
             {
               "label": "Non-Premium Wine Spenders (<$10/bottle)",
               "target": 345,
-              "filled": 129,
-              "needed": 216,
-              "fill_pct": 37.4,
+              "filled": 132,
+              "needed": 213,
+              "fill_pct": 38.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 230,
               "max_target": 460,
-              "needed_to_min": 101,
-              "open_to_max": 331
+              "needed_to_min": 98,
+              "open_to_max": 328
             },
             {
               "label": "None of the above",
@@ -1445,9 +1445,9 @@
     {
       "ref_name": "MIS-7aa8f",
       "target": 1000,
-      "filled": 248,
-      "fill_pct": 24.8,
-      "ir": "47.5",
+      "filled": 264,
+      "fill_pct": 26.4,
+      "ir": "48.3",
       "loi": "11.5",
       "launch_date": "2026-08-20 15:26:24",
       "oof": "9/19/2026",
@@ -1459,28 +1459,28 @@
             {
               "label": "Female",
               "target": 500,
-              "filled": 171,
-              "needed": 329,
-              "fill_pct": 34.2,
+              "filled": 182,
+              "needed": 318,
+              "fill_pct": 36.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 329,
-              "open_to_max": 329
+              "needed_to_min": 318,
+              "open_to_max": 318
             },
             {
               "label": "Male",
               "target": 500,
-              "filled": 77,
-              "needed": 423,
-              "fill_pct": 15.4,
+              "filled": 82,
+              "needed": 418,
+              "fill_pct": 16.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 423,
-              "open_to_max": 423
+              "needed_to_min": 418,
+              "open_to_max": 418
             }
           ]
         },
@@ -1490,88 +1490,18 @@
             {
               "label": "Northeast",
               "target": 250,
-              "filled": 41,
-              "needed": 209,
-              "fill_pct": 16.4,
+              "filled": 46,
+              "needed": 204,
+              "fill_pct": 18.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 209,
-              "open_to_max": 209
+              "needed_to_min": 204,
+              "open_to_max": 204
             },
             {
               "label": "Midwest",
-              "target": 250,
-              "filled": 35,
-              "needed": 215,
-              "fill_pct": 14.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 215,
-              "open_to_max": 215
-            },
-            {
-              "label": "South",
-              "target": 250,
-              "filled": 127,
-              "needed": 123,
-              "fill_pct": 50.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 123,
-              "open_to_max": 123
-            },
-            {
-              "label": "West",
-              "target": 250,
-              "filled": 45,
-              "needed": 205,
-              "fill_pct": 18.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 205,
-              "open_to_max": 205
-            }
-          ]
-        },
-        {
-          "group": "What is your total annual income before taxes?",
-          "cells": [
-            {
-              "label": "Less than $50,000",
-              "target": 250,
-              "filled": 142,
-              "needed": 108,
-              "fill_pct": 56.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 108,
-              "open_to_max": 108
-            },
-            {
-              "label": "$50,000 to $99,999",
-              "target": 250,
-              "filled": 51,
-              "needed": 199,
-              "fill_pct": 20.4,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 199,
-              "open_to_max": 199
-            },
-            {
-              "label": "$100,000 to $149,999",
               "target": 250,
               "filled": 36,
               "needed": 214,
@@ -1582,6 +1512,76 @@
               "max_target": 0,
               "needed_to_min": 214,
               "open_to_max": 214
+            },
+            {
+              "label": "South",
+              "target": 250,
+              "filled": 135,
+              "needed": 115,
+              "fill_pct": 54.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 115,
+              "open_to_max": 115
+            },
+            {
+              "label": "West",
+              "target": 250,
+              "filled": 47,
+              "needed": 203,
+              "fill_pct": 18.8,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 203,
+              "open_to_max": 203
+            }
+          ]
+        },
+        {
+          "group": "What is your total annual income before taxes?",
+          "cells": [
+            {
+              "label": "Less than $50,000",
+              "target": 250,
+              "filled": 148,
+              "needed": 102,
+              "fill_pct": 59.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 102,
+              "open_to_max": 102
+            },
+            {
+              "label": "$50,000 to $99,999",
+              "target": 250,
+              "filled": 56,
+              "needed": 194,
+              "fill_pct": 22.4,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 194,
+              "open_to_max": 194
+            },
+            {
+              "label": "$100,000 to $149,999",
+              "target": 250,
+              "filled": 41,
+              "needed": 209,
+              "fill_pct": 16.4,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 209,
+              "open_to_max": 209
             },
             {
               "label": "$150,000 or more ",
@@ -1617,41 +1617,41 @@
             {
               "label": "30-45",
               "target": 250,
-              "filled": 22,
-              "needed": 228,
-              "fill_pct": 8.8,
+              "filled": 24,
+              "needed": 226,
+              "fill_pct": 9.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 228,
-              "open_to_max": 228
+              "needed_to_min": 226,
+              "open_to_max": 226
             },
             {
               "label": "46-61",
               "target": 250,
-              "filled": 101,
-              "needed": 149,
-              "fill_pct": 40.4,
+              "filled": 105,
+              "needed": 145,
+              "fill_pct": 42.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 149,
-              "open_to_max": 149
+              "needed_to_min": 145,
+              "open_to_max": 145
             },
             {
               "label": "62+",
               "target": 250,
-              "filled": 124,
-              "needed": 126,
-              "fill_pct": 49.6,
+              "filled": 134,
+              "needed": 116,
+              "fill_pct": 53.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 126,
-              "open_to_max": 126
+              "needed_to_min": 116,
+              "open_to_max": 116
             }
           ]
         }
@@ -1660,8 +1660,8 @@
     {
       "ref_name": "MIS-f79fb",
       "target": 1000,
-      "filled": 945,
-      "fill_pct": 94.5,
+      "filled": 992,
+      "fill_pct": 99.2,
       "ir": "100",
       "loi": "1",
       "launch_date": "2026-08-21 13:36:58",
@@ -1672,9 +1672,9 @@
     {
       "ref_name": "MIS-12ad7",
       "target": 1000,
-      "filled": 901,
-      "fill_pct": 90.1,
-      "ir": "24",
+      "filled": 909,
+      "fill_pct": 90.9,
+      "ir": "23.9",
       "loi": "2.5",
       "launch_date": "2026-08-20 18:22:02",
       "oof": "9/3/2026",
@@ -1699,15 +1699,15 @@
             {
               "label": "Other Coffee Pods",
               "target": 700,
-              "filled": 600,
-              "needed": 100,
-              "fill_pct": 85.7,
+              "filled": 608,
+              "needed": 92,
+              "fill_pct": 86.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 100,
-              "open_to_max": 100
+              "needed_to_min": 92,
+              "open_to_max": 92
             },
             {
               "label": "None of the above",
@@ -1731,7 +1731,7 @@
       "target": 250,
       "filled": 1,
       "fill_pct": 0.4,
-      "ir": "6.2",
+      "ir": "5.9",
       "loi": "5.5",
       "launch_date": "2026-08-20 20:56:33",
       "oof": "9/3/2026",

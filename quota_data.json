@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T19:22:58",
+  "last_updated": "2026-08-23T19:47:58",
   "mission_count": 26,
   "missions": [
     {
@@ -1193,13 +1193,13 @@
     {
       "ref_name": "MIS-539ee",
       "target": 1000,
-      "filled": 799,
-      "fill_pct": 79.9,
+      "filled": 801,
+      "fill_pct": 80.1,
       "ir": "12.6",
       "loi": "16.5",
       "launch_date": "2026-08-18 17:38:48",
       "oof": "9/1/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Gender x Medication Users",
@@ -1246,28 +1246,28 @@
             {
               "label": "Female | OTC User",
               "target": 60,
-              "filled": 53,
-              "needed": 7,
-              "fill_pct": 88.3,
+              "filled": 54,
+              "needed": 6,
+              "fill_pct": 90.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "Female | OTC User",
               "target": 255,
-              "filled": 158,
-              "needed": 97,
-              "fill_pct": 62.0,
+              "filled": 159,
+              "needed": 96,
+              "fill_pct": 62.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 97,
-              "open_to_max": 97
+              "needed_to_min": 96,
+              "open_to_max": 96
             },
             {
               "label": "Female | OTC User",
@@ -2020,9 +2020,9 @@
     {
       "ref_name": "MIS-06137",
       "target": 1150,
-      "filled": 1093,
-      "fill_pct": 95.0,
-      "ir": "28.4",
+      "filled": 1094,
+      "fill_pct": 95.1,
+      "ir": "28.3",
       "loi": "19.5",
       "launch_date": "2026-08-19 20:23:00",
       "oof": "9/2/2026",
@@ -2047,15 +2047,15 @@
             {
               "label": "Past 12-Month Avaline NON Drinkers",
               "target": 978,
-              "filled": 939,
-              "needed": 39,
-              "fill_pct": 96.0,
+              "filled": 940,
+              "needed": 38,
+              "fill_pct": 96.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 920,
               "max_target": 1035,
               "needed_to_min": 0,
-              "open_to_max": 96
+              "open_to_max": 95
             },
             {
               "label": "None of the above",
@@ -2091,15 +2091,15 @@
             {
               "label": "Past 12-Month Box Wine NON Consumers",
               "target": 863,
-              "filled": 719,
-              "needed": 144,
-              "fill_pct": 83.3,
+              "filled": 720,
+              "needed": 143,
+              "fill_pct": 83.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 805,
               "max_target": 920,
-              "needed_to_min": 86,
-              "open_to_max": 201
+              "needed_to_min": 85,
+              "open_to_max": 200
             },
             {
               "label": "None of the above",
@@ -2135,15 +2135,15 @@
             {
               "label": "Non-Premium Wine Spenders (<$10/bottle)",
               "target": 345,
-              "filled": 157,
-              "needed": 188,
-              "fill_pct": 45.5,
+              "filled": 158,
+              "needed": 187,
+              "fill_pct": 45.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 230,
               "max_target": 460,
-              "needed_to_min": 73,
-              "open_to_max": 303
+              "needed_to_min": 72,
+              "open_to_max": 302
             },
             {
               "label": "None of the above",
@@ -2179,7 +2179,7 @@
       "target": 1000,
       "filled": 829,
       "fill_pct": 82.9,
-      "ir": "38",
+      "ir": "37.9",
       "loi": "11.5",
       "launch_date": "2026-08-20 15:26:24",
       "oof": "9/19/2026",
@@ -2449,8 +2449,8 @@
     {
       "ref_name": "MIS-920e4",
       "target": 1500,
-      "filled": 1082,
-      "fill_pct": 72.1,
+      "filled": 1089,
+      "fill_pct": 72.6,
       "ir": "21.9",
       "loi": "14.5",
       "launch_date": "2026-08-21 14:23:50",
@@ -2476,41 +2476,41 @@
             {
               "label": "Female | 25-34",
               "target": 180,
-              "filled": 70,
-              "needed": 110,
-              "fill_pct": 38.9,
+              "filled": 71,
+              "needed": 109,
+              "fill_pct": 39.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 110,
-              "open_to_max": 110
+              "needed_to_min": 109,
+              "open_to_max": 109
             },
             {
               "label": "Female | 35-54",
               "target": 330,
-              "filled": 313,
+              "filled": 315,
+              "needed": 15,
+              "fill_pct": 95.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 15,
+              "open_to_max": 15
+            },
+            {
+              "label": "Female | 55-65",
+              "target": 180,
+              "filled": 163,
               "needed": 17,
-              "fill_pct": 94.8,
+              "fill_pct": 90.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 17,
               "open_to_max": 17
-            },
-            {
-              "label": "Female | 55-65",
-              "target": 180,
-              "filled": 161,
-              "needed": 19,
-              "fill_pct": 89.4,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 19,
-              "open_to_max": 19
             },
             {
               "label": "Male | 21-24",
@@ -2554,15 +2554,15 @@
             {
               "label": "Male | 55-65",
               "target": 165,
-              "filled": 107,
-              "needed": 58,
-              "fill_pct": 64.8,
+              "filled": 109,
+              "needed": 56,
+              "fill_pct": 66.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 58,
-              "open_to_max": 58
+              "needed_to_min": 56,
+              "open_to_max": 56
             }
           ]
         }
@@ -2791,7 +2791,7 @@
       "target": 1000,
       "filled": 785,
       "fill_pct": 78.5,
-      "ir": "30.8",
+      "ir": "30.7",
       "loi": "15.5",
       "launch_date": "2026-08-21 17:36:45",
       "oof": "9/4/2026",

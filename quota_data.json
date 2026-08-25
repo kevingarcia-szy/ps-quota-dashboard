@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-25T17:45:54",
-  "mission_count": 22,
+  "last_updated": "2026-08-25T18:10:38",
+  "mission_count": 21,
   "missions": [
     {
       "ref_name": "MIS-aef27",
       "target": 1000,
-      "filled": 926,
-      "fill_pct": 92.6,
-      "ir": "69.9",
+      "filled": 971,
+      "fill_pct": 97.1,
+      "ir": "69.8",
       "loi": "13",
       "launch_date": "2026-08-14 19:04:51",
       "oof": "8/28/2026",
@@ -19,41 +19,41 @@
             {
               "label": "15-24 | Female or Feminine",
               "target": 90,
-              "filled": 84,
-              "needed": 6,
-              "fill_pct": 93.3,
+              "filled": 88,
+              "needed": 2,
+              "fill_pct": 97.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 6,
-              "open_to_max": 6
+              "needed_to_min": 2,
+              "open_to_max": 2
             },
             {
               "label": "15-24 | Male or Masculine",
               "target": 90,
-              "filled": 61,
-              "needed": 29,
-              "fill_pct": 67.8,
+              "filled": 79,
+              "needed": 11,
+              "fill_pct": 87.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 29,
-              "open_to_max": 29
+              "needed_to_min": 11,
+              "open_to_max": 11
             },
             {
               "label": "25-34 | Female or Feminine",
               "target": 90,
-              "filled": 85,
-              "needed": 5,
-              "fill_pct": 94.4,
+              "filled": 93,
+              "needed": 0,
+              "fill_pct": 103.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "25-34 | Male or Masculine",
@@ -71,28 +71,28 @@
             {
               "label": "35-54 | Female or Feminine",
               "target": 170,
-              "filled": 161,
-              "needed": 9,
-              "fill_pct": 94.7,
+              "filled": 182,
+              "needed": 0,
+              "fill_pct": 107.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 9,
-              "open_to_max": 9
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "35-54 | Male or Masculine",
               "target": 170,
-              "filled": 160,
-              "needed": 10,
-              "fill_pct": 94.1,
+              "filled": 168,
+              "needed": 2,
+              "fill_pct": 98.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 10,
-              "open_to_max": 10
+              "needed_to_min": 2,
+              "open_to_max": 2
             },
             {
               "label": "55+ | Female or Feminine",
@@ -110,15 +110,15 @@
             {
               "label": "55+ | Male or Masculine",
               "target": 140,
-              "filled": 137,
-              "needed": 3,
-              "fill_pct": 97.9,
+              "filled": 147,
+              "needed": 0,
+              "fill_pct": 105.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }
@@ -1204,9 +1204,9 @@
     {
       "ref_name": "MIS-db39a",
       "target": 1000,
-      "filled": 979,
-      "fill_pct": 97.9,
-      "ir": "64.5",
+      "filled": 997,
+      "fill_pct": 99.7,
+      "ir": "63.7",
       "loi": "4",
       "launch_date": "2026-08-24 22:01:11",
       "oof": "9/7/2026",
@@ -1218,15 +1218,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 400,
-              "filled": 375,
-              "needed": 25,
-              "fill_pct": 93.8,
+              "filled": 391,
+              "needed": 9,
+              "fill_pct": 97.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
+              "needed_to_min": 9,
+              "open_to_max": 9
             },
             {
               "label": "Chocolate + CCSS + Pretzels Purchasers",
@@ -1259,68 +1259,11 @@
       ]
     },
     {
-      "ref_name": "MIS-7906b",
-      "target": 1000,
-      "filled": 1006,
-      "fill_pct": 100.6,
-      "ir": "64.3",
-      "loi": "4",
-      "launch_date": "2026-08-24 22:01:49",
-      "oof": "9/7/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Flipz & Choc + CCSS + Pretzels Groups",
-          "cells": [
-            {
-              "label": "Flipz Purchasers",
-              "target": 400,
-              "filled": 395,
-              "needed": 5,
-              "fill_pct": 98.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
-            },
-            {
-              "label": "Chocolate + CCSS + Pretzels Purchasers",
-              "target": 600,
-              "filled": 611,
-              "needed": 0,
-              "fill_pct": 101.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-70319",
       "target": 1000,
-      "filled": 972,
-      "fill_pct": 97.2,
-      "ir": "74.5",
+      "filled": 978,
+      "fill_pct": 97.8,
+      "ir": "74.2",
       "loi": "2.5",
       "launch_date": "2026-08-25 20:30:59",
       "oof": "9/8/2026",
@@ -1332,28 +1275,28 @@
             {
               "label": "Turtles Purchasers",
               "target": 300,
-              "filled": 273,
-              "needed": 27,
-              "fill_pct": 91.0,
+              "filled": 277,
+              "needed": 23,
+              "fill_pct": 92.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 27,
-              "open_to_max": 27
+              "needed_to_min": 23,
+              "open_to_max": 23
             },
             {
               "label": "Chocolate Purchasers",
               "target": 700,
-              "filled": 699,
-              "needed": 1,
-              "fill_pct": 99.9,
+              "filled": 701,
+              "needed": 0,
+              "fill_pct": 100.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "None of the above",
@@ -1373,7 +1316,7 @@
       ]
     },
     {
-      "ref_name": "Turtles 2-4pc Bar Convenience Concept Test",
+      "ref_name": "MIS-ee0b7",
       "target": 1000,
       "filled": 0,
       "fill_pct": 0.0,
@@ -2298,9 +2241,9 @@
     {
       "ref_name": "MIS-e28ce",
       "target": 500,
-      "filled": 383,
-      "fill_pct": 76.6,
-      "ir": "49.3",
+      "filled": 386,
+      "fill_pct": 77.2,
+      "ir": "49.4",
       "loi": "3",
       "launch_date": "2026-08-24 17:20:25",
       "oof": "8/27/2026",
@@ -2325,15 +2268,15 @@
             {
               "label": "18-24",
               "target": 125,
-              "filled": 29,
-              "needed": 96,
-              "fill_pct": 23.2,
+              "filled": 32,
+              "needed": 93,
+              "fill_pct": 25.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 100,
               "max_target": 150,
-              "needed_to_min": 71,
-              "open_to_max": 121
+              "needed_to_min": 68,
+              "open_to_max": 118
             },
             {
               "label": "25-34",
@@ -2395,28 +2338,28 @@
             {
               "label": "Female",
               "target": 250,
-              "filled": 216,
-              "needed": 34,
-              "fill_pct": 86.4,
+              "filled": 217,
+              "needed": 33,
+              "fill_pct": 86.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 225,
               "max_target": 275,
-              "needed_to_min": 9,
-              "open_to_max": 59
+              "needed_to_min": 8,
+              "open_to_max": 58
             },
             {
               "label": "Male",
               "target": 250,
-              "filled": 167,
-              "needed": 83,
-              "fill_pct": 66.8,
+              "filled": 169,
+              "needed": 81,
+              "fill_pct": 67.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 225,
               "max_target": 275,
-              "needed_to_min": 58,
-              "open_to_max": 108
+              "needed_to_min": 56,
+              "open_to_max": 106
             }
           ]
         }
@@ -2425,9 +2368,9 @@
     {
       "ref_name": "MIS-ef1a5",
       "target": 800,
-      "filled": 599,
-      "fill_pct": 74.9,
-      "ir": "24.1",
+      "filled": 606,
+      "fill_pct": 75.8,
+      "ir": "24.2",
       "loi": "4",
       "launch_date": "2026-08-25 2:14:49",
       "oof": "9/24/2026",
@@ -2439,28 +2382,28 @@
             {
               "label": "Episodic",
               "target": 400,
-              "filled": 271,
-              "needed": 129,
-              "fill_pct": 67.8,
+              "filled": 274,
+              "needed": 126,
+              "fill_pct": 68.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 129,
-              "open_to_max": 129
+              "needed_to_min": 126,
+              "open_to_max": 126
             },
             {
               "label": "Ongoing Care",
               "target": 400,
-              "filled": 328,
-              "needed": 72,
-              "fill_pct": 82.0,
+              "filled": 332,
+              "needed": 68,
+              "fill_pct": 83.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 72,
-              "open_to_max": 72
+              "needed_to_min": 68,
+              "open_to_max": 68
             },
             {
               "label": "None of the above",
@@ -2482,9 +2425,9 @@
     {
       "ref_name": "MIS-bb37f",
       "target": 1000,
-      "filled": 540,
-      "fill_pct": 54.0,
-      "ir": "96.1",
+      "filled": 585,
+      "fill_pct": 58.5,
+      "ir": "95.7",
       "loi": "6",
       "launch_date": "2026-08-25 17:53:30",
       "oof": "9/8/2026",

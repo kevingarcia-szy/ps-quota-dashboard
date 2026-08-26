@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T12:45:50",
-  "mission_count": 18,
+  "last_updated": "2026-08-26T13:10:57",
+  "mission_count": 20,
   "missions": [
     {
       "ref_name": "MIS-aef27",
@@ -686,13 +686,13 @@
     {
       "ref_name": "MIS-ee0b7",
       "target": 1000,
-      "filled": 603,
-      "fill_pct": 60.3,
-      "ir": "46.1",
+      "filled": 852,
+      "fill_pct": 85.2,
+      "ir": "46.8",
       "loi": "2.5",
       "launch_date": "2026-08-25 21:40:05",
       "oof": "9/8/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Turtles & Chocolate Buyers",
@@ -700,28 +700,28 @@
             {
               "label": "Turtles Purchasers",
               "target": 300,
-              "filled": 192,
-              "needed": 108,
-              "fill_pct": 64.0,
+              "filled": 262,
+              "needed": 38,
+              "fill_pct": 87.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 108,
-              "open_to_max": 108
+              "needed_to_min": 38,
+              "open_to_max": 38
             },
             {
               "label": "Other Chocolate Brands",
               "target": 700,
-              "filled": 438,
-              "needed": 262,
-              "fill_pct": 62.6,
+              "filled": 590,
+              "needed": 110,
+              "fill_pct": 84.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 262,
-              "open_to_max": 262
+              "needed_to_min": 110,
+              "open_to_max": 110
             },
             {
               "label": "None of the above",
@@ -2045,6 +2045,18 @@
       ]
     },
     {
+      "ref_name": "MIS-358d6",
+      "target": 1000,
+      "filled": 690,
+      "fill_pct": 69.0,
+      "ir": "84",
+      "loi": "11",
+      "launch_date": "2026-08-24 18:22:36",
+      "oof": "9/7/2026",
+      "status": "watch",
+      "quotas": []
+    },
+    {
       "ref_name": "MIS-ef1a5",
       "target": 800,
       "filled": 749,
@@ -2270,14 +2282,58 @@
     {
       "ref_name": "MIS-2f19a",
       "target": 1000,
-      "filled": 38,
-      "fill_pct": 3.8,
-      "ir": "44.7",
+      "filled": 39,
+      "fill_pct": 3.9,
+      "ir": "44.8",
       "loi": "4",
       "launch_date": "2026-08-26 3:36:44",
       "oof": "9/9/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-95992",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2",
+      "launch_date": "2026-08-26 16:54:04",
+      "oof": "9/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            }
+          ]
+        }
+      ]
     }
   ]
 }

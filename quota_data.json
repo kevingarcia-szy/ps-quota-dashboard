@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T19:23:08",
-  "mission_count": 12,
+  "last_updated": "2026-09-02T19:50:09",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-4856e",
@@ -971,8 +971,8 @@
     {
       "ref_name": "MIS-b1bae",
       "target": 1000,
-      "filled": 669,
-      "fill_pct": 66.9,
+      "filled": 670,
+      "fill_pct": 67.0,
       "ir": "8.6",
       "loi": "7",
       "launch_date": "2026-08-29 1:35:02",
@@ -1097,9 +1097,9 @@
     {
       "ref_name": "MIS-2e40c",
       "target": 1000,
-      "filled": 802,
-      "fill_pct": 80.2,
-      "ir": "23.8",
+      "filled": 824,
+      "fill_pct": 82.4,
+      "ir": "23.6",
       "loi": "2.5",
       "launch_date": "2026-09-01 22:34:47",
       "oof": "9/15/2026",
@@ -1483,6 +1483,107 @@
       "oof": "9/16/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "SP-2L6TH \u2013 Neo Features MaxDiff",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "7.5",
+      "launch_date": "2026-09-02 23:18:55",
+      "oof": "9/16/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "18 - 29",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 75,
+              "max_target": 125,
+              "needed_to_min": 75,
+              "open_to_max": 125
+            },
+            {
+              "label": "30 - 45",
+              "target": 150,
+              "filled": 0,
+              "needed": 150,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 125,
+              "max_target": 175,
+              "needed_to_min": 125,
+              "open_to_max": 175
+            },
+            {
+              "label": "46 - 61",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 150,
+              "needed_to_min": 100,
+              "open_to_max": 150
+            },
+            {
+              "label": "62 - 99",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 150,
+              "needed_to_min": 100,
+              "open_to_max": 150
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 225,
+              "max_target": 275,
+              "needed_to_min": 225,
+              "open_to_max": 275
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 225,
+              "max_target": 275,
+              "needed_to_min": 225,
+              "open_to_max": 275
+            }
+          ]
+        }
+      ]
     }
   ]
 }

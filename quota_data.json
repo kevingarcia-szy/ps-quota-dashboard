@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T00:22:32",
-  "mission_count": 13,
+  "last_updated": "2026-09-03T00:50:09",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-4856e",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-7aa8f",
       "target": 1000,
-      "filled": 995,
-      "fill_pct": 99.5,
+      "filled": 996,
+      "fill_pct": 99.6,
       "ir": "30.1",
       "loi": "11.5",
       "launch_date": "2026-08-20 15:26:24",
@@ -44,15 +44,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 480,
-              "needed": 20,
-              "fill_pct": 96.0,
+              "filled": 481,
+              "needed": 19,
+              "fill_pct": 96.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 20,
-              "open_to_max": 20
+              "needed_to_min": 19,
+              "open_to_max": 19
             }
           ]
         },
@@ -101,15 +101,15 @@
             {
               "label": "West",
               "target": 250,
-              "filled": 224,
-              "needed": 26,
-              "fill_pct": 89.6,
+              "filled": 225,
+              "needed": 25,
+              "fill_pct": 90.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 26,
-              "open_to_max": 26
+              "needed_to_min": 25,
+              "open_to_max": 25
             }
           ]
         },
@@ -158,15 +158,15 @@
             {
               "label": "$150,000 or more ",
               "target": 250,
-              "filled": 189,
-              "needed": 61,
-              "fill_pct": 75.6,
+              "filled": 190,
+              "needed": 60,
+              "fill_pct": 76.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 61,
-              "open_to_max": 61
+              "needed_to_min": 60,
+              "open_to_max": 60
             }
           ]
         },
@@ -202,15 +202,15 @@
             {
               "label": "46-61",
               "target": 250,
-              "filled": 230,
-              "needed": 20,
-              "fill_pct": 92.0,
+              "filled": 231,
+              "needed": 19,
+              "fill_pct": 92.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 20,
-              "open_to_max": 20
+              "needed_to_min": 19,
+              "open_to_max": 19
             },
             {
               "label": "62+",
@@ -1097,9 +1097,9 @@
     {
       "ref_name": "MIS-2e40c",
       "target": 1000,
-      "filled": 906,
-      "fill_pct": 90.6,
-      "ir": "22.4",
+      "filled": 931,
+      "fill_pct": 93.1,
+      "ir": "22.5",
       "loi": "2.5",
       "launch_date": "2026-09-01 22:34:47",
       "oof": "9/15/2026",
@@ -1475,9 +1475,9 @@
     {
       "ref_name": "MIS-1d465",
       "target": 500,
-      "filled": 20,
-      "fill_pct": 4.0,
-      "ir": "25.3",
+      "filled": 24,
+      "fill_pct": 4.8,
+      "ir": "28.2",
       "loi": "3.5",
       "launch_date": "2026-09-02 21:41:02",
       "oof": "9/16/2026",
@@ -1485,7 +1485,7 @@
       "quotas": []
     },
     {
-      "ref_name": "SP-2L6TH \u2013 Neo Features MaxDiff",
+      "ref_name": "MIS-6cca9",
       "target": 500,
       "filled": 0,
       "fill_pct": 0.0,
@@ -1584,6 +1584,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "Bonnie Brand Perception Study",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "16",
+      "launch_date": "2026-09-03 4:42:30",
+      "oof": "9/17/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

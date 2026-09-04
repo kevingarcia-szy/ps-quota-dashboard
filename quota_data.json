@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T12:10:22",
-  "mission_count": 11,
+  "last_updated": "2026-09-04T12:37:45",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-95992",
@@ -487,6 +487,107 @@
       "quotas": []
     },
     {
+      "ref_name": "MIS-006bd",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5",
+      "launch_date": "2026-09-04 16:20:59",
+      "oof": "9/18/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "15 - 24",
+              "target": 180,
+              "filled": 0,
+              "needed": 180,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 180,
+              "open_to_max": 180
+            },
+            {
+              "label": "25 - 34",
+              "target": 185,
+              "filled": 0,
+              "needed": 185,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 185,
+              "open_to_max": 185
+            },
+            {
+              "label": "35 - 54",
+              "target": 340,
+              "filled": 0,
+              "needed": 340,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 340,
+              "open_to_max": 340
+            },
+            {
+              "label": "55 - 99",
+              "target": 295,
+              "filled": 0,
+              "needed": 295,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 295,
+              "open_to_max": 295
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "Male",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-6cca9",
       "target": 500,
       "filled": 507,
@@ -590,9 +691,9 @@
     {
       "ref_name": "MIS-de47c",
       "target": 500,
-      "filled": 480,
-      "fill_pct": 96.0,
-      "ir": "29.9",
+      "filled": 484,
+      "fill_pct": 96.8,
+      "ir": "30",
       "loi": "4",
       "launch_date": "2026-09-03 13:39:33",
       "oof": "9/17/2026",
@@ -602,9 +703,9 @@
     {
       "ref_name": "MIS-2aa59",
       "target": 800,
-      "filled": 429,
-      "fill_pct": 53.6,
-      "ir": "94.3",
+      "filled": 476,
+      "fill_pct": 59.5,
+      "ir": "93.9",
       "loi": "5.5",
       "launch_date": "2026-09-03 15:20:25",
       "oof": "9/17/2026",
@@ -824,7 +925,7 @@
       "quotas": []
     },
     {
-      "ref_name": "RTD Single Serve TURF 9/3",
+      "ref_name": "MIS-b92ec",
       "target": 1000,
       "filled": 0,
       "fill_pct": 0.0,
@@ -834,6 +935,63 @@
       "oof": "9/18/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-fd5a3",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5",
+      "launch_date": "2026-09-04 16:17:54",
+      "oof": "9/18/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Are you of Hispanic, Latino or Spanish origin?",
+          "cells": [
+            {
+              "label": "Yes",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "No",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "Prefer not to answer",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

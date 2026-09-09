@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T13:54:22",
-  "mission_count": 13,
+  "last_updated": "2026-09-09T14:22:48",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-1ab37",
@@ -282,8 +282,8 @@
     {
       "ref_name": "MIS-93d36",
       "target": 1000,
-      "filled": 787,
-      "fill_pct": 78.7,
+      "filled": 786,
+      "fill_pct": 78.6,
       "ir": "100",
       "loi": "1",
       "launch_date": "2026-09-04 18:55:50",
@@ -309,15 +309,15 @@
             {
               "label": "18-24 | Male",
               "target": 80,
-              "filled": 57,
-              "needed": 23,
-              "fill_pct": 71.2,
+              "filled": 56,
+              "needed": 24,
+              "fill_pct": 70.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 23,
-              "open_to_max": 23
+              "needed_to_min": 24,
+              "open_to_max": 24
             },
             {
               "label": "25-34 | Female",
@@ -404,8 +404,8 @@
     {
       "ref_name": "MIS-7eb99",
       "target": 1000,
-      "filled": 609,
-      "fill_pct": 60.9,
+      "filled": 627,
+      "fill_pct": 62.7,
       "ir": "17",
       "loi": "2",
       "launch_date": "2026-09-04 21:57:08",
@@ -540,7 +540,7 @@
       "target": 400,
       "filled": 241,
       "fill_pct": 60.2,
-      "ir": "10",
+      "ir": "9.9",
       "loi": "9",
       "launch_date": "2026-09-04 21:25:50",
       "oof": "9/18/2026",
@@ -639,8 +639,8 @@
     {
       "ref_name": "MIS-5f7ec",
       "target": 1600,
-      "filled": 1289,
-      "fill_pct": 80.6,
+      "filled": 1295,
+      "fill_pct": 80.9,
       "ir": "18.3",
       "loi": "12.5",
       "launch_date": "2026-09-04 22:39:14",
@@ -653,28 +653,28 @@
             {
               "label": "Philadelphia P6M Buyer",
               "target": 960,
-              "filled": 1026,
+              "filled": 1029,
               "needed": 0,
-              "fill_pct": 106.9,
+              "fill_pct": 107.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 0,
               "max_target": 1600,
               "needed_to_min": 0,
-              "open_to_max": 574
+              "open_to_max": 571
             },
             {
               "label": "Philadelphia Non-Buyer",
               "target": 640,
-              "filled": 264,
-              "needed": 376,
-              "fill_pct": 41.2,
+              "filled": 266,
+              "needed": 374,
+              "fill_pct": 41.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 0,
               "max_target": 1600,
               "needed_to_min": 0,
-              "open_to_max": 1336
+              "open_to_max": 1334
             },
             {
               "label": "None of the above",
@@ -710,15 +710,15 @@
             {
               "label": "No",
               "target": 960,
-              "filled": 490,
-              "needed": 470,
-              "fill_pct": 51.0,
+              "filled": 495,
+              "needed": 465,
+              "fill_pct": 51.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 800,
               "max_target": 1120,
-              "needed_to_min": 310,
-              "open_to_max": 630
+              "needed_to_min": 305,
+              "open_to_max": 625
             }
           ]
         }
@@ -1194,7 +1194,7 @@
       "target": 1000,
       "filled": 2,
       "fill_pct": 0.2,
-      "ir": "66.7",
+      "ir": "50",
       "loi": "2",
       "launch_date": "2026-09-09 15:30:04",
       "oof": "9/23/2026",
@@ -1212,6 +1212,94 @@
       "oof": "9/23/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-ad9bf",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-09-09 18:05:05",
+      "oof": "9/23/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-9c205",
+      "target": 800,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "7.5",
+      "launch_date": "2026-09-09 18:12:07",
+      "oof": "9/23/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 560,
+              "filled": 0,
+              "needed": 560,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 560,
+              "open_to_max": 560
+            },
+            {
+              "label": "Male",
+              "target": 240,
+              "filled": 0,
+              "needed": 240,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 240,
+              "open_to_max": 240
+            }
+          ]
+        }
+      ]
     }
   ]
 }

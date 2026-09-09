@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T09:19:13",
-  "mission_count": 14,
+  "last_updated": "2026-09-09T09:47:29",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-95992",
@@ -324,63 +324,6 @@
               "filled": 500,
               "needed": 0,
               "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-58884",
-      "target": 1200,
-      "filled": 1107,
-      "fill_pct": 92.2,
-      "ir": "22.7",
-      "loi": "18.5",
-      "launch_date": "2026-09-04 18:13:48",
-      "oof": "10/8/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Consumer vs. Pro",
-          "cells": [
-            {
-              "label": "Consumer",
-              "target": 798,
-              "filled": 705,
-              "needed": 93,
-              "fill_pct": 88.3,
-              "is_paused": true,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 93,
-              "open_to_max": 93
-            },
-            {
-              "label": "Pro",
-              "target": 402,
-              "filled": 402,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -740,13 +683,13 @@
     {
       "ref_name": "MIS-5f7ec",
       "target": 1500,
-      "filled": 1234,
-      "fill_pct": 82.3,
-      "ir": "18.3",
+      "filled": 1170,
+      "fill_pct": 78.0,
+      "ir": "17.5",
       "loi": "12.5",
       "launch_date": "2026-09-04 22:39:14",
       "oof": "9/18/2026",
-      "status": "on_track",
+      "status": "watch",
       "quotas": [
         {
           "group": "Buyer Type",
@@ -754,28 +697,28 @@
             {
               "label": "Philadelphia P6M Buyer",
               "target": 900,
-              "filled": 976,
+              "filled": 938,
               "needed": 0,
-              "fill_pct": 108.4,
+              "fill_pct": 104.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 0,
               "max_target": 1500,
               "needed_to_min": 0,
-              "open_to_max": 524
+              "open_to_max": 562
             },
             {
               "label": "Philadelphia Non-Buyer",
               "target": 600,
-              "filled": 258,
-              "needed": 342,
-              "fill_pct": 43.0,
+              "filled": 232,
+              "needed": 368,
+              "fill_pct": 38.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 0,
               "max_target": 1500,
               "needed_to_min": 0,
-              "open_to_max": 1242
+              "open_to_max": 1268
             },
             {
               "label": "None of the above",
@@ -798,28 +741,28 @@
             {
               "label": "Yes",
               "target": 600,
-              "filled": 753,
+              "filled": 721,
               "needed": 0,
-              "fill_pct": 125.5,
+              "fill_pct": 120.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 750,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 29
             },
             {
               "label": "No",
               "target": 900,
-              "filled": 481,
-              "needed": 419,
-              "fill_pct": 53.4,
+              "filled": 449,
+              "needed": 451,
+              "fill_pct": 49.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 750,
               "max_target": 1050,
-              "needed_to_min": 269,
-              "open_to_max": 569
+              "needed_to_min": 301,
+              "open_to_max": 601
             }
           ]
         }
@@ -1051,8 +994,8 @@
     {
       "ref_name": "MIS-71d68",
       "target": 1000,
-      "filled": 794,
-      "fill_pct": 79.4,
+      "filled": 795,
+      "fill_pct": 79.5,
       "ir": "53.7",
       "loi": "10",
       "launch_date": "2026-09-08 14:41:05",
@@ -1091,15 +1034,15 @@
             {
               "label": "25 - 34 | Female",
               "target": 90,
-              "filled": 45,
-              "needed": 45,
-              "fill_pct": 50.0,
+              "filled": 46,
+              "needed": 44,
+              "fill_pct": 51.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 45,
-              "open_to_max": 45
+              "needed_to_min": 44,
+              "open_to_max": 44
             },
             {
               "label": "25 - 34 | Male",
@@ -1239,15 +1182,15 @@
             {
               "label": "Between $50,000 and $100,000",
               "target": 280,
-              "filled": 211,
-              "needed": 69,
-              "fill_pct": 75.4,
+              "filled": 212,
+              "needed": 68,
+              "fill_pct": 75.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 69,
-              "open_to_max": 69
+              "needed_to_min": 68,
+              "open_to_max": 68
             },
             {
               "label": "More than $100,000",

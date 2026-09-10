@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T07:41:53",
-  "mission_count": 20,
+  "last_updated": "2026-09-10T08:11:23",
+  "mission_count": 21,
   "missions": [
     {
       "ref_name": "MIS-1ab37",
@@ -718,8 +718,8 @@
     {
       "ref_name": "MIS-5700a",
       "target": 400,
-      "filled": 294,
-      "fill_pct": 73.5,
+      "filled": 296,
+      "fill_pct": 74.0,
       "ir": "10.2",
       "loi": "9",
       "launch_date": "2026-09-04 21:25:50",
@@ -745,15 +745,15 @@
             {
               "label": "30 - 45",
               "target": 120,
-              "filled": 129,
+              "filled": 131,
               "needed": 0,
-              "fill_pct": 107.5,
+              "fill_pct": 109.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 88,
               "max_target": 152,
               "needed_to_min": 0,
-              "open_to_max": 23
+              "open_to_max": 21
             },
             {
               "label": "46 - 61",
@@ -789,15 +789,15 @@
             {
               "label": "Female",
               "target": 200,
-              "filled": 122,
-              "needed": 78,
-              "fill_pct": 61.0,
+              "filled": 124,
+              "needed": 76,
+              "fill_pct": 62.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 168,
               "max_target": 232,
-              "needed_to_min": 46,
-              "open_to_max": 110
+              "needed_to_min": 44,
+              "open_to_max": 108
             },
             {
               "label": "Male",
@@ -1132,7 +1132,7 @@
       "target": 1000,
       "filled": 970,
       "fill_pct": 97.0,
-      "ir": "49.4",
+      "ir": "49.3",
       "loi": "10",
       "launch_date": "2026-09-08 14:41:05",
       "oof": "9/13/2026",
@@ -1360,9 +1360,9 @@
     {
       "ref_name": "MIS-bb01d",
       "target": 1000,
-      "filled": 481,
-      "fill_pct": 48.1,
-      "ir": "51.8",
+      "filled": 484,
+      "fill_pct": 48.4,
+      "ir": "52",
       "loi": "2",
       "launch_date": "2026-09-09 15:30:04",
       "oof": "9/23/2026",
@@ -1372,9 +1372,9 @@
     {
       "ref_name": "MIS-fabde",
       "target": 250,
-      "filled": 55,
-      "fill_pct": 22.0,
-      "ir": "16.5",
+      "filled": 62,
+      "fill_pct": 24.8,
+      "ir": "16.2",
       "loi": "8.5",
       "launch_date": "2026-09-09 16:52:36",
       "oof": "9/23/2026",
@@ -1428,8 +1428,8 @@
     {
       "ref_name": "MIS-9c205",
       "target": 800,
-      "filled": 720,
-      "fill_pct": 90.0,
+      "filled": 723,
+      "fill_pct": 90.4,
       "ir": "64.9",
       "loi": "7.5",
       "launch_date": "2026-09-09 18:12:07",
@@ -1442,15 +1442,15 @@
             {
               "label": "Female",
               "target": 560,
-              "filled": 485,
-              "needed": 75,
-              "fill_pct": 86.6,
+              "filled": 488,
+              "needed": 72,
+              "fill_pct": 87.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 75,
-              "open_to_max": 75
+              "needed_to_min": 72,
+              "open_to_max": 72
             },
             {
               "label": "Male",
@@ -1484,9 +1484,9 @@
     {
       "ref_name": "MIS-04fc3",
       "target": 1000,
-      "filled": 83,
-      "fill_pct": 8.3,
-      "ir": "56.5",
+      "filled": 87,
+      "fill_pct": 8.7,
+      "ir": "56.1",
       "loi": "8.5",
       "launch_date": "2026-09-09 20:58:07",
       "oof": "9/23/2026",
@@ -1496,9 +1496,9 @@
     {
       "ref_name": "MIS-a6caf",
       "target": 500,
-      "filled": 21,
-      "fill_pct": 4.2,
-      "ir": "39.6",
+      "filled": 22,
+      "fill_pct": 4.4,
+      "ir": "40",
       "loi": "7",
       "launch_date": "2026-09-09 21:14:13",
       "oof": "9/23/2026",
@@ -1656,6 +1656,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "Citi Credit Card Survey #2",
+      "target": 750,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-09-10 11:51:30",
+      "oof": "9/24/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

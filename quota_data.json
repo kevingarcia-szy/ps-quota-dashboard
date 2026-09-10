@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T09:09:44",
-  "mission_count": 22,
+  "last_updated": "2026-09-10T09:39:00",
+  "mission_count": 23,
   "missions": [
     {
       "ref_name": "MIS-1ab37",
@@ -86,10 +86,10 @@
               "fill_pct": 140.6,
               "is_paused": false,
               "is_range": true,
-              "min_target": 300,
-              "max_target": 700,
+              "min_target": 250,
+              "max_target": 750,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 47
             },
             {
               "label": "Refill Non-Buyer",
@@ -99,10 +99,10 @@
               "fill_pct": 39.2,
               "is_paused": false,
               "is_range": true,
-              "min_target": 300,
-              "max_target": 700,
-              "needed_to_min": 104,
-              "open_to_max": 504
+              "min_target": 250,
+              "max_target": 750,
+              "needed_to_min": 54,
+              "open_to_max": 554
             },
             {
               "label": "None of the above",
@@ -622,15 +622,15 @@
             {
               "label": "13 - 14 | Female",
               "target": 125,
-              "filled": 40,
-              "needed": 85,
-              "fill_pct": 32.0,
+              "filled": 41,
+              "needed": 84,
+              "fill_pct": 32.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 85,
-              "open_to_max": 85
+              "needed_to_min": 84,
+              "open_to_max": 84
             },
             {
               "label": "13 - 14 | Male",
@@ -730,9 +730,9 @@
     {
       "ref_name": "MIS-5700a",
       "target": 400,
-      "filled": 300,
-      "fill_pct": 75.0,
-      "ir": "10.1",
+      "filled": 302,
+      "fill_pct": 75.5,
+      "ir": "10",
       "loi": "9",
       "launch_date": "2026-09-04 21:25:50",
       "oof": "9/18/2026",
@@ -783,15 +783,15 @@
             {
               "label": "62 - 99",
               "target": 100,
-              "filled": 29,
-              "needed": 71,
-              "fill_pct": 29.0,
+              "filled": 30,
+              "needed": 70,
+              "fill_pct": 30.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 68,
               "max_target": 132,
-              "needed_to_min": 39,
-              "open_to_max": 103
+              "needed_to_min": 38,
+              "open_to_max": 102
             }
           ]
         },
@@ -814,15 +814,15 @@
             {
               "label": "Male",
               "target": 200,
-              "filled": 174,
-              "needed": 26,
-              "fill_pct": 87.0,
+              "filled": 175,
+              "needed": 25,
+              "fill_pct": 87.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 168,
               "max_target": 232,
               "needed_to_min": 0,
-              "open_to_max": 58
+              "open_to_max": 57
             }
           ]
         }
@@ -833,7 +833,7 @@
       "target": 1600,
       "filled": 1552,
       "fill_pct": 97.0,
-      "ir": "20.8",
+      "ir": "20.7",
       "loi": "12.5",
       "launch_date": "2026-09-04 22:39:14",
       "oof": "9/23/2026",
@@ -921,7 +921,7 @@
       "target": 500,
       "filled": 258,
       "fill_pct": 51.6,
-      "ir": "24.9",
+      "ir": "24.8",
       "loi": "8",
       "launch_date": "2026-09-08 10:09:12",
       "oof": "9/15/2026",
@@ -1372,9 +1372,9 @@
     {
       "ref_name": "MIS-bb01d",
       "target": 1000,
-      "filled": 486,
-      "fill_pct": 48.6,
-      "ir": "51.9",
+      "filled": 489,
+      "fill_pct": 48.9,
+      "ir": "51.8",
       "loi": "2",
       "launch_date": "2026-09-09 15:30:04",
       "oof": "9/23/2026",
@@ -1384,9 +1384,9 @@
     {
       "ref_name": "MIS-fabde",
       "target": 250,
-      "filled": 71,
-      "fill_pct": 28.4,
-      "ir": "15.9",
+      "filled": 72,
+      "fill_pct": 28.8,
+      "ir": "16",
       "loi": "8.5",
       "launch_date": "2026-09-09 16:52:36",
       "oof": "9/23/2026",
@@ -1440,9 +1440,9 @@
     {
       "ref_name": "MIS-9c205",
       "target": 800,
-      "filled": 732,
-      "fill_pct": 91.5,
-      "ir": "65.1",
+      "filled": 739,
+      "fill_pct": 92.4,
+      "ir": "65.2",
       "loi": "7.5",
       "launch_date": "2026-09-09 18:12:07",
       "oof": "9/23/2026",
@@ -1454,15 +1454,15 @@
             {
               "label": "Female",
               "target": 560,
-              "filled": 497,
-              "needed": 63,
-              "fill_pct": 88.8,
+              "filled": 504,
+              "needed": 56,
+              "fill_pct": 90.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 63,
-              "open_to_max": 63
+              "needed_to_min": 56,
+              "open_to_max": 56
             },
             {
               "label": "Male",
@@ -1498,7 +1498,7 @@
       "target": 1000,
       "filled": 93,
       "fill_pct": 9.3,
-      "ir": "56",
+      "ir": "55.4",
       "loi": "8.5",
       "launch_date": "2026-09-09 20:58:07",
       "oof": "9/23/2026",
@@ -1508,9 +1508,9 @@
     {
       "ref_name": "MIS-a6caf",
       "target": 500,
-      "filled": 24,
-      "fill_pct": 4.8,
-      "ir": "38.7",
+      "filled": 25,
+      "fill_pct": 5.0,
+      "ir": "39.1",
       "loi": "7",
       "launch_date": "2026-09-09 21:14:13",
       "oof": "9/23/2026",
@@ -1670,13 +1670,25 @@
       ]
     },
     {
-      "ref_name": "Citi Credit Card Survey #2",
+      "ref_name": "MIS-50ae9",
       "target": 750,
       "filled": 0,
       "fill_pct": 0.0,
       "ir": "0",
       "loi": "2.5",
       "launch_date": "2026-09-10 11:51:30",
+      "oof": "9/24/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "Pot Preference ",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "1.5",
+      "launch_date": "2026-09-10 13:29:13",
       "oof": "9/24/2026",
       "status": "behind",
       "quotas": []

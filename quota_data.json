@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T14:12:09",
-  "mission_count": 13,
+  "last_updated": "2026-09-13T14:41:14",
+  "mission_count": 12,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -472,9 +472,9 @@
     {
       "ref_name": "MIS-24d6b",
       "target": 1000,
-      "filled": 329,
-      "fill_pct": 32.9,
-      "ir": "8.3",
+      "filled": 330,
+      "fill_pct": 33.0,
+      "ir": "8.4",
       "loi": "10.5",
       "launch_date": "2026-09-09 18:29:31",
       "oof": "9/23/2026",
@@ -499,15 +499,15 @@
             {
               "label": "45 - 99",
               "target": 500,
-              "filled": 140,
-              "needed": 360,
-              "fill_pct": 28.0,
+              "filled": 141,
+              "needed": 359,
+              "fill_pct": 28.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 600,
-              "needed_to_min": 260,
-              "open_to_max": 460
+              "needed_to_min": 259,
+              "open_to_max": 459
             }
           ]
         },
@@ -543,15 +543,15 @@
             {
               "label": "Grandpa Gus",
               "target": 400,
-              "filled": 25,
-              "needed": 375,
-              "fill_pct": 6.2,
+              "filled": 26,
+              "needed": 374,
+              "fill_pct": 6.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 350,
               "max_target": 450,
-              "needed_to_min": 325,
-              "open_to_max": 425
+              "needed_to_min": 324,
+              "open_to_max": 424
             },
             {
               "label": "D-Con",
@@ -925,7 +925,7 @@
       "target": 1000,
       "filled": 1000,
       "fill_pct": 100.0,
-      "ir": "59.1",
+      "ir": "59",
       "loi": "2",
       "launch_date": "2026-09-11 14:25:00",
       "oof": "9/25/2026",
@@ -1226,50 +1226,6 @@
               "max_target": 0,
               "needed_to_min": 3,
               "open_to_max": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-18d74",
-      "target": 400,
-      "filled": 388,
-      "fill_pct": 97.0,
-      "ir": "24.2",
-      "loi": "14.5",
-      "launch_date": "2026-09-11 22:29:37",
-      "oof": "9/18/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 320,
-              "filled": 311,
-              "needed": 9,
-              "fill_pct": 97.2,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 9,
-              "open_to_max": 9
-            },
-            {
-              "label": "Male",
-              "target": 80,
-              "filled": 80,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
             }
           ]
         }

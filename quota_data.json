@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T13:40:24",
-  "mission_count": 10,
+  "last_updated": "2026-09-14T14:09:12",
+  "mission_count": 12,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -672,6 +672,18 @@
       ]
     },
     {
+      "ref_name": "MIS-3195e",
+      "target": 1000,
+      "filled": 828,
+      "fill_pct": 82.8,
+      "ir": "45.2",
+      "loi": "6",
+      "launch_date": "2026-09-10 17:17:04",
+      "oof": "9/24/2026",
+      "status": "on_track",
+      "quotas": []
+    },
+    {
       "ref_name": "MIS-44c50",
       "target": 1000,
       "filled": 1000,
@@ -884,9 +896,9 @@
     {
       "ref_name": "MIS-a87e1",
       "target": 250,
-      "filled": 1,
-      "fill_pct": 0.4,
-      "ir": "11.1",
+      "filled": 2,
+      "fill_pct": 0.8,
+      "ir": "20",
       "loi": "9.5",
       "launch_date": "2026-09-14 13:41:46",
       "oof": "9/28/2026",
@@ -948,6 +960,50 @@
       "oof": "9/18/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "Name testing for Acne",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-09-14 17:50:43",
+      "oof": "9/28/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 400,
+              "filled": 0,
+              "needed": 400,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 400,
+              "open_to_max": 400
+            },
+            {
+              "label": "Male",
+              "target": 100,
+              "filled": 0,
+              "needed": 100,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 100,
+              "open_to_max": 100
+            }
+          ]
+        }
+      ]
     }
   ]
 }

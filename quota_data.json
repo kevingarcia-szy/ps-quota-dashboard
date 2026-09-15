@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T19:54:25",
-  "mission_count": 13,
+  "last_updated": "2026-09-14T20:23:24",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -71,15 +71,15 @@
             {
               "label": "35-54 | Female",
               "target": 200,
-              "filled": 194,
-              "needed": 6,
-              "fill_pct": 97.0,
+              "filled": 195,
+              "needed": 5,
+              "fill_pct": 97.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 6,
-              "open_to_max": 6
+              "needed_to_min": 5,
+              "open_to_max": 5
             },
             {
               "label": "35-54 | Male",
@@ -852,9 +852,9 @@
     {
       "ref_name": "MIS-a87e1",
       "target": 250,
-      "filled": 21,
-      "fill_pct": 8.4,
-      "ir": "16.2",
+      "filled": 28,
+      "fill_pct": 11.2,
+      "ir": "18.2",
       "loi": "9.5",
       "launch_date": "2026-09-14 13:41:46",
       "oof": "9/28/2026",
@@ -864,9 +864,9 @@
     {
       "ref_name": "MIS-cb629",
       "target": 400,
-      "filled": 147,
-      "fill_pct": 36.8,
-      "ir": "48.7",
+      "filled": 159,
+      "fill_pct": 39.8,
+      "ir": "47.8",
       "loi": "7",
       "launch_date": "2026-09-14 13:52:41",
       "oof": "9/21/2026",
@@ -891,15 +891,15 @@
             {
               "label": "Male",
               "target": 80,
-              "filled": 58,
-              "needed": 22,
-              "fill_pct": 72.5,
+              "filled": 70,
+              "needed": 10,
+              "fill_pct": 87.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 10,
+              "open_to_max": 10
             }
           ]
         }
@@ -976,9 +976,9 @@
     {
       "ref_name": "MIS-9554e",
       "target": 1000,
-      "filled": 179,
-      "fill_pct": 17.9,
-      "ir": "17.2",
+      "filled": 226,
+      "fill_pct": 22.6,
+      "ir": "17.3",
       "loi": "2.5",
       "launch_date": "2026-09-14 20:35:19",
       "oof": "9/28/2026",
@@ -990,28 +990,28 @@
             {
               "label": "Califia creamer consumers",
               "target": 500,
-              "filled": 124,
-              "needed": 376,
-              "fill_pct": 24.8,
+              "filled": 152,
+              "needed": 348,
+              "fill_pct": 30.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 376,
-              "open_to_max": 376
+              "needed_to_min": 348,
+              "open_to_max": 348
             },
             {
               "label": "Califia Barista consumers",
               "target": 500,
-              "filled": 59,
-              "needed": 441,
-              "fill_pct": 11.8,
+              "filled": 75,
+              "needed": 425,
+              "fill_pct": 15.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 441,
-              "open_to_max": 441
+              "needed_to_min": 425,
+              "open_to_max": 425
             },
             {
               "label": "None of the above",
@@ -1025,6 +1025,50 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-f3e3a",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "7",
+      "launch_date": "2026-09-14 23:48:07",
+      "oof": "9/28/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            },
+            {
+              "label": "Male",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
             }
           ]
         }

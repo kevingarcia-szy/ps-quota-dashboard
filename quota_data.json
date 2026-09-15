@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T21:21:43",
+  "last_updated": "2026-09-14T21:50:44",
   "mission_count": 14,
   "missions": [
     {
@@ -852,9 +852,9 @@
     {
       "ref_name": "MIS-a87e1",
       "target": 250,
-      "filled": 32,
-      "fill_pct": 12.8,
-      "ir": "16.9",
+      "filled": 35,
+      "fill_pct": 14.0,
+      "ir": "17",
       "loi": "9.5",
       "launch_date": "2026-09-14 13:41:46",
       "oof": "9/28/2026",
@@ -976,9 +976,9 @@
     {
       "ref_name": "MIS-9554e",
       "target": 1000,
-      "filled": 294,
-      "fill_pct": 29.4,
-      "ir": "16.4",
+      "filled": 332,
+      "fill_pct": 33.2,
+      "ir": "16.2",
       "loi": "2.5",
       "launch_date": "2026-09-14 20:35:19",
       "oof": "9/28/2026",
@@ -990,28 +990,28 @@
             {
               "label": "Califia creamer consumers",
               "target": 500,
-              "filled": 196,
-              "needed": 304,
-              "fill_pct": 39.2,
+              "filled": 219,
+              "needed": 281,
+              "fill_pct": 43.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 304,
-              "open_to_max": 304
+              "needed_to_min": 281,
+              "open_to_max": 281
             },
             {
               "label": "Califia Barista consumers",
               "target": 500,
-              "filled": 98,
-              "needed": 402,
-              "fill_pct": 19.6,
+              "filled": 114,
+              "needed": 386,
+              "fill_pct": 22.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 402,
-              "open_to_max": 402
+              "needed_to_min": 386,
+              "open_to_max": 386
             },
             {
               "label": "None of the above",
@@ -1033,13 +1033,13 @@
     {
       "ref_name": "MIS-f3e3a",
       "target": 500,
-      "filled": 313,
-      "fill_pct": 62.6,
-      "ir": "40",
+      "filled": 503,
+      "fill_pct": 100.6,
+      "ir": "47.8",
       "loi": "7",
       "launch_date": "2026-09-14 23:48:07",
       "oof": "9/28/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Gender",
@@ -1047,28 +1047,28 @@
             {
               "label": "Female",
               "target": 250,
-              "filled": 243,
-              "needed": 7,
-              "fill_pct": 97.2,
+              "filled": 305,
+              "needed": 0,
+              "fill_pct": 122.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Male",
               "target": 250,
-              "filled": 122,
-              "needed": 128,
-              "fill_pct": 48.8,
+              "filled": 198,
+              "needed": 52,
+              "fill_pct": 79.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 128,
-              "open_to_max": 128
+              "needed_to_min": 52,
+              "open_to_max": 52
             }
           ]
         }

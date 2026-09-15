@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T15:25:43",
-  "mission_count": 12,
+  "last_updated": "2026-09-15T15:55:00",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -793,9 +793,9 @@
     {
       "ref_name": "MIS-9554e",
       "target": 1000,
-      "filled": 673,
-      "fill_pct": 67.3,
-      "ir": "15.6",
+      "filled": 763,
+      "fill_pct": 76.3,
+      "ir": "15.8",
       "loi": "2.5",
       "launch_date": "2026-09-14 20:35:19",
       "oof": "9/28/2026",
@@ -807,28 +807,28 @@
             {
               "label": "Califia creamer consumers",
               "target": 500,
-              "filled": 434,
-              "needed": 66,
-              "fill_pct": 86.8,
+              "filled": 503,
+              "needed": 0,
+              "fill_pct": 100.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Califia Barista consumers",
               "target": 500,
-              "filled": 241,
-              "needed": 259,
-              "fill_pct": 48.2,
+              "filled": 266,
+              "needed": 234,
+              "fill_pct": 53.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 259,
-              "open_to_max": 259
+              "needed_to_min": 234,
+              "open_to_max": 234
             },
             {
               "label": "None of the above",
@@ -906,14 +906,206 @@
     {
       "ref_name": "MIS-617a3",
       "target": 1000,
-      "filled": 1,
-      "fill_pct": 0.1,
-      "ir": "100",
+      "filled": 436,
+      "fill_pct": 43.6,
+      "ir": "95.6",
       "loi": "6.5",
       "launch_date": "2026-09-15 18:39:47",
       "oof": "9/29/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-ca0a8",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "10.5",
+      "launch_date": "2026-09-15 19:24:21",
+      "oof": "9/18/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender x Age",
+          "cells": [
+            {
+              "label": "Female | 21 - 29",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Female | 30 - 44",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Female | 45 - 59",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Female | 60 - 79",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Male | 21 - 29",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Male | 30 - 44",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Male | 45 - 59",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            },
+            {
+              "label": "Male | 60 - 79",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            }
+          ]
+        },
+        {
+          "group": "Which ethnicity best describes you?",
+          "cells": [
+            {
+              "label": "White / Caucasian",
+              "target": 350,
+              "filled": 0,
+              "needed": 350,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 350,
+              "open_to_max": 350
+            },
+            {
+              "label": "Black or African American",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            },
+            {
+              "label": "Asian or Pacific Islander",
+              "target": 150,
+              "filled": 0,
+              "needed": 150,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 150,
+              "open_to_max": 150
+            },
+            {
+              "label": "Hispanic or Latino/Latina",
+              "target": 250,
+              "filled": 0,
+              "needed": 250,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 250,
+              "open_to_max": 250
+            },
+            {
+              "label": "Other",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

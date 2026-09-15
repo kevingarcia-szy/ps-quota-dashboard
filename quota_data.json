@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T21:50:44",
-  "mission_count": 14,
+  "last_updated": "2026-09-14T22:19:50",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -127,8 +127,8 @@
     {
       "ref_name": "MIS-8cc37",
       "target": 500,
-      "filled": 377,
-      "fill_pct": 75.4,
+      "filled": 378,
+      "fill_pct": 75.6,
       "ir": "13.3",
       "loi": "8",
       "launch_date": "2026-09-08 10:09:12",
@@ -193,15 +193,15 @@
             {
               "label": "50-64",
               "target": 125,
-              "filled": 113,
-              "needed": 12,
-              "fill_pct": 90.4,
+              "filled": 114,
+              "needed": 11,
+              "fill_pct": 91.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 115,
               "max_target": 135,
-              "needed_to_min": 2,
-              "open_to_max": 22
+              "needed_to_min": 1,
+              "open_to_max": 21
             },
             {
               "label": "65+",
@@ -224,15 +224,15 @@
             {
               "label": "Female",
               "target": 250,
-              "filled": 221,
-              "needed": 29,
-              "fill_pct": 88.4,
+              "filled": 222,
+              "needed": 28,
+              "fill_pct": 88.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 210,
               "max_target": 290,
               "needed_to_min": 0,
-              "open_to_max": 69
+              "open_to_max": 68
             },
             {
               "label": "Male",
@@ -307,15 +307,15 @@
             {
               "label": "Store Brands (i.e., Equate, CVS Health, etc.)",
               "target": 55,
-              "filled": 49,
-              "needed": 6,
-              "fill_pct": 89.1,
+              "filled": 50,
+              "needed": 5,
+              "fill_pct": 90.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 15,
               "max_target": 95,
               "needed_to_min": 0,
-              "open_to_max": 46
+              "open_to_max": 45
             },
             {
               "label": "REACH",
@@ -852,9 +852,9 @@
     {
       "ref_name": "MIS-a87e1",
       "target": 250,
-      "filled": 35,
-      "fill_pct": 14.0,
-      "ir": "17",
+      "filled": 36,
+      "fill_pct": 14.4,
+      "ir": "16.9",
       "loi": "9.5",
       "launch_date": "2026-09-14 13:41:46",
       "oof": "9/28/2026",
@@ -976,8 +976,8 @@
     {
       "ref_name": "MIS-9554e",
       "target": 1000,
-      "filled": 332,
-      "fill_pct": 33.2,
+      "filled": 364,
+      "fill_pct": 36.4,
       "ir": "16.2",
       "loi": "2.5",
       "launch_date": "2026-09-14 20:35:19",
@@ -990,28 +990,28 @@
             {
               "label": "Califia creamer consumers",
               "target": 500,
-              "filled": 219,
-              "needed": 281,
-              "fill_pct": 43.8,
+              "filled": 245,
+              "needed": 255,
+              "fill_pct": 49.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 281,
-              "open_to_max": 281
+              "needed_to_min": 255,
+              "open_to_max": 255
             },
             {
               "label": "Califia Barista consumers",
               "target": 500,
-              "filled": 114,
-              "needed": 386,
-              "fill_pct": 22.8,
+              "filled": 131,
+              "needed": 369,
+              "fill_pct": 26.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 386,
-              "open_to_max": 386
+              "needed_to_min": 369,
+              "open_to_max": 369
             },
             {
               "label": "None of the above",
@@ -1035,7 +1035,7 @@
       "target": 500,
       "filled": 503,
       "fill_pct": 100.6,
-      "ir": "47.8",
+      "ir": "47.7",
       "loi": "7",
       "launch_date": "2026-09-14 23:48:07",
       "oof": "9/28/2026",
@@ -1073,6 +1073,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "Project Elevate Flavor Screen Spet 2026",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "9",
+      "launch_date": "2026-09-15 2:09:02",
+      "oof": "9/20/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T03:45:21",
-  "mission_count": 17,
+  "last_updated": "2026-09-16T04:15:21",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-93d36",
@@ -796,9 +796,9 @@
     {
       "ref_name": "MIS-a87e1",
       "target": 250,
-      "filled": 87,
-      "fill_pct": 34.8,
-      "ir": "23.9",
+      "filled": 88,
+      "fill_pct": 35.2,
+      "ir": "24",
       "loi": "9.5",
       "launch_date": "2026-09-14 13:41:46",
       "oof": "9/28/2026",
@@ -909,9 +909,9 @@
     {
       "ref_name": "MIS-e6ba9",
       "target": 1000,
-      "filled": 712,
-      "fill_pct": 71.2,
-      "ir": "77.2",
+      "filled": 715,
+      "fill_pct": 71.5,
+      "ir": "77.1",
       "loi": "9",
       "launch_date": "2026-09-15 2:09:02",
       "oof": "9/20/2026",
@@ -921,9 +921,9 @@
     {
       "ref_name": "MIS-ca0a8",
       "target": 1000,
-      "filled": 759,
-      "fill_pct": 75.9,
-      "ir": "58.8",
+      "filled": 763,
+      "fill_pct": 76.3,
+      "ir": "59",
       "loi": "10.5",
       "launch_date": "2026-09-15 19:24:21",
       "oof": "9/18/2026",
@@ -935,15 +935,15 @@
             {
               "label": "Female | 21 - 29",
               "target": 125,
-              "filled": 76,
-              "needed": 49,
-              "fill_pct": 60.8,
+              "filled": 78,
+              "needed": 47,
+              "fill_pct": 62.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 49,
-              "open_to_max": 49
+              "needed_to_min": 47,
+              "open_to_max": 47
             },
             {
               "label": "Female | 30 - 44",
@@ -1013,28 +1013,28 @@
             {
               "label": "Male | 45 - 59",
               "target": 125,
-              "filled": 93,
-              "needed": 32,
-              "fill_pct": 74.4,
+              "filled": 94,
+              "needed": 31,
+              "fill_pct": 75.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 32,
-              "open_to_max": 32
+              "needed_to_min": 31,
+              "open_to_max": 31
             },
             {
               "label": "Male | 60 - 79",
               "target": 125,
-              "filled": 43,
-              "needed": 82,
-              "fill_pct": 34.4,
+              "filled": 44,
+              "needed": 81,
+              "fill_pct": 35.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 82,
-              "open_to_max": 82
+              "needed_to_min": 81,
+              "open_to_max": 81
             }
           ]
         },
@@ -1083,15 +1083,15 @@
             {
               "label": "Hispanic or Latino/Latina",
               "target": 250,
-              "filled": 95,
-              "needed": 155,
-              "fill_pct": 38.0,
+              "filled": 99,
+              "needed": 151,
+              "fill_pct": 39.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 155,
-              "open_to_max": 155
+              "needed_to_min": 151,
+              "open_to_max": 151
             },
             {
               "label": "Other",
@@ -1461,106 +1461,10 @@
       ]
     },
     {
-      "ref_name": "MIS-b9798",
-      "target": 500,
-      "filled": 499,
-      "fill_pct": 99.8,
-      "ir": "36.1",
-      "loi": "5",
-      "launch_date": "2026-09-15 20:37:42",
-      "oof": "9/29/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which of these Over-the-Counter (OTC) medication brands, if any, have you purchased in the last 6 months to manage diarrhea and/or upset stomach?",
-          "cells": [
-            {
-              "label": "Pepto-Bismol",
-              "target": 150,
-              "filled": 150,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Imodium",
-              "target": 200,
-              "filled": 199,
-              "needed": 1,
-              "fill_pct": 99.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            },
-            {
-              "label": "Private Label Loperamide",
-              "target": 75,
-              "filled": 75,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Private Label Bismuth",
-              "target": 75,
-              "filled": 75,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Other",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-539ed",
       "target": 1000,
-      "filled": 861,
-      "fill_pct": 86.1,
+      "filled": 869,
+      "fill_pct": 86.9,
       "ir": "39.7",
       "loi": "11",
       "launch_date": "2026-09-15 21:23:17",
@@ -1583,8 +1487,8 @@
     {
       "ref_name": "MIS-25bbe",
       "target": 1000,
-      "filled": 917,
-      "fill_pct": 91.7,
+      "filled": 919,
+      "fill_pct": 91.9,
       "ir": "41.2",
       "loi": "5",
       "launch_date": "2026-09-15 22:39:10",
@@ -1595,9 +1499,9 @@
     {
       "ref_name": "MIS-8036c",
       "target": 1000,
-      "filled": 73,
-      "fill_pct": 7.3,
-      "ir": "57.5",
+      "filled": 79,
+      "fill_pct": 7.9,
+      "ir": "56.8",
       "loi": "4",
       "launch_date": "2026-09-16 0:10:49",
       "oof": "9/30/2026",

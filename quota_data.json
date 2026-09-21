@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T09:56:04",
-  "mission_count": 11,
+  "last_updated": "2026-09-21T10:26:09",
+  "mission_count": 10,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -106,9 +106,9 @@
     {
       "ref_name": "MIS-5f84b",
       "target": 800,
-      "filled": 729,
-      "fill_pct": 91.1,
-      "ir": "19.6",
+      "filled": 742,
+      "fill_pct": 92.8,
+      "ir": "18.7",
       "loi": "11",
       "launch_date": "2026-09-15 20:00:56",
       "oof": "10/5/2026",
@@ -133,28 +133,28 @@
             {
               "label": "25 - 34",
               "target": 224,
-              "filled": 204,
-              "needed": 20,
-              "fill_pct": 91.1,
+              "filled": 210,
+              "needed": 14,
+              "fill_pct": 93.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 192,
               "max_target": 256,
               "needed_to_min": 0,
-              "open_to_max": 52
+              "open_to_max": 46
             },
             {
               "label": "35 - 44",
               "target": 232,
-              "filled": 203,
-              "needed": 29,
-              "fill_pct": 87.5,
+              "filled": 206,
+              "needed": 26,
+              "fill_pct": 88.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 200,
               "max_target": 264,
               "needed_to_min": 0,
-              "open_to_max": 61
+              "open_to_max": 58
             },
             {
               "label": "45 - 54",
@@ -172,15 +172,15 @@
             {
               "label": "55 - 99",
               "target": 112,
-              "filled": 81,
-              "needed": 31,
-              "fill_pct": 72.3,
+              "filled": 85,
+              "needed": 27,
+              "fill_pct": 75.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 80,
               "max_target": 144,
               "needed_to_min": 0,
-              "open_to_max": 63
+              "open_to_max": 59
             }
           ]
         },
@@ -190,28 +190,28 @@
             {
               "label": "Female",
               "target": 400,
-              "filled": 364,
-              "needed": 36,
-              "fill_pct": 91.0,
+              "filled": 367,
+              "needed": 33,
+              "fill_pct": 91.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 360,
               "max_target": 440,
               "needed_to_min": 0,
-              "open_to_max": 76
+              "open_to_max": 73
             },
             {
               "label": "Male",
               "target": 400,
-              "filled": 362,
-              "needed": 38,
-              "fill_pct": 90.5,
+              "filled": 372,
+              "needed": 28,
+              "fill_pct": 93.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 360,
               "max_target": 440,
               "needed_to_min": 0,
-              "open_to_max": 78
+              "open_to_max": 68
             }
           ]
         },
@@ -221,15 +221,15 @@
             {
               "label": "Subgroup 1 \u2013 P6M shoppers that are not DTCC cardholders",
               "target": 560,
-              "filled": 408,
-              "needed": 152,
-              "fill_pct": 72.9,
+              "filled": 421,
+              "needed": 139,
+              "fill_pct": 75.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 480,
               "max_target": 640,
-              "needed_to_min": 72,
-              "open_to_max": 232
+              "needed_to_min": 59,
+              "open_to_max": 219
             },
             {
               "label": "Subgroup 2 \u2013 Recent DTCC Cardholder Shoppers",
@@ -386,8 +386,8 @@
     {
       "ref_name": "MIS-0d48a",
       "target": 1000,
-      "filled": 1000,
-      "fill_pct": 100.0,
+      "filled": 1002,
+      "fill_pct": 100.2,
       "ir": "59.6",
       "loi": "11",
       "launch_date": "2026-09-16 15:30:59",
@@ -398,9 +398,9 @@
     {
       "ref_name": "MIS-a9704",
       "target": 1000,
-      "filled": 997,
-      "fill_pct": 99.7,
-      "ir": "69.6",
+      "filled": 999,
+      "fill_pct": 99.9,
+      "ir": "69.7",
       "loi": "5",
       "launch_date": "2026-09-17 15:35:21",
       "oof": "9/22/2026",
@@ -412,15 +412,15 @@
             {
               "label": "Female",
               "target": 800,
-              "filled": 797,
-              "needed": 3,
-              "fill_pct": 99.6,
+              "filled": 799,
+              "needed": 1,
+              "fill_pct": 99.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 1,
+              "open_to_max": 1
             },
             {
               "label": "Male",
@@ -606,154 +606,6 @@
               "fill_pct": 0,
               "is_paused": false,
               "is_range": true,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-f437c",
-      "target": 1000,
-      "filled": 1002,
-      "fill_pct": 100.2,
-      "ir": "60.3",
-      "loi": "13",
-      "launch_date": "2026-09-17 16:00:29",
-      "oof": "10/1/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which music genres do you enjoy?",
-          "cells": [
-            {
-              "label": "Hip Hop",
-              "target": 100,
-              "filled": 100,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "R&B",
-              "target": 100,
-              "filled": 101,
-              "needed": 0,
-              "fill_pct": 101.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "K-Pop",
-              "target": 200,
-              "filled": 199,
-              "needed": 1,
-              "fill_pct": 99.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            },
-            {
-              "label": "Pop",
-              "target": 150,
-              "filled": 150,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Rock",
-              "target": 100,
-              "filled": 100,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Jazz",
-              "target": 100,
-              "filled": 100,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Country",
-              "target": 100,
-              "filled": 101,
-              "needed": 0,
-              "fill_pct": 101.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "EDM",
-              "target": 50,
-              "filled": 50,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Classical",
-              "target": 50,
-              "filled": 51,
-              "needed": 0,
-              "fill_pct": 102.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Other",
-              "target": 50,
-              "filled": 50,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -965,7 +817,7 @@
       "target": 500,
       "filled": 157,
       "fill_pct": 31.4,
-      "ir": "31.2",
+      "ir": "31.1",
       "loi": "4.5",
       "launch_date": "2026-09-18 11:30:00",
       "oof": "10/2/2026",

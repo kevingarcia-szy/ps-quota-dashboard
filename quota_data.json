@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T17:01:31",
-  "mission_count": 6,
+  "last_updated": "2026-09-21T17:31:20",
+  "mission_count": 7,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -230,7 +230,7 @@
       "target": 1100,
       "filled": 972,
       "fill_pct": 88.4,
-      "ir": "19.2",
+      "ir": "19.1",
       "loi": "20",
       "launch_date": "2026-09-17 12:42:48",
       "oof": "10/17/2026",
@@ -449,6 +449,151 @@
       ]
     },
     {
+      "ref_name": "MIS-a7d4b",
+      "target": 1100,
+      "filled": 928,
+      "fill_pct": 84.4,
+      "ir": "19.6",
+      "loi": "16",
+      "launch_date": "2026-09-17 13:36:56",
+      "oof": "10/17/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "21 - 29",
+              "target": 165,
+              "filled": 65,
+              "needed": 100,
+              "fill_pct": 39.4,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 110,
+              "max_target": 220,
+              "needed_to_min": 45,
+              "open_to_max": 155
+            },
+            {
+              "label": "30 - 45",
+              "target": 385,
+              "filled": 320,
+              "needed": 65,
+              "fill_pct": 83.1,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 330,
+              "max_target": 440,
+              "needed_to_min": 10,
+              "open_to_max": 120
+            },
+            {
+              "label": "46 - 61",
+              "target": 385,
+              "filled": 343,
+              "needed": 42,
+              "fill_pct": 89.1,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 330,
+              "max_target": 440,
+              "needed_to_min": 0,
+              "open_to_max": 97
+            },
+            {
+              "label": "62 - 99",
+              "target": 165,
+              "filled": 199,
+              "needed": 0,
+              "fill_pct": 120.6,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 110,
+              "max_target": 220,
+              "needed_to_min": 0,
+              "open_to_max": 21
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 605,
+              "filled": 504,
+              "needed": 101,
+              "fill_pct": 83.3,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 101,
+              "open_to_max": 101
+            },
+            {
+              "label": "Male",
+              "target": 495,
+              "filled": 423,
+              "needed": 72,
+              "fill_pct": 85.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 72,
+              "open_to_max": 72
+            }
+          ]
+        },
+        {
+          "group": "Homeowner",
+          "cells": [
+            {
+              "label": "Homeowner",
+              "target": 770,
+              "filled": 666,
+              "needed": 104,
+              "fill_pct": 86.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 104,
+              "open_to_max": 104
+            },
+            {
+              "label": "Non-Homeowner",
+              "target": 330,
+              "filled": 261,
+              "needed": 69,
+              "fill_pct": 79.1,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 69,
+              "open_to_max": 69
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-26e2a",
       "target": 1400,
       "filled": 1407,
@@ -526,9 +671,9 @@
     {
       "ref_name": "MIS-e6df2",
       "target": 500,
-      "filled": 302,
-      "fill_pct": 60.4,
-      "ir": "31.1",
+      "filled": 327,
+      "fill_pct": 65.4,
+      "ir": "30.3",
       "loi": "4.5",
       "launch_date": "2026-09-18 11:30:00",
       "oof": "10/2/2026",

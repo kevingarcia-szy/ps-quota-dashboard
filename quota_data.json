@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T10:40:56",
-  "mission_count": 7,
+  "last_updated": "2026-09-22T11:11:20",
+  "mission_count": 6,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -306,229 +306,6 @@
       ]
     },
     {
-      "ref_name": "MIS-56a4d",
-      "target": 1100,
-      "filled": 1030,
-      "fill_pct": 93.6,
-      "ir": "19.2",
-      "loi": "20",
-      "launch_date": "2026-09-17 12:42:48",
-      "oof": "10/17/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18 - 29",
-              "target": 275,
-              "filled": 201,
-              "needed": 74,
-              "fill_pct": 73.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 220,
-              "max_target": 330,
-              "needed_to_min": 19,
-              "open_to_max": 129
-            },
-            {
-              "label": "30 - 45",
-              "target": 275,
-              "filled": 324,
-              "needed": 0,
-              "fill_pct": 117.8,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 220,
-              "max_target": 330,
-              "needed_to_min": 0,
-              "open_to_max": 6
-            },
-            {
-              "label": "46 - 61",
-              "target": 275,
-              "filled": 329,
-              "needed": 0,
-              "fill_pct": 119.6,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 220,
-              "max_target": 330,
-              "needed_to_min": 0,
-              "open_to_max": 1
-            },
-            {
-              "label": "62 - 99",
-              "target": 275,
-              "filled": 176,
-              "needed": 99,
-              "fill_pct": 64.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 220,
-              "max_target": 330,
-              "needed_to_min": 44,
-              "open_to_max": 154
-            }
-          ]
-        },
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 550,
-              "filled": 574,
-              "needed": 0,
-              "fill_pct": 104.4,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 440,
-              "max_target": 660,
-              "needed_to_min": 0,
-              "open_to_max": 86
-            },
-            {
-              "label": "Male",
-              "target": 550,
-              "filled": 456,
-              "needed": 94,
-              "fill_pct": 82.9,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 440,
-              "max_target": 660,
-              "needed_to_min": 0,
-              "open_to_max": 204
-            }
-          ]
-        },
-        {
-          "group": "Income Level",
-          "cells": [
-            {
-              "label": "Under $25,000",
-              "target": 88,
-              "filled": 133,
-              "needed": 0,
-              "fill_pct": 151.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 33,
-              "max_target": 143,
-              "needed_to_min": 0,
-              "open_to_max": 10
-            },
-            {
-              "label": "$25,000 - $34,999",
-              "target": 88,
-              "filled": 76,
-              "needed": 12,
-              "fill_pct": 86.4,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 33,
-              "max_target": 143,
-              "needed_to_min": 0,
-              "open_to_max": 67
-            },
-            {
-              "label": "$35,000 - $44,999",
-              "target": 88,
-              "filled": 61,
-              "needed": 27,
-              "fill_pct": 69.3,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 33,
-              "max_target": 143,
-              "needed_to_min": 0,
-              "open_to_max": 82
-            },
-            {
-              "label": "$45,000 - $59,999",
-              "target": 99,
-              "filled": 88,
-              "needed": 11,
-              "fill_pct": 88.9,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 44,
-              "max_target": 154,
-              "needed_to_min": 0,
-              "open_to_max": 66
-            },
-            {
-              "label": "$60,000 - $74,999",
-              "target": 176,
-              "filled": 104,
-              "needed": 72,
-              "fill_pct": 59.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 121,
-              "max_target": 231,
-              "needed_to_min": 17,
-              "open_to_max": 127
-            },
-            {
-              "label": "$75,000 - $99,999",
-              "target": 187,
-              "filled": 112,
-              "needed": 75,
-              "fill_pct": 59.9,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 132,
-              "max_target": 242,
-              "needed_to_min": 20,
-              "open_to_max": 130
-            },
-            {
-              "label": "$100,000 - $149,999",
-              "target": 220,
-              "filled": 262,
-              "needed": 0,
-              "fill_pct": 119.1,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 165,
-              "max_target": 275,
-              "needed_to_min": 0,
-              "open_to_max": 13
-            },
-            {
-              "label": "$150,000 or more",
-              "target": 154,
-              "filled": 194,
-              "needed": 0,
-              "fill_pct": 126.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 99,
-              "max_target": 209,
-              "needed_to_min": 0,
-              "open_to_max": 15
-            },
-            {
-              "label": "I prefer not to answer",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-26e2a",
       "target": 1400,
       "filled": 1407,
@@ -606,9 +383,9 @@
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 3,
-      "fill_pct": 0.5,
-      "ir": "6.8",
+      "filled": 21,
+      "fill_pct": 3.5,
+      "ir": "22.8",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -620,28 +397,28 @@
             {
               "label": "Liquid I.V.",
               "target": 204,
+              "filled": 18,
+              "needed": 186,
+              "fill_pct": 8.8,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 186,
+              "open_to_max": 186
+            },
+            {
+              "label": "LMNT",
+              "target": 198,
               "filled": 3,
-              "needed": 201,
+              "needed": 195,
               "fill_pct": 1.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 201,
-              "open_to_max": 201
-            },
-            {
-              "label": "LMNT",
-              "target": 198,
-              "filled": 0,
-              "needed": 198,
-              "fill_pct": 0.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 198,
-              "open_to_max": 198
+              "needed_to_min": 195,
+              "open_to_max": 195
             },
             {
               "label": "Ultima Replenisher",

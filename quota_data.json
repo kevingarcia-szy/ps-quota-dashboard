@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T11:11:20",
+  "last_updated": "2026-09-22T11:41:32",
   "mission_count": 6,
   "missions": [
     {
@@ -150,13 +150,13 @@
     {
       "ref_name": "MIS-5f84b",
       "target": 800,
-      "filled": 541,
-      "fill_pct": 67.6,
-      "ir": "12.7",
+      "filled": 672,
+      "fill_pct": 84.0,
+      "ir": "14.3",
       "loi": "11",
       "launch_date": "2026-09-15 20:00:56",
       "oof": "10/5/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Age",
@@ -164,41 +164,41 @@
             {
               "label": "18 - 24",
               "target": 136,
-              "filled": 75,
-              "needed": 61,
-              "fill_pct": 55.1,
+              "filled": 100,
+              "needed": 36,
+              "fill_pct": 73.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 104,
               "max_target": 168,
-              "needed_to_min": 29,
-              "open_to_max": 93
+              "needed_to_min": 4,
+              "open_to_max": 68
             },
             {
               "label": "25 - 34",
               "target": 224,
-              "filled": 125,
-              "needed": 99,
-              "fill_pct": 55.8,
+              "filled": 180,
+              "needed": 44,
+              "fill_pct": 80.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 192,
               "max_target": 256,
-              "needed_to_min": 67,
-              "open_to_max": 131
+              "needed_to_min": 12,
+              "open_to_max": 76
             },
             {
               "label": "35 - 44",
               "target": 232,
-              "filled": 170,
-              "needed": 62,
-              "fill_pct": 73.3,
+              "filled": 223,
+              "needed": 9,
+              "fill_pct": 96.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 200,
               "max_target": 264,
-              "needed_to_min": 30,
-              "open_to_max": 94
+              "needed_to_min": 0,
+              "open_to_max": 41
             },
             {
               "label": "45 - 54",
@@ -234,28 +234,28 @@
             {
               "label": "Female",
               "target": 400,
-              "filled": 277,
-              "needed": 123,
-              "fill_pct": 69.2,
+              "filled": 342,
+              "needed": 58,
+              "fill_pct": 85.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 360,
               "max_target": 440,
-              "needed_to_min": 83,
-              "open_to_max": 163
+              "needed_to_min": 18,
+              "open_to_max": 98
             },
             {
               "label": "Male",
               "target": 400,
-              "filled": 261,
-              "needed": 139,
-              "fill_pct": 65.2,
+              "filled": 329,
+              "needed": 71,
+              "fill_pct": 82.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 360,
               "max_target": 440,
-              "needed_to_min": 99,
-              "open_to_max": 179
+              "needed_to_min": 31,
+              "open_to_max": 111
             }
           ]
         },
@@ -265,28 +265,28 @@
             {
               "label": "Subgroup 1 \u2013 P6M shoppers that are not DTCC cardholders",
               "target": 560,
-              "filled": 366,
-              "needed": 194,
-              "fill_pct": 65.4,
+              "filled": 444,
+              "needed": 116,
+              "fill_pct": 79.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 480,
               "max_target": 640,
-              "needed_to_min": 114,
-              "open_to_max": 274
+              "needed_to_min": 36,
+              "open_to_max": 196
             },
             {
               "label": "Subgroup 2 \u2013 Recent DTCC Cardholder Shoppers",
               "target": 240,
-              "filled": 172,
-              "needed": 68,
-              "fill_pct": 71.7,
+              "filled": 227,
+              "needed": 13,
+              "fill_pct": 94.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 240,
               "max_target": 320,
-              "needed_to_min": 68,
-              "open_to_max": 148
+              "needed_to_min": 13,
+              "open_to_max": 93
             },
             {
               "label": "None of the above",
@@ -383,9 +383,9 @@
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 21,
-      "fill_pct": 3.5,
-      "ir": "22.8",
+      "filled": 121,
+      "fill_pct": 20.2,
+      "ir": "34.2",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -397,41 +397,41 @@
             {
               "label": "Liquid I.V.",
               "target": 204,
-              "filled": 18,
-              "needed": 186,
-              "fill_pct": 8.8,
+              "filled": 112,
+              "needed": 92,
+              "fill_pct": 54.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 186,
-              "open_to_max": 186
+              "needed_to_min": 92,
+              "open_to_max": 92
             },
             {
               "label": "LMNT",
               "target": 198,
-              "filled": 3,
-              "needed": 195,
-              "fill_pct": 1.5,
+              "filled": 9,
+              "needed": 189,
+              "fill_pct": 4.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 195,
-              "open_to_max": 195
+              "needed_to_min": 189,
+              "open_to_max": 189
             },
             {
               "label": "Ultima Replenisher",
               "target": 198,
-              "filled": 0,
-              "needed": 198,
-              "fill_pct": 0.0,
+              "filled": 2,
+              "needed": 196,
+              "fill_pct": 1.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 198,
-              "open_to_max": 198
+              "needed_to_min": 196,
+              "open_to_max": 196
             },
             {
               "label": "None of the above",

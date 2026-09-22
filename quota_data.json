@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T16:42:17",
-  "mission_count": 16,
+  "last_updated": "2026-09-22T17:10:46",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -351,9 +351,9 @@
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 259,
-      "fill_pct": 43.2,
-      "ir": "25.1",
+      "filled": 261,
+      "fill_pct": 43.5,
+      "ir": "24",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -378,28 +378,28 @@
             {
               "label": "LMNT",
               "target": 198,
-              "filled": 24,
-              "needed": 174,
-              "fill_pct": 12.1,
+              "filled": 25,
+              "needed": 173,
+              "fill_pct": 12.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 174,
-              "open_to_max": 174
+              "needed_to_min": 173,
+              "open_to_max": 173
             },
             {
               "label": "Ultima Replenisher",
               "target": 198,
-              "filled": 3,
-              "needed": 195,
-              "fill_pct": 1.5,
+              "filled": 4,
+              "needed": 194,
+              "fill_pct": 2.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 195,
-              "open_to_max": 195
+              "needed_to_min": 194,
+              "open_to_max": 194
             },
             {
               "label": "None of the above",
@@ -548,9 +548,9 @@
     {
       "ref_name": "MIS-1ff13",
       "target": 1000,
-      "filled": 315,
-      "fill_pct": 31.5,
-      "ir": "28.4",
+      "filled": 328,
+      "fill_pct": 32.8,
+      "ir": "28.7",
       "loi": "4",
       "launch_date": "2026-09-21 10:52:51",
       "oof": "9/24/2026",
@@ -560,9 +560,9 @@
     {
       "ref_name": "MIS-9fcb9",
       "target": 1000,
-      "filled": 703,
-      "fill_pct": 70.3,
-      "ir": "42.9",
+      "filled": 713,
+      "fill_pct": 71.3,
+      "ir": "42.1",
       "loi": "2",
       "launch_date": "2026-09-21 10:58:56",
       "oof": "10/21/2026",
@@ -788,27 +788,15 @@
       ]
     },
     {
-      "ref_name": "MIS-73e76",
-      "target": 750,
-      "filled": 708,
-      "fill_pct": 94.4,
-      "ir": "45.3",
-      "loi": "9",
-      "launch_date": "2026-09-21 13:03:49",
-      "oof": "9/26/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-28999",
       "target": 1000,
-      "filled": 449,
-      "fill_pct": 44.9,
-      "ir": "67.6",
+      "filled": 549,
+      "fill_pct": 54.9,
+      "ir": "69.1",
       "loi": "28.5",
       "launch_date": "2026-09-21 14:07:29",
       "oof": "10/6/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "AA3",
@@ -816,28 +804,28 @@
             {
               "label": "Sal Suds Users",
               "target": 50,
-              "filled": 31,
-              "needed": 19,
-              "fill_pct": 62.0,
+              "filled": 35,
+              "needed": 15,
+              "fill_pct": 70.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 50,
               "max_target": 150,
-              "needed_to_min": 19,
-              "open_to_max": 119
+              "needed_to_min": 15,
+              "open_to_max": 115
             },
             {
               "label": "None of the above",
               "target": 950,
-              "filled": 418,
-              "needed": 532,
-              "fill_pct": 44.0,
+              "filled": 514,
+              "needed": 436,
+              "fill_pct": 54.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 850,
               "max_target": 1000,
-              "needed_to_min": 432,
-              "open_to_max": 582
+              "needed_to_min": 336,
+              "open_to_max": 486
             }
           ]
         }
@@ -848,7 +836,7 @@
       "target": 1000,
       "filled": 45,
       "fill_pct": 4.5,
-      "ir": "29.6",
+      "ir": "29",
       "loi": "11",
       "launch_date": "2026-09-21 12:58:01",
       "oof": "10/5/2026",
@@ -858,9 +846,9 @@
     {
       "ref_name": "MIS-d2872",
       "target": 1000,
-      "filled": 44,
-      "fill_pct": 4.4,
-      "ir": "77.2",
+      "filled": 66,
+      "fill_pct": 6.6,
+      "ir": "79.5",
       "loi": "5.5",
       "launch_date": "2026-09-22 6:53:45",
       "oof": "9/25/2026",
@@ -870,9 +858,9 @@
     {
       "ref_name": "MIS-d002d",
       "target": 1000,
-      "filled": 15,
-      "fill_pct": 1.5,
-      "ir": "41.7",
+      "filled": 35,
+      "fill_pct": 3.5,
+      "ir": "36.1",
       "loi": "5.5",
       "launch_date": "2026-09-22 12:21:14",
       "oof": "9/27/2026",
@@ -882,8 +870,8 @@
     {
       "ref_name": "MIS-b6710",
       "target": 200,
-      "filled": 161,
-      "fill_pct": 80.5,
+      "filled": 169,
+      "fill_pct": 84.5,
       "ir": "56.5",
       "loi": "7",
       "launch_date": "2026-09-22 11:15:27",

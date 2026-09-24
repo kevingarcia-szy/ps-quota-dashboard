@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T11:55:58",
-  "mission_count": 13,
+  "last_updated": "2026-09-24T12:16:47",
+  "mission_count": 12,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -104,18 +104,6 @@
       ]
     },
     {
-      "ref_name": "MIS-56039",
-      "target": 100,
-      "filled": 97,
-      "fill_pct": 97.0,
-      "ir": "6.2",
-      "loi": "5",
-      "launch_date": "2026-09-17 16:22:00",
-      "oof": "10/1/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-26e2a",
       "target": 1400,
       "filled": 1407,
@@ -193,9 +181,9 @@
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 369,
-      "fill_pct": 61.5,
-      "ir": "13.3",
+      "filled": 370,
+      "fill_pct": 61.7,
+      "ir": "13.2",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -207,9 +195,9 @@
             {
               "label": "Liquid I.V.",
               "target": 300,
-              "filled": 308,
+              "filled": 309,
               "needed": 0,
-              "fill_pct": 102.7,
+              "fill_pct": 103.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -287,13 +275,13 @@
     {
       "ref_name": "MIS-56ac1",
       "target": 1000,
-      "filled": 791,
-      "fill_pct": 79.1,
-      "ir": "69.6",
+      "filled": 802,
+      "fill_pct": 80.2,
+      "ir": "69.7",
       "loi": "22",
       "launch_date": "2026-09-23 10:08:06",
       "oof": "9/29/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": []
     },
     {
@@ -422,15 +410,15 @@
             {
               "label": "Male | 30 - 45",
               "target": 290,
-              "filled": 104,
-              "needed": 186,
-              "fill_pct": 35.9,
+              "filled": 105,
+              "needed": 185,
+              "fill_pct": 36.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 186,
-              "open_to_max": 186
+              "needed_to_min": 185,
+              "open_to_max": 185
             }
           ]
         }
@@ -509,9 +497,9 @@
     {
       "ref_name": "MIS-77c9a",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 1,
+      "fill_pct": 0.1,
+      "ir": "100",
       "loi": "4.5",
       "launch_date": "2026-09-24 8:08:33",
       "oof": "10/8/2026",
@@ -562,15 +550,15 @@
             {
               "label": "Male | 30 - 45",
               "target": 290,
-              "filled": 0,
-              "needed": 290,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 289,
+              "fill_pct": 0.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 290,
-              "open_to_max": 290
+              "needed_to_min": 289,
+              "open_to_max": 289
             }
           ]
         }

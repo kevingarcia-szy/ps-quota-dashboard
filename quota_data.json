@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T17:55:15",
-  "mission_count": 12,
+  "last_updated": "2026-09-25T18:16:17",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -642,8 +642,8 @@
     {
       "ref_name": "MIS-2b9f3",
       "target": 1000,
-      "filled": 550,
-      "fill_pct": 55.0,
+      "filled": 552,
+      "fill_pct": 55.2,
       "ir": "15.2",
       "loi": "6",
       "launch_date": "2026-09-24 11:53:42",
@@ -669,15 +669,15 @@
             {
               "label": "Ortho Refill-Compatible Consumers",
               "target": 270,
-              "filled": 182,
-              "needed": 88,
-              "fill_pct": 67.4,
+              "filled": 184,
+              "needed": 86,
+              "fill_pct": 68.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 38,
-              "open_to_max": 138
+              "needed_to_min": 36,
+              "open_to_max": 136
             },
             {
               "label": "Ortho Refill Trigger Consumers",
@@ -712,9 +712,9 @@
     {
       "ref_name": "MIS-2bfa7",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 1,
+      "fill_pct": 0.1,
+      "ir": "16.7",
       "loi": "19",
       "launch_date": "2026-09-24 14:02:10",
       "oof": "9/28/2026",
@@ -726,7 +726,7 @@
       "target": 1000,
       "filled": 563,
       "fill_pct": 56.3,
-      "ir": "42.4",
+      "ir": "42.3",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/24/2026",
@@ -791,6 +791,63 @@
               "max_target": 0,
               "needed_to_min": 448,
               "open_to_max": 448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-dc958",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "7.5",
+      "launch_date": "2026-09-25 14:47:22",
+      "oof": "10/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Subscribers/Prospects",
+          "cells": [
+            {
+              "label": "Subs",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "Prospects",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 500,
+              "open_to_max": 500
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }

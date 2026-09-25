@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T13:44:18",
+  "last_updated": "2026-09-25T14:05:41",
   "mission_count": 13,
   "missions": [
     {
@@ -108,7 +108,7 @@
       "target": 600,
       "filled": 382,
       "fill_pct": 63.7,
-      "ir": "11.4",
+      "ir": "11.3",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -133,15 +133,15 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 56,
-              "needed": 124,
-              "fill_pct": 31.1,
+              "filled": 57,
+              "needed": 123,
+              "fill_pct": 31.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 124,
-              "open_to_max": 124
+              "needed_to_min": 123,
+              "open_to_max": 123
             },
             {
               "label": "Ultima Replenisher",
@@ -630,9 +630,9 @@
     {
       "ref_name": "MIS-2b9f3",
       "target": 1000,
-      "filled": 533,
-      "fill_pct": 53.3,
-      "ir": "15.4",
+      "filled": 538,
+      "fill_pct": 53.8,
+      "ir": "15.3",
       "loi": "6",
       "launch_date": "2026-09-24 11:53:42",
       "oof": "10/8/2026",
@@ -644,28 +644,28 @@
             {
               "label": "Ortho Refill Comfort Wand Consumers",
               "target": 270,
-              "filled": 121,
-              "needed": 149,
-              "fill_pct": 44.8,
+              "filled": 122,
+              "needed": 148,
+              "fill_pct": 45.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 99,
-              "open_to_max": 199
+              "needed_to_min": 98,
+              "open_to_max": 198
             },
             {
               "label": "Ortho Refill-Compatible Consumers",
               "target": 270,
-              "filled": 173,
-              "needed": 97,
-              "fill_pct": 64.1,
+              "filled": 176,
+              "needed": 94,
+              "fill_pct": 65.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 47,
-              "open_to_max": 147
+              "needed_to_min": 44,
+              "open_to_max": 144
             },
             {
               "label": "Ortho Refill Trigger Consumers",
@@ -700,8 +700,8 @@
     {
       "ref_name": "MIS-19a9e",
       "target": 1000,
-      "filled": 963,
-      "fill_pct": 96.3,
+      "filled": 966,
+      "fill_pct": 96.6,
       "ir": "86.6",
       "loi": "24",
       "launch_date": "2026-09-24 12:33:03",
@@ -724,13 +724,13 @@
     {
       "ref_name": "MIS-cf845",
       "target": 1000,
-      "filled": 463,
-      "fill_pct": 46.3,
-      "ir": "46.4",
+      "filled": 512,
+      "fill_pct": 51.2,
+      "ir": "46.8",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/24/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "AA1",
@@ -738,28 +738,28 @@
             {
               "label": "Venmo CC User",
               "target": 500,
-              "filled": 191,
-              "needed": 309,
-              "fill_pct": 38.2,
+              "filled": 220,
+              "needed": 280,
+              "fill_pct": 44.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 309,
-              "open_to_max": 309
+              "needed_to_min": 280,
+              "open_to_max": 280
             },
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 271,
-              "needed": 229,
-              "fill_pct": 54.2,
+              "filled": 291,
+              "needed": 209,
+              "fill_pct": 58.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 229,
-              "open_to_max": 229
+              "needed_to_min": 209,
+              "open_to_max": 209
             }
           ]
         },
@@ -769,28 +769,28 @@
             {
               "label": "Venmo App User",
               "target": 500,
-              "filled": 424,
-              "needed": 76,
-              "fill_pct": 84.8,
+              "filled": 467,
+              "needed": 33,
+              "fill_pct": 93.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 76,
-              "open_to_max": 76
+              "needed_to_min": 33,
+              "open_to_max": 33
             },
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 38,
-              "needed": 462,
-              "fill_pct": 7.6,
+              "filled": 44,
+              "needed": 456,
+              "fill_pct": 8.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 462,
-              "open_to_max": 462
+              "needed_to_min": 456,
+              "open_to_max": 456
             }
           ]
         }
@@ -801,7 +801,7 @@
       "target": 100,
       "filled": 16,
       "fill_pct": 16.0,
-      "ir": "15.7",
+      "ir": "15.5",
       "loi": "4.5",
       "launch_date": "2026-09-24 15:23:15",
       "oof": "10/8/2026",

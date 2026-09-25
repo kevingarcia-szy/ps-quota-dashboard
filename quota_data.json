@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T23:25:45",
+  "last_updated": "2026-09-24T23:46:46",
   "mission_count": 15,
   "missions": [
     {
@@ -200,9 +200,9 @@
     {
       "ref_name": "MIS-2b9f3",
       "target": 1000,
-      "filled": 327,
-      "fill_pct": 32.7,
-      "ir": "16.5",
+      "filled": 333,
+      "fill_pct": 33.3,
+      "ir": "16.4",
       "loi": "6",
       "launch_date": "2026-09-24 11:53:42",
       "oof": "10/8/2026",
@@ -227,15 +227,15 @@
             {
               "label": "Ortho Refill-Compatible Consumers",
               "target": 270,
-              "filled": 100,
-              "needed": 170,
-              "fill_pct": 37.0,
+              "filled": 103,
+              "needed": 167,
+              "fill_pct": 38.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 120,
-              "open_to_max": 220
+              "needed_to_min": 117,
+              "open_to_max": 217
             },
             {
               "label": "Ortho Refill Trigger Consumers",
@@ -253,15 +253,15 @@
             {
               "label": "None of the above",
               "target": 190,
-              "filled": 156,
-              "needed": 34,
-              "fill_pct": 82.1,
+              "filled": 162,
+              "needed": 28,
+              "fill_pct": 85.3,
               "is_paused": false,
               "is_range": true,
               "min_target": 140,
               "max_target": 240,
               "needed_to_min": 0,
-              "open_to_max": 84
+              "open_to_max": 78
             }
           ]
         }
@@ -270,9 +270,9 @@
     {
       "ref_name": "MIS-19a9e",
       "target": 1000,
-      "filled": 538,
-      "fill_pct": 53.8,
-      "ir": "86.2",
+      "filled": 599,
+      "fill_pct": 59.9,
+      "ir": "86.3",
       "loi": "24",
       "launch_date": "2026-09-24 12:33:03",
       "oof": "9/28/2026",
@@ -748,9 +748,9 @@
     {
       "ref_name": "MIS-cf845",
       "target": 1000,
-      "filled": 17,
-      "fill_pct": 1.7,
-      "ir": "27.9",
+      "filled": 21,
+      "fill_pct": 2.1,
+      "ir": "30.9",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/24/2026",
@@ -762,6 +762,19 @@
             {
               "label": "Venmo CC User",
               "target": 500,
+              "filled": 12,
+              "needed": 488,
+              "fill_pct": 2.4,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 488,
+              "open_to_max": 488
+            },
+            {
+              "label": "None of the above",
+              "target": 500,
               "filled": 9,
               "needed": 491,
               "fill_pct": 1.8,
@@ -771,19 +784,6 @@
               "max_target": 0,
               "needed_to_min": 491,
               "open_to_max": 491
-            },
-            {
-              "label": "None of the above",
-              "target": 500,
-              "filled": 8,
-              "needed": 492,
-              "fill_pct": 1.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 492,
-              "open_to_max": 492
             }
           ]
         },
@@ -793,15 +793,15 @@
             {
               "label": "Venmo App User",
               "target": 500,
-              "filled": 13,
-              "needed": 487,
-              "fill_pct": 2.6,
+              "filled": 17,
+              "needed": 483,
+              "fill_pct": 3.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 487,
-              "open_to_max": 487
+              "needed_to_min": 483,
+              "open_to_max": 483
             },
             {
               "label": "None of the above",
@@ -825,7 +825,7 @@
       "target": 100,
       "filled": 11,
       "fill_pct": 11.0,
-      "ir": "18",
+      "ir": "17.5",
       "loi": "4.5",
       "launch_date": "2026-09-24 15:23:15",
       "oof": "10/8/2026",

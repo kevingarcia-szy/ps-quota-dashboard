@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T16:32:54",
-  "mission_count": 13,
+  "last_updated": "2026-09-25T17:13:18",
+  "mission_count": 11,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -630,9 +630,9 @@
     {
       "ref_name": "MIS-2b9f3",
       "target": 1000,
-      "filled": 538,
-      "fill_pct": 53.8,
-      "ir": "15.2",
+      "filled": 550,
+      "fill_pct": 55.0,
+      "ir": "15.3",
       "loi": "6",
       "launch_date": "2026-09-24 11:53:42",
       "oof": "10/8/2026",
@@ -644,28 +644,28 @@
             {
               "label": "Ortho Refill Comfort Wand Consumers",
               "target": 270,
-              "filled": 122,
-              "needed": 148,
-              "fill_pct": 45.2,
+              "filled": 128,
+              "needed": 142,
+              "fill_pct": 47.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 98,
-              "open_to_max": 198
+              "needed_to_min": 92,
+              "open_to_max": 192
             },
             {
               "label": "Ortho Refill-Compatible Consumers",
               "target": 270,
-              "filled": 176,
-              "needed": 94,
-              "fill_pct": 65.2,
+              "filled": 182,
+              "needed": 88,
+              "fill_pct": 67.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 220,
               "max_target": 320,
-              "needed_to_min": 44,
-              "open_to_max": 144
+              "needed_to_min": 38,
+              "open_to_max": 138
             },
             {
               "label": "Ortho Refill Trigger Consumers",
@@ -698,25 +698,13 @@
       ]
     },
     {
-      "ref_name": "MIS-19a9e",
-      "target": 1000,
-      "filled": 997,
-      "fill_pct": 99.7,
-      "ir": "86.8",
-      "loi": "24",
-      "launch_date": "2026-09-24 12:33:03",
-      "oof": "9/28/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-2bfa7",
       "target": 1000,
       "filled": 0,
       "fill_pct": 0.0,
       "ir": "0",
       "loi": "19",
-      "launch_date": "2026-09-24 14:02:10",
+      "launch_date": "",
       "oof": "9/28/2026",
       "status": "behind",
       "quotas": []
@@ -726,7 +714,7 @@
       "target": 1000,
       "filled": 563,
       "fill_pct": 56.3,
-      "ir": "42.6",
+      "ir": "42.5",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/24/2026",
@@ -795,18 +783,6 @@
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-2bf85",
-      "target": 100,
-      "filled": 87,
-      "fill_pct": 87.0,
-      "ir": "26.2",
-      "loi": "4.5",
-      "launch_date": "2026-09-24 15:23:15",
-      "oof": "10/8/2026",
-      "status": "on_track",
-      "quotas": []
     }
   ]
 }

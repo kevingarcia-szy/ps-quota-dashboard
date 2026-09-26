@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T15:06:42",
+  "last_updated": "2026-09-26T15:27:55",
   "mission_count": 16,
   "missions": [
     {
@@ -62,13 +62,13 @@
     {
       "ref_name": "MIS-831c0",
       "target": 1000,
-      "filled": 213,
-      "fill_pct": 21.3,
-      "ir": "17.9",
+      "filled": 510,
+      "fill_pct": 51.0,
+      "ir": "18.6",
       "loi": "6.5",
       "launch_date": "2026-09-25 11:50:30",
       "oof": "10/9/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
@@ -679,7 +679,7 @@
       "target": 1000,
       "filled": 789,
       "fill_pct": 78.9,
-      "ir": "27.7",
+      "ir": "27.4",
       "loi": "7.5",
       "launch_date": "2026-09-25 14:47:22",
       "oof": "10/9/2026",
@@ -822,9 +822,9 @@
     {
       "ref_name": "MIS-543fb",
       "target": 1000,
-      "filled": 19,
-      "fill_pct": 1.9,
-      "ir": "48.7",
+      "filled": 22,
+      "fill_pct": 2.2,
+      "ir": "47.8",
       "loi": "4.5",
       "launch_date": "2026-09-25 15:14:44",
       "oof": "10/9/2026",
@@ -834,9 +834,9 @@
     {
       "ref_name": "MIS-a4a8e",
       "target": 500,
-      "filled": 426,
-      "fill_pct": 85.2,
-      "ir": "86.9",
+      "filled": 434,
+      "fill_pct": 86.8,
+      "ir": "87",
       "loi": "7.5",
       "launch_date": "2026-09-25 15:22:31",
       "oof": "10/5/2026",
@@ -848,28 +848,28 @@
             {
               "label": "14 - 17",
               "target": 50,
-              "filled": 30,
-              "needed": 20,
-              "fill_pct": 60.0,
+              "filled": 32,
+              "needed": 18,
+              "fill_pct": 64.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 20,
-              "open_to_max": 20
+              "needed_to_min": 18,
+              "open_to_max": 18
             },
             {
               "label": "18 - 50",
               "target": 450,
-              "filled": 396,
-              "needed": 54,
-              "fill_pct": 88.0,
+              "filled": 402,
+              "needed": 48,
+              "fill_pct": 89.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 54,
-              "open_to_max": 54
+              "needed_to_min": 48,
+              "open_to_max": 48
             }
           ]
         }

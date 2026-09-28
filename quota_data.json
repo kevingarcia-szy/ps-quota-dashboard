@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T12:05:17",
+  "last_updated": "2026-09-28T12:26:21",
   "mission_count": 11,
   "missions": [
     {
@@ -106,9 +106,9 @@
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 418,
-      "fill_pct": 69.7,
-      "ir": "9.5",
+      "filled": 419,
+      "fill_pct": 69.8,
+      "ir": "9.4",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -133,28 +133,28 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 85,
+              "filled": 86,
+              "needed": 94,
+              "fill_pct": 47.8,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 94,
+              "open_to_max": 94
+            },
+            {
+              "label": "Ultima Replenisher",
+              "target": 120,
+              "filled": 25,
               "needed": 95,
-              "fill_pct": 47.2,
+              "fill_pct": 20.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 95,
               "open_to_max": 95
-            },
-            {
-              "label": "Ultima Replenisher",
-              "target": 120,
-              "filled": 24,
-              "needed": 96,
-              "fill_pct": 20.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 96,
-              "open_to_max": 96
             },
             {
               "label": "None of the above",
@@ -700,9 +700,9 @@
     {
       "ref_name": "MIS-cf845",
       "target": 1000,
-      "filled": 734,
-      "fill_pct": 73.4,
-      "ir": "20.7",
+      "filled": 746,
+      "fill_pct": 74.6,
+      "ir": "20.8",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/28/2026",
@@ -714,28 +714,28 @@
             {
               "label": "Venmo CC User",
               "target": 500,
-              "filled": 377,
-              "needed": 123,
-              "fill_pct": 75.4,
+              "filled": 382,
+              "needed": 118,
+              "fill_pct": 76.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 73,
-              "open_to_max": 173
+              "needed_to_min": 68,
+              "open_to_max": 168
             },
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 355,
-              "needed": 145,
-              "fill_pct": 71.0,
+              "filled": 362,
+              "needed": 138,
+              "fill_pct": 72.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 95,
-              "open_to_max": 195
+              "needed_to_min": 88,
+              "open_to_max": 188
             }
           ]
         },
@@ -745,28 +745,28 @@
             {
               "label": "Venmo App User",
               "target": 500,
-              "filled": 577,
+              "filled": 588,
               "needed": 0,
-              "fill_pct": 115.4,
+              "fill_pct": 117.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 600,
               "needed_to_min": 0,
-              "open_to_max": 23
+              "open_to_max": 12
             },
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 155,
-              "needed": 345,
-              "fill_pct": 31.0,
+              "filled": 156,
+              "needed": 344,
+              "fill_pct": 31.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 600,
-              "needed_to_min": 245,
-              "open_to_max": 445
+              "needed_to_min": 244,
+              "open_to_max": 444
             }
           ]
         }
@@ -775,9 +775,9 @@
     {
       "ref_name": "MIS-dc958",
       "target": 1000,
-      "filled": 922,
-      "fill_pct": 92.2,
-      "ir": "21",
+      "filled": 926,
+      "fill_pct": 92.6,
+      "ir": "20.9",
       "loi": "7.5",
       "launch_date": "2026-09-25 14:47:22",
       "oof": "10/9/2026",
@@ -789,15 +789,15 @@
             {
               "label": "Subs",
               "target": 500,
-              "filled": 417,
-              "needed": 83,
-              "fill_pct": 83.4,
+              "filled": 421,
+              "needed": 79,
+              "fill_pct": 84.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 83,
-              "open_to_max": 83
+              "needed_to_min": 79,
+              "open_to_max": 79
             },
             {
               "label": "Prospects",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T17:46:51",
-  "mission_count": 10,
+  "last_updated": "2026-09-28T18:08:21",
+  "mission_count": 11,
   "missions": [
     {
       "ref_name": "MIS-f3e3a",
@@ -645,7 +645,7 @@
       "target": 1000,
       "filled": 769,
       "fill_pct": 76.9,
-      "ir": "20.7",
+      "ir": "20.6",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/28/2026",
@@ -718,8 +718,8 @@
     {
       "ref_name": "MIS-dc958",
       "target": 1000,
-      "filled": 948,
-      "fill_pct": 94.8,
+      "filled": 951,
+      "fill_pct": 95.1,
       "ir": "20.5",
       "loi": "7.5",
       "launch_date": "2026-09-25 14:47:22",
@@ -732,15 +732,15 @@
             {
               "label": "Subs",
               "target": 500,
-              "filled": 443,
-              "needed": 57,
-              "fill_pct": 88.6,
+              "filled": 446,
+              "needed": 54,
+              "fill_pct": 89.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 57,
-              "open_to_max": 57
+              "needed_to_min": 54,
+              "open_to_max": 54
             },
             {
               "label": "Prospects",
@@ -771,6 +771,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-e66ea",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-09-25 9:07:50",
+      "oof": "10/9/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

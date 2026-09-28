@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T10:23:18",
-  "mission_count": 13,
+  "last_updated": "2026-09-28T10:44:26",
+  "mission_count": 12,
   "missions": [
     {
       "ref_name": "MIS-9554e",
@@ -576,18 +576,6 @@
       ]
     },
     {
-      "ref_name": "MIS-2bfa7",
-      "target": 1000,
-      "filled": 2,
-      "fill_pct": 0.2,
-      "ir": "28.6",
-      "loi": "19",
-      "launch_date": "2026-09-24 14:02:10",
-      "oof": "9/28/2026",
-      "status": "behind",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-cf845",
       "target": 1000,
       "filled": 723,
@@ -640,10 +628,10 @@
               "fill_pct": 113.8,
               "is_paused": false,
               "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
+              "min_target": 400,
+              "max_target": 600,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 31
             },
             {
               "label": "None of the above",
@@ -653,10 +641,10 @@
               "fill_pct": 30.4,
               "is_paused": false,
               "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 298,
-              "open_to_max": 398
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 248,
+              "open_to_max": 448
             }
           ]
         }
@@ -722,8 +710,8 @@
     {
       "ref_name": "MIS-ecb54",
       "target": 1000,
-      "filled": 990,
-      "fill_pct": 99.0,
+      "filled": 997,
+      "fill_pct": 99.7,
       "ir": "100",
       "loi": "6.5",
       "launch_date": "2026-09-25 14:59:56",
@@ -736,28 +724,28 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 693,
-              "needed": 7,
-              "fill_pct": 99.0,
+              "filled": 697,
+              "needed": 3,
+              "fill_pct": 99.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 3,
+              "open_to_max": 3
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 296,
-              "needed": 4,
-              "fill_pct": 98.7,
+              "filled": 299,
+              "needed": 1,
+              "fill_pct": 99.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 1,
+              "open_to_max": 1
             }
           ]
         }
@@ -766,8 +754,8 @@
     {
       "ref_name": "MIS-a830d",
       "target": 1000,
-      "filled": 1001,
-      "fill_pct": 100.1,
+      "filled": 1002,
+      "fill_pct": 100.2,
       "ir": "100",
       "loi": "6",
       "launch_date": "2026-09-25 14:54:20",
@@ -793,15 +781,15 @@
             {
               "label": "Male",
               "target": 300,
-              "filled": 298,
-              "needed": 2,
-              "fill_pct": 99.3,
+              "filled": 299,
+              "needed": 1,
+              "fill_pct": 99.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 1,
+              "open_to_max": 1
             }
           ]
         }

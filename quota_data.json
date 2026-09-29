@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T16:52:06",
-  "mission_count": 17,
+  "last_updated": "2026-09-29T17:13:54",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -405,128 +405,6 @@
       ]
     },
     {
-      "ref_name": "MIS-31598",
-      "target": 1000,
-      "filled": 974,
-      "fill_pct": 97.4,
-      "ir": "67",
-      "loi": "1.5",
-      "launch_date": "2026-09-24 15:47:38",
-      "oof": "10/8/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age x Gender",
-          "cells": [
-            {
-              "label": "18-24 | Female",
-              "target": 70,
-              "filled": 69,
-              "needed": 1,
-              "fill_pct": 98.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
-            },
-            {
-              "label": "18-24 | Male",
-              "target": 80,
-              "filled": 76,
-              "needed": 4,
-              "fill_pct": 95.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
-            },
-            {
-              "label": "25-34 | Female",
-              "target": 110,
-              "filled": 107,
-              "needed": 3,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
-            },
-            {
-              "label": "25-34 | Male",
-              "target": 110,
-              "filled": 101,
-              "needed": 9,
-              "fill_pct": 91.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 9,
-              "open_to_max": 9
-            },
-            {
-              "label": "35-54 | Female",
-              "target": 200,
-              "filled": 203,
-              "needed": 0,
-              "fill_pct": 101.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "35-54 | Male",
-              "target": 200,
-              "filled": 194,
-              "needed": 6,
-              "fill_pct": 97.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 6,
-              "open_to_max": 6
-            },
-            {
-              "label": "55-65 | Female",
-              "target": 120,
-              "filled": 117,
-              "needed": 3,
-              "fill_pct": 97.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
-            },
-            {
-              "label": "55-65 | Male",
-              "target": 110,
-              "filled": 107,
-              "needed": 3,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-2b9f3",
       "target": 1000,
       "filled": 1012,
@@ -599,9 +477,9 @@
     {
       "ref_name": "MIS-42091",
       "target": 1000,
-      "filled": 924,
-      "fill_pct": 92.4,
-      "ir": "89.1",
+      "filled": 934,
+      "fill_pct": 93.4,
+      "ir": "89.2",
       "loi": "19",
       "launch_date": "2026-09-28 16:07:00",
       "oof": "10/13/2026",
@@ -623,9 +501,9 @@
     {
       "ref_name": "MIS-cf845",
       "target": 1000,
-      "filled": 817,
-      "fill_pct": 81.7,
-      "ir": "17",
+      "filled": 819,
+      "fill_pct": 81.9,
+      "ir": "16.9",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
       "oof": "10/29/2026",
@@ -637,15 +515,15 @@
             {
               "label": "Venmo CC User",
               "target": 500,
-              "filled": 448,
-              "needed": 52,
-              "fill_pct": 89.6,
+              "filled": 449,
+              "needed": 51,
+              "fill_pct": 89.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 2,
-              "open_to_max": 102
+              "needed_to_min": 1,
+              "open_to_max": 101
             },
             {
               "label": "None of the above",
@@ -681,15 +559,15 @@
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 216,
-              "needed": 284,
-              "fill_pct": 43.2,
+              "filled": 217,
+              "needed": 283,
+              "fill_pct": 43.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 600,
-              "needed_to_min": 184,
-              "open_to_max": 384
+              "needed_to_min": 183,
+              "open_to_max": 383
             }
           ]
         }
@@ -698,9 +576,9 @@
     {
       "ref_name": "MIS-dc958",
       "target": 1000,
-      "filled": 995,
-      "fill_pct": 99.5,
-      "ir": "20.2",
+      "filled": 998,
+      "fill_pct": 99.8,
+      "ir": "20.3",
       "loi": "7.5",
       "launch_date": "2026-09-25 14:47:22",
       "oof": "10/9/2026",
@@ -712,15 +590,15 @@
             {
               "label": "Subs",
               "target": 500,
-              "filled": 491,
-              "needed": 9,
-              "fill_pct": 98.2,
+              "filled": 493,
+              "needed": 7,
+              "fill_pct": 98.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 9,
-              "open_to_max": 9
+              "needed_to_min": 7,
+              "open_to_max": 7
             },
             {
               "label": "Prospects",
@@ -1315,8 +1193,8 @@
     {
       "ref_name": "MIS-91585",
       "target": 1000,
-      "filled": 808,
-      "fill_pct": 80.8,
+      "filled": 811,
+      "fill_pct": 81.1,
       "ir": "81.1",
       "loi": "7.5",
       "launch_date": "2026-09-28 15:24:00",
@@ -1368,28 +1246,28 @@
             {
               "label": "30 - 45 | Male",
               "target": 190,
-              "filled": 167,
-              "needed": 23,
-              "fill_pct": 87.9,
+              "filled": 168,
+              "needed": 22,
+              "fill_pct": 88.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 160,
               "max_target": 220,
               "needed_to_min": 0,
-              "open_to_max": 53
+              "open_to_max": 52
             },
             {
               "label": "46 - 60 | Female",
               "target": 170,
-              "filled": 166,
-              "needed": 4,
-              "fill_pct": 97.6,
+              "filled": 168,
+              "needed": 2,
+              "fill_pct": 98.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 140,
               "max_target": 200,
               "needed_to_min": 0,
-              "open_to_max": 34
+              "open_to_max": 32
             },
             {
               "label": "46 - 60 | Male",
@@ -1599,18 +1477,6 @@
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-90105",
-      "target": 1000,
-      "filled": 964,
-      "fill_pct": 96.4,
-      "ir": "27.3",
-      "loi": "4.5",
-      "launch_date": "2026-09-28 16:44:19",
-      "oof": "10/12/2026",
-      "status": "on_track",
-      "quotas": []
     }
   ]
 }

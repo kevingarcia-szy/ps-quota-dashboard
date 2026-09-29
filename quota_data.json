@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T09:58:19",
+  "last_updated": "2026-09-29T10:20:18",
   "mission_count": 16,
   "missions": [
     {
@@ -285,9 +285,9 @@
     {
       "ref_name": "MIS-a5bf7",
       "target": 1000,
-      "filled": 1001,
-      "fill_pct": 100.1,
-      "ir": "74.3",
+      "filled": 999,
+      "fill_pct": 99.9,
+      "ir": "74.2",
       "loi": "1.5",
       "launch_date": "2026-09-24 11:23:39",
       "oof": "10/8/2026",
@@ -325,9 +325,9 @@
             {
               "label": "25-34 | Female",
               "target": 110,
-              "filled": 122,
+              "filled": 121,
               "needed": 0,
-              "fill_pct": 110.9,
+              "fill_pct": 110.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -364,15 +364,15 @@
             {
               "label": "35-54 | Male",
               "target": 200,
-              "filled": 179,
-              "needed": 21,
-              "fill_pct": 89.5,
+              "filled": 178,
+              "needed": 22,
+              "fill_pct": 89.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 21,
-              "open_to_max": 21
+              "needed_to_min": 22,
+              "open_to_max": 22
             },
             {
               "label": "55-65 | Female",
@@ -534,7 +534,7 @@
       "ir": "13",
       "loi": "6",
       "launch_date": "2026-09-24 11:53:42",
-      "oof": "10/11/2026",
+      "oof": "10/13/2026",
       "status": "on_track",
       "quotas": [
         {
@@ -542,55 +542,55 @@
           "cells": [
             {
               "label": "Ortho Refill Comfort Wand Consumers",
-              "target": 320,
+              "target": 390,
               "filled": 242,
-              "needed": 78,
-              "fill_pct": 75.6,
+              "needed": 148,
+              "fill_pct": 62.1,
               "is_paused": false,
               "is_range": true,
-              "min_target": 270,
-              "max_target": 370,
-              "needed_to_min": 28,
-              "open_to_max": 128
+              "min_target": 340,
+              "max_target": 440,
+              "needed_to_min": 98,
+              "open_to_max": 198
             },
             {
               "label": "Ortho Refill-Compatible Consumers",
-              "target": 320,
+              "target": 390,
               "filled": 372,
-              "needed": 0,
-              "fill_pct": 116.3,
+              "needed": 18,
+              "fill_pct": 95.4,
               "is_paused": false,
               "is_range": true,
-              "min_target": 270,
-              "max_target": 370,
+              "min_target": 340,
+              "max_target": 440,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 68
             },
             {
               "label": "Ortho Refill Trigger Consumers",
-              "target": 170,
+              "target": 0,
               "filled": 0,
-              "needed": 170,
-              "fill_pct": 0.0,
-              "is_paused": false,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
               "is_range": true,
-              "min_target": 120,
-              "max_target": 220,
-              "needed_to_min": 120,
-              "open_to_max": 220
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "None of the above",
-              "target": 190,
+              "target": 220,
               "filled": 241,
               "needed": 0,
-              "fill_pct": 126.8,
-              "is_paused": true,
+              "fill_pct": 109.5,
+              "is_paused": false,
               "is_range": true,
-              "min_target": 140,
-              "max_target": 240,
+              "min_target": 170,
+              "max_target": 270,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 29
             }
           ]
         }
@@ -599,8 +599,8 @@
     {
       "ref_name": "MIS-42091",
       "target": 1000,
-      "filled": 707,
-      "fill_pct": 70.7,
+      "filled": 724,
+      "fill_pct": 72.4,
       "ir": "88.7",
       "loi": "19",
       "launch_date": "2026-09-28 16:07:00",
@@ -745,7 +745,7 @@
       "target": 1000,
       "filled": 13,
       "fill_pct": 1.3,
-      "ir": "11.6",
+      "ir": "11.5",
       "loi": "13",
       "launch_date": "2026-09-28 14:48:00",
       "oof": "10/12/2026",
@@ -1303,8 +1303,8 @@
     {
       "ref_name": "MIS-91585",
       "target": 1000,
-      "filled": 800,
-      "fill_pct": 80.0,
+      "filled": 802,
+      "fill_pct": 80.2,
       "ir": "81.4",
       "loi": "7.5",
       "launch_date": "2026-09-28 15:24:00",
@@ -1330,15 +1330,15 @@
             {
               "label": "18 - 29 | Male",
               "target": 140,
-              "filled": 58,
-              "needed": 82,
-              "fill_pct": 41.4,
+              "filled": 59,
+              "needed": 81,
+              "fill_pct": 42.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 110,
               "max_target": 170,
-              "needed_to_min": 52,
-              "open_to_max": 112
+              "needed_to_min": 51,
+              "open_to_max": 111
             },
             {
               "label": "30 - 45 | Female",
@@ -1382,15 +1382,15 @@
             {
               "label": "46 - 60 | Male",
               "target": 170,
-              "filled": 131,
-              "needed": 39,
-              "fill_pct": 77.1,
+              "filled": 132,
+              "needed": 38,
+              "fill_pct": 77.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 140,
               "max_target": 200,
-              "needed_to_min": 9,
-              "open_to_max": 69
+              "needed_to_min": 8,
+              "open_to_max": 68
             }
           ]
         }
@@ -1495,9 +1495,9 @@
     {
       "ref_name": "MIS-be944",
       "target": 500,
-      "filled": 363,
-      "fill_pct": 72.6,
-      "ir": "25.1",
+      "filled": 369,
+      "fill_pct": 73.8,
+      "ir": "25.2",
       "loi": "5",
       "launch_date": "2026-09-28 17:47:00",
       "oof": "10/12/2026",
@@ -1509,54 +1509,54 @@
             {
               "label": "Pepto-Bismol",
               "target": 150,
-              "filled": 111,
-              "needed": 39,
-              "fill_pct": 74.0,
+              "filled": 112,
+              "needed": 38,
+              "fill_pct": 74.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 39,
-              "open_to_max": 39
+              "needed_to_min": 38,
+              "open_to_max": 38
             },
             {
               "label": "Imodium",
               "target": 200,
-              "filled": 146,
-              "needed": 54,
-              "fill_pct": 73.0,
+              "filled": 149,
+              "needed": 51,
+              "fill_pct": 74.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 54,
-              "open_to_max": 54
+              "needed_to_min": 51,
+              "open_to_max": 51
             },
             {
               "label": "Private Label Loperamide",
               "target": 75,
-              "filled": 53,
-              "needed": 22,
-              "fill_pct": 70.7,
+              "filled": 54,
+              "needed": 21,
+              "fill_pct": 72.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 21,
+              "open_to_max": 21
             },
             {
               "label": "Private Label Bismuth",
               "target": 75,
-              "filled": 53,
-              "needed": 22,
-              "fill_pct": 70.7,
+              "filled": 54,
+              "needed": 21,
+              "fill_pct": 72.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 21,
+              "open_to_max": 21
             },
             {
               "label": "Other",
@@ -1591,9 +1591,9 @@
     {
       "ref_name": "MIS-90105",
       "target": 1000,
-      "filled": 92,
-      "fill_pct": 9.2,
-      "ir": "19.1",
+      "filled": 408,
+      "fill_pct": 40.8,
+      "ir": "26.9",
       "loi": "4.5",
       "launch_date": "2026-09-28 16:44:19",
       "oof": "10/12/2026",

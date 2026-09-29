@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29T13:13:42",
-  "mission_count": 15,
+  "last_updated": "2026-09-29T13:35:21",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 455,
-      "fill_pct": 75.8,
-      "ir": "8.5",
+      "filled": 462,
+      "fill_pct": 77.0,
+      "ir": "8.3",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -32,28 +32,28 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 110,
-              "needed": 70,
-              "fill_pct": 61.1,
+              "filled": 120,
+              "needed": 60,
+              "fill_pct": 66.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 70,
-              "open_to_max": 70
+              "needed_to_min": 60,
+              "open_to_max": 60
             },
             {
               "label": "Ultima Replenisher",
               "target": 120,
-              "filled": 36,
-              "needed": 84,
-              "fill_pct": 30.0,
+              "filled": 37,
+              "needed": 83,
+              "fill_pct": 30.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 84,
-              "open_to_max": 84
+              "needed_to_min": 83,
+              "open_to_max": 83
             },
             {
               "label": "None of the above",
@@ -407,9 +407,9 @@
     {
       "ref_name": "MIS-31598",
       "target": 1000,
-      "filled": 996,
-      "fill_pct": 99.6,
-      "ir": "68.9",
+      "filled": 1008,
+      "fill_pct": 100.8,
+      "ir": "68.8",
       "loi": "1.5",
       "launch_date": "2026-09-24 15:47:38",
       "oof": "10/8/2026",
@@ -499,9 +499,9 @@
             {
               "label": "55-65 | Female",
               "target": 120,
-              "filled": 122,
+              "filled": 123,
               "needed": 0,
-              "fill_pct": 101.7,
+              "fill_pct": 102.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -512,15 +512,15 @@
             {
               "label": "55-65 | Male",
               "target": 110,
-              "filled": 98,
-              "needed": 12,
-              "fill_pct": 89.1,
+              "filled": 109,
+              "needed": 1,
+              "fill_pct": 99.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 12,
-              "open_to_max": 12
+              "needed_to_min": 1,
+              "open_to_max": 1
             }
           ]
         }
@@ -599,14 +599,89 @@
     {
       "ref_name": "MIS-42091",
       "target": 1000,
-      "filled": 831,
-      "fill_pct": 83.1,
+      "filled": 840,
+      "fill_pct": 84.0,
       "ir": "89.5",
       "loi": "19",
       "launch_date": "2026-09-28 16:07:00",
       "oof": "10/13/2026",
       "status": "on_track",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-cf845",
+      "target": 1000,
+      "filled": 800,
+      "fill_pct": 80.0,
+      "ir": "18.5",
+      "loi": "7.5",
+      "launch_date": "2026-09-24 14:46:13",
+      "oof": "10/29/2026",
+      "status": "on_track",
+      "quotas": [
+        {
+          "group": "AA1",
+          "cells": [
+            {
+              "label": "Venmo CC User",
+              "target": 500,
+              "filled": 430,
+              "needed": 70,
+              "fill_pct": 86.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 450,
+              "max_target": 550,
+              "needed_to_min": 20,
+              "open_to_max": 120
+            },
+            {
+              "label": "None of the above",
+              "target": 500,
+              "filled": 368,
+              "needed": 132,
+              "fill_pct": 73.6,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 450,
+              "max_target": 550,
+              "needed_to_min": 82,
+              "open_to_max": 182
+            }
+          ]
+        },
+        {
+          "group": "AA2",
+          "cells": [
+            {
+              "label": "Venmo App User",
+              "target": 500,
+              "filled": 600,
+              "needed": 0,
+              "fill_pct": 120.0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "None of the above",
+              "target": 500,
+              "filled": 198,
+              "needed": 302,
+              "fill_pct": 39.6,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 202,
+              "open_to_max": 402
+            }
+          ]
+        }
+      ]
     },
     {
       "ref_name": "MIS-dc958",
@@ -1230,7 +1305,7 @@
       "target": 1000,
       "filled": 808,
       "fill_pct": 80.8,
-      "ir": "81.2",
+      "ir": "81.1",
       "loi": "7.5",
       "launch_date": "2026-09-28 15:24:00",
       "oof": "10/12/2026",
@@ -1516,9 +1591,9 @@
     {
       "ref_name": "MIS-90105",
       "target": 1000,
-      "filled": 607,
-      "fill_pct": 60.7,
-      "ir": "26.9",
+      "filled": 618,
+      "fill_pct": 61.8,
+      "ir": "26.8",
       "loi": "4.5",
       "launch_date": "2026-09-28 16:44:19",
       "oof": "10/12/2026",

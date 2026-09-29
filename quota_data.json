@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-29T09:14:22",
+  "last_updated": "2026-09-29T09:36:22",
   "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 430,
-      "fill_pct": 71.7,
+      "filled": 431,
+      "fill_pct": 71.8,
       "ir": "9.3",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
@@ -45,15 +45,15 @@
             {
               "label": "Ultima Replenisher",
               "target": 120,
-              "filled": 28,
-              "needed": 92,
-              "fill_pct": 23.3,
+              "filled": 29,
+              "needed": 91,
+              "fill_pct": 24.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 92,
-              "open_to_max": 92
+              "needed_to_min": 91,
+              "open_to_max": 91
             },
             {
               "label": "None of the above",
@@ -599,9 +599,9 @@
     {
       "ref_name": "MIS-42091",
       "target": 1000,
-      "filled": 660,
-      "fill_pct": 66.0,
-      "ir": "88.3",
+      "filled": 688,
+      "fill_pct": 68.8,
+      "ir": "88.5",
       "loi": "19",
       "launch_date": "2026-09-28 16:07:00",
       "oof": "10/13/2026",
@@ -1303,9 +1303,9 @@
     {
       "ref_name": "MIS-91585",
       "target": 1000,
-      "filled": 798,
-      "fill_pct": 79.8,
-      "ir": "81.3",
+      "filled": 799,
+      "fill_pct": 79.9,
+      "ir": "81.4",
       "loi": "7.5",
       "launch_date": "2026-09-28 15:24:00",
       "oof": "10/12/2026",
@@ -1382,15 +1382,15 @@
             {
               "label": "46 - 60 | Male",
               "target": 170,
-              "filled": 130,
-              "needed": 40,
-              "fill_pct": 76.5,
+              "filled": 131,
+              "needed": 39,
+              "fill_pct": 77.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 140,
               "max_target": 200,
-              "needed_to_min": 10,
-              "open_to_max": 70
+              "needed_to_min": 9,
+              "open_to_max": 69
             }
           ]
         }
@@ -1495,9 +1495,9 @@
     {
       "ref_name": "MIS-be944",
       "target": 500,
-      "filled": 340,
-      "fill_pct": 68.0,
-      "ir": "24.4",
+      "filled": 356,
+      "fill_pct": 71.2,
+      "ir": "24.9",
       "loi": "5",
       "launch_date": "2026-09-28 17:47:00",
       "oof": "10/12/2026",
@@ -1509,44 +1509,31 @@
             {
               "label": "Pepto-Bismol",
               "target": 150,
-              "filled": 105,
-              "needed": 45,
-              "fill_pct": 70.0,
+              "filled": 111,
+              "needed": 39,
+              "fill_pct": 74.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 45,
-              "open_to_max": 45
+              "needed_to_min": 39,
+              "open_to_max": 39
             },
             {
               "label": "Imodium",
               "target": 200,
-              "filled": 134,
-              "needed": 66,
-              "fill_pct": 67.0,
+              "filled": 142,
+              "needed": 58,
+              "fill_pct": 71.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 58,
+              "open_to_max": 58
             },
             {
               "label": "Private Label Loperamide",
-              "target": 75,
-              "filled": 50,
-              "needed": 25,
-              "fill_pct": 66.7,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
-            },
-            {
-              "label": "Private Label Bismuth",
               "target": 75,
               "filled": 51,
               "needed": 24,
@@ -1557,6 +1544,19 @@
               "max_target": 0,
               "needed_to_min": 24,
               "open_to_max": 24
+            },
+            {
+              "label": "Private Label Bismuth",
+              "target": 75,
+              "filled": 52,
+              "needed": 23,
+              "fill_pct": 69.3,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 23,
+              "open_to_max": 23
             },
             {
               "label": "Other",

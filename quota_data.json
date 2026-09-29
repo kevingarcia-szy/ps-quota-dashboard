@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29T12:09:16",
-  "mission_count": 16,
+  "last_updated": "2026-09-29T12:30:45",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 446,
-      "fill_pct": 74.3,
-      "ir": "8.6",
+      "filled": 454,
+      "fill_pct": 75.7,
+      "ir": "8.5",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
       "oof": "10/5/2026",
@@ -32,28 +32,28 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 103,
-              "needed": 77,
-              "fill_pct": 57.2,
+              "filled": 109,
+              "needed": 71,
+              "fill_pct": 60.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 77,
-              "open_to_max": 77
+              "needed_to_min": 71,
+              "open_to_max": 71
             },
             {
               "label": "Ultima Replenisher",
               "target": 120,
-              "filled": 34,
-              "needed": 86,
-              "fill_pct": 28.3,
+              "filled": 36,
+              "needed": 84,
+              "fill_pct": 30.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 86,
-              "open_to_max": 86
+              "needed_to_min": 84,
+              "open_to_max": 84
             },
             {
               "label": "None of the above",
@@ -599,9 +599,9 @@
     {
       "ref_name": "MIS-42091",
       "target": 1000,
-      "filled": 801,
-      "fill_pct": 80.1,
-      "ir": "89.3",
+      "filled": 817,
+      "fill_pct": 81.7,
+      "ir": "89.4",
       "loi": "19",
       "launch_date": "2026-09-28 16:07:00",
       "oof": "10/13/2026",
@@ -611,8 +611,8 @@
     {
       "ref_name": "MIS-cf845",
       "target": 1000,
-      "filled": 798,
-      "fill_pct": 79.8,
+      "filled": 799,
+      "fill_pct": 79.9,
       "ir": "18.6",
       "loi": "7.5",
       "launch_date": "2026-09-24 14:46:13",
@@ -625,15 +625,15 @@
             {
               "label": "Venmo CC User",
               "target": 500,
-              "filled": 428,
-              "needed": 72,
-              "fill_pct": 85.6,
+              "filled": 429,
+              "needed": 71,
+              "fill_pct": 85.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 22,
-              "open_to_max": 122
+              "needed_to_min": 21,
+              "open_to_max": 121
             },
             {
               "label": "None of the above",
@@ -669,15 +669,15 @@
             {
               "label": "None of the above",
               "target": 500,
-              "filled": 196,
-              "needed": 304,
-              "fill_pct": 39.2,
+              "filled": 197,
+              "needed": 303,
+              "fill_pct": 39.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 400,
               "max_target": 600,
-              "needed_to_min": 204,
-              "open_to_max": 404
+              "needed_to_min": 203,
+              "open_to_max": 403
             }
           ]
         }
@@ -1493,107 +1493,11 @@
       ]
     },
     {
-      "ref_name": "MIS-be944",
-      "target": 500,
-      "filled": 493,
-      "fill_pct": 98.6,
-      "ir": "21.2",
-      "loi": "5",
-      "launch_date": "2026-09-28 17:47:00",
-      "oof": "10/12/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Which of these Over-the-Counter (OTC) medication brands, if any, have you purchased in the last 6 months to manage diarrhea and/or upset stomach?",
-          "cells": [
-            {
-              "label": "Pepto-Bismol",
-              "target": 150,
-              "filled": 151,
-              "needed": 0,
-              "fill_pct": 100.7,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Imodium",
-              "target": 200,
-              "filled": 201,
-              "needed": 0,
-              "fill_pct": 100.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Private Label Loperamide",
-              "target": 75,
-              "filled": 73,
-              "needed": 2,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
-            },
-            {
-              "label": "Private Label Bismuth",
-              "target": 75,
-              "filled": 73,
-              "needed": 2,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
-            },
-            {
-              "label": "Other",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-90105",
       "target": 1000,
-      "filled": 579,
-      "fill_pct": 57.9,
-      "ir": "26.7",
+      "filled": 588,
+      "fill_pct": 58.8,
+      "ir": "26.8",
       "loi": "4.5",
       "launch_date": "2026-09-28 16:44:19",
       "oof": "10/12/2026",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T08:46:22",
-  "mission_count": 19,
+  "last_updated": "2026-09-30T09:08:55",
+  "mission_count": 21,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -477,13 +477,25 @@
     {
       "ref_name": "MIS-11de7",
       "target": 1000,
-      "filled": 626,
-      "fill_pct": 62.6,
-      "ir": "54.9",
+      "filled": 641,
+      "fill_pct": 64.1,
+      "ir": "55",
       "loi": "9",
       "launch_date": "2026-09-29 20:35:00",
       "oof": "10/1/2026",
       "status": "watch",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-c433b",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "19",
+      "launch_date": "2026-09-30 12:44:00",
+      "oof": "10/1/2026",
+      "status": "behind",
       "quotas": []
     },
     {
@@ -1181,8 +1193,8 @@
     {
       "ref_name": "MIS-91585",
       "target": 1000,
-      "filled": 972,
-      "fill_pct": 97.2,
+      "filled": 977,
+      "fill_pct": 97.7,
       "ir": "81.9",
       "loi": "7.5",
       "launch_date": "2026-09-28 15:24:00",
@@ -1195,15 +1207,15 @@
             {
               "label": "18 - 29 | Female",
               "target": 140,
-              "filled": 125,
-              "needed": 15,
-              "fill_pct": 89.3,
+              "filled": 128,
+              "needed": 12,
+              "fill_pct": 91.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 110,
               "max_target": 170,
               "needed_to_min": 0,
-              "open_to_max": 45
+              "open_to_max": 42
             },
             {
               "label": "18 - 29 | Male",
@@ -1234,15 +1246,15 @@
             {
               "label": "30 - 45 | Male",
               "target": 190,
-              "filled": 201,
+              "filled": 203,
               "needed": 0,
-              "fill_pct": 105.8,
+              "fill_pct": 106.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 160,
               "max_target": 220,
               "needed_to_min": 0,
-              "open_to_max": 19
+              "open_to_max": 17
             },
             {
               "label": "46 - 60 | Female",
@@ -1279,7 +1291,7 @@
       "target": 300,
       "filled": 5,
       "fill_pct": 1.7,
-      "ir": "11.9",
+      "ir": "11.6",
       "loi": "19",
       "launch_date": "2026-09-28 16:45:00",
       "oof": "10/12/2026",
@@ -1522,6 +1534,18 @@
       "ir": "0",
       "loi": "2.5",
       "launch_date": "2026-09-30 12:35:00",
+      "oof": "10/14/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-9735c",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2.5",
+      "launch_date": "2026-09-30 12:38:00",
       "oof": "10/14/2026",
       "status": "behind",
       "quotas": []

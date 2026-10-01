@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T14:49:23",
+  "last_updated": "2026-10-01T15:11:46",
   "mission_count": 12,
   "missions": [
     {
@@ -757,9 +757,9 @@
     {
       "ref_name": "MIS-e4e6d",
       "target": 300,
-      "filled": 185,
-      "fill_pct": 61.7,
-      "ir": "23",
+      "filled": 190,
+      "fill_pct": 63.3,
+      "ir": "22.6",
       "loi": "19",
       "launch_date": "2026-09-28 16:45:00",
       "oof": "10/12/2026",
@@ -771,28 +771,28 @@
             {
               "label": "Less than $100,000",
               "target": 105,
-              "filled": 32,
-              "needed": 73,
-              "fill_pct": 30.5,
+              "filled": 34,
+              "needed": 71,
+              "fill_pct": 32.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 73,
-              "open_to_max": 73
+              "needed_to_min": 71,
+              "open_to_max": 71
             },
             {
               "label": "$100,000 to less than $500,000",
               "target": 120,
-              "filled": 70,
-              "needed": 50,
-              "fill_pct": 58.3,
+              "filled": 73,
+              "needed": 47,
+              "fill_pct": 60.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 50,
-              "open_to_max": 50
+              "needed_to_min": 47,
+              "open_to_max": 47
             },
             {
               "label": "$500,000 to less than $2.5 million",
@@ -949,9 +949,9 @@
     {
       "ref_name": "MIS-0a674",
       "target": 1000,
-      "filled": 50,
-      "fill_pct": 5.0,
-      "ir": "6.8",
+      "filled": 133,
+      "fill_pct": 13.3,
+      "ir": "12.6",
       "loi": "6.5",
       "launch_date": "2026-09-30 1:55:37",
       "oof": "10/14/2026",
@@ -961,9 +961,9 @@
     {
       "ref_name": "MIS-10153",
       "target": 500,
-      "filled": 131,
-      "fill_pct": 26.2,
-      "ir": "9.8",
+      "filled": 157,
+      "fill_pct": 31.4,
+      "ir": "8.2",
       "loi": "6",
       "launch_date": "2026-09-30 7:18:55",
       "oof": "10/14/2026",
@@ -975,28 +975,28 @@
             {
               "label": "Only Adults (1-10 years old)",
               "target": 125,
-              "filled": 72,
+              "filled": 89,
+              "needed": 36,
+              "fill_pct": 71.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 36,
+              "open_to_max": 36
+            },
+            {
+              "label": "Only Kittens (Less than 1 year old)",
+              "target": 75,
+              "filled": 22,
               "needed": 53,
-              "fill_pct": 57.6,
+              "fill_pct": 29.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 53,
               "open_to_max": 53
-            },
-            {
-              "label": "Only Kittens (Less than 1 year old)",
-              "target": 75,
-              "filled": 19,
-              "needed": 56,
-              "fill_pct": 25.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 56,
-              "open_to_max": 56
             },
             {
               "label": "Only Seniors (Older than 10 years old)",
@@ -1014,28 +1014,28 @@
             {
               "label": "Kittens & Adults",
               "target": 125,
-              "filled": 23,
-              "needed": 102,
-              "fill_pct": 18.4,
+              "filled": 26,
+              "needed": 99,
+              "fill_pct": 20.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 102,
-              "open_to_max": 102
+              "needed_to_min": 99,
+              "open_to_max": 99
             },
             {
               "label": "Adults & Seniors",
               "target": 100,
-              "filled": 11,
-              "needed": 89,
-              "fill_pct": 11.0,
+              "filled": 13,
+              "needed": 87,
+              "fill_pct": 13.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 89,
-              "open_to_max": 89
+              "needed_to_min": 87,
+              "open_to_max": 87
             },
             {
               "label": "Kittens & Seniors",
@@ -1058,41 +1058,41 @@
             {
               "label": "IAMS",
               "target": 250,
-              "filled": 41,
-              "needed": 209,
-              "fill_pct": 16.4,
+              "filled": 46,
+              "needed": 204,
+              "fill_pct": 18.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 209,
-              "open_to_max": 209
+              "needed_to_min": 204,
+              "open_to_max": 204
             },
             {
               "label": "Purina One",
               "target": 200,
-              "filled": 52,
-              "needed": 148,
-              "fill_pct": 26.0,
+              "filled": 68,
+              "needed": 132,
+              "fill_pct": 34.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 148,
-              "open_to_max": 148
+              "needed_to_min": 132,
+              "open_to_max": 132
             },
             {
               "label": "Nutrish",
               "target": 25,
-              "filled": 14,
-              "needed": 11,
-              "fill_pct": 56.0,
+              "filled": 18,
+              "needed": 7,
+              "fill_pct": 72.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 11,
-              "open_to_max": 11
+              "needed_to_min": 7,
+              "open_to_max": 7
             },
             {
               "label": "Fancy Feast",
@@ -1261,9 +1261,9 @@
     {
       "ref_name": "MIS-a9825",
       "target": 1000,
-      "filled": 5,
-      "fill_pct": 0.5,
-      "ir": "50",
+      "filled": 7,
+      "fill_pct": 0.7,
+      "ir": "46.7",
       "loi": "5.5",
       "launch_date": "2026-10-01 17:59:00",
       "oof": "10/15/2026",

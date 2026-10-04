@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T04:35:37",
+  "last_updated": "2026-10-04T04:58:00",
   "mission_count": 17,
   "missions": [
     {
@@ -963,7 +963,7 @@
       "target": 1000,
       "filled": 512,
       "fill_pct": 51.2,
-      "ir": "11.7",
+      "ir": "11.6",
       "loi": "6.5",
       "launch_date": "2026-09-30 1:55:37",
       "oof": "10/14/2026",
@@ -1330,9 +1330,9 @@
     {
       "ref_name": "MIS-3e8af",
       "target": 500,
-      "filled": 415,
-      "fill_pct": 83.0,
-      "ir": "30.2",
+      "filled": 417,
+      "fill_pct": 83.4,
+      "ir": "30.3",
       "loi": "5.5",
       "launch_date": "2026-10-02 14:06:00",
       "oof": "10/16/2026",
@@ -1396,15 +1396,15 @@
             {
               "label": "35 - 44 | Female",
               "target": 70,
-              "filled": 65,
-              "needed": 5,
-              "fill_pct": 92.9,
+              "filled": 66,
+              "needed": 4,
+              "fill_pct": 94.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
+              "needed_to_min": 4,
+              "open_to_max": 4
             },
             {
               "label": "35 - 44 | Male",
@@ -1422,15 +1422,15 @@
             {
               "label": "45 - 54 | Female",
               "target": 70,
-              "filled": 48,
-              "needed": 22,
-              "fill_pct": 68.6,
+              "filled": 49,
+              "needed": 21,
+              "fill_pct": 70.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 21,
+              "open_to_max": 21
             },
             {
               "label": "45 - 54 | Male",
@@ -1518,28 +1518,28 @@
             {
               "label": "$45,000 - $59,999",
               "target": 50,
-              "filled": 29,
-              "needed": 21,
-              "fill_pct": 58.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 21,
-              "open_to_max": 21
-            },
-            {
-              "label": "$60,000 - $74,999",
-              "target": 45,
-              "filled": 27,
-              "needed": 18,
+              "filled": 30,
+              "needed": 20,
               "fill_pct": 60.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 18,
-              "open_to_max": 18
+              "needed_to_min": 20,
+              "open_to_max": 20
+            },
+            {
+              "label": "$60,000 - $74,999",
+              "target": 45,
+              "filled": 28,
+              "needed": 17,
+              "fill_pct": 62.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 17,
+              "open_to_max": 17
             },
             {
               "label": "$75,000 - $99,999",
@@ -1614,15 +1614,15 @@
             {
               "label": "Black or African American",
               "target": 60,
-              "filled": 63,
+              "filled": 64,
               "needed": 0,
-              "fill_pct": 105.0,
+              "fill_pct": 106.7,
               "is_paused": false,
               "is_range": true,
               "min_target": 50,
               "max_target": 70,
               "needed_to_min": 0,
-              "open_to_max": 7
+              "open_to_max": 6
             },
             {
               "label": "American Indian or Alaska Native",
@@ -1666,15 +1666,15 @@
             {
               "label": "Hispanic (of Hispanic, Latino, or Spanish origin)",
               "target": 100,
-              "filled": 53,
-              "needed": 47,
-              "fill_pct": 53.0,
+              "filled": 54,
+              "needed": 46,
+              "fill_pct": 54.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 90,
               "max_target": 110,
-              "needed_to_min": 37,
-              "open_to_max": 57
+              "needed_to_min": 36,
+              "open_to_max": 56
             },
             {
               "label": "Some other race (please specify)",

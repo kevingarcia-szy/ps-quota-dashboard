@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T16:10:47",
-  "mission_count": 17,
+  "last_updated": "2026-10-04T16:33:13",
+  "mission_count": 18,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -517,7 +517,7 @@
       "target": 1000,
       "filled": 999,
       "fill_pct": 99.9,
-      "ir": "57.7",
+      "ir": "57.6",
       "loi": "13.5",
       "launch_date": "2026-09-28 14:48:00",
       "oof": "10/12/2026",
@@ -771,7 +771,7 @@
       "target": 300,
       "filled": 299,
       "fill_pct": 99.7,
-      "ir": "14.9",
+      "ir": "14.8",
       "loi": "19",
       "launch_date": "2026-09-28 16:45:00",
       "oof": "10/12/2026",
@@ -961,8 +961,8 @@
     {
       "ref_name": "MIS-0a674",
       "target": 1000,
-      "filled": 592,
-      "fill_pct": 59.2,
+      "filled": 597,
+      "fill_pct": 59.7,
       "ir": "12.1",
       "loi": "6.5",
       "launch_date": "2026-09-30 1:55:37",
@@ -2193,9 +2193,9 @@
     {
       "ref_name": "MIS-289e2",
       "target": 650,
-      "filled": 446,
-      "fill_pct": 68.6,
-      "ir": "13.2",
+      "filled": 453,
+      "fill_pct": 69.7,
+      "ir": "12.9",
       "loi": "30",
       "launch_date": "2026-10-02 21:35:00",
       "oof": "10/27/2026",
@@ -2207,28 +2207,28 @@
             {
               "label": "Samsung Health user",
               "target": 325,
-              "filled": 133,
-              "needed": 192,
-              "fill_pct": 40.9,
+              "filled": 141,
+              "needed": 184,
+              "fill_pct": 43.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 192,
-              "open_to_max": 192
+              "needed_to_min": 184,
+              "open_to_max": 184
             },
             {
               "label": "Non-Samsung Health user",
               "target": 325,
-              "filled": 313,
-              "needed": 12,
-              "fill_pct": 96.3,
+              "filled": 314,
+              "needed": 11,
+              "fill_pct": 96.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 12,
-              "open_to_max": 12
+              "needed_to_min": 11,
+              "open_to_max": 11
             },
             {
               "label": "None of the above",
@@ -2251,15 +2251,15 @@
             {
               "label": "Group A | Health Conscious",
               "target": 91,
-              "filled": 32,
-              "needed": 59,
-              "fill_pct": 35.2,
+              "filled": 33,
+              "needed": 58,
+              "fill_pct": 36.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 59,
-              "open_to_max": 59
+              "needed_to_min": 58,
+              "open_to_max": 58
             },
             {
               "label": "Group A | Wellness Seeker",
@@ -2303,41 +2303,41 @@
             {
               "label": "Group B | Health Conscious",
               "target": 85,
-              "filled": 20,
-              "needed": 65,
-              "fill_pct": 23.5,
+              "filled": 21,
+              "needed": 64,
+              "fill_pct": 24.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 65,
-              "open_to_max": 65
+              "needed_to_min": 64,
+              "open_to_max": 64
             },
             {
               "label": "Group B | Wellness Seeker",
               "target": 65,
-              "filled": 53,
-              "needed": 12,
-              "fill_pct": 81.5,
+              "filled": 55,
+              "needed": 10,
+              "fill_pct": 84.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 12,
-              "open_to_max": 12
+              "needed_to_min": 10,
+              "open_to_max": 10
             },
             {
               "label": "Group B | Chronic Patient",
               "target": 65,
-              "filled": 63,
-              "needed": 2,
-              "fill_pct": 96.9,
+              "filled": 64,
+              "needed": 1,
+              "fill_pct": 98.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 1,
+              "open_to_max": 1
             },
             {
               "label": "Group B | None of the above",
@@ -2368,15 +2368,15 @@
             {
               "label": "Group C | Wellness Seeker",
               "target": 65,
-              "filled": 55,
-              "needed": 10,
-              "fill_pct": 84.6,
+              "filled": 59,
+              "needed": 6,
+              "fill_pct": 90.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 10,
-              "open_to_max": 10
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "Group C | Chronic Patient",
@@ -2464,45 +2464,57 @@
             {
               "label": "Circle",
               "target": 221,
-              "filled": 166,
-              "needed": 55,
-              "fill_pct": 75.1,
+              "filled": 167,
+              "needed": 54,
+              "fill_pct": 75.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 55,
-              "open_to_max": 55
+              "needed_to_min": 54,
+              "open_to_max": 54
             },
             {
               "label": "Square",
               "target": 215,
-              "filled": 136,
-              "needed": 79,
-              "fill_pct": 63.3,
+              "filled": 140,
+              "needed": 75,
+              "fill_pct": 65.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 79,
-              "open_to_max": 79
+              "needed_to_min": 75,
+              "open_to_max": 75
             },
             {
               "label": "Triangle",
               "target": 215,
-              "filled": 144,
-              "needed": 71,
-              "fill_pct": 67.0,
+              "filled": 148,
+              "needed": 67,
+              "fill_pct": 68.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 71,
-              "open_to_max": 71
+              "needed_to_min": 67,
+              "open_to_max": 67
             }
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-d0573",
+      "target": 600,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "8.5",
+      "launch_date": "2026-10-04 20:10:00",
+      "oof": "10/18/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T14:18:25",
-  "mission_count": 17,
+  "last_updated": "2026-10-04T14:40:54",
+  "mission_count": 18,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -961,9 +961,9 @@
     {
       "ref_name": "MIS-0a674",
       "target": 1000,
-      "filled": 541,
-      "fill_pct": 54.1,
-      "ir": "11.7",
+      "filled": 550,
+      "fill_pct": 55.0,
+      "ir": "11.8",
       "loi": "6.5",
       "launch_date": "2026-09-30 1:55:37",
       "oof": "10/14/2026",
@@ -1257,6 +1257,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-188d8",
+      "target": 22,
+      "filled": 11,
+      "fill_pct": 50.0,
+      "ir": "6",
+      "loi": "6.5",
+      "launch_date": "2026-09-30 21:00:11",
+      "oof": "10/14/2026",
+      "status": "watch",
+      "quotas": []
     },
     {
       "ref_name": "MIS-a9825",
@@ -2193,9 +2205,9 @@
     {
       "ref_name": "MIS-289e2",
       "target": 650,
-      "filled": 417,
-      "fill_pct": 64.2,
-      "ir": "13.5",
+      "filled": 429,
+      "fill_pct": 66.0,
+      "ir": "13.6",
       "loi": "30",
       "launch_date": "2026-10-02 21:35:00",
       "oof": "10/27/2026",
@@ -2207,28 +2219,28 @@
             {
               "label": "Samsung Health user",
               "target": 325,
-              "filled": 122,
-              "needed": 203,
-              "fill_pct": 37.5,
+              "filled": 125,
+              "needed": 200,
+              "fill_pct": 38.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 203,
-              "open_to_max": 203
+              "needed_to_min": 200,
+              "open_to_max": 200
             },
             {
               "label": "Non-Samsung Health user",
               "target": 325,
-              "filled": 299,
-              "needed": 26,
-              "fill_pct": 92.0,
+              "filled": 304,
+              "needed": 21,
+              "fill_pct": 93.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 26,
-              "open_to_max": 26
+              "needed_to_min": 21,
+              "open_to_max": 21
             },
             {
               "label": "None of the above",
@@ -2251,15 +2263,15 @@
             {
               "label": "Group A | Health Conscious",
               "target": 91,
-              "filled": 26,
-              "needed": 65,
-              "fill_pct": 28.6,
+              "filled": 27,
+              "needed": 64,
+              "fill_pct": 29.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 65,
-              "open_to_max": 65
+              "needed_to_min": 64,
+              "open_to_max": 64
             },
             {
               "label": "Group A | Wellness Seeker",
@@ -2316,28 +2328,28 @@
             {
               "label": "Group B | Wellness Seeker",
               "target": 65,
-              "filled": 50,
-              "needed": 15,
-              "fill_pct": 76.9,
+              "filled": 51,
+              "needed": 14,
+              "fill_pct": 78.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 15,
-              "open_to_max": 15
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "Group B | Chronic Patient",
               "target": 65,
-              "filled": 60,
-              "needed": 5,
-              "fill_pct": 92.3,
+              "filled": 61,
+              "needed": 4,
+              "fill_pct": 93.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
+              "needed_to_min": 4,
+              "open_to_max": 4
             },
             {
               "label": "Group B | None of the above",
@@ -2355,28 +2367,28 @@
             {
               "label": "Group C | Health Conscious",
               "target": 85,
-              "filled": 17,
-              "needed": 68,
-              "fill_pct": 20.0,
+              "filled": 19,
+              "needed": 66,
+              "fill_pct": 22.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 68,
-              "open_to_max": 68
+              "needed_to_min": 66,
+              "open_to_max": 66
             },
             {
               "label": "Group C | Wellness Seeker",
               "target": 65,
-              "filled": 49,
-              "needed": 16,
-              "fill_pct": 75.4,
+              "filled": 52,
+              "needed": 13,
+              "fill_pct": 80.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 16,
-              "open_to_max": 16
+              "needed_to_min": 13,
+              "open_to_max": 13
             },
             {
               "label": "Group C | Chronic Patient",
@@ -2464,41 +2476,41 @@
             {
               "label": "Circle",
               "target": 221,
-              "filled": 160,
-              "needed": 61,
-              "fill_pct": 72.4,
+              "filled": 161,
+              "needed": 60,
+              "fill_pct": 72.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 61,
-              "open_to_max": 61
+              "needed_to_min": 60,
+              "open_to_max": 60
             },
             {
               "label": "Square",
               "target": 215,
-              "filled": 128,
-              "needed": 87,
-              "fill_pct": 59.5,
+              "filled": 130,
+              "needed": 85,
+              "fill_pct": 60.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 87,
-              "open_to_max": 87
+              "needed_to_min": 85,
+              "open_to_max": 85
             },
             {
               "label": "Triangle",
               "target": 215,
-              "filled": 133,
-              "needed": 82,
-              "fill_pct": 61.9,
+              "filled": 138,
+              "needed": 77,
+              "fill_pct": 64.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 82,
-              "open_to_max": 82
+              "needed_to_min": 77,
+              "open_to_max": 77
             }
           ]
         }

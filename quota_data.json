@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T15:27:44",
+  "last_updated": "2026-10-05T15:50:01",
   "mission_count": 12,
   "missions": [
     {
@@ -197,9 +197,9 @@
     {
       "ref_name": "MIS-381ae",
       "target": 1000,
-      "filled": 632,
-      "fill_pct": 63.2,
-      "ir": "42.8",
+      "filled": 639,
+      "fill_pct": 63.9,
+      "ir": "42.9",
       "loi": "2",
       "launch_date": "2026-10-02 18:09:00",
       "oof": "10/16/2026",
@@ -1095,9 +1095,9 @@
     {
       "ref_name": "MIS-52df3",
       "target": 1000,
-      "filled": 1000,
-      "fill_pct": 100.0,
-      "ir": "52.8",
+      "filled": 895,
+      "fill_pct": 89.5,
+      "ir": "50",
       "loi": "17",
       "launch_date": "2026-10-02 17:10:00",
       "oof": "10/16/2026",
@@ -1109,28 +1109,28 @@
             {
               "label": "35 - 54",
               "target": 500,
-              "filled": 495,
-              "needed": 5,
-              "fill_pct": 99.0,
+              "filled": 404,
+              "needed": 96,
+              "fill_pct": 80.8,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 55
+              "needed_to_min": 46,
+              "open_to_max": 146
             },
             {
               "label": "55 - 99",
               "target": 500,
-              "filled": 505,
-              "needed": 0,
-              "fill_pct": 101.0,
+              "filled": 491,
+              "needed": 9,
+              "fill_pct": 98.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
               "needed_to_min": 0,
-              "open_to_max": 45
+              "open_to_max": 59
             }
           ]
         },
@@ -1140,28 +1140,28 @@
             {
               "label": "Female",
               "target": 500,
-              "filled": 511,
-              "needed": 0,
-              "fill_pct": 102.2,
+              "filled": 472,
+              "needed": 28,
+              "fill_pct": 94.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
               "needed_to_min": 0,
-              "open_to_max": 39
+              "open_to_max": 78
             },
             {
               "label": "Male",
               "target": 500,
-              "filled": 489,
-              "needed": 11,
-              "fill_pct": 97.8,
+              "filled": 423,
+              "needed": 77,
+              "fill_pct": 84.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 61
+              "needed_to_min": 27,
+              "open_to_max": 127
             }
           ]
         },
@@ -1171,15 +1171,15 @@
             {
               "label": "Live TV",
               "target": 500,
-              "filled": 576,
-              "needed": 0,
-              "fill_pct": 115.2,
+              "filled": 471,
+              "needed": 29,
+              "fill_pct": 94.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 450,
               "max_target": 550,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 79
             },
             {
               "label": "SVOD Only",

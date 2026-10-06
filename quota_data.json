@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T18:00:03",
-  "mission_count": 16,
+  "last_updated": "2026-10-06T18:24:15",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -877,125 +877,6 @@
       ]
     },
     {
-      "ref_name": "MIS-52df3",
-      "target": 1000,
-      "filled": 993,
-      "fill_pct": 99.3,
-      "ir": "51.3",
-      "loi": "17",
-      "launch_date": "2026-10-02 17:10:00",
-      "oof": "10/16/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "35 - 54",
-              "target": 500,
-              "filled": 460,
-              "needed": 40,
-              "fill_pct": 92.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 90
-            },
-            {
-              "label": "55 - 99",
-              "target": 500,
-              "filled": 553,
-              "needed": 0,
-              "fill_pct": 110.6,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        },
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 500,
-              "filled": 538,
-              "needed": 0,
-              "fill_pct": 107.6,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 12
-            },
-            {
-              "label": "Male",
-              "target": 500,
-              "filled": 475,
-              "needed": 25,
-              "fill_pct": 95.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 75
-            }
-          ]
-        },
-        {
-          "group": "Live vs. SVOD",
-          "cells": [
-            {
-              "label": "Live TV",
-              "target": 500,
-              "filled": 561,
-              "needed": 0,
-              "fill_pct": 112.2,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "SVOD Only",
-              "target": 500,
-              "filled": 452,
-              "needed": 48,
-              "fill_pct": 90.4,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 450,
-              "max_target": 550,
-              "needed_to_min": 0,
-              "open_to_max": 98
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": true,
-              "is_range": true,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "ref_name": "MIS-289e2",
       "target": 650,
       "filled": 483,
@@ -1356,9 +1237,9 @@
     {
       "ref_name": "MIS-942b5",
       "target": 500,
-      "filled": 443,
-      "fill_pct": 88.6,
-      "ir": "48.8",
+      "filled": 445,
+      "fill_pct": 89.0,
+      "ir": "48.9",
       "loi": "7",
       "launch_date": "2026-10-05 23:54:00",
       "oof": "10/19/2026",
@@ -1368,9 +1249,9 @@
     {
       "ref_name": "MIS-6d776",
       "target": 1000,
-      "filled": 4,
-      "fill_pct": 0.4,
-      "ir": "40",
+      "filled": 32,
+      "fill_pct": 3.2,
+      "ir": "61.5",
       "loi": "8",
       "launch_date": "2026-10-06 18:33:00",
       "oof": "10/20/2026",
@@ -1746,8 +1627,8 @@
     {
       "ref_name": "MIS-ad83c",
       "target": 1000,
-      "filled": 24,
-      "fill_pct": 2.4,
+      "filled": 435,
+      "fill_pct": 43.5,
       "ir": "100",
       "loi": "9",
       "launch_date": "2026-10-06 20:46:00",
@@ -1760,28 +1641,28 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 17,
-              "needed": 683,
-              "fill_pct": 2.4,
+              "filled": 266,
+              "needed": 434,
+              "fill_pct": 38.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 683,
-              "open_to_max": 683
+              "needed_to_min": 434,
+              "open_to_max": 434
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 13,
-              "needed": 287,
-              "fill_pct": 4.3,
+              "filled": 201,
+              "needed": 99,
+              "fill_pct": 67.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 287,
-              "open_to_max": 287
+              "needed_to_min": 99,
+              "open_to_max": 99
             }
           ]
         }
@@ -1792,7 +1673,7 @@
       "target": 1000,
       "filled": 1,
       "fill_pct": 0.1,
-      "ir": "100",
+      "ir": "50",
       "loi": "9",
       "launch_date": "2026-10-06 20:48:00",
       "oof": "10/20/2026",
@@ -1834,9 +1715,9 @@
     {
       "ref_name": "MIS-73921",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 440,
+      "fill_pct": 44.0,
+      "ir": "93.4",
       "loi": "3",
       "launch_date": "2026-10-06 21:12:00",
       "oof": "10/20/2026",
@@ -1848,28 +1729,28 @@
             {
               "label": "Flipz Purchasers",
               "target": 400,
-              "filled": 0,
-              "needed": 400,
-              "fill_pct": 0.0,
+              "filled": 126,
+              "needed": 274,
+              "fill_pct": 31.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 400,
-              "open_to_max": 400
+              "needed_to_min": 274,
+              "open_to_max": 274
             },
             {
               "label": "Chocolate + CCSS + Pretzel Purchasers",
               "target": 600,
-              "filled": 1,
-              "needed": 599,
-              "fill_pct": 0.2,
+              "filled": 314,
+              "needed": 286,
+              "fill_pct": 52.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 599,
-              "open_to_max": 599
+              "needed_to_min": 286,
+              "open_to_max": 286
             },
             {
               "label": "None of the above",

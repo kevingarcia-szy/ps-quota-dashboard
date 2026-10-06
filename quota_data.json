@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-06T16:50:24",
-  "mission_count": 12,
+  "last_updated": "2026-10-06T17:13:37",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 508,
-      "fill_pct": 84.7,
+      "filled": 510,
+      "fill_pct": 85.0,
       "ir": "7.3",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
@@ -32,15 +32,15 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 153,
-              "needed": 27,
-              "fill_pct": 85.0,
+              "filled": 155,
+              "needed": 25,
+              "fill_pct": 86.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 27,
-              "open_to_max": 27
+              "needed_to_min": 25,
+              "open_to_max": 25
             },
             {
               "label": "Ultima Replenisher",
@@ -197,9 +197,9 @@
     {
       "ref_name": "MIS-381ae",
       "target": 1000,
-      "filled": 818,
-      "fill_pct": 81.8,
-      "ir": "35.1",
+      "filled": 837,
+      "fill_pct": 83.7,
+      "ir": "35.3",
       "loi": "2",
       "launch_date": "2026-10-02 18:09:00",
       "oof": "10/16/2026",
@@ -1010,8 +1010,8 @@
     {
       "ref_name": "MIS-289e2",
       "target": 650,
-      "filled": 482,
-      "fill_pct": 74.2,
+      "filled": 483,
+      "fill_pct": 74.3,
       "ir": "11.7",
       "loi": "30",
       "launch_date": "2026-10-02 21:35:00",
@@ -1024,15 +1024,15 @@
             {
               "label": "Samsung Health user",
               "target": 325,
-              "filled": 157,
-              "needed": 168,
-              "fill_pct": 48.3,
+              "filled": 158,
+              "needed": 167,
+              "fill_pct": 48.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 168,
-              "open_to_max": 168
+              "needed_to_min": 167,
+              "open_to_max": 167
             },
             {
               "label": "Non-Samsung Health user",
@@ -1120,15 +1120,15 @@
             {
               "label": "Group B | Health Conscious",
               "target": 85,
-              "filled": 23,
-              "needed": 62,
-              "fill_pct": 27.1,
+              "filled": 24,
+              "needed": 61,
+              "fill_pct": 28.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 62,
-              "open_to_max": 62
+              "needed_to_min": 61,
+              "open_to_max": 61
             },
             {
               "label": "Group B | Wellness Seeker",
@@ -1294,15 +1294,15 @@
             {
               "label": "Square",
               "target": 215,
-              "filled": 149,
-              "needed": 66,
-              "fill_pct": 69.3,
+              "filled": 150,
+              "needed": 65,
+              "fill_pct": 69.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 65,
+              "open_to_max": 65
             },
             {
               "label": "Triangle",
@@ -1324,8 +1324,8 @@
     {
       "ref_name": "MIS-1afb0",
       "target": 600,
-      "filled": 412,
-      "fill_pct": 68.7,
+      "filled": 413,
+      "fill_pct": 68.8,
       "ir": "48",
       "loi": "10",
       "launch_date": "2026-10-04 20:30:00",
@@ -1351,15 +1351,15 @@
             {
               "label": "Male",
               "target": 120,
-              "filled": 84,
-              "needed": 36,
-              "fill_pct": 70.0,
+              "filled": 85,
+              "needed": 35,
+              "fill_pct": 70.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 36,
-              "open_to_max": 36
+              "needed_to_min": 35,
+              "open_to_max": 35
             }
           ]
         }
@@ -1750,6 +1750,94 @@
               "max_target": 0,
               "needed_to_min": 20,
               "open_to_max": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-ad83c",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "9",
+      "launch_date": "2026-10-06 20:46:00",
+      "oof": "10/20/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "Male",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-a1653",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "9",
+      "launch_date": "2026-10-06 20:48:00",
+      "oof": "10/20/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 800,
+              "filled": 0,
+              "needed": 800,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 800,
+              "open_to_max": 800
+            },
+            {
+              "label": "Male",
+              "target": 200,
+              "filled": 0,
+              "needed": 200,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 200,
+              "open_to_max": 200
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T13:44:05",
-  "mission_count": 10,
+  "last_updated": "2026-10-06T14:06:52",
+  "mission_count": 11,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -197,9 +197,9 @@
     {
       "ref_name": "MIS-381ae",
       "target": 1000,
-      "filled": 662,
-      "fill_pct": 66.2,
-      "ir": "33.2",
+      "filled": 669,
+      "fill_pct": 66.9,
+      "ir": "33.4",
       "loi": "2",
       "launch_date": "2026-10-02 18:09:00",
       "oof": "10/16/2026",
@@ -769,9 +769,9 @@
     {
       "ref_name": "MIS-0a674",
       "target": 1000,
-      "filled": 979,
-      "fill_pct": 97.9,
-      "ir": "13.8",
+      "filled": 992,
+      "fill_pct": 99.2,
+      "ir": "13.9",
       "loi": "6.5",
       "launch_date": "2026-09-30 1:55:37",
       "oof": "10/14/2026",
@@ -781,9 +781,9 @@
     {
       "ref_name": "MIS-942b5",
       "target": 500,
-      "filled": 361,
-      "fill_pct": 72.2,
-      "ir": "47.1",
+      "filled": 367,
+      "fill_pct": 73.4,
+      "ir": "46.9",
       "loi": "7",
       "launch_date": "2026-10-05 23:54:00",
       "oof": "10/19/2026",
@@ -1340,6 +1340,50 @@
               "max_target": 0,
               "needed_to_min": 52,
               "open_to_max": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-1afb0",
+      "target": 600,
+      "filled": 412,
+      "fill_pct": 68.7,
+      "ir": "48",
+      "loi": "10",
+      "launch_date": "2026-10-04 20:30:00",
+      "oof": "10/12/2026",
+      "status": "watch",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 480,
+              "filled": 328,
+              "needed": 152,
+              "fill_pct": 68.3,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 152,
+              "open_to_max": 152
+            },
+            {
+              "label": "Male",
+              "target": 120,
+              "filled": 84,
+              "needed": 36,
+              "fill_pct": 70.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 36,
+              "open_to_max": 36
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T20:00:54",
-  "mission_count": 15,
+  "last_updated": "2026-10-06T20:25:53",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -1237,8 +1237,8 @@
     {
       "ref_name": "MIS-942b5",
       "target": 500,
-      "filled": 449,
-      "fill_pct": 89.8,
+      "filled": 450,
+      "fill_pct": 90.0,
       "ir": "48.9",
       "loi": "7",
       "launch_date": "2026-10-05 23:54:00",
@@ -1249,8 +1249,8 @@
     {
       "ref_name": "MIS-6d776",
       "target": 1000,
-      "filled": 218,
-      "fill_pct": 21.8,
+      "filled": 260,
+      "fill_pct": 26.0,
       "ir": "62.8",
       "loi": "8",
       "launch_date": "2026-10-06 18:33:00",
@@ -1627,8 +1627,8 @@
     {
       "ref_name": "MIS-ad83c",
       "target": 1000,
-      "filled": 854,
-      "fill_pct": 85.4,
+      "filled": 875,
+      "fill_pct": 87.5,
       "ir": "100",
       "loi": "9",
       "launch_date": "2026-10-06 20:46:00",
@@ -1641,28 +1641,28 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 560,
-              "needed": 140,
-              "fill_pct": 80.0,
+              "filled": 578,
+              "needed": 122,
+              "fill_pct": 82.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 140,
-              "open_to_max": 140
+              "needed_to_min": 122,
+              "open_to_max": 122
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 296,
-              "needed": 4,
-              "fill_pct": 98.7,
+              "filled": 297,
+              "needed": 3,
+              "fill_pct": 99.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 3,
+              "open_to_max": 3
             }
           ]
         }
@@ -1715,9 +1715,9 @@
     {
       "ref_name": "MIS-73921",
       "target": 1000,
-      "filled": 840,
-      "fill_pct": 84.0,
-      "ir": "87",
+      "filled": 848,
+      "fill_pct": 84.8,
+      "ir": "84.8",
       "loi": "3",
       "launch_date": "2026-10-06 21:12:00",
       "oof": "10/20/2026",
@@ -1729,22 +1729,22 @@
             {
               "label": "Flipz Purchasers",
               "target": 400,
-              "filled": 236,
-              "needed": 164,
-              "fill_pct": 59.0,
+              "filled": 243,
+              "needed": 157,
+              "fill_pct": 60.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 164,
-              "open_to_max": 164
+              "needed_to_min": 157,
+              "open_to_max": 157
             },
             {
               "label": "Chocolate + CCSS + Pretzel Purchasers",
               "target": 600,
-              "filled": 604,
+              "filled": 605,
               "needed": 0,
-              "fill_pct": 100.7,
+              "fill_pct": 100.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -1772,9 +1772,9 @@
     {
       "ref_name": "MIS-c7e94",
       "target": 1000,
-      "filled": 600,
-      "fill_pct": 60.0,
-      "ir": "84",
+      "filled": 734,
+      "fill_pct": 73.4,
+      "ir": "82.8",
       "loi": "6.5",
       "launch_date": "2026-10-06 21:28:00",
       "oof": "10/10/2026",
@@ -1791,6 +1791,18 @@
       "launch_date": "2026-10-06 21:36:00",
       "oof": "10/10/2026",
       "status": "on_track",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-9e4c0",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5",
+      "launch_date": "2026-10-07 0:11:00",
+      "oof": "10/21/2026",
+      "status": "behind",
       "quotas": []
     }
   ]

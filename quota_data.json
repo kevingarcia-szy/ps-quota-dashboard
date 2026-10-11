@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11T11:47:51",
+  "last_updated": "2026-10-11T12:12:46",
   "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 535,
-      "fill_pct": 89.2,
+      "filled": 539,
+      "fill_pct": 89.8,
       "ir": "7",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
@@ -32,15 +32,15 @@
             {
               "label": "LMNT",
               "target": 180,
-              "filled": 177,
-              "needed": 3,
-              "fill_pct": 98.3,
+              "filled": 180,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Ultima Replenisher",
@@ -891,7 +891,7 @@
       "target": 1000,
       "filled": 680,
       "fill_pct": 68.0,
-      "ir": "36.5",
+      "ir": "36.4",
       "loi": "12.5",
       "launch_date": "2026-10-07 21:30:00",
       "oof": "10/21/2026",
@@ -933,9 +933,9 @@
     {
       "ref_name": "MIS-696a3",
       "target": 300,
-      "filled": 193,
-      "fill_pct": 64.3,
-      "ir": "65",
+      "filled": 194,
+      "fill_pct": 64.7,
+      "ir": "65.1",
       "loi": "3.5",
       "launch_date": "2026-10-08 14:54:00",
       "oof": "10/22/2026",
@@ -945,9 +945,9 @@
     {
       "ref_name": "MIS-f0580",
       "target": 500,
-      "filled": 397,
-      "fill_pct": 79.4,
-      "ir": "16.8",
+      "filled": 398,
+      "fill_pct": 79.6,
+      "ir": "16.3",
       "loi": "4",
       "launch_date": "2026-10-09 18:47:00",
       "oof": "10/23/2026",
@@ -959,15 +959,15 @@
             {
               "label": "Female",
               "target": 400,
-              "filled": 296,
-              "needed": 104,
-              "fill_pct": 74.0,
+              "filled": 297,
+              "needed": 103,
+              "fill_pct": 74.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 104,
-              "open_to_max": 104
+              "needed_to_min": 103,
+              "open_to_max": 103
             },
             {
               "label": "Male",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11T12:12:46",
+  "last_updated": "2026-10-11T12:38:16",
   "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-71699",
       "target": 600,
-      "filled": 539,
-      "fill_pct": 89.8,
+      "filled": 540,
+      "fill_pct": 90.0,
       "ir": "7",
       "loi": "7",
       "launch_date": "2026-09-20 16:44:58",
@@ -45,15 +45,15 @@
             {
               "label": "Ultima Replenisher",
               "target": 120,
-              "filled": 50,
-              "needed": 70,
-              "fill_pct": 41.7,
+              "filled": 51,
+              "needed": 69,
+              "fill_pct": 42.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 70,
-              "open_to_max": 70
+              "needed_to_min": 69,
+              "open_to_max": 69
             },
             {
               "label": "None of the above",
@@ -945,13 +945,13 @@
     {
       "ref_name": "MIS-f0580",
       "target": 500,
-      "filled": 398,
-      "fill_pct": 79.6,
-      "ir": "16.3",
+      "filled": 401,
+      "fill_pct": 80.2,
+      "ir": "16.4",
       "loi": "4",
       "launch_date": "2026-10-09 18:47:00",
       "oof": "10/23/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Gender",
@@ -959,15 +959,15 @@
             {
               "label": "Female",
               "target": 400,
-              "filled": 297,
-              "needed": 103,
-              "fill_pct": 74.2,
+              "filled": 300,
+              "needed": 100,
+              "fill_pct": 75.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 103,
-              "open_to_max": 103
+              "needed_to_min": 100,
+              "open_to_max": 100
             },
             {
               "label": "Male",

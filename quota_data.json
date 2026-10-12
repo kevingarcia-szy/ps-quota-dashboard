@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T11:48:50",
+  "last_updated": "2026-10-12T12:13:20",
   "mission_count": 12,
   "missions": [
     {
@@ -197,13 +197,13 @@
     {
       "ref_name": "MIS-289e2",
       "target": 650,
-      "filled": 517,
-      "fill_pct": 79.5,
-      "ir": "10.6",
+      "filled": 524,
+      "fill_pct": 80.6,
+      "ir": "10.5",
       "loi": "30",
       "launch_date": "2026-10-02 21:35:00",
       "oof": "10/27/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "AA2  Samsung Health user ",
@@ -211,15 +211,15 @@
             {
               "label": "Samsung Health user",
               "target": 325,
-              "filled": 192,
-              "needed": 133,
-              "fill_pct": 59.1,
+              "filled": 199,
+              "needed": 126,
+              "fill_pct": 61.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 133,
-              "open_to_max": 133
+              "needed_to_min": 126,
+              "open_to_max": 126
             },
             {
               "label": "Non-Samsung Health user",
@@ -255,15 +255,15 @@
             {
               "label": "Group A | Health Conscious",
               "target": 91,
-              "filled": 46,
-              "needed": 45,
-              "fill_pct": 50.5,
+              "filled": 48,
+              "needed": 43,
+              "fill_pct": 52.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 45,
-              "open_to_max": 45
+              "needed_to_min": 43,
+              "open_to_max": 43
             },
             {
               "label": "Group A | Wellness Seeker",
@@ -307,15 +307,15 @@
             {
               "label": "Group B | Health Conscious",
               "target": 85,
-              "filled": 33,
-              "needed": 52,
-              "fill_pct": 38.8,
+              "filled": 35,
+              "needed": 50,
+              "fill_pct": 41.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 52,
-              "open_to_max": 52
+              "needed_to_min": 50,
+              "open_to_max": 50
             },
             {
               "label": "Group B | Wellness Seeker",
@@ -359,15 +359,15 @@
             {
               "label": "Group C | Health Conscious",
               "target": 85,
-              "filled": 39,
-              "needed": 46,
-              "fill_pct": 45.9,
+              "filled": 42,
+              "needed": 43,
+              "fill_pct": 49.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 46,
-              "open_to_max": 46
+              "needed_to_min": 43,
+              "open_to_max": 43
             },
             {
               "label": "Group C | Wellness Seeker",
@@ -468,41 +468,41 @@
             {
               "label": "Circle",
               "target": 221,
-              "filled": 180,
+              "filled": 182,
+              "needed": 39,
+              "fill_pct": 82.4,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 39,
+              "open_to_max": 39
+            },
+            {
+              "label": "Square",
+              "target": 215,
+              "filled": 168,
+              "needed": 47,
+              "fill_pct": 78.1,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 47,
+              "open_to_max": 47
+            },
+            {
+              "label": "Triangle",
+              "target": 215,
+              "filled": 174,
               "needed": 41,
-              "fill_pct": 81.4,
+              "fill_pct": 80.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 41,
               "open_to_max": 41
-            },
-            {
-              "label": "Square",
-              "target": 215,
-              "filled": 166,
-              "needed": 49,
-              "fill_pct": 77.2,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 49,
-              "open_to_max": 49
-            },
-            {
-              "label": "Triangle",
-              "target": 215,
-              "filled": 171,
-              "needed": 44,
-              "fill_pct": 79.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 44,
-              "open_to_max": 44
             }
           ]
         }
@@ -513,7 +513,7 @@
       "target": 500,
       "filled": 432,
       "fill_pct": 86.4,
-      "ir": "30",
+      "ir": "29.9",
       "loi": "5.5",
       "launch_date": "2026-10-06 19:45:00",
       "oof": "10/20/2026",
@@ -921,9 +921,9 @@
     {
       "ref_name": "MIS-696a3",
       "target": 300,
-      "filled": 222,
-      "fill_pct": 74.0,
-      "ir": "63.6",
+      "filled": 223,
+      "fill_pct": 74.3,
+      "ir": "63.7",
       "loi": "3.5",
       "launch_date": "2026-10-08 14:54:00",
       "oof": "10/22/2026",

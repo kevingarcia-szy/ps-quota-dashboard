@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T09:49:47",
+  "last_updated": "2026-10-13T10:14:43",
   "mission_count": 16,
   "missions": [
     {
@@ -129,7 +129,7 @@
       "target": 650,
       "filled": 548,
       "fill_pct": 84.3,
-      "ir": "9.8",
+      "ir": "9.7",
       "loi": "30",
       "launch_date": "2026-10-02 21:35:00",
       "oof": "10/27/2026",
@@ -807,8 +807,8 @@
     {
       "ref_name": "MIS-2102f",
       "target": 1000,
-      "filled": 800,
-      "fill_pct": 80.0,
+      "filled": 801,
+      "fill_pct": 80.1,
       "ir": "31.2",
       "loi": "12.5",
       "launch_date": "2026-10-07 21:30:00",
@@ -821,15 +821,15 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 498,
-              "needed": 202,
-              "fill_pct": 71.1,
+              "filled": 499,
+              "needed": 201,
+              "fill_pct": 71.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 202,
-              "open_to_max": 202
+              "needed_to_min": 201,
+              "open_to_max": 201
             },
             {
               "label": "Male",
@@ -853,7 +853,7 @@
       "target": 300,
       "filled": 238,
       "fill_pct": 79.3,
-      "ir": "63.6",
+      "ir": "63.5",
       "loi": "3.5",
       "launch_date": "2026-10-08 14:54:00",
       "oof": "10/22/2026",
@@ -1464,7 +1464,7 @@
       "target": 1000,
       "filled": 400,
       "fill_pct": 40.0,
-      "ir": "24.1",
+      "ir": "23.6",
       "loi": "1",
       "launch_date": "2026-10-12 19:25:00",
       "oof": "10/26/2026",
@@ -1628,8 +1628,8 @@
     {
       "ref_name": "MIS-4895d",
       "target": 1000,
-      "filled": 935,
-      "fill_pct": 93.5,
+      "filled": 941,
+      "fill_pct": 94.1,
       "ir": "35.1",
       "loi": "1",
       "launch_date": "2026-10-12 19:38:54",
@@ -1642,6 +1642,19 @@
             {
               "label": "25 - 34 | Female",
               "target": 130,
+              "filled": 126,
+              "needed": 4,
+              "fill_pct": 96.9,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 4,
+              "open_to_max": 4
+            },
+            {
+              "label": "25 - 34 | Male",
+              "target": 130,
               "filled": 123,
               "needed": 7,
               "fill_pct": 94.6,
@@ -1651,19 +1664,6 @@
               "max_target": 0,
               "needed_to_min": 7,
               "open_to_max": 7
-            },
-            {
-              "label": "25 - 34 | Male",
-              "target": 130,
-              "filled": 122,
-              "needed": 8,
-              "fill_pct": 93.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 8,
-              "open_to_max": 8
             },
             {
               "label": "35 - 44 | Female",
@@ -1681,15 +1681,15 @@
             {
               "label": "35 - 44 | Male",
               "target": 120,
-              "filled": 116,
-              "needed": 4,
-              "fill_pct": 96.7,
+              "filled": 117,
+              "needed": 3,
+              "fill_pct": 97.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 3,
+              "open_to_max": 3
             },
             {
               "label": "45 - 54 | Female",
@@ -1720,15 +1720,15 @@
             {
               "label": "55 - 65 | Female",
               "target": 130,
-              "filled": 123,
-              "needed": 7,
-              "fill_pct": 94.6,
+              "filled": 124,
+              "needed": 6,
+              "fill_pct": 95.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "55 - 65 | Male",
@@ -1750,9 +1750,9 @@
     {
       "ref_name": "MIS-51659",
       "target": 1000,
-      "filled": 862,
-      "fill_pct": 86.2,
-      "ir": "44.6",
+      "filled": 864,
+      "fill_pct": 86.4,
+      "ir": "44.4",
       "loi": "3",
       "launch_date": "2026-10-12 20:44:00",
       "oof": "10/26/2026",
@@ -1803,41 +1803,41 @@
             {
               "label": "Male | 18 - 29",
               "target": 130,
-              "filled": 54,
-              "needed": 76,
-              "fill_pct": 41.5,
+              "filled": 55,
+              "needed": 75,
+              "fill_pct": 42.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 76,
-              "open_to_max": 76
+              "needed_to_min": 75,
+              "open_to_max": 75
             },
             {
               "label": "Male | 30 - 44",
               "target": 160,
-              "filled": 153,
-              "needed": 7,
-              "fill_pct": 95.6,
+              "filled": 154,
+              "needed": 6,
+              "fill_pct": 96.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "Male | 45 - 65",
               "target": 210,
-              "filled": 206,
-              "needed": 4,
-              "fill_pct": 98.1,
+              "filled": 209,
+              "needed": 1,
+              "fill_pct": 99.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 1,
+              "open_to_max": 1
             }
           ]
         }
@@ -1970,7 +1970,7 @@
       "target": 1000,
       "filled": 3,
       "fill_pct": 0.3,
-      "ir": "8.8",
+      "ir": "8.1",
       "loi": "9.5",
       "launch_date": "2026-10-12 19:57:58",
       "oof": "10/26/2026",

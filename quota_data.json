@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T12:18:50",
-  "mission_count": 19,
+  "last_updated": "2026-10-14T12:43:55",
+  "mission_count": 20,
   "missions": [
     {
       "ref_name": "MIS-71699",
@@ -877,8 +877,8 @@
     {
       "ref_name": "MIS-2d0c5",
       "target": 1000,
-      "filled": 929,
-      "fill_pct": 92.9,
+      "filled": 931,
+      "fill_pct": 93.1,
       "ir": "21.2",
       "loi": "16",
       "launch_date": "2026-10-06 10:15:46",
@@ -1769,9 +1769,9 @@
     {
       "ref_name": "MIS-7d517",
       "target": 1000,
-      "filled": 603,
-      "fill_pct": 60.3,
-      "ir": "49.6",
+      "filled": 604,
+      "fill_pct": 60.4,
+      "ir": "49.5",
       "loi": "10",
       "launch_date": "2026-10-13 21:12:59",
       "oof": "10/27/2026",
@@ -1822,15 +1822,15 @@
             {
               "label": "30 - 44 | Male",
               "target": 160,
-              "filled": 113,
-              "needed": 47,
-              "fill_pct": 70.6,
+              "filled": 114,
+              "needed": 46,
+              "fill_pct": 71.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 47,
-              "open_to_max": 47
+              "needed_to_min": 46,
+              "open_to_max": 46
             },
             {
               "label": "45 - 55 | Female",
@@ -1905,15 +1905,15 @@
             {
               "label": "Yes, and I\u2019m currently a fan of him",
               "target": 650,
-              "filled": 527,
-              "needed": 123,
-              "fill_pct": 81.1,
+              "filled": 528,
+              "needed": 122,
+              "fill_pct": 81.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 123,
-              "open_to_max": 123
+              "needed_to_min": 122,
+              "open_to_max": 122
             },
             {
               "label": "I used to be a fan of him, but no longer am",
@@ -2101,6 +2101,18 @@
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-cdb48",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "8.5",
+      "launch_date": "2026-10-14 16:27:00",
+      "oof": "10/28/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

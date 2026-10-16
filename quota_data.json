@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T09:02:49",
+  "last_updated": "2026-10-16T09:21:43",
   "mission_count": 10,
   "missions": [
     {
@@ -363,8 +363,8 @@
     {
       "ref_name": "MIS-bcab2",
       "target": 1000,
-      "filled": 1,
-      "fill_pct": 0.1,
+      "filled": 8,
+      "fill_pct": 0.8,
       "ir": "100",
       "loi": "8",
       "launch_date": "2026-10-13 20:22:00",
@@ -377,28 +377,28 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 0,
-              "needed": 700,
-              "fill_pct": 0.0,
+              "filled": 5,
+              "needed": 695,
+              "fill_pct": 0.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 700,
-              "open_to_max": 700
+              "needed_to_min": 695,
+              "open_to_max": 695
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 1,
-              "needed": 299,
-              "fill_pct": 0.3,
+              "filled": 3,
+              "needed": 297,
+              "fill_pct": 1.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 299,
-              "open_to_max": 299
+              "needed_to_min": 297,
+              "open_to_max": 297
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T10:23:08",
-  "mission_count": 19,
+  "last_updated": "2026-10-18T10:43:25",
+  "mission_count": 18,
   "missions": [
     {
       "ref_name": "MIS-289e2",
@@ -1263,9 +1263,9 @@
     {
       "ref_name": "MIS-33833",
       "target": 1000,
-      "filled": 643,
-      "fill_pct": 64.3,
-      "ir": "13.1",
+      "filled": 644,
+      "fill_pct": 64.4,
+      "ir": "13.2",
       "loi": "19.5",
       "launch_date": "2026-10-15 15:13:00",
       "oof": "10/30/2026",
@@ -1290,15 +1290,15 @@
             {
               "label": "Savvy Homeowner",
               "target": 200,
-              "filled": 130,
-              "needed": 70,
-              "fill_pct": 65.0,
+              "filled": 131,
+              "needed": 69,
+              "fill_pct": 65.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 100,
               "max_target": 300,
               "needed_to_min": 0,
-              "open_to_max": 170
+              "open_to_max": 169
             },
             {
               "label": "Host Occupant",
@@ -1359,9 +1359,9 @@
     {
       "ref_name": "MIS-04d77",
       "target": 650,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 6,
+      "fill_pct": 0.9,
+      "ir": "25",
       "loi": "16.5",
       "launch_date": "2026-10-16 13:40:00",
       "oof": "10/30/2026",
@@ -1373,41 +1373,41 @@
             {
               "label": "Northeast",
               "target": 111,
-              "filled": 0,
-              "needed": 111,
-              "fill_pct": 0.0,
+              "filled": 2,
+              "needed": 109,
+              "fill_pct": 1.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 111,
-              "open_to_max": 111
+              "needed_to_min": 109,
+              "open_to_max": 109
             },
             {
               "label": "Midwest",
               "target": 134,
-              "filled": 0,
-              "needed": 134,
-              "fill_pct": 0.0,
+              "filled": 3,
+              "needed": 131,
+              "fill_pct": 2.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 134,
-              "open_to_max": 134
+              "needed_to_min": 131,
+              "open_to_max": 131
             },
             {
               "label": "South",
               "target": 254,
-              "filled": 0,
-              "needed": 254,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 253,
+              "fill_pct": 0.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 254,
-              "open_to_max": 254
+              "needed_to_min": 253,
+              "open_to_max": 253
             },
             {
               "label": "West",
@@ -1429,8 +1429,8 @@
     {
       "ref_name": "MIS-5a356",
       "target": 500,
-      "filled": 197,
-      "fill_pct": 39.4,
+      "filled": 202,
+      "fill_pct": 40.4,
       "ir": "62.9",
       "loi": "10",
       "launch_date": "2026-10-16 15:40:00",
@@ -1547,35 +1547,35 @@
             {
               "label": "55 - 64 | Female",
               "target": 45,
-              "filled": 43,
-              "needed": 2,
-              "fill_pct": 95.6,
+              "filled": 45,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "55 - 64 | Male",
               "target": 40,
-              "filled": 38,
-              "needed": 2,
-              "fill_pct": 95.0,
+              "filled": 39,
+              "needed": 1,
+              "fill_pct": 97.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 1,
+              "open_to_max": 1
             },
             {
               "label": "65 - 99 | Female",
               "target": 60,
-              "filled": 65,
+              "filled": 66,
               "needed": 0,
-              "fill_pct": 108.3,
+              "fill_pct": 110.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -1586,9 +1586,9 @@
             {
               "label": "65 - 99 | Male",
               "target": 45,
-              "filled": 45,
+              "filled": 46,
               "needed": 0,
-              "fill_pct": 100.0,
+              "fill_pct": 102.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -1604,28 +1604,28 @@
             {
               "label": "Less than $25,000",
               "target": 75,
-              "filled": 29,
-              "needed": 46,
-              "fill_pct": 38.7,
+              "filled": 31,
+              "needed": 44,
+              "fill_pct": 41.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 46,
-              "open_to_max": 46
+              "needed_to_min": 44,
+              "open_to_max": 44
             },
             {
               "label": "$25,000\u2013$49,999",
               "target": 80,
-              "filled": 53,
-              "needed": 27,
-              "fill_pct": 66.2,
+              "filled": 55,
+              "needed": 25,
+              "fill_pct": 68.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 27,
-              "open_to_max": 27
+              "needed_to_min": 25,
+              "open_to_max": 25
             },
             {
               "label": "$50,000\u2013$54,999",
@@ -1669,15 +1669,15 @@
             {
               "label": "$65,000\u2013$74,999",
               "target": 30,
-              "filled": 23,
-              "needed": 7,
-              "fill_pct": 76.7,
+              "filled": 24,
+              "needed": 6,
+              "fill_pct": 80.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "$75,000\u2013$99,999",
@@ -2442,7 +2442,7 @@
       "target": 1000,
       "filled": 919,
       "fill_pct": 91.9,
-      "ir": "76.8",
+      "ir": "75.5",
       "loi": "15.5",
       "launch_date": "2026-10-16 19:55:00",
       "oof": "10/26/2026",
@@ -2655,8 +2655,8 @@
     {
       "ref_name": "MIS-01a76",
       "target": 1000,
-      "filled": 514,
-      "fill_pct": 51.4,
+      "filled": 515,
+      "fill_pct": 51.5,
       "ir": "88.2",
       "loi": "15.5",
       "launch_date": "2026-10-16 21:13:00",
@@ -2669,15 +2669,15 @@
             {
               "label": "Aveeno Users (including Aveeno Loyal Users)",
               "target": 500,
-              "filled": 214,
-              "needed": 286,
-              "fill_pct": 42.8,
+              "filled": 215,
+              "needed": 285,
+              "fill_pct": 43.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 286,
-              "open_to_max": 286
+              "needed_to_min": 285,
+              "open_to_max": 285
             },
             {
               "label": "Non Aveeno Users",
@@ -2713,15 +2713,15 @@
             {
               "label": "Female",
               "target": 800,
-              "filled": 354,
-              "needed": 446,
-              "fill_pct": 44.2,
+              "filled": 355,
+              "needed": 445,
+              "fill_pct": 44.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 446,
-              "open_to_max": 446
+              "needed_to_min": 445,
+              "open_to_max": 445
             },
             {
               "label": "Male",
@@ -2757,15 +2757,15 @@
             {
               "label": "30-45",
               "target": 330,
-              "filled": 266,
-              "needed": 64,
-              "fill_pct": 80.6,
+              "filled": 267,
+              "needed": 63,
+              "fill_pct": 80.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 64,
-              "open_to_max": 64
+              "needed_to_min": 63,
+              "open_to_max": 63
             },
             {
               "label": "46-55",
@@ -2788,15 +2788,15 @@
             {
               "label": "White/Caucasian",
               "target": 600,
-              "filled": 319,
-              "needed": 281,
-              "fill_pct": 53.2,
+              "filled": 320,
+              "needed": 280,
+              "fill_pct": 53.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 281,
-              "open_to_max": 281
+              "needed_to_min": 280,
+              "open_to_max": 280
             },
             {
               "label": "Black / African American",
@@ -3081,18 +3081,6 @@
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-e1b34",
-      "target": 1000,
-      "filled": 999,
-      "fill_pct": 99.9,
-      "ir": "43.4",
-      "loi": "7",
-      "launch_date": "2026-10-17 3:13:50",
-      "oof": "10/31/2026",
-      "status": "on_track",
-      "quotas": []
     }
   ]
 }

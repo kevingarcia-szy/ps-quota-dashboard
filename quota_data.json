@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T14:09:33",
-  "mission_count": 17,
+  "last_updated": "2026-10-19T14:30:17",
+  "mission_count": 18,
   "missions": [
     {
       "ref_name": "MIS-289e2",
@@ -399,6 +399,50 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-f52d8",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "3.5",
+      "launch_date": "2026-10-19 18:19:16",
+      "oof": "11/2/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "Male",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
             }
           ]
         }
@@ -1105,13 +1149,13 @@
     {
       "ref_name": "MIS-69fe3",
       "target": 1000,
-      "filled": 490,
-      "fill_pct": 49.0,
-      "ir": "41.8",
+      "filled": 541,
+      "fill_pct": 54.1,
+      "ir": "41.1",
       "loi": "2.5",
       "launch_date": "2026-10-19 14:58:00",
       "oof": "11/2/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Age",
@@ -1119,28 +1163,28 @@
             {
               "label": "18 - 29",
               "target": 440,
-              "filled": 230,
-              "needed": 210,
-              "fill_pct": 52.3,
+              "filled": 262,
+              "needed": 178,
+              "fill_pct": 59.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 210,
-              "open_to_max": 210
+              "needed_to_min": 178,
+              "open_to_max": 178
             },
             {
               "label": "30 - 44",
               "target": 560,
-              "filled": 270,
-              "needed": 290,
-              "fill_pct": 48.2,
+              "filled": 303,
+              "needed": 257,
+              "fill_pct": 54.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 290,
-              "open_to_max": 290
+              "needed_to_min": 257,
+              "open_to_max": 257
             }
           ]
         }
@@ -1877,9 +1921,9 @@
     {
       "ref_name": "MIS-01a76",
       "target": 1000,
-      "filled": 597,
-      "fill_pct": 59.7,
-      "ir": "86.8",
+      "filled": 600,
+      "fill_pct": 60.0,
+      "ir": "86.7",
       "loi": "15.5",
       "launch_date": "2026-10-16 21:13:00",
       "oof": "10/26/2026",
@@ -1891,28 +1935,28 @@
             {
               "label": "Aveeno Users (including Aveeno Loyal Users)",
               "target": 500,
-              "filled": 264,
-              "needed": 236,
-              "fill_pct": 52.8,
+              "filled": 266,
+              "needed": 234,
+              "fill_pct": 53.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 236,
-              "open_to_max": 236
+              "needed_to_min": 234,
+              "open_to_max": 234
             },
             {
               "label": "Non Aveeno Users",
               "target": 500,
-              "filled": 333,
-              "needed": 167,
-              "fill_pct": 66.6,
+              "filled": 334,
+              "needed": 166,
+              "fill_pct": 66.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 167,
-              "open_to_max": 167
+              "needed_to_min": 166,
+              "open_to_max": 166
             },
             {
               "label": "None of the above",
@@ -1935,28 +1979,28 @@
             {
               "label": "Female",
               "target": 800,
-              "filled": 414,
-              "needed": 386,
-              "fill_pct": 51.7,
+              "filled": 415,
+              "needed": 385,
+              "fill_pct": 51.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 386,
-              "open_to_max": 386
+              "needed_to_min": 385,
+              "open_to_max": 385
             },
             {
               "label": "Male",
               "target": 200,
-              "filled": 183,
-              "needed": 17,
-              "fill_pct": 91.5,
+              "filled": 185,
+              "needed": 15,
+              "fill_pct": 92.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 17,
-              "open_to_max": 17
+              "needed_to_min": 15,
+              "open_to_max": 15
             }
           ]
         },
@@ -1979,28 +2023,28 @@
             {
               "label": "30-45",
               "target": 330,
-              "filled": 316,
-              "needed": 14,
-              "fill_pct": 95.8,
+              "filled": 318,
+              "needed": 12,
+              "fill_pct": 96.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 14,
-              "open_to_max": 14
+              "needed_to_min": 12,
+              "open_to_max": 12
             },
             {
               "label": "46-55",
               "target": 330,
-              "filled": 187,
-              "needed": 143,
-              "fill_pct": 56.7,
+              "filled": 188,
+              "needed": 142,
+              "fill_pct": 57.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 143,
-              "open_to_max": 143
+              "needed_to_min": 142,
+              "open_to_max": 142
             }
           ]
         },
@@ -2010,15 +2054,15 @@
             {
               "label": "White/Caucasian",
               "target": 600,
-              "filled": 391,
-              "needed": 209,
-              "fill_pct": 65.2,
+              "filled": 394,
+              "needed": 206,
+              "fill_pct": 65.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 209,
-              "open_to_max": 209
+              "needed_to_min": 206,
+              "open_to_max": 206
             },
             {
               "label": "Black / African American",
@@ -2321,15 +2365,15 @@
             {
               "label": "Aveeno Users (including Aveeno Loyal Users)",
               "target": 300,
-              "filled": 1,
-              "needed": 299,
-              "fill_pct": 0.3,
+              "filled": 2,
+              "needed": 298,
+              "fill_pct": 0.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 299,
-              "open_to_max": 299
+              "needed_to_min": 298,
+              "open_to_max": 298
             },
             {
               "label": "Non Aveeno Users",
@@ -2378,15 +2422,15 @@
             {
               "label": "Male",
               "target": 120,
-              "filled": 1,
-              "needed": 119,
-              "fill_pct": 0.8,
+              "filled": 2,
+              "needed": 118,
+              "fill_pct": 1.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 119,
-              "open_to_max": 119
+              "needed_to_min": 118,
+              "open_to_max": 118
             }
           ]
         },
@@ -2409,15 +2453,15 @@
             {
               "label": "30-45",
               "target": 198,
-              "filled": 1,
-              "needed": 197,
-              "fill_pct": 0.5,
+              "filled": 2,
+              "needed": 196,
+              "fill_pct": 1.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 197,
-              "open_to_max": 197
+              "needed_to_min": 196,
+              "open_to_max": 196
             },
             {
               "label": "46-55",
@@ -2440,15 +2484,15 @@
             {
               "label": "White/Caucasian",
               "target": 360,
-              "filled": 0,
-              "needed": 360,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 359,
+              "fill_pct": 0.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 360,
-              "open_to_max": 360
+              "needed_to_min": 359,
+              "open_to_max": 359
             },
             {
               "label": "Black / African American",

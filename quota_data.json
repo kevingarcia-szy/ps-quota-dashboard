@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T19:01:36",
-  "mission_count": 8,
+  "last_updated": "2026-10-23T19:22:12",
+  "mission_count": 7,
   "missions": [
     {
       "ref_name": "MIS-bcab2",
@@ -139,7 +139,7 @@
       "target": 650,
       "filled": 607,
       "fill_pct": 93.4,
-      "ir": "30.4",
+      "ir": "30.3",
       "loi": "16.5",
       "launch_date": "2026-10-16 13:40:00",
       "oof": "10/30/2026",
@@ -219,8 +219,8 @@
     {
       "ref_name": "MIS-00729",
       "target": 1100,
-      "filled": 1040,
-      "fill_pct": 94.5,
+      "filled": 1042,
+      "fill_pct": 94.7,
       "ir": "25.9",
       "loi": "11",
       "launch_date": "2026-10-21 16:12:00",
@@ -280,50 +280,6 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-4d031",
-      "target": 1000,
-      "filled": 1007,
-      "fill_pct": 100.7,
-      "ir": "43.6",
-      "loi": "10",
-      "launch_date": "2026-10-22 1:52:00",
-      "oof": "11/6/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 500,
-              "filled": 508,
-              "needed": 0,
-              "fill_pct": 101.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Male",
-              "target": 500,
-              "filled": 499,
-              "needed": 1,
-              "fill_pct": 99.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T00:52:44",
-  "mission_count": 17,
+  "last_updated": "2026-10-23T01:13:41",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-a43a5",
@@ -859,9 +859,9 @@
     {
       "ref_name": "MIS-04d77",
       "target": 650,
-      "filled": 555,
-      "fill_pct": 85.4,
-      "ir": "30.2",
+      "filled": 556,
+      "fill_pct": 85.5,
+      "ir": "30.3",
       "loi": "16.5",
       "launch_date": "2026-10-16 13:40:00",
       "oof": "10/30/2026",
@@ -886,15 +886,15 @@
             {
               "label": "Midwest",
               "target": 134,
-              "filled": 118,
-              "needed": 16,
-              "fill_pct": 88.1,
+              "filled": 119,
+              "needed": 15,
+              "fill_pct": 88.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 16,
-              "open_to_max": 16
+              "needed_to_min": 15,
+              "open_to_max": 15
             },
             {
               "label": "South",
@@ -929,9 +929,9 @@
     {
       "ref_name": "MIS-fcf6b",
       "target": 1000,
-      "filled": 947,
-      "fill_pct": 94.7,
-      "ir": "19.7",
+      "filled": 953,
+      "fill_pct": 95.3,
+      "ir": "19.6",
       "loi": "6",
       "launch_date": "2026-10-20 20:34:00",
       "oof": "11/3/2026",
@@ -943,15 +943,15 @@
             {
               "label": "5oz",
               "target": 600,
-              "filled": 580,
-              "needed": 20,
-              "fill_pct": 96.7,
+              "filled": 586,
+              "needed": 14,
+              "fill_pct": 97.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 20,
-              "open_to_max": 20
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "Other Flipz products & flavors",
@@ -988,7 +988,7 @@
       "target": 1000,
       "filled": 852,
       "fill_pct": 85.2,
-      "ir": "46.3",
+      "ir": "46.2",
       "loi": "3.5",
       "launch_date": "2026-10-21 18:36:00",
       "oof": "11/4/2026",
@@ -1165,50 +1165,6 @@
       "oof": "11/4/2026",
       "status": "watch",
       "quotas": []
-    },
-    {
-      "ref_name": "MIS-4d031",
-      "target": 1000,
-      "filled": 3,
-      "fill_pct": 0.3,
-      "ir": "7.7",
-      "loi": "10",
-      "launch_date": "2026-10-22 1:52:00",
-      "oof": "11/5/2026",
-      "status": "behind",
-      "quotas": [
-        {
-          "group": "Gender",
-          "cells": [
-            {
-              "label": "Female",
-              "target": 500,
-              "filled": 0,
-              "needed": 500,
-              "fill_pct": 0.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 500,
-              "open_to_max": 500
-            },
-            {
-              "label": "Male",
-              "target": 500,
-              "filled": 3,
-              "needed": 497,
-              "fill_pct": 0.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 497,
-              "open_to_max": 497
-            }
-          ]
-        }
-      ]
     }
   ]
 }

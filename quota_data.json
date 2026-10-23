@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T13:07:48",
-  "mission_count": 12,
+  "last_updated": "2026-10-23T13:28:39",
+  "mission_count": 11,
   "missions": [
     {
       "ref_name": "MIS-bcab2",
@@ -139,7 +139,7 @@
       "target": 1000,
       "filled": 989,
       "fill_pct": 98.9,
-      "ir": "23.7",
+      "ir": "23.6",
       "loi": "10",
       "launch_date": "2026-10-13 21:12:59",
       "oof": "10/27/2026",
@@ -401,7 +401,7 @@
       "target": 650,
       "filled": 586,
       "fill_pct": 90.2,
-      "ir": "30.3",
+      "ir": "30.2",
       "loi": "16.5",
       "launch_date": "2026-10-16 13:40:00",
       "oof": "10/30/2026",
@@ -469,23 +469,11 @@
     {
       "ref_name": "MIS-9afc5",
       "target": 100,
-      "filled": 51,
-      "fill_pct": 51.0,
-      "ir": "2.4",
+      "filled": 39,
+      "fill_pct": 39.0,
+      "ir": "1.9",
       "loi": "6.5",
       "launch_date": "2026-10-20 14:57:00",
-      "oof": "11/3/2026",
-      "status": "watch",
-      "quotas": []
-    },
-    {
-      "ref_name": "MIS-a9edc",
-      "target": 500,
-      "filled": 42,
-      "fill_pct": 8.4,
-      "ir": "3.1",
-      "loi": "5.5",
-      "launch_date": "2026-10-20 22:02:00",
       "oof": "11/3/2026",
       "status": "behind",
       "quotas": []
@@ -493,9 +481,9 @@
     {
       "ref_name": "MIS-00729",
       "target": 1100,
-      "filled": 841,
-      "fill_pct": 76.5,
-      "ir": "26.8",
+      "filled": 845,
+      "fill_pct": 76.8,
+      "ir": "26.9",
       "loi": "11",
       "launch_date": "2026-10-21 16:12:00",
       "oof": "11/4/2026",
@@ -505,8 +493,8 @@
     {
       "ref_name": "MIS-da7e2",
       "target": 1000,
-      "filled": 860,
-      "fill_pct": 86.0,
+      "filled": 862,
+      "fill_pct": 86.2,
       "ir": "44.2",
       "loi": "3.5",
       "launch_date": "2026-10-21 18:36:00",
@@ -519,15 +507,15 @@
             {
               "label": "McVitie's Purchasers",
               "target": 300,
-              "filled": 158,
-              "needed": 142,
-              "fill_pct": 52.7,
+              "filled": 160,
+              "needed": 140,
+              "fill_pct": 53.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 142,
-              "open_to_max": 142
+              "needed_to_min": 140,
+              "open_to_max": 140
             },
             {
               "label": "Specialty Cookie Category",
@@ -619,13 +607,13 @@
     {
       "ref_name": "MIS-4d031",
       "target": 1000,
-      "filled": 462,
-      "fill_pct": 46.2,
-      "ir": "42.1",
+      "filled": 513,
+      "fill_pct": 51.3,
+      "ir": "42.8",
       "loi": "10",
       "launch_date": "2026-10-22 1:52:00",
       "oof": "11/6/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Gender",
@@ -633,28 +621,28 @@
             {
               "label": "Female",
               "target": 500,
-              "filled": 192,
-              "needed": 308,
-              "fill_pct": 38.4,
+              "filled": 218,
+              "needed": 282,
+              "fill_pct": 43.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 308,
-              "open_to_max": 308
+              "needed_to_min": 282,
+              "open_to_max": 282
             },
             {
               "label": "Male",
               "target": 500,
-              "filled": 270,
-              "needed": 230,
-              "fill_pct": 54.0,
+              "filled": 295,
+              "needed": 205,
+              "fill_pct": 59.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 230,
-              "open_to_max": 230
+              "needed_to_min": 205,
+              "open_to_max": 205
             }
           ]
         }

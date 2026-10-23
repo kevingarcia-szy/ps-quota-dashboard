@@ -1,225 +1,7 @@
 {
-  "last_updated": "2026-10-23T10:19:40",
-  "mission_count": 14,
+  "last_updated": "2026-10-23T10:40:32",
+  "mission_count": 13,
   "missions": [
-    {
-      "ref_name": "MIS-3250c",
-      "target": 1000,
-      "filled": 1060,
-      "fill_pct": 106.0,
-      "ir": "43.2",
-      "loi": "13",
-      "launch_date": "2026-10-09 14:14:00",
-      "oof": "10/23/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Age",
-          "cells": [
-            {
-              "label": "18 - 24",
-              "target": 120,
-              "filled": 90,
-              "needed": 30,
-              "fill_pct": 75.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 30,
-              "open_to_max": 30
-            },
-            {
-              "label": "25 - 34",
-              "target": 180,
-              "filled": 220,
-              "needed": 0,
-              "fill_pct": 122.2,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "35 - 44",
-              "target": 170,
-              "filled": 206,
-              "needed": 0,
-              "fill_pct": 121.2,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "45 - 54",
-              "target": 160,
-              "filled": 179,
-              "needed": 0,
-              "fill_pct": 111.9,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "55 - 64",
-              "target": 150,
-              "filled": 161,
-              "needed": 0,
-              "fill_pct": 107.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "65 - 99",
-              "target": 220,
-              "filled": 203,
-              "needed": 17,
-              "fill_pct": 92.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 17,
-              "open_to_max": 17
-            }
-          ]
-        },
-        {
-          "group": "Income Level",
-          "cells": [
-            {
-              "label": "Under $25,000",
-              "target": 160,
-              "filled": 182,
-              "needed": 0,
-              "fill_pct": 113.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "$25,000 - $34,999",
-              "target": 90,
-              "filled": 104,
-              "needed": 0,
-              "fill_pct": 115.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "$35,000 - $44,999",
-              "target": 90,
-              "filled": 85,
-              "needed": 5,
-              "fill_pct": 94.4,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
-            },
-            {
-              "label": "$45,000 - $59,999",
-              "target": 90,
-              "filled": 113,
-              "needed": 0,
-              "fill_pct": 125.6,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "$60,000 - $74,999",
-              "target": 80,
-              "filled": 82,
-              "needed": 0,
-              "fill_pct": 102.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "$75,000 - $99,999",
-              "target": 150,
-              "filled": 125,
-              "needed": 25,
-              "fill_pct": 83.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
-            },
-            {
-              "label": "$100,000 - $149,999",
-              "target": 150,
-              "filled": 165,
-              "needed": 0,
-              "fill_pct": 110.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "$150,000 or more",
-              "target": 190,
-              "filled": 203,
-              "needed": 0,
-              "fill_pct": 106.8,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "I prefer not to answer",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
     {
       "ref_name": "MIS-bcab2",
       "target": 1000,
@@ -617,8 +399,8 @@
     {
       "ref_name": "MIS-04d77",
       "target": 650,
-      "filled": 570,
-      "fill_pct": 87.7,
+      "filled": 572,
+      "fill_pct": 88.0,
       "ir": "30",
       "loi": "16.5",
       "launch_date": "2026-10-16 13:40:00",
@@ -657,28 +439,28 @@
             {
               "label": "South",
               "target": 254,
-              "filled": 253,
-              "needed": 1,
-              "fill_pct": 99.6,
+              "filled": 255,
+              "needed": 0,
+              "fill_pct": 100.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "West",
               "target": 153,
-              "filled": 83,
-              "needed": 70,
-              "fill_pct": 54.2,
+              "filled": 85,
+              "needed": 68,
+              "fill_pct": 55.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 70,
-              "open_to_max": 70
+              "needed_to_min": 68,
+              "open_to_max": 68
             }
           ]
         }
@@ -687,9 +469,9 @@
     {
       "ref_name": "MIS-9afc5",
       "target": 100,
-      "filled": 59,
-      "fill_pct": 59.0,
-      "ir": "2.8",
+      "filled": 60,
+      "fill_pct": 60.0,
+      "ir": "2.9",
       "loi": "6.5",
       "launch_date": "2026-10-20 14:57:00",
       "oof": "11/3/2026",
@@ -699,8 +481,8 @@
     {
       "ref_name": "MIS-c02c6",
       "target": 1000,
-      "filled": 950,
-      "fill_pct": 95.0,
+      "filled": 958,
+      "fill_pct": 95.8,
       "ir": "14.3",
       "loi": "5.5",
       "launch_date": "2026-10-20 14:57:00",
@@ -723,9 +505,9 @@
     {
       "ref_name": "MIS-da7e2",
       "target": 1000,
-      "filled": 855,
-      "fill_pct": 85.5,
-      "ir": "45",
+      "filled": 856,
+      "fill_pct": 85.6,
+      "ir": "44.8",
       "loi": "3.5",
       "launch_date": "2026-10-21 18:36:00",
       "oof": "11/4/2026",
@@ -737,15 +519,15 @@
             {
               "label": "McVitie's Purchasers",
               "target": 300,
-              "filled": 153,
-              "needed": 147,
-              "fill_pct": 51.0,
+              "filled": 154,
+              "needed": 146,
+              "fill_pct": 51.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 147,
-              "open_to_max": 147
+              "needed_to_min": 146,
+              "open_to_max": 146
             },
             {
               "label": "Specialty Cookie Category",
@@ -780,8 +562,8 @@
     {
       "ref_name": "MIS-ad882",
       "target": 1000,
-      "filled": 904,
-      "fill_pct": 90.4,
+      "filled": 906,
+      "fill_pct": 90.6,
       "ir": "59.7",
       "loi": "4",
       "launch_date": "2026-10-21 18:36:00",
@@ -794,15 +576,15 @@
             {
               "label": "McVitie's Purchasers",
               "target": 300,
-              "filled": 198,
-              "needed": 102,
-              "fill_pct": 66.0,
+              "filled": 200,
+              "needed": 100,
+              "fill_pct": 66.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 102,
-              "open_to_max": 102
+              "needed_to_min": 100,
+              "open_to_max": 100
             },
             {
               "label": "Specialty Cookie Category",
@@ -837,8 +619,8 @@
     {
       "ref_name": "MIS-77cc5",
       "target": 1000,
-      "filled": 972,
-      "fill_pct": 97.2,
+      "filled": 973,
+      "fill_pct": 97.3,
       "ir": "36.7",
       "loi": "2",
       "launch_date": "2026-10-21 20:35:00",
@@ -851,15 +633,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 600,
-              "filled": 517,
-              "needed": 83,
-              "fill_pct": 86.2,
+              "filled": 520,
+              "needed": 80,
+              "fill_pct": 86.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 83,
-              "open_to_max": 83
+              "needed_to_min": 80,
+              "open_to_max": 80
             },
             {
               "label": "Chocolate + CCSS + Pretzels Purchasers",

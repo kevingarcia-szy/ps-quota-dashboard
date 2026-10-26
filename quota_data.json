@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T16:11:13",
+  "last_updated": "2026-10-26T16:32:12",
   "mission_count": 6,
   "missions": [
     {
@@ -15,6 +15,18 @@
       "quotas": []
     },
     {
+      "ref_name": "MIS-d9fc8",
+      "target": 1000,
+      "filled": 313,
+      "fill_pct": 31.3,
+      "ir": "94.3",
+      "loi": "6",
+      "launch_date": "2026-10-23 14:01:01",
+      "oof": "10/30/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
       "ref_name": "MIS-4d1fb",
       "target": 600,
       "filled": 579,
@@ -23,18 +35,6 @@
       "loi": "2.5",
       "launch_date": "2026-10-23 12:23:29",
       "oof": "11/6/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
-      "ref_name": "MIS-3fa96",
-      "target": 1000,
-      "filled": 956,
-      "fill_pct": 95.6,
-      "ir": "66.1",
-      "loi": "13.5",
-      "launch_date": "2026-10-23 14:40:41",
-      "oof": "11/12/2026",
       "status": "on_track",
       "quotas": []
     },
@@ -65,9 +65,9 @@
     {
       "ref_name": "MIS-500a4",
       "target": 500,
-      "filled": 7,
-      "fill_pct": 1.4,
-      "ir": "33.3",
+      "filled": 8,
+      "fill_pct": 1.6,
+      "ir": "36.4",
       "loi": "6",
       "launch_date": "2026-10-23 19:53:54",
       "oof": "11/6/2026",
@@ -92,15 +92,15 @@
             {
               "label": "Male",
               "target": 150,
-              "filled": 3,
-              "needed": 147,
-              "fill_pct": 2.0,
+              "filled": 4,
+              "needed": 146,
+              "fill_pct": 2.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 147,
-              "open_to_max": 147
+              "needed_to_min": 146,
+              "open_to_max": 146
             }
           ]
         }

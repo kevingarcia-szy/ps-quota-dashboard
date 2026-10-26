@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-26T18:17:14",
-  "mission_count": 5,
+  "last_updated": "2026-10-26T18:36:56",
+  "mission_count": 6,
   "missions": [
     {
       "ref_name": "MIS-9afc5",
       "target": 100,
-      "filled": 75,
-      "fill_pct": 75.0,
-      "ir": "2.6",
+      "filled": 77,
+      "fill_pct": 77.0,
+      "ir": "2.7",
       "loi": "6.5",
       "launch_date": "2026-10-20 14:57:00",
       "oof": "11/3/2026",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-d9fc8",
       "target": 1000,
-      "filled": 385,
-      "fill_pct": 38.5,
+      "filled": 476,
+      "fill_pct": 47.6,
       "ir": "93.7",
       "loi": "6",
       "launch_date": "2026-10-23 14:01:01",
@@ -29,9 +29,9 @@
     {
       "ref_name": "MIS-1a792",
       "target": 1000,
-      "filled": 11,
-      "fill_pct": 1.1,
-      "ir": "10.3",
+      "filled": 14,
+      "fill_pct": 1.4,
+      "ir": "12.2",
       "loi": "7.5",
       "launch_date": "2026-10-23 19:14:12",
       "oof": "11/6/2026",
@@ -41,9 +41,9 @@
     {
       "ref_name": "MIS-94956",
       "target": 1000,
-      "filled": 34,
-      "fill_pct": 3.4,
-      "ir": "25.8",
+      "filled": 48,
+      "fill_pct": 4.8,
+      "ir": "27.1",
       "loi": "6",
       "launch_date": "2026-10-23 21:01:02",
       "oof": "11/6/2026",
@@ -53,9 +53,9 @@
     {
       "ref_name": "MIS-500a4",
       "target": 500,
-      "filled": 297,
-      "fill_pct": 59.4,
-      "ir": "60.1",
+      "filled": 302,
+      "fill_pct": 60.4,
+      "ir": "60.4",
       "loi": "6",
       "launch_date": "2026-10-23 19:53:54",
       "oof": "11/6/2026",
@@ -67,28 +67,111 @@
             {
               "label": "Female",
               "target": 350,
-              "filled": 178,
-              "needed": 172,
-              "fill_pct": 50.9,
+              "filled": 182,
+              "needed": 168,
+              "fill_pct": 52.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 172,
-              "open_to_max": 172
+              "needed_to_min": 168,
+              "open_to_max": 168
             },
             {
               "label": "Male",
               "target": 150,
-              "filled": 119,
-              "needed": 31,
-              "fill_pct": 79.3,
+              "filled": 120,
+              "needed": 30,
+              "fill_pct": 80.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 31,
-              "open_to_max": 31
+              "needed_to_min": 30,
+              "open_to_max": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-a531d",
+      "target": 800,
+      "filled": 363,
+      "fill_pct": 45.4,
+      "ir": "53",
+      "loi": "5.5",
+      "launch_date": "2026-10-26 7:10:00",
+      "oof": "11/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Products",
+          "cells": [
+            {
+              "label": "Frozen entrees",
+              "target": 200,
+              "filled": 226,
+              "needed": 0,
+              "fill_pct": 113.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Frozen snacks",
+              "target": 200,
+              "filled": 55,
+              "needed": 145,
+              "fill_pct": 27.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 145,
+              "open_to_max": 145
+            },
+            {
+              "label": "Frozen chicken",
+              "target": 200,
+              "filled": 63,
+              "needed": 137,
+              "fill_pct": 31.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 137,
+              "open_to_max": 137
+            },
+            {
+              "label": "Frozen pot pies",
+              "target": 200,
+              "filled": 19,
+              "needed": 181,
+              "fill_pct": 9.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 181,
+              "open_to_max": 181
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }

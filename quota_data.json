@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T17:44:15",
-  "mission_count": 6,
+  "last_updated": "2026-10-27T18:04:25",
+  "mission_count": 8,
   "missions": [
     {
       "ref_name": "MIS-9afc5",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-1a792",
       "target": 1000,
-      "filled": 593,
-      "fill_pct": 59.3,
+      "filled": 600,
+      "fill_pct": 60.0,
       "ir": "34.3",
       "loi": "7.5",
       "launch_date": "2026-10-23 19:14:12",
@@ -31,7 +31,7 @@
       "target": 1000,
       "filled": 294,
       "fill_pct": 29.4,
-      "ir": "22.7",
+      "ir": "22.6",
       "loi": "6",
       "launch_date": "2026-10-23 21:01:02",
       "oof": "11/6/2026",
@@ -168,13 +168,95 @@
     {
       "ref_name": "MIS-c4956",
       "target": 1000,
-      "filled": 528,
-      "fill_pct": 52.8,
-      "ir": "82",
+      "filled": 545,
+      "fill_pct": 54.5,
+      "ir": "81.7",
       "loi": "6.5",
       "launch_date": "2026-10-26 23:03:00",
       "oof": "10/28/2026",
       "status": "watch",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-6618e",
+      "target": 1500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "10.5",
+      "launch_date": "2026-10-27 14:21:39",
+      "oof": "11/10/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Loyalty Segments",
+          "cells": [
+            {
+              "label": "Loyals",
+              "target": 495,
+              "filled": 0,
+              "needed": 495,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 495,
+              "open_to_max": 495
+            },
+            {
+              "label": "Occasionals",
+              "target": 510,
+              "filled": 0,
+              "needed": 510,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 510,
+              "open_to_max": 510
+            },
+            {
+              "label": "Infrequents",
+              "target": 495,
+              "filled": 0,
+              "needed": 495,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 495,
+              "open_to_max": 495
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-c5655",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5.5",
+      "launch_date": "2026-10-21 9:43:10",
+      "oof": "11/9/2026",
+      "status": "behind",
       "quotas": []
     }
   ]

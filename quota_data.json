@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-27T09:47:08",
+  "last_updated": "2026-10-27T10:07:03",
   "mission_count": 6,
   "missions": [
     {
       "ref_name": "MIS-9afc5",
       "target": 100,
-      "filled": 76,
-      "fill_pct": 76.0,
-      "ir": "2.6",
+      "filled": 67,
+      "fill_pct": 67.0,
+      "ir": "2.3",
       "loi": "6.5",
       "launch_date": "2026-10-20 14:57:00",
       "oof": "11/3/2026",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-d9fc8",
       "target": 1000,
-      "filled": 976,
-      "fill_pct": 97.6,
+      "filled": 977,
+      "fill_pct": 97.7,
       "ir": "94.4",
       "loi": "6",
       "launch_date": "2026-10-23 14:01:01",
@@ -31,7 +31,7 @@
       "target": 1000,
       "filled": 45,
       "fill_pct": 4.5,
-      "ir": "10.6",
+      "ir": "10.2",
       "loi": "7.5",
       "launch_date": "2026-10-23 19:14:12",
       "oof": "11/6/2026",
@@ -97,9 +97,9 @@
     {
       "ref_name": "MIS-a531d",
       "target": 800,
-      "filled": 400,
-      "fill_pct": 50.0,
-      "ir": "44",
+      "filled": 416,
+      "fill_pct": 52.0,
+      "ir": "40.7",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -124,19 +124,6 @@
             {
               "label": "Frozen snacks",
               "target": 200,
-              "filled": 72,
-              "needed": 128,
-              "fill_pct": 36.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 128,
-              "open_to_max": 128
-            },
-            {
-              "label": "Frozen chicken",
-              "target": 200,
               "filled": 77,
               "needed": 123,
               "fill_pct": 38.5,
@@ -148,17 +135,30 @@
               "open_to_max": 123
             },
             {
-              "label": "Frozen pot pies",
+              "label": "Frozen chicken",
               "target": 200,
-              "filled": 27,
-              "needed": 173,
-              "fill_pct": 13.5,
+              "filled": 84,
+              "needed": 116,
+              "fill_pct": 42.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 173,
-              "open_to_max": 173
+              "needed_to_min": 116,
+              "open_to_max": 116
+            },
+            {
+              "label": "Frozen pot pies",
+              "target": 200,
+              "filled": 29,
+              "needed": 171,
+              "fill_pct": 14.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 171,
+              "open_to_max": 171
             },
             {
               "label": "None of the above",

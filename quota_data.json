@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-28T11:09:05",
-  "mission_count": 8,
+  "last_updated": "2026-10-28T11:29:12",
+  "mission_count": 7,
   "missions": [
     {
       "ref_name": "MIS-9afc5",
       "target": 100,
-      "filled": 90,
-      "fill_pct": 90.0,
+      "filled": 91,
+      "fill_pct": 91.0,
       "ir": "2.8",
       "loi": "6.5",
       "launch_date": "2026-10-20 14:57:00",
@@ -29,9 +29,9 @@
     {
       "ref_name": "MIS-94956",
       "target": 1000,
-      "filled": 523,
-      "fill_pct": 52.3,
-      "ir": "20.9",
+      "filled": 541,
+      "fill_pct": 54.1,
+      "ir": "21.1",
       "loi": "6",
       "launch_date": "2026-10-23 21:01:02",
       "oof": "11/6/2026",
@@ -41,9 +41,9 @@
     {
       "ref_name": "MIS-a531d",
       "target": 800,
-      "filled": 513,
-      "fill_pct": 64.1,
-      "ir": "36.1",
+      "filled": 517,
+      "fill_pct": 64.6,
+      "ir": "35.9",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -68,28 +68,28 @@
             {
               "label": "Frozen snacks",
               "target": 200,
-              "filled": 121,
-              "needed": 79,
-              "fill_pct": 60.5,
+              "filled": 123,
+              "needed": 77,
+              "fill_pct": 61.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 79,
-              "open_to_max": 79
+              "needed_to_min": 77,
+              "open_to_max": 77
             },
             {
               "label": "Frozen chicken",
               "target": 200,
-              "filled": 126,
-              "needed": 74,
-              "fill_pct": 63.0,
+              "filled": 129,
+              "needed": 71,
+              "fill_pct": 64.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 74,
-              "open_to_max": 74
+              "needed_to_min": 71,
+              "open_to_max": 71
             },
             {
               "label": "Frozen pot pies",
@@ -124,8 +124,8 @@
     {
       "ref_name": "MIS-f7811",
       "target": 1000,
-      "filled": 843,
-      "fill_pct": 84.3,
+      "filled": 871,
+      "fill_pct": 87.1,
       "ir": "100",
       "loi": "3",
       "launch_date": "2026-10-26 20:07:00",
@@ -138,51 +138,39 @@
             {
               "label": "Female",
               "target": 500,
-              "filled": 458,
-              "needed": 42,
-              "fill_pct": 91.6,
+              "filled": 471,
+              "needed": 29,
+              "fill_pct": 94.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 42,
-              "open_to_max": 42
+              "needed_to_min": 29,
+              "open_to_max": 29
             },
             {
               "label": "Male",
               "target": 500,
-              "filled": 385,
-              "needed": 115,
-              "fill_pct": 77.0,
+              "filled": 402,
+              "needed": 98,
+              "fill_pct": 80.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 115,
-              "open_to_max": 115
+              "needed_to_min": 98,
+              "open_to_max": 98
             }
           ]
         }
       ]
     },
     {
-      "ref_name": "MIS-c4956",
-      "target": 1000,
-      "filled": 867,
-      "fill_pct": 86.7,
-      "ir": "78.4",
-      "loi": "6.5",
-      "launch_date": "2026-10-26 23:03:00",
-      "oof": "10/28/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-6618e",
       "target": 1500,
-      "filled": 80,
-      "fill_pct": 5.3,
-      "ir": "66.1",
+      "filled": 83,
+      "fill_pct": 5.5,
+      "ir": "66.4",
       "loi": "10.5",
       "launch_date": "2026-10-27 14:21:39",
       "oof": "11/10/2026",
@@ -207,28 +195,28 @@
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 25,
-              "needed": 485,
-              "fill_pct": 4.9,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 485,
-              "open_to_max": 485
-            },
-            {
-              "label": "Infrequents",
-              "target": 495,
-              "filled": 26,
-              "needed": 469,
+              "filled": 27,
+              "needed": 483,
               "fill_pct": 5.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 469,
-              "open_to_max": 469
+              "needed_to_min": 483,
+              "open_to_max": 483
+            },
+            {
+              "label": "Infrequents",
+              "target": 495,
+              "filled": 27,
+              "needed": 468,
+              "fill_pct": 5.5,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 468,
+              "open_to_max": 468
             },
             {
               "label": "None of the above",
@@ -250,9 +238,9 @@
     {
       "ref_name": "MIS-c5655",
       "target": 500,
-      "filled": 266,
-      "fill_pct": 53.2,
-      "ir": "42.8",
+      "filled": 276,
+      "fill_pct": 55.2,
+      "ir": "42.7",
       "loi": "5.5",
       "launch_date": "2026-10-21 9:43:10",
       "oof": "11/9/2026",

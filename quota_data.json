@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T16:33:02",
-  "mission_count": 15,
+  "last_updated": "2026-10-30T16:54:51",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-1a792",
@@ -17,9 +17,9 @@
     {
       "ref_name": "MIS-94956",
       "target": 1000,
-      "filled": 902,
-      "fill_pct": 90.2,
-      "ir": "20.1",
+      "filled": 903,
+      "fill_pct": 90.3,
+      "ir": "20.2",
       "loi": "6",
       "launch_date": "2026-10-23 21:01:02",
       "oof": "11/6/2026",
@@ -31,7 +31,7 @@
       "target": 800,
       "filled": 734,
       "fill_pct": 91.8,
-      "ir": "17.2",
+      "ir": "17",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -112,7 +112,7 @@
     {
       "ref_name": "MIS-6618e",
       "target": 1500,
-      "filled": 1180,
+      "filled": 1181,
       "fill_pct": 78.7,
       "ir": "41.5",
       "loi": "10.5",
@@ -139,15 +139,15 @@
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 338,
-              "needed": 172,
-              "fill_pct": 66.3,
+              "filled": 339,
+              "needed": 171,
+              "fill_pct": 66.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 172,
-              "open_to_max": 172
+              "needed_to_min": 171,
+              "open_to_max": 171
             },
             {
               "label": "Infrequents",
@@ -182,9 +182,9 @@
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 488,
-      "fill_pct": 48.8,
-      "ir": "13.5",
+      "filled": 490,
+      "fill_pct": 49.0,
+      "ir": "13.4",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
       "oof": "11/11/2026",
@@ -572,9 +572,9 @@
     {
       "ref_name": "MIS-954c3",
       "target": 600,
-      "filled": 535,
-      "fill_pct": 89.2,
-      "ir": "64.8",
+      "filled": 544,
+      "fill_pct": 90.7,
+      "ir": "64.9",
       "loi": "10.5",
       "launch_date": "2026-10-29 15:25:00",
       "oof": "11/5/2026",
@@ -586,15 +586,15 @@
             {
               "label": "Female",
               "target": 480,
-              "filled": 414,
-              "needed": 66,
-              "fill_pct": 86.2,
+              "filled": 423,
+              "needed": 57,
+              "fill_pct": 88.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 57,
+              "open_to_max": 57
             },
             {
               "label": "Male",
@@ -691,9 +691,9 @@
     {
       "ref_name": "MIS-fb34f",
       "target": 100,
-      "filled": 39,
-      "fill_pct": 39.0,
-      "ir": "12.8",
+      "filled": 42,
+      "fill_pct": 42.0,
+      "ir": "13",
       "loi": "8.5",
       "launch_date": "2026-10-30 14:39:00",
       "oof": "11/13/2026",
@@ -703,8 +703,8 @@
     {
       "ref_name": "MIS-0c64f",
       "target": 800,
-      "filled": 777,
-      "fill_pct": 97.1,
+      "filled": 781,
+      "fill_pct": 97.6,
       "ir": "100",
       "loi": "3",
       "launch_date": "2026-10-30 16:10:00",
@@ -715,9 +715,9 @@
     {
       "ref_name": "MIS-08976",
       "target": 1000,
-      "filled": 129,
-      "fill_pct": 12.9,
-      "ir": "42.4",
+      "filled": 373,
+      "fill_pct": 37.3,
+      "ir": "57.7",
       "loi": "9",
       "launch_date": "2026-10-30 16:19:00",
       "oof": "11/13/2026",
@@ -732,6 +732,18 @@
       "ir": "0",
       "loi": "6.5",
       "launch_date": "2026-10-30 18:36:00",
+      "oof": "11/13/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-a31b5",
+      "target": 600,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "6",
+      "launch_date": "2026-10-30 19:35:00",
       "oof": "11/13/2026",
       "status": "behind",
       "quotas": []

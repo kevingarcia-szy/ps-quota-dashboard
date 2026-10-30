@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T12:56:35",
-  "mission_count": 12,
+  "last_updated": "2026-10-30T13:17:54",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-1a792",
@@ -17,8 +17,8 @@
     {
       "ref_name": "MIS-94956",
       "target": 1000,
-      "filled": 890,
-      "fill_pct": 89.0,
+      "filled": 891,
+      "fill_pct": 89.1,
       "ir": "20.3",
       "loi": "6",
       "launch_date": "2026-10-23 21:01:02",
@@ -31,7 +31,7 @@
       "target": 800,
       "filled": 734,
       "fill_pct": 91.8,
-      "ir": "17.7",
+      "ir": "17.3",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -182,9 +182,9 @@
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 462,
-      "fill_pct": 46.2,
-      "ir": "13.3",
+      "filled": 473,
+      "fill_pct": 47.3,
+      "ir": "13.4",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
       "oof": "11/11/2026",
@@ -194,8 +194,8 @@
     {
       "ref_name": "MIS-927ba",
       "target": 1000,
-      "filled": 885,
-      "fill_pct": 88.5,
+      "filled": 886,
+      "fill_pct": 88.6,
       "ir": "87.3",
       "loi": "5.5",
       "launch_date": "2026-10-28 6:48:56",
@@ -208,15 +208,15 @@
             {
               "label": "21 - 29 | Female",
               "target": 140,
-              "filled": 97,
-              "needed": 43,
-              "fill_pct": 69.3,
+              "filled": 98,
+              "needed": 42,
+              "fill_pct": 70.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 110,
               "max_target": 170,
-              "needed_to_min": 13,
-              "open_to_max": 73
+              "needed_to_min": 12,
+              "open_to_max": 72
             },
             {
               "label": "21 - 29 | Male",
@@ -440,7 +440,7 @@
       "target": 500,
       "filled": 243,
       "fill_pct": 48.6,
-      "ir": "36.9",
+      "ir": "36.6",
       "loi": "8.5",
       "launch_date": "2026-10-28 20:27:00",
       "oof": "11/11/2026",
@@ -572,9 +572,9 @@
     {
       "ref_name": "MIS-954c3",
       "target": 600,
-      "filled": 335,
-      "fill_pct": 55.8,
-      "ir": "62.7",
+      "filled": 368,
+      "fill_pct": 61.3,
+      "ir": "62.8",
       "loi": "10.5",
       "launch_date": "2026-10-29 15:25:00",
       "oof": "11/5/2026",
@@ -586,28 +586,28 @@
             {
               "label": "Female",
               "target": 480,
-              "filled": 231,
-              "needed": 249,
-              "fill_pct": 48.1,
+              "filled": 254,
+              "needed": 226,
+              "fill_pct": 52.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 249,
-              "open_to_max": 249
+              "needed_to_min": 226,
+              "open_to_max": 226
             },
             {
               "label": "Male",
               "target": 120,
-              "filled": 104,
-              "needed": 16,
-              "fill_pct": 86.7,
+              "filled": 114,
+              "needed": 6,
+              "fill_pct": 95.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 16,
-              "open_to_max": 16
+              "needed_to_min": 6,
+              "open_to_max": 6
             }
           ]
         }
@@ -693,10 +693,22 @@
       "target": 100,
       "filled": 9,
       "fill_pct": 9.0,
-      "ir": "14.1",
+      "ir": "9",
       "loi": "8.5",
       "launch_date": "2026-10-30 14:39:00",
       "oof": "11/13/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-0c64f",
+      "target": 800,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "3",
+      "launch_date": "2026-10-30 16:10:00",
+      "oof": "11/1/2026",
       "status": "behind",
       "quotas": []
     }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T08:44:21",
-  "mission_count": 20,
+  "last_updated": "2026-10-31T09:06:32",
+  "mission_count": 21,
   "missions": [
     {
       "ref_name": "MIS-1a792",
@@ -112,9 +112,9 @@
     {
       "ref_name": "MIS-6618e",
       "target": 1500,
-      "filled": 1269,
-      "fill_pct": 84.6,
-      "ir": "40.4",
+      "filled": 1273,
+      "fill_pct": 84.9,
+      "ir": "40.2",
       "loi": "10.5",
       "launch_date": "2026-10-27 14:21:39",
       "oof": "11/10/2026",
@@ -126,28 +126,28 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 391,
-              "needed": 104,
-              "fill_pct": 79.0,
+              "filled": 395,
+              "needed": 100,
+              "fill_pct": 79.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 104,
-              "open_to_max": 104
+              "needed_to_min": 100,
+              "open_to_max": 100
             },
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 382,
-              "needed": 128,
-              "fill_pct": 74.9,
+              "filled": 383,
+              "needed": 127,
+              "fill_pct": 75.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 128,
-              "open_to_max": 128
+              "needed_to_min": 127,
+              "open_to_max": 127
             },
             {
               "label": "Infrequents",
@@ -885,6 +885,50 @@
       "oof": "11/13/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-610e0",
+      "target": 450,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-10-31 3:09:00",
+      "oof": "11/14/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Do you have children?",
+          "cells": [
+            {
+              "label": "Yes",
+              "target": 149,
+              "filled": 0,
+              "needed": 149,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 149,
+              "open_to_max": 149
+            },
+            {
+              "label": "No",
+              "target": 302,
+              "filled": 0,
+              "needed": 302,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 302,
+              "open_to_max": 302
+            }
+          ]
+        }
+      ]
     }
   ]
 }

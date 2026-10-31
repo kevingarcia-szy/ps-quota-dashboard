@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T21:40:39",
+  "last_updated": "2026-10-30T22:02:49",
   "mission_count": 20,
   "missions": [
     {
@@ -112,9 +112,9 @@
     {
       "ref_name": "MIS-6618e",
       "target": 1500,
-      "filled": 1211,
-      "fill_pct": 80.7,
-      "ir": "40.9",
+      "filled": 1215,
+      "fill_pct": 81.0,
+      "ir": "41",
       "loi": "10.5",
       "launch_date": "2026-10-27 14:21:39",
       "oof": "11/10/2026",
@@ -126,28 +126,28 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 366,
-              "needed": 129,
-              "fill_pct": 73.9,
+              "filled": 369,
+              "needed": 126,
+              "fill_pct": 74.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 129,
-              "open_to_max": 129
+              "needed_to_min": 126,
+              "open_to_max": 126
             },
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 349,
-              "needed": 161,
-              "fill_pct": 68.4,
+              "filled": 350,
+              "needed": 160,
+              "fill_pct": 68.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 161,
-              "open_to_max": 161
+              "needed_to_min": 160,
+              "open_to_max": 160
             },
             {
               "label": "Infrequents",
@@ -618,7 +618,7 @@
       "target": 1000,
       "filled": 94,
       "fill_pct": 9.4,
-      "ir": "26",
+      "ir": "25.8",
       "loi": "6.5",
       "launch_date": "2026-10-29 20:51:00",
       "oof": "11/4/2026",
@@ -717,7 +717,7 @@
       "target": 1000,
       "filled": 966,
       "fill_pct": 96.6,
-      "ir": "56.4",
+      "ir": "56.3",
       "loi": "9",
       "launch_date": "2026-10-30 16:19:00",
       "oof": "11/13/2026",
@@ -763,13 +763,13 @@
     {
       "ref_name": "MIS-8017d",
       "target": 1400,
-      "filled": 987,
-      "fill_pct": 70.5,
-      "ir": "72.7",
+      "filled": 1299,
+      "fill_pct": 92.8,
+      "ir": "71.6",
       "loi": "13",
       "launch_date": "2026-10-30 15:37:58",
       "oof": "11/13/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Bystanders/ Wearers",
@@ -777,28 +777,28 @@
             {
               "label": "Wearer",
               "target": 700,
-              "filled": 341,
-              "needed": 359,
-              "fill_pct": 48.7,
+              "filled": 441,
+              "needed": 259,
+              "fill_pct": 63.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 840,
-              "needed_to_min": 219,
-              "open_to_max": 499
+              "needed_to_min": 119,
+              "open_to_max": 399
             },
             {
               "label": "Bystander",
               "target": 700,
-              "filled": 663,
-              "needed": 37,
-              "fill_pct": 94.7,
+              "filled": 858,
+              "needed": 0,
+              "fill_pct": 122.6,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 840,
               "needed_to_min": 0,
-              "open_to_max": 177
+              "open_to_max": 0
             },
             {
               "label": "None of the above",
@@ -820,13 +820,13 @@
     {
       "ref_name": "MIS-1e1ed",
       "target": 1400,
-      "filled": 217,
-      "fill_pct": 15.5,
-      "ir": "59.3",
+      "filled": 935,
+      "fill_pct": 66.8,
+      "ir": "69.3",
       "loi": "13",
       "launch_date": "2026-10-30 15:39:22",
       "oof": "11/13/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Bystanders/ Wearers",
@@ -834,28 +834,28 @@
             {
               "label": "Wearer",
               "target": 700,
-              "filled": 63,
-              "needed": 637,
-              "fill_pct": 9.0,
+              "filled": 288,
+              "needed": 412,
+              "fill_pct": 41.1,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 840,
-              "needed_to_min": 497,
-              "open_to_max": 777
+              "needed_to_min": 272,
+              "open_to_max": 552
             },
             {
               "label": "Bystander",
               "target": 700,
-              "filled": 154,
-              "needed": 546,
-              "fill_pct": 22.0,
+              "filled": 647,
+              "needed": 53,
+              "fill_pct": 92.4,
               "is_paused": false,
               "is_range": true,
               "min_target": 560,
               "max_target": 840,
-              "needed_to_min": 406,
-              "open_to_max": 686
+              "needed_to_min": 0,
+              "open_to_max": 193
             },
             {
               "label": "None of the above",

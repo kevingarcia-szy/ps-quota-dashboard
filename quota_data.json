@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T14:36:37",
+  "last_updated": "2026-10-31T14:58:25",
   "mission_count": 20,
   "missions": [
     {
@@ -31,7 +31,7 @@
       "target": 800,
       "filled": 734,
       "fill_pct": 91.8,
-      "ir": "14.8",
+      "ir": "14.6",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -114,7 +114,7 @@
       "target": 1500,
       "filled": 1300,
       "fill_pct": 86.7,
-      "ir": "39.9",
+      "ir": "39.8",
       "loi": "10.5",
       "launch_date": "2026-10-27 14:21:39",
       "oof": "11/10/2026",
@@ -182,8 +182,8 @@
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 573,
-      "fill_pct": 57.3,
+      "filled": 578,
+      "fill_pct": 57.8,
       "ir": "13.2",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
@@ -703,9 +703,9 @@
     {
       "ref_name": "MIS-b6bd3",
       "target": 100,
-      "filled": 65,
-      "fill_pct": 65.0,
-      "ir": "16.8",
+      "filled": 71,
+      "fill_pct": 71.0,
+      "ir": "17.3",
       "loi": "6.5",
       "launch_date": "2026-10-30 18:36:00",
       "oof": "11/13/2026",
@@ -715,21 +715,21 @@
     {
       "ref_name": "MIS-a31b5",
       "target": 600,
-      "filled": 292,
-      "fill_pct": 48.7,
-      "ir": "32.9",
+      "filled": 316,
+      "fill_pct": 52.7,
+      "ir": "31.9",
       "loi": "6",
       "launch_date": "2026-10-30 19:35:00",
       "oof": "11/13/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
       "ref_name": "MIS-1cd28",
       "target": 200,
-      "filled": 54,
-      "fill_pct": 27.0,
-      "ir": "8.2",
+      "filled": 55,
+      "fill_pct": 27.5,
+      "ir": "8.3",
       "loi": "5.5",
       "launch_date": "2026-10-30 20:01:00",
       "oof": "11/13/2026",
@@ -853,21 +853,21 @@
     {
       "ref_name": "MIS-8b2b0",
       "target": 1000,
-      "filled": 409,
-      "fill_pct": 40.9,
-      "ir": "57.1",
+      "filled": 502,
+      "fill_pct": 50.2,
+      "ir": "57",
       "loi": "7.5",
       "launch_date": "2026-10-30 22:57:00",
       "oof": "11/13/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
       "ref_name": "MIS-610e0",
       "target": 450,
-      "filled": 423,
-      "fill_pct": 94.0,
-      "ir": "26.1",
+      "filled": 450,
+      "fill_pct": 100.0,
+      "ir": "26.2",
       "loi": "4.5",
       "launch_date": "2026-10-31 3:09:00",
       "oof": "11/14/2026",
@@ -892,15 +892,15 @@
             {
               "label": "No",
               "target": 302,
-              "filled": 253,
-              "needed": 49,
-              "fill_pct": 83.8,
+              "filled": 280,
+              "needed": 22,
+              "fill_pct": 92.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 49,
-              "open_to_max": 49
+              "needed_to_min": 22,
+              "open_to_max": 22
             }
           ]
         }
@@ -909,13 +909,13 @@
     {
       "ref_name": "MIS-f4ac2",
       "target": 300,
-      "filled": 97,
-      "fill_pct": 32.3,
-      "ir": "28.3",
+      "filled": 180,
+      "fill_pct": 60.0,
+      "ir": "30.7",
       "loi": "4.5",
       "launch_date": "2026-10-31 15:06:00",
       "oof": "11/14/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Do you have children?",
@@ -923,28 +923,28 @@
             {
               "label": "Yes",
               "target": 99,
-              "filled": 60,
-              "needed": 39,
-              "fill_pct": 60.6,
+              "filled": 106,
+              "needed": 0,
+              "fill_pct": 107.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 39,
-              "open_to_max": 39
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "No",
               "target": 201,
-              "filled": 37,
-              "needed": 164,
-              "fill_pct": 18.4,
+              "filled": 74,
+              "needed": 127,
+              "fill_pct": 36.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 164,
-              "open_to_max": 164
+              "needed_to_min": 127,
+              "open_to_max": 127
             }
           ]
         }

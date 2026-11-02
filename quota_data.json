@@ -1,27 +1,15 @@
 {
-  "last_updated": "2026-11-02T16:42:26",
-  "mission_count": 13,
+  "last_updated": "2026-11-02T17:04:09",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 793,
-      "fill_pct": 79.3,
-      "ir": "12.3",
+      "filled": 812,
+      "fill_pct": 81.2,
+      "ir": "12.4",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
-      "oof": "11/11/2026",
-      "status": "watch",
-      "quotas": []
-    },
-    {
-      "ref_name": "MIS-b6245",
-      "target": 500,
-      "filled": 500,
-      "fill_pct": 100.0,
-      "ir": "31.6",
-      "loi": "8.5",
-      "launch_date": "2026-10-28 20:27:00",
       "oof": "11/11/2026",
       "status": "on_track",
       "quotas": []
@@ -360,9 +348,9 @@
     {
       "ref_name": "MIS-a31b5",
       "target": 600,
-      "filled": 578,
-      "fill_pct": 96.3,
-      "ir": "28.6",
+      "filled": 583,
+      "fill_pct": 97.2,
+      "ir": "28.7",
       "loi": "6",
       "launch_date": "2026-10-30 19:35:00",
       "oof": "11/13/2026",
@@ -532,7 +520,7 @@
       "target": 1000,
       "filled": 110,
       "fill_pct": 11.0,
-      "ir": "33.1",
+      "ir": "32.8",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -542,21 +530,21 @@
     {
       "ref_name": "MIS-40231",
       "target": 500,
-      "filled": 355,
-      "fill_pct": 71.0,
+      "filled": 494,
+      "fill_pct": 98.8,
       "ir": "100",
       "loi": "3",
       "launch_date": "2026-11-02 19:07:00",
       "oof": "11/16/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": []
     },
     {
       "ref_name": "MIS-a9359",
       "target": 300,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 1,
+      "fill_pct": 0.3,
+      "ir": "100",
       "loi": "10.5",
       "launch_date": "2026-11-02 19:35:00",
       "oof": "11/16/2026",
@@ -581,19 +569,43 @@
             {
               "label": "Male",
               "target": 120,
-              "filled": 0,
-              "needed": 120,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 119,
+              "fill_pct": 0.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 120,
-              "open_to_max": 120
+              "needed_to_min": 119,
+              "open_to_max": 119
             }
           ]
         }
       ]
+    },
+    {
+      "ref_name": "MIS-431ab",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "15",
+      "launch_date": "2026-11-02 20:14:00",
+      "oof": "11/5/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-0b474",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-11-02 20:16:00",
+      "oof": "11/4/2026",
+      "status": "behind",
+      "quotas": []
     }
   ]
 }

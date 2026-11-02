@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-02T17:47:37",
-  "mission_count": 13,
+  "last_updated": "2026-11-02T18:09:12",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 826,
-      "fill_pct": 82.6,
-      "ir": "12.4",
+      "filled": 841,
+      "fill_pct": 84.1,
+      "ir": "12.5",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
       "oof": "11/11/2026",
@@ -261,8 +261,8 @@
     {
       "ref_name": "MIS-6e8e3",
       "target": 1000,
-      "filled": 866,
-      "fill_pct": 86.6,
+      "filled": 868,
+      "fill_pct": 86.8,
       "ir": "25.5",
       "loi": "6.5",
       "launch_date": "2026-10-29 20:51:00",
@@ -275,15 +275,15 @@
             {
               "label": "18 - 34",
               "target": 500,
-              "filled": 364,
-              "needed": 136,
-              "fill_pct": 72.8,
+              "filled": 366,
+              "needed": 134,
+              "fill_pct": 73.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 136,
-              "open_to_max": 136
+              "needed_to_min": 134,
+              "open_to_max": 134
             },
             {
               "label": "35 - 65",
@@ -319,15 +319,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 366,
-              "needed": 134,
-              "fill_pct": 73.2,
+              "filled": 368,
+              "needed": 132,
+              "fill_pct": 73.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 134,
-              "open_to_max": 134
+              "needed_to_min": 132,
+              "open_to_max": 132
             }
           ]
         }
@@ -506,9 +506,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 152,
-      "fill_pct": 15.2,
-      "ir": "31.2",
+      "filled": 177,
+      "fill_pct": 17.7,
+      "ir": "33",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -525,6 +525,18 @@
       "launch_date": "2026-11-02 19:07:00",
       "oof": "11/16/2026",
       "status": "on_track",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-ed2ec",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "5",
+      "launch_date": "2026-11-02 21:15:00",
+      "oof": "11/16/2026",
+      "status": "behind",
       "quotas": []
     },
     {

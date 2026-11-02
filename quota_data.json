@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-02T09:33:37",
+  "last_updated": "2026-11-02T09:54:58",
   "mission_count": 17,
   "missions": [
     {
       "ref_name": "MIS-1a792",
       "target": 1000,
-      "filled": 972,
-      "fill_pct": 97.2,
-      "ir": "31.8",
+      "filled": 973,
+      "fill_pct": 97.3,
+      "ir": "31.5",
       "loi": "7.5",
       "launch_date": "2026-10-23 19:14:12",
       "oof": "11/6/2026",
@@ -19,7 +19,7 @@
       "target": 800,
       "filled": 734,
       "fill_pct": 91.8,
-      "ir": "13.3",
+      "ir": "12.6",
       "loi": "5.5",
       "launch_date": "2026-10-26 7:10:00",
       "oof": "11/9/2026",
@@ -35,11 +35,11 @@
               "needed": 0,
               "fill_pct": 113.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 80,
+              "max_target": 320,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 94
             },
             {
               "label": "Frozen snacks",
@@ -48,11 +48,11 @@
               "needed": 0,
               "fill_pct": 103.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 80,
+              "max_target": 320,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 113
             },
             {
               "label": "Frozen chicken",
@@ -61,11 +61,11 @@
               "needed": 15,
               "fill_pct": 92.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 15,
-              "open_to_max": 15
+              "is_range": true,
+              "min_target": 80,
+              "max_target": 320,
+              "needed_to_min": 0,
+              "open_to_max": 135
             },
             {
               "label": "Frozen pot pies",
@@ -74,11 +74,11 @@
               "needed": 84,
               "fill_pct": 58.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 84,
-              "open_to_max": 84
+              "is_range": true,
+              "min_target": 80,
+              "max_target": 320,
+              "needed_to_min": 0,
+              "open_to_max": 204
             },
             {
               "label": "None of the above",
@@ -87,7 +87,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": false,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -170,9 +170,9 @@
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 784,
-      "fill_pct": 78.4,
-      "ir": "13.6",
+      "filled": 789,
+      "fill_pct": 78.9,
+      "ir": "13.5",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
       "oof": "11/11/2026",
@@ -635,8 +635,8 @@
     {
       "ref_name": "MIS-fb34f",
       "target": 100,
-      "filled": 58,
-      "fill_pct": 58.0,
+      "filled": 59,
+      "fill_pct": 59.0,
       "ir": "10.1",
       "loi": "8.5",
       "launch_date": "2026-10-30 14:39:00",
@@ -659,9 +659,9 @@
     {
       "ref_name": "MIS-1cd28",
       "target": 200,
-      "filled": 184,
-      "fill_pct": 92.0,
-      "ir": "9.4",
+      "filled": 194,
+      "fill_pct": 97.0,
+      "ir": "9.2",
       "loi": "5.5",
       "launch_date": "2026-10-30 20:01:00",
       "oof": "11/13/2026",

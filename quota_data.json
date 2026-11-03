@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T15:45:23",
-  "mission_count": 12,
+  "last_updated": "2026-11-03T16:07:09",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-83a15",
@@ -141,7 +141,7 @@
       "target": 1000,
       "filled": 1,
       "fill_pct": 0.1,
-      "ir": "100",
+      "ir": "50",
       "loi": "16",
       "launch_date": "2026-11-02 22:17:00",
       "oof": "12/2/2026",
@@ -508,6 +508,50 @@
       ]
     },
     {
+      "ref_name": "MIS-67d95",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "7",
+      "launch_date": "2026-11-03 19:51:00",
+      "oof": "11/17/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "Male",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-fb34f",
       "target": 100,
       "filled": 94,
@@ -680,9 +724,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 371,
-      "fill_pct": 37.1,
-      "ir": "30.1",
+      "filled": 372,
+      "fill_pct": 37.2,
+      "ir": "29.7",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",

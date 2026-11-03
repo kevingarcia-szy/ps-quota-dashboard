@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-02T18:52:07",
-  "mission_count": 14,
+  "last_updated": "2026-11-02T19:13:39",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 870,
-      "fill_pct": 87.0,
+      "filled": 879,
+      "fill_pct": 87.9,
       "ir": "12.6",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
@@ -129,6 +129,180 @@
               "is_range": true,
               "min_target": 70,
               "max_target": 130,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-87367",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "16",
+      "launch_date": "2026-11-02 22:17:00",
+      "oof": "12/2/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Please select the restaurants listed below that you have purchased from in the past 90 days.",
+          "cells": [
+            {
+              "label": "Taco Bell",
+              "target": 510,
+              "filled": 0,
+              "needed": 510,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 500,
+              "max_target": 520,
+              "needed_to_min": 500,
+              "open_to_max": 520
+            },
+            {
+              "label": "Burger King",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "McDonald\u2019s",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "Del Taco",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "Jack in the Box",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "7Brew",
+              "target": 70,
+              "filled": 0,
+              "needed": 70,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 60,
+              "max_target": 80,
+              "needed_to_min": 60,
+              "open_to_max": 80
+            },
+            {
+              "label": "Dutch Bros",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "Starbucks",
+              "target": 70,
+              "filled": 0,
+              "needed": 70,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 60,
+              "max_target": 80,
+              "needed_to_min": 60,
+              "open_to_max": 80
+            },
+            {
+              "label": "El Pollo Loco",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "Dunkin ",
+              "target": 50,
+              "filled": 0,
+              "needed": 50,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 40,
+              "open_to_max": 60
+            },
+            {
+              "label": "Other",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
             }
@@ -261,9 +435,9 @@
     {
       "ref_name": "MIS-6e8e3",
       "target": 1000,
-      "filled": 870,
-      "fill_pct": 87.0,
-      "ir": "25.6",
+      "filled": 872,
+      "fill_pct": 87.2,
+      "ir": "25.4",
       "loi": "6.5",
       "launch_date": "2026-10-29 20:51:00",
       "oof": "11/4/2026",
@@ -275,15 +449,15 @@
             {
               "label": "18 - 34",
               "target": 500,
-              "filled": 368,
-              "needed": 132,
-              "fill_pct": 73.6,
+              "filled": 371,
+              "needed": 129,
+              "fill_pct": 74.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 132,
-              "open_to_max": 132
+              "needed_to_min": 129,
+              "open_to_max": 129
             },
             {
               "label": "35 - 65",
@@ -319,15 +493,15 @@
             {
               "label": "Male",
               "target": 500,
-              "filled": 370,
-              "needed": 130,
-              "fill_pct": 74.0,
+              "filled": 373,
+              "needed": 127,
+              "fill_pct": 74.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 130,
-              "open_to_max": 130
+              "needed_to_min": 127,
+              "open_to_max": 127
             }
           ]
         }
@@ -506,9 +680,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 217,
-      "fill_pct": 21.7,
-      "ir": "35.6",
+      "filled": 249,
+      "fill_pct": 24.9,
+      "ir": "38",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -530,13 +704,13 @@
     {
       "ref_name": "MIS-ed2ec",
       "target": 500,
-      "filled": 76,
-      "fill_pct": 15.2,
+      "filled": 486,
+      "fill_pct": 97.2,
       "ir": "100",
       "loi": "5",
       "launch_date": "2026-11-02 21:15:00",
       "oof": "11/16/2026",
-      "status": "behind",
+      "status": "on_track",
       "quotas": []
     },
     {
@@ -586,8 +760,8 @@
     {
       "ref_name": "MIS-431ab",
       "target": 1000,
-      "filled": 53,
-      "fill_pct": 5.3,
+      "filled": 87,
+      "fill_pct": 8.7,
       "ir": "100",
       "loi": "15",
       "launch_date": "2026-11-02 20:14:00",

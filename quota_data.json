@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:00:51",
+  "last_updated": "2026-11-04T13:23:05",
   "mission_count": 14,
   "missions": [
     {
@@ -141,7 +141,7 @@
       "target": 1000,
       "filled": 1154,
       "fill_pct": 115.4,
-      "ir": "71.8",
+      "ir": "71.7",
       "loi": "16",
       "launch_date": "2026-11-02 22:17:00",
       "oof": "12/2/2026",
@@ -510,9 +510,9 @@
     {
       "ref_name": "MIS-67d95",
       "target": 1000,
-      "filled": 505,
-      "fill_pct": 50.5,
-      "ir": "62.9",
+      "filled": 537,
+      "fill_pct": 53.7,
+      "ir": "62.7",
       "loi": "7",
       "launch_date": "2026-11-03 19:51:00",
       "oof": "11/17/2026",
@@ -524,28 +524,28 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 279,
-              "needed": 421,
-              "fill_pct": 39.9,
+              "filled": 292,
+              "needed": 408,
+              "fill_pct": 41.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 421,
-              "open_to_max": 421
+              "needed_to_min": 408,
+              "open_to_max": 408
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 226,
-              "needed": 74,
-              "fill_pct": 75.3,
+              "filled": 245,
+              "needed": 55,
+              "fill_pct": 81.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 74,
-              "open_to_max": 74
+              "needed_to_min": 55,
+              "open_to_max": 55
             }
           ]
         }
@@ -724,9 +724,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 441,
-      "fill_pct": 44.1,
-      "ir": "27.7",
+      "filled": 470,
+      "fill_pct": 47.0,
+      "ir": "28.7",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -736,9 +736,9 @@
     {
       "ref_name": "MIS-7449f",
       "target": 1000,
-      "filled": 951,
-      "fill_pct": 95.1,
-      "ir": "45.7",
+      "filled": 965,
+      "fill_pct": 96.5,
+      "ir": "45.6",
       "loi": "2.5",
       "launch_date": "2026-11-03 20:29:00",
       "oof": "11/17/2026",
@@ -750,15 +750,15 @@
             {
               "label": "20 - 29",
               "target": 290,
-              "filled": 250,
-              "needed": 40,
-              "fill_pct": 86.2,
+              "filled": 263,
+              "needed": 27,
+              "fill_pct": 90.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 40,
-              "open_to_max": 40
+              "needed_to_min": 27,
+              "open_to_max": 27
             },
             {
               "label": "30 - 44",
@@ -776,15 +776,15 @@
             {
               "label": "45 - 55",
               "target": 270,
-              "filled": 265,
-              "needed": 5,
-              "fill_pct": 98.1,
+              "filled": 266,
+              "needed": 4,
+              "fill_pct": 98.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 5,
-              "open_to_max": 5
+              "needed_to_min": 4,
+              "open_to_max": 4
             }
           ]
         }
@@ -793,9 +793,9 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 132,
-      "fill_pct": 8.8,
-      "ir": "45.4",
+      "filled": 147,
+      "fill_pct": 9.8,
+      "ir": "45",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
       "oof": "11/17/2026",
@@ -833,6 +833,19 @@
             {
               "label": "VIP Loyals | Yes",
               "target": 30,
+              "filled": 3,
+              "needed": 27,
+              "fill_pct": 10.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 27,
+              "open_to_max": 27
+            },
+            {
+              "label": "VIP Loyals | Yes",
+              "target": 30,
               "filled": 2,
               "needed": 28,
               "fill_pct": 6.7,
@@ -842,19 +855,6 @@
               "max_target": 0,
               "needed_to_min": 28,
               "open_to_max": 28
-            },
-            {
-              "label": "VIP Loyals | Yes",
-              "target": 30,
-              "filled": 1,
-              "needed": 29,
-              "fill_pct": 3.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 29,
-              "open_to_max": 29
             },
             {
               "label": "Loyals | No",
@@ -885,15 +885,15 @@
             {
               "label": "Loyals | Yes",
               "target": 60,
-              "filled": 7,
-              "needed": 53,
-              "fill_pct": 11.7,
+              "filled": 10,
+              "needed": 50,
+              "fill_pct": 16.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 53,
-              "open_to_max": 53
+              "needed_to_min": 50,
+              "open_to_max": 50
             },
             {
               "label": "Loyals | Yes",
@@ -911,28 +911,28 @@
             {
               "label": "Occasionals | No",
               "target": 225,
-              "filled": 23,
-              "needed": 202,
-              "fill_pct": 10.2,
+              "filled": 26,
+              "needed": 199,
+              "fill_pct": 11.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 202,
-              "open_to_max": 202
+              "needed_to_min": 199,
+              "open_to_max": 199
             },
             {
               "label": "Occasionals | No",
               "target": 120,
-              "filled": 25,
-              "needed": 95,
-              "fill_pct": 20.8,
+              "filled": 27,
+              "needed": 93,
+              "fill_pct": 22.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 95,
-              "open_to_max": 95
+              "needed_to_min": 93,
+              "open_to_max": 93
             },
             {
               "label": "Occasionals | Yes",
@@ -963,28 +963,28 @@
             {
               "label": "Infrequents | No",
               "target": 135,
-              "filled": 8,
-              "needed": 127,
-              "fill_pct": 5.9,
+              "filled": 11,
+              "needed": 124,
+              "fill_pct": 8.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 127,
-              "open_to_max": 127
+              "needed_to_min": 124,
+              "open_to_max": 124
             },
             {
               "label": "Infrequents | No",
               "target": 75,
-              "filled": 4,
-              "needed": 71,
-              "fill_pct": 5.3,
+              "filled": 5,
+              "needed": 70,
+              "fill_pct": 6.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 71,
-              "open_to_max": 71
+              "needed_to_min": 70,
+              "open_to_max": 70
             },
             {
               "label": "Infrequents | Yes",
@@ -1041,15 +1041,15 @@
             {
               "label": "P3M Lapsed | Yes",
               "target": 60,
-              "filled": 5,
-              "needed": 55,
-              "fill_pct": 8.3,
+              "filled": 6,
+              "needed": 54,
+              "fill_pct": 10.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 55,
-              "open_to_max": 55
+              "needed_to_min": 54,
+              "open_to_max": 54
             },
             {
               "label": "P3M Lapsed | Yes",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T16:41:26",
-  "mission_count": 13,
+  "last_updated": "2026-11-04T17:03:28",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 857,
-      "fill_pct": 85.7,
+      "filled": 859,
+      "fill_pct": 85.9,
       "ir": "11.6",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
@@ -313,8 +313,8 @@
     {
       "ref_name": "MIS-1ec7d",
       "target": 1000,
-      "filled": 916,
-      "fill_pct": 91.6,
+      "filled": 922,
+      "fill_pct": 92.2,
       "ir": "95.6",
       "loi": "13",
       "launch_date": "2026-10-29 15:16:00",
@@ -327,15 +327,15 @@
             {
               "label": "15-24 | Female or Feminine",
               "target": 90,
-              "filled": 47,
-              "needed": 43,
-              "fill_pct": 52.2,
+              "filled": 51,
+              "needed": 39,
+              "fill_pct": 56.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 43,
-              "open_to_max": 43
+              "needed_to_min": 39,
+              "open_to_max": 39
             },
             {
               "label": "15-24 | Male or Masculine",
@@ -353,9 +353,9 @@
             {
               "label": "25-34 | Female or Feminine",
               "target": 90,
-              "filled": 92,
+              "filled": 93,
               "needed": 0,
-              "fill_pct": 102.2,
+              "fill_pct": 103.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -366,15 +366,15 @@
             {
               "label": "25-34 | Male or Masculine",
               "target": 95,
-              "filled": 94,
-              "needed": 1,
-              "fill_pct": 98.9,
+              "filled": 95,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "35-54 | Female or Feminine",
@@ -510,13 +510,13 @@
     {
       "ref_name": "MIS-67d95",
       "target": 1000,
-      "filled": 798,
-      "fill_pct": 79.8,
-      "ir": "64.1",
+      "filled": 816,
+      "fill_pct": 81.6,
+      "ir": "64",
       "loi": "7",
       "launch_date": "2026-11-03 19:51:00",
       "oof": "11/17/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Gender",
@@ -524,15 +524,15 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 494,
-              "needed": 206,
-              "fill_pct": 70.6,
+              "filled": 512,
+              "needed": 188,
+              "fill_pct": 73.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 206,
-              "open_to_max": 206
+              "needed_to_min": 188,
+              "open_to_max": 188
             },
             {
               "label": "Male",
@@ -712,9 +712,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 708,
-      "fill_pct": 70.8,
-      "ir": "32.1",
+      "filled": 748,
+      "fill_pct": 74.8,
+      "ir": "32.4",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -1221,6 +1221,30 @@
       "loi": "8",
       "launch_date": "2026-11-03 21:39:00",
       "oof": "11/17/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-30cec",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-04 19:01:00",
+      "oof": "11/18/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-43716",
+      "target": 300,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-11-04 20:27:00",
+      "oof": "11/18/2026",
       "status": "behind",
       "quotas": []
     }

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T09:18:20",
+  "last_updated": "2026-11-04T09:40:25",
   "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 846,
-      "fill_pct": 84.6,
+      "filled": 847,
+      "fill_pct": 84.7,
       "ir": "11.6",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
@@ -139,9 +139,9 @@
     {
       "ref_name": "MIS-87367",
       "target": 1000,
-      "filled": 1103,
-      "fill_pct": 110.3,
-      "ir": "74.8",
+      "filled": 1122,
+      "fill_pct": 112.2,
+      "ir": "73.9",
       "loi": "16",
       "launch_date": "2026-11-02 22:17:00",
       "oof": "12/2/2026",
@@ -166,15 +166,15 @@
             {
               "label": "Burger King",
               "target": 50,
-              "filled": 59,
+              "filled": 60,
               "needed": 0,
-              "fill_pct": 118.0,
+              "fill_pct": 120.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 40,
               "max_target": 60,
               "needed_to_min": 0,
-              "open_to_max": 1
+              "open_to_max": 0
             },
             {
               "label": "McDonald\u2019s",
@@ -192,18 +192,44 @@
             {
               "label": "Del Taco",
               "target": 50,
-              "filled": 21,
-              "needed": 29,
-              "fill_pct": 42.0,
+              "filled": 24,
+              "needed": 26,
+              "fill_pct": 48.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 40,
               "max_target": 60,
-              "needed_to_min": 19,
-              "open_to_max": 39
+              "needed_to_min": 16,
+              "open_to_max": 36
             },
             {
               "label": "Jack in the Box",
+              "target": 50,
+              "filled": 39,
+              "needed": 11,
+              "fill_pct": 78.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 1,
+              "open_to_max": 21
+            },
+            {
+              "label": "7Brew",
+              "target": 70,
+              "filled": 42,
+              "needed": 28,
+              "fill_pct": 60.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 60,
+              "max_target": 80,
+              "needed_to_min": 18,
+              "open_to_max": 38
+            },
+            {
+              "label": "Dutch Bros",
               "target": 50,
               "filled": 35,
               "needed": 15,
@@ -216,37 +242,11 @@
               "open_to_max": 25
             },
             {
-              "label": "7Brew",
-              "target": 70,
-              "filled": 39,
-              "needed": 31,
-              "fill_pct": 55.7,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 60,
-              "max_target": 80,
-              "needed_to_min": 21,
-              "open_to_max": 41
-            },
-            {
-              "label": "Dutch Bros",
-              "target": 50,
-              "filled": 34,
-              "needed": 16,
-              "fill_pct": 68.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 6,
-              "open_to_max": 26
-            },
-            {
               "label": "Starbucks",
               "target": 70,
-              "filled": 83,
+              "filled": 84,
               "needed": 0,
-              "fill_pct": 118.6,
+              "fill_pct": 120.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 60,
@@ -257,28 +257,28 @@
             {
               "label": "El Pollo Loco",
               "target": 50,
-              "filled": 21,
-              "needed": 29,
-              "fill_pct": 42.0,
+              "filled": 22,
+              "needed": 28,
+              "fill_pct": 44.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 40,
               "max_target": 60,
-              "needed_to_min": 19,
-              "open_to_max": 39
+              "needed_to_min": 18,
+              "open_to_max": 38
             },
             {
               "label": "Dunkin ",
               "target": 50,
-              "filled": 59,
+              "filled": 63,
               "needed": 0,
-              "fill_pct": 118.0,
+              "fill_pct": 126.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 40,
               "max_target": 60,
               "needed_to_min": 0,
-              "open_to_max": 1
+              "open_to_max": 0
             },
             {
               "label": "Other",
@@ -554,9 +554,9 @@
     {
       "ref_name": "MIS-fb34f",
       "target": 100,
-      "filled": 94,
-      "fill_pct": 94.0,
-      "ir": "11.6",
+      "filled": 98,
+      "fill_pct": 98.0,
+      "ir": "11.7",
       "loi": "8.5",
       "launch_date": "2026-10-30 14:39:00",
       "oof": "11/13/2026",
@@ -724,9 +724,9 @@
     {
       "ref_name": "MIS-686c9",
       "target": 1000,
-      "filled": 381,
-      "fill_pct": 38.1,
-      "ir": "28.9",
+      "filled": 398,
+      "fill_pct": 39.8,
+      "ir": "28.2",
       "loi": "2",
       "launch_date": "2026-11-02 2:13:00",
       "oof": "11/16/2026",
@@ -760,13 +760,13 @@
     {
       "ref_name": "MIS-7449f",
       "target": 1000,
-      "filled": 469,
-      "fill_pct": 46.9,
-      "ir": "50",
+      "filled": 682,
+      "fill_pct": 68.2,
+      "ir": "51.5",
       "loi": "2.5",
       "launch_date": "2026-11-03 20:29:00",
       "oof": "11/17/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Age",
@@ -774,41 +774,41 @@
             {
               "label": "20 - 29",
               "target": 290,
-              "filled": 109,
-              "needed": 181,
-              "fill_pct": 37.6,
+              "filled": 151,
+              "needed": 139,
+              "fill_pct": 52.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 181,
-              "open_to_max": 181
+              "needed_to_min": 139,
+              "open_to_max": 139
             },
             {
               "label": "30 - 44",
               "target": 440,
-              "filled": 221,
-              "needed": 219,
-              "fill_pct": 50.2,
+              "filled": 323,
+              "needed": 117,
+              "fill_pct": 73.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 219,
-              "open_to_max": 219
+              "needed_to_min": 117,
+              "open_to_max": 117
             },
             {
               "label": "45 - 55",
               "target": 270,
-              "filled": 137,
-              "needed": 133,
-              "fill_pct": 50.7,
+              "filled": 211,
+              "needed": 59,
+              "fill_pct": 78.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 133,
-              "open_to_max": 133
+              "needed_to_min": 59,
+              "open_to_max": 59
             }
           ]
         }

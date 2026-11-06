@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T14:50:38",
+  "last_updated": "2026-11-06T15:12:28",
   "mission_count": 14,
   "missions": [
     {
@@ -866,21 +866,21 @@
     {
       "ref_name": "MIS-43716",
       "target": 300,
-      "filled": 136,
-      "fill_pct": 45.3,
-      "ir": "22.1",
+      "filled": 258,
+      "fill_pct": 86.0,
+      "ir": "21.9",
       "loi": "4",
       "launch_date": "2026-11-04 20:27:00",
       "oof": "11/18/2026",
-      "status": "behind",
+      "status": "on_track",
       "quotas": []
     },
     {
       "ref_name": "MIS-afdf4",
       "target": 600,
-      "filled": 448,
-      "fill_pct": 74.7,
-      "ir": "27.7",
+      "filled": 450,
+      "fill_pct": 75.0,
+      "ir": "27.8",
       "loi": "13.5",
       "launch_date": "2026-11-04 8:22:02",
       "oof": "11/7/2026",
@@ -971,13 +971,13 @@
     {
       "ref_name": "MIS-a0867",
       "target": 400,
-      "filled": 185,
-      "fill_pct": 46.2,
-      "ir": "27.1",
+      "filled": 217,
+      "fill_pct": 54.2,
+      "ir": "23.4",
       "loi": "6",
       "launch_date": "2026-11-06 13:04:00",
       "oof": "11/20/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Do you have children?",
@@ -985,28 +985,28 @@
             {
               "label": "Yes",
               "target": 140,
-              "filled": 128,
-              "needed": 12,
-              "fill_pct": 91.4,
+              "filled": 143,
+              "needed": 0,
+              "fill_pct": 102.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 12,
-              "open_to_max": 12
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "No",
               "target": 260,
-              "filled": 56,
-              "needed": 204,
-              "fill_pct": 21.5,
+              "filled": 73,
+              "needed": 187,
+              "fill_pct": 28.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 204,
-              "open_to_max": 204
+              "needed_to_min": 187,
+              "open_to_max": 187
             }
           ]
         }
@@ -1017,7 +1017,7 @@
       "target": 600,
       "filled": 10,
       "fill_pct": 1.7,
-      "ir": "7.8",
+      "ir": "7.7",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",
       "oof": "11/20/2026",

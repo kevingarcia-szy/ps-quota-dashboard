@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T13:45:00",
-  "mission_count": 15,
+  "last_updated": "2026-11-06T14:06:56",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-83a15",
@@ -367,94 +367,6 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-f4ac2",
-      "target": 300,
-      "filled": 300,
-      "fill_pct": 100.0,
-      "ir": "17.3",
-      "loi": "4.5",
-      "launch_date": "2026-10-31 15:06:00",
-      "oof": "11/14/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Do you have children?",
-          "cells": [
-            {
-              "label": "Yes",
-              "target": 99,
-              "filled": 106,
-              "needed": 0,
-              "fill_pct": 107.1,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "No",
-              "target": 201,
-              "filled": 194,
-              "needed": 7,
-              "fill_pct": 96.5,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-a0867",
-      "target": 400,
-      "filled": 4,
-      "fill_pct": 1.0,
-      "ir": "26.7",
-      "loi": "6",
-      "launch_date": "2026-11-06 13:04:00",
-      "oof": "11/20/2026",
-      "status": "behind",
-      "quotas": [
-        {
-          "group": "Do you have children?",
-          "cells": [
-            {
-              "label": "Yes",
-              "target": 140,
-              "filled": 1,
-              "needed": 139,
-              "fill_pct": 0.7,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 139,
-              "open_to_max": 139
-            },
-            {
-              "label": "No",
-              "target": 260,
-              "filled": 3,
-              "needed": 257,
-              "fill_pct": 1.2,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 257,
-              "open_to_max": 257
             }
           ]
         }
@@ -966,8 +878,8 @@
     {
       "ref_name": "MIS-afdf4",
       "target": 600,
-      "filled": 437,
-      "fill_pct": 72.8,
+      "filled": 441,
+      "fill_pct": 73.5,
       "ir": "27.6",
       "loi": "13.5",
       "launch_date": "2026-11-04 8:22:02",
@@ -1057,11 +969,55 @@
       "quotas": []
     },
     {
+      "ref_name": "MIS-a0867",
+      "target": 400,
+      "filled": 4,
+      "fill_pct": 1.0,
+      "ir": "26.7",
+      "loi": "6",
+      "launch_date": "2026-11-06 13:04:00",
+      "oof": "11/20/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Do you have children?",
+          "cells": [
+            {
+              "label": "Yes",
+              "target": 140,
+              "filled": 1,
+              "needed": 139,
+              "fill_pct": 0.7,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 139,
+              "open_to_max": 139
+            },
+            {
+              "label": "No",
+              "target": 260,
+              "filled": 3,
+              "needed": 257,
+              "fill_pct": 1.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 257,
+              "open_to_max": 257
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-1c3b4",
       "target": 600,
-      "filled": 1,
-      "fill_pct": 0.2,
-      "ir": "100",
+      "filled": 2,
+      "fill_pct": 0.3,
+      "ir": "3.9",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",
       "oof": "11/20/2026",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T20:18:36",
+  "last_updated": "2026-11-05T20:40:34",
   "mission_count": 12,
   "missions": [
     {
@@ -476,8 +476,8 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 887,
-      "fill_pct": 59.1,
+      "filled": 925,
+      "fill_pct": 61.7,
       "ir": "46.8",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
@@ -490,41 +490,41 @@
             {
               "label": "VIP Loyals | No",
               "target": 45,
-              "filled": 8,
-              "needed": 37,
-              "fill_pct": 17.8,
+              "filled": 9,
+              "needed": 36,
+              "fill_pct": 20.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 37,
-              "open_to_max": 37
+              "needed_to_min": 36,
+              "open_to_max": 36
             },
             {
               "label": "VIP Loyals | No",
               "target": 30,
-              "filled": 5,
-              "needed": 25,
-              "fill_pct": 16.7,
+              "filled": 6,
+              "needed": 24,
+              "fill_pct": 20.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
+              "needed_to_min": 24,
+              "open_to_max": 24
             },
             {
               "label": "VIP Loyals | Yes",
               "target": 30,
-              "filled": 8,
-              "needed": 22,
-              "fill_pct": 26.7,
+              "filled": 10,
+              "needed": 20,
+              "fill_pct": 33.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 20,
+              "open_to_max": 20
             },
             {
               "label": "VIP Loyals | Yes",
@@ -542,15 +542,15 @@
             {
               "label": "Loyals | No",
               "target": 60,
-              "filled": 15,
-              "needed": 45,
-              "fill_pct": 25.0,
+              "filled": 20,
+              "needed": 40,
+              "fill_pct": 33.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 45,
-              "open_to_max": 45
+              "needed_to_min": 40,
+              "open_to_max": 40
             },
             {
               "label": "Loyals | No",
@@ -568,41 +568,41 @@
             {
               "label": "Loyals | Yes",
               "target": 60,
-              "filled": 30,
-              "needed": 30,
-              "fill_pct": 50.0,
+              "filled": 33,
+              "needed": 27,
+              "fill_pct": 55.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 30,
-              "open_to_max": 30
+              "needed_to_min": 27,
+              "open_to_max": 27
             },
             {
               "label": "Loyals | Yes",
               "target": 45,
-              "filled": 14,
-              "needed": 31,
-              "fill_pct": 31.1,
+              "filled": 19,
+              "needed": 26,
+              "fill_pct": 42.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 31,
-              "open_to_max": 31
+              "needed_to_min": 26,
+              "open_to_max": 26
             },
             {
               "label": "Occasionals | No",
               "target": 225,
-              "filled": 173,
-              "needed": 52,
-              "fill_pct": 76.9,
+              "filled": 180,
+              "needed": 45,
+              "fill_pct": 80.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 52,
-              "open_to_max": 52
+              "needed_to_min": 45,
+              "open_to_max": 45
             },
             {
               "label": "Occasionals | No",
@@ -620,6 +620,32 @@
             {
               "label": "Occasionals | Yes",
               "target": 135,
+              "filled": 90,
+              "needed": 45,
+              "fill_pct": 66.7,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 45,
+              "open_to_max": 45
+            },
+            {
+              "label": "Occasionals | Yes",
+              "target": 75,
+              "filled": 75,
+              "needed": 0,
+              "fill_pct": 100.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "Infrequents | No",
+              "target": 135,
               "filled": 87,
               "needed": 48,
               "fill_pct": 64.4,
@@ -631,56 +657,30 @@
               "open_to_max": 48
             },
             {
-              "label": "Occasionals | Yes",
-              "target": 75,
-              "filled": 73,
-              "needed": 2,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
-            },
-            {
-              "label": "Infrequents | No",
-              "target": 135,
-              "filled": 85,
-              "needed": 50,
-              "fill_pct": 63.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 50,
-              "open_to_max": 50
-            },
-            {
               "label": "Infrequents | No",
               "target": 75,
-              "filled": 51,
-              "needed": 24,
-              "fill_pct": 68.0,
+              "filled": 53,
+              "needed": 22,
+              "fill_pct": 70.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 24,
-              "open_to_max": 24
+              "needed_to_min": 22,
+              "open_to_max": 22
             },
             {
               "label": "Infrequents | Yes",
               "target": 90,
-              "filled": 39,
-              "needed": 51,
-              "fill_pct": 43.3,
+              "filled": 43,
+              "needed": 47,
+              "fill_pct": 47.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 51,
-              "open_to_max": 51
+              "needed_to_min": 47,
+              "open_to_max": 47
             },
             {
               "label": "Infrequents | Yes",
@@ -698,15 +698,15 @@
             {
               "label": "P3M Lapsed | No",
               "target": 90,
-              "filled": 50,
-              "needed": 40,
-              "fill_pct": 55.6,
+              "filled": 52,
+              "needed": 38,
+              "fill_pct": 57.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 40,
-              "open_to_max": 40
+              "needed_to_min": 38,
+              "open_to_max": 38
             },
             {
               "label": "P3M Lapsed | No",
@@ -724,15 +724,15 @@
             {
               "label": "P3M Lapsed | Yes",
               "target": 60,
-              "filled": 21,
-              "needed": 39,
-              "fill_pct": 35.0,
+              "filled": 22,
+              "needed": 38,
+              "fill_pct": 36.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 39,
-              "open_to_max": 39
+              "needed_to_min": 38,
+              "open_to_max": 38
             },
             {
               "label": "P3M Lapsed | Yes",
@@ -910,9 +910,9 @@
     {
       "ref_name": "MIS-30cec",
       "target": 1000,
-      "filled": 563,
-      "fill_pct": 56.3,
-      "ir": "34.6",
+      "filled": 564,
+      "fill_pct": 56.4,
+      "ir": "34.5",
       "loi": "4.5",
       "launch_date": "2026-11-04 19:01:00",
       "oof": "11/18/2026",
@@ -922,9 +922,9 @@
     {
       "ref_name": "MIS-43716",
       "target": 300,
-      "filled": 123,
-      "fill_pct": 41.0,
-      "ir": "22.6",
+      "filled": 124,
+      "fill_pct": 41.3,
+      "ir": "22.5",
       "loi": "4",
       "launch_date": "2026-11-04 20:27:00",
       "oof": "11/18/2026",
@@ -936,7 +936,7 @@
       "target": 600,
       "filled": 212,
       "fill_pct": 35.3,
-      "ir": "24.1",
+      "ir": "23.8",
       "loi": "13.5",
       "launch_date": "2026-11-04 8:22:02",
       "oof": "11/7/2026",

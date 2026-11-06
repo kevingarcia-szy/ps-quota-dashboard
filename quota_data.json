@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-06T12:39:29",
-  "mission_count": 14,
+  "last_updated": "2026-11-06T13:01:17",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-83a15",
       "target": 1000,
-      "filled": 947,
-      "fill_pct": 94.7,
+      "filled": 949,
+      "fill_pct": 94.9,
       "ir": "11.7",
       "loi": "16",
       "launch_date": "2026-10-28 9:30:21",
@@ -419,9 +419,9 @@
     {
       "ref_name": "MIS-a0867",
       "target": 400,
-      "filled": 2,
-      "fill_pct": 0.5,
-      "ir": "20",
+      "filled": 4,
+      "fill_pct": 1.0,
+      "ir": "28.6",
       "loi": "6",
       "launch_date": "2026-11-06 13:04:00",
       "oof": "11/20/2026",
@@ -433,28 +433,28 @@
             {
               "label": "Yes",
               "target": 140,
-              "filled": 0,
-              "needed": 140,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 139,
+              "fill_pct": 0.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 140,
-              "open_to_max": 140
+              "needed_to_min": 139,
+              "open_to_max": 139
             },
             {
               "label": "No",
               "target": 260,
-              "filled": 2,
-              "needed": 258,
-              "fill_pct": 0.8,
+              "filled": 3,
+              "needed": 257,
+              "fill_pct": 1.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 258,
-              "open_to_max": 258
+              "needed_to_min": 257,
+              "open_to_max": 257
             }
           ]
         }
@@ -966,9 +966,9 @@
     {
       "ref_name": "MIS-afdf4",
       "target": 600,
-      "filled": 388,
-      "fill_pct": 64.7,
-      "ir": "26.2",
+      "filled": 416,
+      "fill_pct": 69.3,
+      "ir": "27",
       "loi": "13.5",
       "launch_date": "2026-11-04 8:22:02",
       "oof": "11/7/2026",
@@ -1052,6 +1052,18 @@
       "ir": "0",
       "loi": "11",
       "launch_date": "2026-11-06 11:35:00",
+      "oof": "11/20/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-1c3b4",
+      "target": 600,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "10",
+      "launch_date": "2026-11-06 13:18:00",
       "oof": "11/20/2026",
       "status": "behind",
       "quotas": []

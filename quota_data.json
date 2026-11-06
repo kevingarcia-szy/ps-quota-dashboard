@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T08:40:19",
-  "mission_count": 13,
+  "last_updated": "2026-11-06T09:02:08",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-83a15",
@@ -411,6 +411,50 @@
               "max_target": 0,
               "needed_to_min": 7,
               "open_to_max": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-a0867",
+      "target": 400,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "6",
+      "launch_date": "2026-11-06 13:04:00",
+      "oof": "11/20/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Do you have children?",
+          "cells": [
+            {
+              "label": "Yes",
+              "target": 140,
+              "filled": 0,
+              "needed": 140,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 140,
+              "open_to_max": 140
+            },
+            {
+              "label": "No",
+              "target": 260,
+              "filled": 0,
+              "needed": 260,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 260,
+              "open_to_max": 260
             }
           ]
         }
@@ -910,9 +954,9 @@
     {
       "ref_name": "MIS-30cec",
       "target": 1000,
-      "filled": 868,
-      "fill_pct": 86.8,
-      "ir": "33.1",
+      "filled": 872,
+      "fill_pct": 87.2,
+      "ir": "32.9",
       "loi": "4.5",
       "launch_date": "2026-11-04 19:01:00",
       "oof": "11/18/2026",
@@ -1009,6 +1053,18 @@
       "loi": "8",
       "launch_date": "2026-11-05 22:17:00",
       "oof": "11/10/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-8c9b6",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "11",
+      "launch_date": "2026-11-06 11:35:00",
+      "oof": "11/20/2026",
       "status": "behind",
       "quotas": []
     }

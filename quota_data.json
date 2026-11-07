@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T20:38:34",
-  "mission_count": 12,
+  "last_updated": "2026-11-06T21:00:24",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-83a15",
@@ -310,8 +310,8 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1159,
-      "fill_pct": 77.3,
+      "filled": 1161,
+      "fill_pct": 77.4,
       "ir": "43",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
@@ -402,15 +402,15 @@
             {
               "label": "Loyals | Yes",
               "target": 60,
-              "filled": 39,
-              "needed": 21,
-              "fill_pct": 65.0,
+              "filled": 40,
+              "needed": 20,
+              "fill_pct": 66.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 21,
-              "open_to_max": 21
+              "needed_to_min": 20,
+              "open_to_max": 20
             },
             {
               "label": "Loyals | Yes",
@@ -480,15 +480,15 @@
             {
               "label": "Infrequents | No",
               "target": 135,
-              "filled": 110,
-              "needed": 25,
-              "fill_pct": 81.5,
+              "filled": 111,
+              "needed": 24,
+              "fill_pct": 82.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
+              "needed_to_min": 24,
+              "open_to_max": 24
             },
             {
               "label": "Infrequents | No",
@@ -506,15 +506,15 @@
             {
               "label": "Infrequents | Yes",
               "target": 90,
-              "filled": 54,
-              "needed": 36,
-              "fill_pct": 60.0,
+              "filled": 55,
+              "needed": 35,
+              "fill_pct": 61.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 36,
-              "open_to_max": 36
+              "needed_to_min": 35,
+              "open_to_max": 35
             },
             {
               "label": "Infrequents | Yes",
@@ -812,11 +812,81 @@
       ]
     },
     {
+      "ref_name": "MIS-d97bc",
+      "target": 1500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "9",
+      "launch_date": "2026-11-06 21:12:00",
+      "oof": "11/20/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Segment Groups Single Question",
+          "cells": [
+            {
+              "label": "Loyals",
+              "target": 495,
+              "filled": 0,
+              "needed": 495,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 495,
+              "open_to_max": 495
+            },
+            {
+              "label": "Occasionals",
+              "target": 510,
+              "filled": 0,
+              "needed": 510,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 510,
+              "open_to_max": 510
+            },
+            {
+              "label": "Infrequents",
+              "target": 495,
+              "filled": 0,
+              "needed": 495,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 495,
+              "open_to_max": 495
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-afdf4",
       "target": 600,
       "filled": 512,
       "fill_pct": 85.3,
-      "ir": "27.7",
+      "ir": "27.6",
       "loi": "13.5",
       "launch_date": "2026-11-04 8:22:02",
       "oof": "11/7/2026",
@@ -862,6 +932,63 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-222af",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-07 0:42:00",
+      "oof": "11/21/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
             },
             {
               "label": "None of the above",
@@ -939,11 +1066,23 @@
     {
       "ref_name": "MIS-1c3b4",
       "target": 600,
-      "filled": 266,
-      "fill_pct": 44.3,
+      "filled": 272,
+      "fill_pct": 45.3,
       "ir": "15.4",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",
+      "oof": "11/20/2026",
+      "status": "behind",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-95768",
+      "target": 300,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4",
+      "launch_date": "2026-11-06 21:16:00",
       "oof": "11/20/2026",
       "status": "behind",
       "quotas": []

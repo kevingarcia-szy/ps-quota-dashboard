@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T15:34:22",
+  "last_updated": "2026-11-07T15:56:04",
   "mission_count": 14,
   "missions": [
     {
@@ -310,8 +310,8 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1190,
-      "fill_pct": 79.3,
+      "filled": 1193,
+      "fill_pct": 79.5,
       "ir": "42.2",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
@@ -493,15 +493,15 @@
             {
               "label": "Infrequents | No",
               "target": 75,
-              "filled": 72,
-              "needed": 3,
-              "fill_pct": 96.0,
+              "filled": 75,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Infrequents | Yes",
@@ -746,7 +746,7 @@
       "target": 1500,
       "filled": 3,
       "fill_pct": 0.2,
-      "ir": "21.4",
+      "ir": "20",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -814,9 +814,9 @@
     {
       "ref_name": "MIS-d97bc",
       "target": 1500,
-      "filled": 2,
-      "fill_pct": 0.1,
-      "ir": "66.7",
+      "filled": 4,
+      "fill_pct": 0.3,
+      "ir": "50",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
@@ -828,28 +828,28 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 1,
-              "needed": 494,
-              "fill_pct": 0.2,
+              "filled": 2,
+              "needed": 493,
+              "fill_pct": 0.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 494,
-              "open_to_max": 494
+              "needed_to_min": 493,
+              "open_to_max": 493
             },
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 1,
-              "needed": 509,
-              "fill_pct": 0.2,
+              "filled": 2,
+              "needed": 508,
+              "fill_pct": 0.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 509,
-              "open_to_max": 509
+              "needed_to_min": 508,
+              "open_to_max": 508
             },
             {
               "label": "Infrequents",
@@ -941,9 +941,9 @@
     {
       "ref_name": "MIS-222af",
       "target": 1000,
-      "filled": 39,
-      "fill_pct": 3.9,
-      "ir": "11.6",
+      "filled": 267,
+      "fill_pct": 26.7,
+      "ir": "22.3",
       "loi": "4.5",
       "launch_date": "2026-11-07 0:42:00",
       "oof": "11/21/2026",
@@ -955,15 +955,15 @@
             {
               "label": "Turtles Purchasers",
               "target": 300,
-              "filled": 39,
-              "needed": 261,
-              "fill_pct": 13.0,
+              "filled": 292,
+              "needed": 8,
+              "fill_pct": 97.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 261,
-              "open_to_max": 261
+              "needed_to_min": 8,
+              "open_to_max": 8
             },
             {
               "label": "Chocolate Purchasers",
@@ -1054,8 +1054,8 @@
     {
       "ref_name": "MIS-1c3b4",
       "target": 600,
-      "filled": 427,
-      "fill_pct": 71.2,
+      "filled": 430,
+      "fill_pct": 71.7,
       "ir": "17.3",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",
@@ -1066,13 +1066,13 @@
     {
       "ref_name": "MIS-95768",
       "target": 300,
-      "filled": 30,
-      "fill_pct": 10.0,
-      "ir": "12.7",
+      "filled": 169,
+      "fill_pct": 56.3,
+      "ir": "17.8",
       "loi": "4",
       "launch_date": "2026-11-06 21:16:00",
       "oof": "11/20/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     }
   ]

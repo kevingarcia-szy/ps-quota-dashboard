@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T09:46:11",
-  "mission_count": 12,
+  "last_updated": "2026-11-08T10:07:50",
+  "mission_count": 13,
   "missions": [
     {
       "ref_name": "MIS-a2b18",
@@ -296,11 +296,68 @@
       ]
     },
     {
+      "ref_name": "MIS-b0f36",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "1",
+      "launch_date": "2026-11-08 13:36:00",
+      "oof": "11/22/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "20 - 29",
+              "target": 290,
+              "filled": 0,
+              "needed": 290,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 290,
+              "open_to_max": 290
+            },
+            {
+              "label": "30 - 44",
+              "target": 440,
+              "filled": 0,
+              "needed": 440,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 440,
+              "open_to_max": 440
+            },
+            {
+              "label": "45 - 55",
+              "target": 270,
+              "filled": 0,
+              "needed": 270,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 270,
+              "open_to_max": 270
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1312,
-      "fill_pct": 87.5,
-      "ir": "39.8",
+      "filled": 1321,
+      "fill_pct": 88.1,
+      "ir": "39.5",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
       "oof": "11/17/2026",
@@ -364,15 +421,15 @@
             {
               "label": "Loyals | No",
               "target": 60,
-              "filled": 45,
-              "needed": 15,
-              "fill_pct": 75.0,
+              "filled": 46,
+              "needed": 14,
+              "fill_pct": 76.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 15,
-              "open_to_max": 15
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "Loyals | No",
@@ -390,28 +447,28 @@
             {
               "label": "Loyals | Yes",
               "target": 60,
-              "filled": 49,
-              "needed": 11,
-              "fill_pct": 81.7,
+              "filled": 52,
+              "needed": 8,
+              "fill_pct": 86.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 11,
-              "open_to_max": 11
+              "needed_to_min": 8,
+              "open_to_max": 8
             },
             {
               "label": "Loyals | Yes",
               "target": 45,
-              "filled": 42,
-              "needed": 3,
-              "fill_pct": 93.3,
+              "filled": 43,
+              "needed": 2,
+              "fill_pct": 95.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 2,
+              "open_to_max": 2
             },
             {
               "label": "Occasionals | No",
@@ -468,15 +525,15 @@
             {
               "label": "Infrequents | No",
               "target": 135,
-              "filled": 133,
-              "needed": 2,
-              "fill_pct": 98.5,
+              "filled": 135,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Infrequents | No",
@@ -494,15 +551,15 @@
             {
               "label": "Infrequents | Yes",
               "target": 90,
-              "filled": 63,
-              "needed": 27,
-              "fill_pct": 70.0,
+              "filled": 64,
+              "needed": 26,
+              "fill_pct": 71.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 27,
-              "open_to_max": 27
+              "needed_to_min": 26,
+              "open_to_max": 26
             },
             {
               "label": "Infrequents | Yes",
@@ -533,15 +590,15 @@
             {
               "label": "P3M Lapsed | No",
               "target": 60,
-              "filled": 57,
-              "needed": 3,
-              "fill_pct": 95.0,
+              "filled": 58,
+              "needed": 2,
+              "fill_pct": 96.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 3,
-              "open_to_max": 3
+              "needed_to_min": 2,
+              "open_to_max": 2
             },
             {
               "label": "P3M Lapsed | Yes",
@@ -732,9 +789,9 @@
     {
       "ref_name": "MIS-6e8de",
       "target": 1500,
-      "filled": 15,
-      "fill_pct": 1.0,
-      "ir": "20.5",
+      "filled": 16,
+      "fill_pct": 1.1,
+      "ir": "21.6",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -759,15 +816,15 @@
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 8,
-              "needed": 502,
-              "fill_pct": 1.6,
+              "filled": 9,
+              "needed": 501,
+              "fill_pct": 1.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 502,
-              "open_to_max": 502
+              "needed_to_min": 501,
+              "open_to_max": 501
             },
             {
               "label": "Infrequents",
@@ -802,9 +859,9 @@
     {
       "ref_name": "MIS-d97bc",
       "target": 1500,
-      "filled": 121,
-      "fill_pct": 8.1,
-      "ir": "48",
+      "filled": 458,
+      "fill_pct": 30.5,
+      "ir": "64.9",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
@@ -816,41 +873,41 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 60,
-              "needed": 435,
-              "fill_pct": 12.1,
+              "filled": 159,
+              "needed": 336,
+              "fill_pct": 32.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 435,
-              "open_to_max": 435
+              "needed_to_min": 336,
+              "open_to_max": 336
             },
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 70,
-              "needed": 440,
-              "fill_pct": 13.7,
+              "filled": 281,
+              "needed": 229,
+              "fill_pct": 55.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 440,
-              "open_to_max": 440
+              "needed_to_min": 229,
+              "open_to_max": 229
             },
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 1,
-              "needed": 494,
-              "fill_pct": 0.2,
+              "filled": 18,
+              "needed": 477,
+              "fill_pct": 3.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 494,
-              "open_to_max": 494
+              "needed_to_min": 477,
+              "open_to_max": 477
             },
             {
               "label": "None of the above",
@@ -986,9 +1043,9 @@
     {
       "ref_name": "MIS-8c9b6",
       "target": 500,
-      "filled": 129,
-      "fill_pct": 25.8,
-      "ir": "8.6",
+      "filled": 165,
+      "fill_pct": 33.0,
+      "ir": "9",
       "loi": "11",
       "launch_date": "2026-11-06 11:35:00",
       "oof": "11/20/2026",
@@ -1042,8 +1099,8 @@
     {
       "ref_name": "MIS-1c3b4",
       "target": 600,
-      "filled": 557,
-      "fill_pct": 92.8,
+      "filled": 559,
+      "fill_pct": 93.2,
       "ir": "17.9",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",

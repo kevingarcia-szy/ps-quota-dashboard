@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T11:34:25",
+  "last_updated": "2026-11-08T11:55:55",
   "mission_count": 13,
   "missions": [
     {
@@ -298,13 +298,13 @@
     {
       "ref_name": "MIS-b0f36",
       "target": 1000,
-      "filled": 352,
-      "fill_pct": 35.2,
-      "ir": "46.9",
+      "filled": 804,
+      "fill_pct": 80.4,
+      "ir": "51.2",
       "loi": "1",
       "launch_date": "2026-11-08 13:36:00",
       "oof": "11/22/2026",
-      "status": "behind",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Age",
@@ -312,41 +312,41 @@
             {
               "label": "20 - 29",
               "target": 290,
-              "filled": 99,
-              "needed": 191,
-              "fill_pct": 34.1,
+              "filled": 200,
+              "needed": 90,
+              "fill_pct": 69.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 191,
-              "open_to_max": 191
+              "needed_to_min": 90,
+              "open_to_max": 90
             },
             {
               "label": "30 - 44",
               "target": 440,
-              "filled": 173,
-              "needed": 267,
-              "fill_pct": 39.3,
+              "filled": 365,
+              "needed": 75,
+              "fill_pct": 83.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 267,
-              "open_to_max": 267
+              "needed_to_min": 75,
+              "open_to_max": 75
             },
             {
               "label": "45 - 55",
               "target": 270,
-              "filled": 113,
-              "needed": 157,
-              "fill_pct": 41.9,
+              "filled": 239,
+              "needed": 31,
+              "fill_pct": 88.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 157,
-              "open_to_max": 157
+              "needed_to_min": 31,
+              "open_to_max": 31
             }
           ]
         }
@@ -789,9 +789,9 @@
     {
       "ref_name": "MIS-6e8de",
       "target": 1500,
-      "filled": 16,
-      "fill_pct": 1.1,
-      "ir": "20.5",
+      "filled": 22,
+      "fill_pct": 1.5,
+      "ir": "25.9",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -803,28 +803,28 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 5,
-              "needed": 490,
-              "fill_pct": 1.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 490,
-              "open_to_max": 490
-            },
-            {
-              "label": "Occasionals",
-              "target": 510,
               "filled": 9,
-              "needed": 501,
+              "needed": 486,
               "fill_pct": 1.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 501,
-              "open_to_max": 501
+              "needed_to_min": 486,
+              "open_to_max": 486
+            },
+            {
+              "label": "Occasionals",
+              "target": 510,
+              "filled": 11,
+              "needed": 499,
+              "fill_pct": 2.2,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 499,
+              "open_to_max": 499
             },
             {
               "label": "Infrequents",
@@ -859,9 +859,9 @@
     {
       "ref_name": "MIS-d97bc",
       "target": 1500,
-      "filled": 1174,
-      "fill_pct": 78.3,
-      "ir": "48",
+      "filled": 1193,
+      "fill_pct": 79.5,
+      "ir": "45.3",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
@@ -873,9 +873,9 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 506,
+              "filled": 512,
               "needed": 0,
-              "fill_pct": 102.2,
+              "fill_pct": 103.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -886,9 +886,9 @@
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 568,
+              "filled": 569,
               "needed": 0,
-              "fill_pct": 111.4,
+              "fill_pct": 111.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -899,15 +899,15 @@
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 100,
-              "needed": 395,
-              "fill_pct": 20.2,
+              "filled": 114,
+              "needed": 381,
+              "fill_pct": 23.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 395,
-              "open_to_max": 395
+              "needed_to_min": 381,
+              "open_to_max": 381
             },
             {
               "label": "None of the above",
@@ -988,7 +988,7 @@
       "target": 1000,
       "filled": 311,
       "fill_pct": 31.1,
-      "ir": "14.3",
+      "ir": "13.7",
       "loi": "4.5",
       "launch_date": "2026-11-07 0:42:00",
       "oof": "11/21/2026",
@@ -1043,8 +1043,8 @@
     {
       "ref_name": "MIS-8c9b6",
       "target": 500,
-      "filled": 282,
-      "fill_pct": 56.4,
+      "filled": 283,
+      "fill_pct": 56.6,
       "ir": "12.2",
       "loi": "11",
       "launch_date": "2026-11-06 11:35:00",
@@ -1099,8 +1099,8 @@
     {
       "ref_name": "MIS-1c3b4",
       "target": 600,
-      "filled": 563,
-      "fill_pct": 93.8,
+      "filled": 564,
+      "fill_pct": 94.0,
       "ir": "17.8",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T00:13:50",
+  "last_updated": "2026-11-08T00:35:24",
   "mission_count": 12,
   "missions": [
     {
@@ -298,8 +298,8 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1245,
-      "fill_pct": 83.0,
+      "filled": 1247,
+      "fill_pct": 83.1,
       "ir": "41",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
@@ -520,28 +520,28 @@
             {
               "label": "P3M Lapsed | No",
               "target": 90,
-              "filled": 81,
-              "needed": 9,
+              "filled": 82,
+              "needed": 8,
+              "fill_pct": 91.1,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 8,
+              "open_to_max": 8
+            },
+            {
+              "label": "P3M Lapsed | No",
+              "target": 60,
+              "filled": 54,
+              "needed": 6,
               "fill_pct": 90.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 9,
-              "open_to_max": 9
-            },
-            {
-              "label": "P3M Lapsed | No",
-              "target": 60,
-              "filled": 53,
-              "needed": 7,
-              "fill_pct": 88.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 7,
-              "open_to_max": 7
+              "needed_to_min": 6,
+              "open_to_max": 6
             },
             {
               "label": "P3M Lapsed | Yes",
@@ -732,9 +732,9 @@
     {
       "ref_name": "MIS-6e8de",
       "target": 1500,
-      "filled": 9,
-      "fill_pct": 0.6,
-      "ir": "21.4",
+      "filled": 10,
+      "fill_pct": 0.7,
+      "ir": "20.4",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -759,15 +759,15 @@
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 5,
-              "needed": 505,
-              "fill_pct": 1.0,
+              "filled": 6,
+              "needed": 504,
+              "fill_pct": 1.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 505,
-              "open_to_max": 505
+              "needed_to_min": 504,
+              "open_to_max": 504
             },
             {
               "label": "Infrequents",

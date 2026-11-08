@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T10:29:31",
+  "last_updated": "2026-11-08T10:51:06",
   "mission_count": 13,
   "missions": [
     {
@@ -298,9 +298,9 @@
     {
       "ref_name": "MIS-b0f36",
       "target": 1000,
-      "filled": 12,
-      "fill_pct": 1.2,
-      "ir": "30.8",
+      "filled": 89,
+      "fill_pct": 8.9,
+      "ir": "38.4",
       "loi": "1",
       "launch_date": "2026-11-08 13:36:00",
       "oof": "11/22/2026",
@@ -312,41 +312,41 @@
             {
               "label": "20 - 29",
               "target": 290,
-              "filled": 2,
-              "needed": 288,
-              "fill_pct": 0.7,
+              "filled": 21,
+              "needed": 269,
+              "fill_pct": 7.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 288,
-              "open_to_max": 288
+              "needed_to_min": 269,
+              "open_to_max": 269
             },
             {
               "label": "30 - 44",
               "target": 440,
-              "filled": 7,
-              "needed": 433,
-              "fill_pct": 1.6,
+              "filled": 43,
+              "needed": 397,
+              "fill_pct": 9.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 433,
-              "open_to_max": 433
+              "needed_to_min": 397,
+              "open_to_max": 397
             },
             {
               "label": "45 - 55",
               "target": 270,
-              "filled": 3,
-              "needed": 267,
-              "fill_pct": 1.1,
+              "filled": 25,
+              "needed": 245,
+              "fill_pct": 9.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 267,
-              "open_to_max": 267
+              "needed_to_min": 245,
+              "open_to_max": 245
             }
           ]
         }
@@ -355,8 +355,8 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1326,
-      "fill_pct": 88.4,
+      "filled": 1327,
+      "fill_pct": 88.5,
       "ir": "39.5",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
@@ -434,15 +434,15 @@
             {
               "label": "Loyals | No",
               "target": 45,
-              "filled": 29,
-              "needed": 16,
-              "fill_pct": 64.4,
+              "filled": 30,
+              "needed": 15,
+              "fill_pct": 66.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 16,
-              "open_to_max": 16
+              "needed_to_min": 15,
+              "open_to_max": 15
             },
             {
               "label": "Loyals | Yes",
@@ -791,7 +791,7 @@
       "target": 1500,
       "filled": 16,
       "fill_pct": 1.1,
-      "ir": "21.6",
+      "ir": "21.3",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -859,13 +859,13 @@
     {
       "ref_name": "MIS-d97bc",
       "target": 1500,
-      "filled": 575,
-      "fill_pct": 38.3,
-      "ir": "65.3",
+      "filled": 892,
+      "fill_pct": 59.5,
+      "ir": "58.9",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": [
         {
           "group": "Segment Groups Single Question",
@@ -873,41 +873,41 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 194,
-              "needed": 301,
-              "fill_pct": 39.2,
+              "filled": 309,
+              "needed": 186,
+              "fill_pct": 62.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 301,
-              "open_to_max": 301
+              "needed_to_min": 186,
+              "open_to_max": 186
             },
             {
               "label": "Occasionals",
               "target": 510,
-              "filled": 364,
-              "needed": 146,
-              "fill_pct": 71.4,
+              "filled": 554,
+              "needed": 0,
+              "fill_pct": 108.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 146,
-              "open_to_max": 146
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 25,
-              "needed": 470,
-              "fill_pct": 5.1,
+              "filled": 52,
+              "needed": 443,
+              "fill_pct": 10.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 470,
-              "open_to_max": 470
+              "needed_to_min": 443,
+              "open_to_max": 443
             },
             {
               "label": "None of the above",
@@ -988,7 +988,7 @@
       "target": 1000,
       "filled": 311,
       "fill_pct": 31.1,
-      "ir": "14.9",
+      "ir": "14.3",
       "loi": "4.5",
       "launch_date": "2026-11-07 0:42:00",
       "oof": "11/21/2026",
@@ -1043,13 +1043,13 @@
     {
       "ref_name": "MIS-8c9b6",
       "target": 500,
-      "filled": 247,
-      "fill_pct": 49.4,
-      "ir": "11.3",
+      "filled": 273,
+      "fill_pct": 54.6,
+      "ir": "12",
       "loi": "11",
       "launch_date": "2026-11-06 11:35:00",
       "oof": "11/20/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
@@ -1101,7 +1101,7 @@
       "target": 600,
       "filled": 561,
       "fill_pct": 93.5,
-      "ir": "17.9",
+      "ir": "17.8",
       "loi": "10",
       "launch_date": "2026-11-06 13:18:00",
       "oof": "11/20/2026",

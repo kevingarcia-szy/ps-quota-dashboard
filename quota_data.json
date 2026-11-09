@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T11:15:41",
-  "mission_count": 11,
+  "last_updated": "2026-11-09T11:37:05",
+  "mission_count": 10,
   "missions": [
     {
       "ref_name": "MIS-a2b18",
@@ -994,50 +994,6 @@
       "oof": "11/20/2026",
       "status": "on_track",
       "quotas": []
-    },
-    {
-      "ref_name": "MIS-a0867",
-      "target": 400,
-      "filled": 333,
-      "fill_pct": 83.2,
-      "ir": "13.4",
-      "loi": "6",
-      "launch_date": "2026-11-06 13:04:00",
-      "oof": "11/20/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Do you have children?",
-          "cells": [
-            {
-              "label": "Yes",
-              "target": 140,
-              "filled": 129,
-              "needed": 11,
-              "fill_pct": 92.1,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 11,
-              "open_to_max": 11
-            },
-            {
-              "label": "No",
-              "target": 260,
-              "filled": 203,
-              "needed": 57,
-              "fill_pct": 78.1,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 57,
-              "open_to_max": 57
-            }
-          ]
-        }
-      ]
     }
   ]
 }

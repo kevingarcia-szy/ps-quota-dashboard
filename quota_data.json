@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T15:08:41",
-  "mission_count": 13,
+  "last_updated": "2026-11-10T15:30:38",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-a2b18",
@@ -1020,7 +1020,7 @@
       "target": 1000,
       "filled": 593,
       "fill_pct": 59.3,
-      "ir": "86.8",
+      "ir": "86.7",
       "loi": "3",
       "launch_date": "2026-11-09 21:58:00",
       "oof": "11/23/2026",
@@ -1160,6 +1160,63 @@
       "oof": "11/23/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "MIS-ebe1d",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-10 17:48:00",
+      "oof": "11/24/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

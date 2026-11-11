@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T04:18:53",
+  "last_updated": "2026-11-11T04:40:38",
   "mission_count": 11,
   "missions": [
     {
@@ -745,13 +745,13 @@
     {
       "ref_name": "MIS-d97bc",
       "target": 1500,
-      "filled": 1198,
-      "fill_pct": 79.9,
-      "ir": "28.3",
+      "filled": 1200,
+      "fill_pct": 80.0,
+      "ir": "28.2",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
-      "status": "watch",
+      "status": "on_track",
       "quotas": [
         {
           "group": "Segment Groups Single Question",
@@ -759,15 +759,15 @@
             {
               "label": "Loyals",
               "target": 495,
-              "filled": 494,
-              "needed": 1,
-              "fill_pct": 99.8,
+              "filled": 495,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Occasionals",
@@ -785,15 +785,15 @@
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 191,
-              "needed": 304,
-              "fill_pct": 38.6,
+              "filled": 192,
+              "needed": 303,
+              "fill_pct": 38.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 304,
-              "open_to_max": 304
+              "needed_to_min": 303,
+              "open_to_max": 303
             },
             {
               "label": "None of the above",

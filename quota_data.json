@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T15:48:53",
-  "mission_count": 17,
+  "last_updated": "2026-11-13T16:11:08",
+  "mission_count": 18,
   "missions": [
     {
       "ref_name": "MIS-8017d",
@@ -815,8 +815,8 @@
     {
       "ref_name": "MIS-59bb4",
       "target": 500,
-      "filled": 310,
-      "fill_pct": 62.0,
+      "filled": 312,
+      "fill_pct": 62.4,
       "ir": "11.4",
       "loi": "10.5",
       "launch_date": "2026-11-09 23:30:00",
@@ -827,9 +827,9 @@
     {
       "ref_name": "MIS-515e3",
       "target": 100,
-      "filled": 75,
-      "fill_pct": 75.0,
-      "ir": "16.9",
+      "filled": 76,
+      "fill_pct": 76.0,
+      "ir": "17",
       "loi": "6.5",
       "launch_date": "2026-11-11 18:50:00",
       "oof": "11/25/2026",
@@ -1157,9 +1157,9 @@
     {
       "ref_name": "MIS-08670",
       "target": 500,
-      "filled": 517,
-      "fill_pct": 103.4,
-      "ir": "88.7",
+      "filled": 546,
+      "fill_pct": 109.2,
+      "ir": "88.6",
       "loi": "6",
       "launch_date": "2026-11-11 6:54:57",
       "oof": "11/25/2026",
@@ -1184,9 +1184,9 @@
             {
               "label": "18-24 | Male",
               "target": 40,
-              "filled": 52,
+              "filled": 81,
               "needed": 0,
-              "fill_pct": 130.0,
+              "fill_pct": 202.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -1693,8 +1693,8 @@
     {
       "ref_name": "MIS-83875",
       "target": 1000,
-      "filled": 975,
-      "fill_pct": 97.5,
+      "filled": 985,
+      "fill_pct": 98.5,
       "ir": "100",
       "loi": "5.5",
       "launch_date": "2026-11-13 16:40:46",
@@ -1712,6 +1712,18 @@
       "launch_date": "2026-11-13 16:41:23",
       "oof": "11/27/2026",
       "status": "on_track",
+      "quotas": []
+    },
+    {
+      "ref_name": "MIS-e5629",
+      "target": 300,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "10",
+      "launch_date": "2026-11-13 21:03:49",
+      "oof": "11/27/2026",
+      "status": "behind",
       "quotas": []
     }
   ]

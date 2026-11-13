@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T18:01:56",
-  "mission_count": 18,
+  "last_updated": "2026-11-13T18:24:06",
+  "mission_count": 17,
   "missions": [
     {
       "ref_name": "MIS-8017d",
@@ -717,9 +717,9 @@
     {
       "ref_name": "MIS-703b6",
       "target": 1000,
-      "filled": 486,
-      "fill_pct": 48.6,
-      "ir": "19",
+      "filled": 497,
+      "fill_pct": 49.7,
+      "ir": "18.9",
       "loi": "4",
       "launch_date": "2026-11-12 0:29:00",
       "oof": "11/26/2026",
@@ -1175,11 +1175,11 @@
               "needed": 0,
               "fill_pct": 103.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 500,
+              "max_target": 700,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 82
             },
             {
               "label": "No",
@@ -1188,11 +1188,11 @@
               "needed": 0,
               "fill_pct": 113.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 300,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 73
             },
             {
               "label": "I'm not sure",
@@ -1201,11 +1201,11 @@
               "needed": 109,
               "fill_pct": 45.5,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 109,
-              "open_to_max": 109
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 300,
+              "needed_to_min": 9,
+              "open_to_max": 209
             }
           ]
         }
@@ -1354,11 +1354,11 @@
               "needed": 0,
               "fill_pct": 100.7,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 500,
+              "max_target": 700,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 96
             },
             {
               "label": "No",
@@ -1367,11 +1367,11 @@
               "needed": 0,
               "fill_pct": 102.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 300,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 96
             },
             {
               "label": "I'm not sure",
@@ -1380,11 +1380,11 @@
               "needed": 158,
               "fill_pct": 21.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 158,
-              "open_to_max": 158
+              "is_range": true,
+              "min_target": 100,
+              "max_target": 300,
+              "needed_to_min": 58,
+              "open_to_max": 258
             }
           ]
         }
@@ -1393,9 +1393,9 @@
     {
       "ref_name": "MIS-5a8b0",
       "target": 1000,
-      "filled": 14,
-      "fill_pct": 1.4,
-      "ir": "12.4",
+      "filled": 29,
+      "fill_pct": 2.9,
+      "ir": "15.9",
       "loi": "12.5",
       "launch_date": "2026-11-12 16:58:00",
       "oof": "11/26/2026",
@@ -1407,44 +1407,32 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 6,
-              "needed": 694,
-              "fill_pct": 0.9,
+              "filled": 13,
+              "needed": 687,
+              "fill_pct": 1.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 694,
-              "open_to_max": 694
+              "needed_to_min": 687,
+              "open_to_max": 687
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 8,
-              "needed": 292,
-              "fill_pct": 2.7,
+              "filled": 17,
+              "needed": 283,
+              "fill_pct": 5.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 292,
-              "open_to_max": 292
+              "needed_to_min": 283,
+              "open_to_max": 283
             }
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-720c7",
-      "target": 1000,
-      "filled": 991,
-      "fill_pct": 99.1,
-      "ir": "70.9",
-      "loi": "9",
-      "launch_date": "2026-11-12 20:12:00",
-      "oof": "11/26/2026",
-      "status": "on_track",
-      "quotas": []
     },
     {
       "ref_name": "MIS-83875",
@@ -1485,9 +1473,9 @@
     {
       "ref_name": "MIS-6963f",
       "target": 1000,
-      "filled": 850,
-      "fill_pct": 85.0,
-      "ir": "82.2",
+      "filled": 859,
+      "fill_pct": 85.9,
+      "ir": "80.2",
       "loi": "3",
       "launch_date": "2026-11-13 21:27:42",
       "oof": "11/27/2026",
@@ -1499,15 +1487,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 400,
-              "filled": 220,
-              "needed": 180,
-              "fill_pct": 55.0,
+              "filled": 229,
+              "needed": 171,
+              "fill_pct": 57.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 180,
-              "open_to_max": 180
+              "needed_to_min": 171,
+              "open_to_max": 171
             },
             {
               "label": "Chocolate + CCSS + Pretzel Purchasers",

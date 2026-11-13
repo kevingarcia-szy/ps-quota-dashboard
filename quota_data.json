@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T09:31:30",
-  "mission_count": 16,
+  "last_updated": "2026-11-13T09:53:39",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-8017d",
@@ -813,22 +813,10 @@
       ]
     },
     {
-      "ref_name": "MIS-fbe09",
-      "target": 150,
-      "filled": 148,
-      "fill_pct": 98.7,
-      "ir": "37",
-      "loi": "2",
-      "launch_date": "2026-11-12 20:14:00",
-      "oof": "11/26/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-59bb4",
       "target": 500,
-      "filled": 217,
-      "fill_pct": 43.4,
+      "filled": 227,
+      "fill_pct": 45.4,
       "ir": "11.1",
       "loi": "10.5",
       "launch_date": "2026-11-09 23:30:00",
@@ -851,9 +839,9 @@
     {
       "ref_name": "MIS-703b6",
       "target": 1000,
-      "filled": 358,
-      "fill_pct": 35.8,
-      "ir": "22.3",
+      "filled": 386,
+      "fill_pct": 38.6,
+      "ir": "21.6",
       "loi": "4",
       "launch_date": "2026-11-12 0:29:00",
       "oof": "11/26/2026",
@@ -863,9 +851,9 @@
     {
       "ref_name": "MIS-4b3e7",
       "target": 500,
-      "filled": 175,
-      "fill_pct": 35.0,
-      "ir": "12.6",
+      "filled": 184,
+      "fill_pct": 36.8,
+      "ir": "12.4",
       "loi": "6",
       "launch_date": "2026-11-11 6:54:29",
       "oof": "11/25/2026",
@@ -877,15 +865,15 @@
             {
               "label": "18 - 24",
               "target": 70,
-              "filled": 17,
-              "needed": 53,
-              "fill_pct": 24.3,
+              "filled": 20,
+              "needed": 50,
+              "fill_pct": 28.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 53,
-              "open_to_max": 53
+              "needed_to_min": 50,
+              "open_to_max": 50
             },
             {
               "label": "25 - 34",
@@ -929,28 +917,28 @@
             {
               "label": "55 - 64",
               "target": 85,
-              "filled": 39,
-              "needed": 46,
-              "fill_pct": 45.9,
+              "filled": 43,
+              "needed": 42,
+              "fill_pct": 50.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 46,
-              "open_to_max": 46
+              "needed_to_min": 42,
+              "open_to_max": 42
             },
             {
               "label": "65 - 99",
               "target": 165,
-              "filled": 41,
-              "needed": 124,
-              "fill_pct": 24.8,
+              "filled": 43,
+              "needed": 122,
+              "fill_pct": 26.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 124,
-              "open_to_max": 124
+              "needed_to_min": 122,
+              "open_to_max": 122
             }
           ]
         },
@@ -960,28 +948,28 @@
             {
               "label": "Female",
               "target": 255,
-              "filled": 86,
-              "needed": 169,
-              "fill_pct": 33.7,
+              "filled": 89,
+              "needed": 166,
+              "fill_pct": 34.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 169,
-              "open_to_max": 169
+              "needed_to_min": 166,
+              "open_to_max": 166
             },
             {
               "label": "Male",
               "target": 245,
-              "filled": 89,
-              "needed": 156,
-              "fill_pct": 36.3,
+              "filled": 95,
+              "needed": 150,
+              "fill_pct": 38.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 156,
-              "open_to_max": 156
+              "needed_to_min": 150,
+              "open_to_max": 150
             }
           ]
         },
@@ -991,28 +979,28 @@
             {
               "label": "Under $25,000",
               "target": 50,
-              "filled": 16,
-              "needed": 34,
-              "fill_pct": 32.0,
+              "filled": 17,
+              "needed": 33,
+              "fill_pct": 34.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 34,
-              "open_to_max": 34
+              "needed_to_min": 33,
+              "open_to_max": 33
             },
             {
               "label": "$25,000 - $34,999",
               "target": 50,
-              "filled": 7,
-              "needed": 43,
-              "fill_pct": 14.0,
+              "filled": 9,
+              "needed": 41,
+              "fill_pct": 18.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 43,
-              "open_to_max": 43
+              "needed_to_min": 41,
+              "open_to_max": 41
             },
             {
               "label": "$35,000 - $44,999",
@@ -1030,15 +1018,15 @@
             {
               "label": "$45,000 - $59,999",
               "target": 70,
-              "filled": 9,
-              "needed": 61,
-              "fill_pct": 12.9,
+              "filled": 10,
+              "needed": 60,
+              "fill_pct": 14.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 61,
-              "open_to_max": 61
+              "needed_to_min": 60,
+              "open_to_max": 60
             },
             {
               "label": "$60,000 - $74,999",
@@ -1069,28 +1057,28 @@
             {
               "label": "$100,000 - $149,999",
               "target": 95,
-              "filled": 73,
-              "needed": 22,
-              "fill_pct": 76.8,
+              "filled": 75,
+              "needed": 20,
+              "fill_pct": 78.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 22,
-              "open_to_max": 22
+              "needed_to_min": 20,
+              "open_to_max": 20
             },
             {
               "label": "$150,000 or more",
               "target": 85,
-              "filled": 55,
-              "needed": 30,
-              "fill_pct": 64.7,
+              "filled": 58,
+              "needed": 27,
+              "fill_pct": 68.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 30,
-              "open_to_max": 30
+              "needed_to_min": 27,
+              "open_to_max": 27
             },
             {
               "label": "I prefer not to answer",
@@ -1113,15 +1101,15 @@
             {
               "label": "Northeast",
               "target": 95,
-              "filled": 30,
-              "needed": 65,
-              "fill_pct": 31.6,
+              "filled": 31,
+              "needed": 64,
+              "fill_pct": 32.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 65,
-              "open_to_max": 65
+              "needed_to_min": 64,
+              "open_to_max": 64
             },
             {
               "label": "Midwest",
@@ -1139,15 +1127,15 @@
             {
               "label": "South",
               "target": 170,
-              "filled": 75,
-              "needed": 95,
-              "fill_pct": 44.1,
+              "filled": 83,
+              "needed": 87,
+              "fill_pct": 48.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 95,
-              "open_to_max": 95
+              "needed_to_min": 87,
+              "open_to_max": 87
             },
             {
               "label": "West",
@@ -1293,7 +1281,7 @@
       "target": 1000,
       "filled": 924,
       "fill_pct": 92.4,
-      "ir": "28.6",
+      "ir": "28.5",
       "loi": "4",
       "launch_date": "2026-11-12 15:16:00",
       "oof": "11/22/2026",
@@ -1695,7 +1683,7 @@
       "target": 1000,
       "filled": 1,
       "fill_pct": 0.1,
-      "ir": "50",
+      "ir": "33.3",
       "loi": "9",
       "launch_date": "2026-11-12 20:12:00",
       "oof": "11/26/2026",

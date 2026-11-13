@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T16:11:08",
-  "mission_count": 18,
+  "last_updated": "2026-11-13T16:33:29",
+  "mission_count": 19,
   "missions": [
     {
       "ref_name": "MIS-8017d",
@@ -817,7 +817,7 @@
       "target": 500,
       "filled": 312,
       "fill_pct": 62.4,
-      "ir": "11.4",
+      "ir": "11.3",
       "loi": "10.5",
       "launch_date": "2026-11-09 23:30:00",
       "oof": "11/23/2026",
@@ -827,9 +827,9 @@
     {
       "ref_name": "MIS-515e3",
       "target": 100,
-      "filled": 76,
-      "fill_pct": 76.0,
-      "ir": "17",
+      "filled": 78,
+      "fill_pct": 78.0,
+      "ir": "17.4",
       "loi": "6.5",
       "launch_date": "2026-11-11 18:50:00",
       "oof": "11/25/2026",
@@ -1157,9 +1157,9 @@
     {
       "ref_name": "MIS-08670",
       "target": 500,
-      "filled": 546,
-      "fill_pct": 109.2,
-      "ir": "88.6",
+      "filled": 575,
+      "fill_pct": 115.0,
+      "ir": "88.9",
       "loi": "6",
       "launch_date": "2026-11-11 6:54:57",
       "oof": "11/25/2026",
@@ -1184,9 +1184,9 @@
             {
               "label": "18-24 | Male",
               "target": 40,
-              "filled": 81,
+              "filled": 110,
               "needed": 0,
-              "fill_pct": 202.5,
+              "fill_pct": 275.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
@@ -1693,8 +1693,8 @@
     {
       "ref_name": "MIS-83875",
       "target": 1000,
-      "filled": 985,
-      "fill_pct": 98.5,
+      "filled": 991,
+      "fill_pct": 99.1,
       "ir": "100",
       "loi": "5.5",
       "launch_date": "2026-11-13 16:40:46",
@@ -1725,6 +1725,63 @@
       "oof": "11/27/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "Flipz BFY Flavor Concept Test",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "3",
+      "launch_date": "2026-11-13 21:27:42",
+      "oof": "11/27/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Flipz & Choc + CCSS + Pretzels Groups",
+          "cells": [
+            {
+              "label": "Flipz Purchasers",
+              "target": 400,
+              "filled": 0,
+              "needed": 400,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 400,
+              "open_to_max": 400
+            },
+            {
+              "label": "Chocolate + CCSS + Pretzel Purchasers",
+              "target": 600,
+              "filled": 0,
+              "needed": 600,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 600,
+              "open_to_max": 600
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }

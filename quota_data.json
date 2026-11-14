@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T13:20:27",
-  "mission_count": 13,
+  "last_updated": "2026-11-14T13:43:04",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-7449f",
@@ -496,8 +496,8 @@
     {
       "ref_name": "MIS-6e8de",
       "target": 1500,
-      "filled": 1140,
-      "fill_pct": 76.0,
+      "filled": 1141,
+      "fill_pct": 76.1,
       "ir": "41.9",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
@@ -536,15 +536,15 @@
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 117,
-              "needed": 378,
-              "fill_pct": 23.6,
+              "filled": 118,
+              "needed": 377,
+              "fill_pct": 23.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 378,
-              "open_to_max": 378
+              "needed_to_min": 377,
+              "open_to_max": 377
             },
             {
               "label": "None of the above",
@@ -636,8 +636,8 @@
     {
       "ref_name": "MIS-59bb4",
       "target": 500,
-      "filled": 338,
-      "fill_pct": 67.6,
+      "filled": 339,
+      "fill_pct": 67.8,
       "ir": "10.8",
       "loi": "10.5",
       "launch_date": "2026-11-09 23:30:00",
@@ -1147,7 +1147,7 @@
       "target": 1000,
       "filled": 974,
       "fill_pct": 97.4,
-      "ir": "38.9",
+      "ir": "38.8",
       "loi": "4",
       "launch_date": "2026-11-12 15:18:00",
       "oof": "11/22/2026",
@@ -1324,9 +1324,9 @@
     {
       "ref_name": "MIS-5a8b0",
       "target": 1000,
-      "filled": 949,
-      "fill_pct": 94.9,
-      "ir": "46.4",
+      "filled": 970,
+      "fill_pct": 97.0,
+      "ir": "46.5",
       "loi": "12.5",
       "launch_date": "2026-11-12 16:58:00",
       "oof": "11/26/2026",
@@ -1338,15 +1338,15 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 646,
-              "needed": 54,
-              "fill_pct": 92.3,
+              "filled": 669,
+              "needed": 31,
+              "fill_pct": 95.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 54,
-              "open_to_max": 54
+              "needed_to_min": 31,
+              "open_to_max": 31
             },
             {
               "label": "Male",
@@ -1370,7 +1370,7 @@
       "target": 300,
       "filled": 5,
       "fill_pct": 1.7,
-      "ir": "45.5",
+      "ir": "41.7",
       "loi": "10",
       "launch_date": "2026-11-13 21:03:49",
       "oof": "11/27/2026",
@@ -1382,7 +1382,7 @@
       "target": 1000,
       "filled": 872,
       "fill_pct": 87.2,
-      "ir": "78.6",
+      "ir": "78.4",
       "loi": "3",
       "launch_date": "2026-11-13 21:27:42",
       "oof": "11/27/2026",
@@ -1437,14 +1437,58 @@
     {
       "ref_name": "MIS-a0960",
       "target": 1000,
-      "filled": 144,
-      "fill_pct": 14.4,
-      "ir": "21.5",
+      "filled": 186,
+      "fill_pct": 18.6,
+      "ir": "23.5",
       "loi": "5.5",
       "launch_date": "2026-11-13 22:37:12",
       "oof": "11/27/2026",
       "status": "behind",
       "quotas": []
+    },
+    {
+      "ref_name": "THK Dog Dental Chews: Consumer Adoption & Satisfaction Study",
+      "target": 500,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "16.5",
+      "launch_date": "2026-11-14 18:35:08",
+      "oof": "12/24/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 375,
+              "filled": 0,
+              "needed": 375,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 375,
+              "open_to_max": 375
+            },
+            {
+              "label": "Male",
+              "target": 125,
+              "filled": 0,
+              "needed": 125,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 125,
+              "open_to_max": 125
+            }
+          ]
+        }
+      ]
     }
   ]
 }

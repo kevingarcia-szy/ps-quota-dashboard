@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T19:31:58",
-  "mission_count": 16,
+  "last_updated": "2026-11-13T19:56:09",
+  "mission_count": 15,
   "missions": [
     {
       "ref_name": "MIS-7449f",
@@ -636,8 +636,8 @@
     {
       "ref_name": "MIS-59bb4",
       "target": 500,
-      "filled": 324,
-      "fill_pct": 64.8,
+      "filled": 325,
+      "fill_pct": 65.0,
       "ir": "11.1",
       "loi": "10.5",
       "launch_date": "2026-11-09 23:30:00",
@@ -660,8 +660,8 @@
     {
       "ref_name": "MIS-703b6",
       "target": 1000,
-      "filled": 507,
-      "fill_pct": 50.7,
+      "filled": 513,
+      "fill_pct": 51.3,
       "ir": "18.7",
       "loi": "4",
       "launch_date": "2026-11-12 0:29:00",
@@ -978,8 +978,8 @@
     {
       "ref_name": "MIS-85011",
       "target": 1000,
-      "filled": 950,
-      "fill_pct": 95.0,
+      "filled": 954,
+      "fill_pct": 95.4,
       "ir": "23.6",
       "loi": "4",
       "launch_date": "2026-11-12 15:16:00",
@@ -992,15 +992,15 @@
             {
               "label": "Amazon",
               "target": 700,
-              "filled": 679,
-              "needed": 21,
-              "fill_pct": 97.0,
+              "filled": 682,
+              "needed": 18,
+              "fill_pct": 97.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 21,
-              "open_to_max": 21
+              "needed_to_min": 18,
+              "open_to_max": 18
             },
             {
               "label": "Walmart.com",
@@ -1070,15 +1070,15 @@
             {
               "label": "Newegg",
               "target": 20,
-              "filled": 19,
-              "needed": 1,
-              "fill_pct": 95.0,
+              "filled": 20,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "Other",
@@ -1114,28 +1114,28 @@
             {
               "label": "Yes",
               "target": 600,
-              "filled": 629,
+              "filled": 631,
               "needed": 0,
-              "fill_pct": 104.8,
+              "fill_pct": 105.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 500,
               "max_target": 700,
               "needed_to_min": 0,
-              "open_to_max": 71
+              "open_to_max": 69
             },
             {
               "label": "No",
               "target": 200,
-              "filled": 230,
+              "filled": 232,
               "needed": 0,
-              "fill_pct": 115.0,
+              "fill_pct": 116.0,
               "is_paused": false,
               "is_range": true,
               "min_target": 100,
               "max_target": 300,
               "needed_to_min": 0,
-              "open_to_max": 70
+              "open_to_max": 68
             },
             {
               "label": "I'm not sure",
@@ -1336,9 +1336,9 @@
     {
       "ref_name": "MIS-5a8b0",
       "target": 1000,
-      "filled": 132,
-      "fill_pct": 13.2,
-      "ir": "27.7",
+      "filled": 177,
+      "fill_pct": 17.7,
+      "ir": "31.2",
       "loi": "12.5",
       "launch_date": "2026-11-12 16:58:00",
       "oof": "11/26/2026",
@@ -1350,44 +1350,32 @@
             {
               "label": "Female",
               "target": 700,
-              "filled": 71,
-              "needed": 629,
-              "fill_pct": 10.1,
+              "filled": 96,
+              "needed": 604,
+              "fill_pct": 13.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 629,
-              "open_to_max": 629
+              "needed_to_min": 604,
+              "open_to_max": 604
             },
             {
               "label": "Male",
               "target": 300,
-              "filled": 63,
-              "needed": 237,
-              "fill_pct": 21.0,
+              "filled": 84,
+              "needed": 216,
+              "fill_pct": 28.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 237,
-              "open_to_max": 237
+              "needed_to_min": 216,
+              "open_to_max": 216
             }
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-83875",
-      "target": 1000,
-      "filled": 999,
-      "fill_pct": 99.9,
-      "ir": "100",
-      "loi": "5.5",
-      "launch_date": "2026-11-13 16:40:46",
-      "oof": "11/27/2026",
-      "status": "on_track",
-      "quotas": []
     },
     {
       "ref_name": "MIS-10209",
@@ -1416,8 +1404,8 @@
     {
       "ref_name": "MIS-6963f",
       "target": 1000,
-      "filled": 864,
-      "fill_pct": 86.4,
+      "filled": 865,
+      "fill_pct": 86.5,
       "ir": "79.9",
       "loi": "3",
       "launch_date": "2026-11-13 21:27:42",
@@ -1430,15 +1418,15 @@
             {
               "label": "Flipz Purchasers",
               "target": 400,
-              "filled": 234,
-              "needed": 166,
-              "fill_pct": 58.5,
+              "filled": 235,
+              "needed": 165,
+              "fill_pct": 58.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 166,
-              "open_to_max": 166
+              "needed_to_min": 165,
+              "open_to_max": 165
             },
             {
               "label": "Chocolate + CCSS + Pretzel Purchasers",

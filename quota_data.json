@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T16:48:31",
-  "mission_count": 16,
+  "last_updated": "2026-11-17T17:11:06",
+  "mission_count": 17,
   "missions": [
     {
       "ref_name": "MIS-1ce56",
@@ -937,9 +937,9 @@
     {
       "ref_name": "MIS-7a9bc",
       "target": 250,
-      "filled": 54,
-      "fill_pct": 21.6,
-      "ir": "14.9",
+      "filled": 55,
+      "fill_pct": 22.0,
+      "ir": "15.1",
       "loi": "11",
       "launch_date": "2026-11-16 2:44:30",
       "oof": "11/30/2026",
@@ -1275,9 +1275,9 @@
     {
       "ref_name": "MIS-6e611",
       "target": 500,
-      "filled": 232,
-      "fill_pct": 46.4,
-      "ir": "81.7",
+      "filled": 234,
+      "fill_pct": 46.8,
+      "ir": "81.2",
       "loi": "5",
       "launch_date": "2026-11-16 19:58:03",
       "oof": "11/19/2026",
@@ -1287,8 +1287,8 @@
     {
       "ref_name": "MIS-601a3",
       "target": 1000,
-      "filled": 275,
-      "fill_pct": 27.5,
+      "filled": 277,
+      "fill_pct": 27.7,
       "ir": "76",
       "loi": "4.5",
       "launch_date": "2026-11-16 22:00:20",
@@ -1752,6 +1752,63 @@
               "fill_pct": 0,
               "is_paused": true,
               "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-98b1b",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "2",
+      "launch_date": "2026-11-17 22:03:03",
+      "oof": "12/1/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Flipz & Choc + CCSS Groups",
+          "cells": [
+            {
+              "label": "Flipz Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate + CCSS Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,

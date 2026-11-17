@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T16:03:09",
-  "mission_count": 15,
+  "last_updated": "2026-11-17T16:25:48",
+  "mission_count": 16,
   "missions": [
     {
       "ref_name": "MIS-1ce56",
@@ -963,7 +963,7 @@
       "target": 650,
       "filled": 40,
       "fill_pct": 6.2,
-      "ir": "20.1",
+      "ir": "19.9",
       "loi": "6",
       "launch_date": "2026-11-16 19:34:18",
       "oof": "12/11/2026",
@@ -1301,7 +1301,7 @@
       "target": 1000,
       "filled": 3,
       "fill_pct": 0.3,
-      "ir": "5.6",
+      "ir": "5.4",
       "loi": "21",
       "launch_date": "2026-11-16 23:02:44",
       "oof": "11/30/2026",
@@ -1611,6 +1611,151 @@
               "max_target": 0,
               "needed_to_min": 340,
               "open_to_max": 340
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-f7043",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "10",
+      "launch_date": "2026-11-17 21:05:47",
+      "oof": "12/1/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Age",
+          "cells": [
+            {
+              "label": "35 - 54",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            },
+            {
+              "label": "55 - 74",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            }
+          ]
+        },
+        {
+          "group": "Gender",
+          "cells": [
+            {
+              "label": "Female",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            },
+            {
+              "label": "Male",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            }
+          ]
+        },
+        {
+          "group": "Live vs. SVOD",
+          "cells": [
+            {
+              "label": "Live + SVOD",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            },
+            {
+              "label": "SVOD Only",
+              "target": 500,
+              "filled": 0,
+              "needed": 500,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": true,
+              "min_target": 400,
+              "max_target": 600,
+              "needed_to_min": 400,
+              "open_to_max": 600
+            },
+            {
+              "label": "Live Only",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "None",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": true,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }

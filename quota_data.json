@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T09:17:40",
+  "last_updated": "2026-11-17T09:40:02",
   "mission_count": 15,
   "missions": [
     {
@@ -62,9 +62,9 @@
     {
       "ref_name": "MIS-1ce56",
       "target": 1500,
-      "filled": 1452,
-      "fill_pct": 96.8,
-      "ir": "30.5",
+      "filled": 1456,
+      "fill_pct": 97.1,
+      "ir": "29.9",
       "loi": "10.5",
       "launch_date": "2026-11-03 14:19:16",
       "oof": "11/17/2026",
@@ -258,15 +258,15 @@
             {
               "label": "Infrequents | Yes",
               "target": 90,
-              "filled": 82,
-              "needed": 8,
-              "fill_pct": 91.1,
+              "filled": 85,
+              "needed": 5,
+              "fill_pct": 94.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 8,
-              "open_to_max": 8
+              "needed_to_min": 5,
+              "open_to_max": 5
             },
             {
               "label": "Infrequents | Yes",
@@ -310,15 +310,15 @@
             {
               "label": "P3M Lapsed | Yes",
               "target": 60,
-              "filled": 45,
-              "needed": 15,
-              "fill_pct": 75.0,
+              "filled": 46,
+              "needed": 14,
+              "fill_pct": 76.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 15,
-              "open_to_max": 15
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "P3M Lapsed | Yes",
@@ -496,9 +496,9 @@
     {
       "ref_name": "MIS-6e8de",
       "target": 1500,
-      "filled": 1169,
-      "fill_pct": 77.9,
-      "ir": "35.2",
+      "filled": 1173,
+      "fill_pct": 78.2,
+      "ir": "34",
       "loi": "12",
       "launch_date": "2026-11-06 13:21:34",
       "oof": "11/20/2026",
@@ -536,15 +536,15 @@
             {
               "label": "Infrequents",
               "target": 495,
-              "filled": 146,
-              "needed": 349,
-              "fill_pct": 29.5,
+              "filled": 151,
+              "needed": 344,
+              "fill_pct": 30.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 349,
-              "open_to_max": 349
+              "needed_to_min": 344,
+              "open_to_max": 344
             },
             {
               "label": "None of the above",
@@ -568,7 +568,7 @@
       "target": 1500,
       "filled": 1261,
       "fill_pct": 84.1,
-      "ir": "21.1",
+      "ir": "21",
       "loi": "9",
       "launch_date": "2026-11-06 21:12:00",
       "oof": "11/20/2026",
@@ -1123,7 +1123,7 @@
       "target": 1000,
       "filled": 977,
       "fill_pct": 97.7,
-      "ir": "34",
+      "ir": "33.8",
       "loi": "4",
       "launch_date": "2026-11-12 15:18:00",
       "oof": "11/22/2026",
@@ -1139,11 +1139,11 @@
               "needed": 0,
               "fill_pct": 100.4,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 690,
+              "max_target": 710,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 7
             },
             {
               "label": "Walmart.com",
@@ -1152,11 +1152,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 10
             },
             {
               "label": "Ebay",
@@ -1165,11 +1165,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 10
             },
             {
               "label": "BestBuy.com",
@@ -1178,11 +1178,11 @@
               "needed": 1,
               "fill_pct": 98.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 1,
-              "open_to_max": 1
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 0,
+              "open_to_max": 11
             },
             {
               "label": "Staples.com",
@@ -1191,11 +1191,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 10
             },
             {
               "label": "Target.com",
@@ -1204,11 +1204,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 10,
+              "max_target": 30,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 10
             },
             {
               "label": "Newegg",
@@ -1217,11 +1217,11 @@
               "needed": 0,
               "fill_pct": 100.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 10,
+              "max_target": 30,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 10
             },
             {
               "label": "Other",
@@ -1230,11 +1230,11 @@
               "needed": 29,
               "fill_pct": 42.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 29,
-              "open_to_max": 29
+              "is_range": true,
+              "min_target": 40,
+              "max_target": 60,
+              "needed_to_min": 19,
+              "open_to_max": 39
             },
             {
               "label": "None of the above",
@@ -1243,11 +1243,11 @@
               "needed": 0,
               "fill_pct": 120.0,
               "is_paused": false,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
-              "max_target": 0,
+              "max_target": 20,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 8
             }
           ]
         },
@@ -1300,9 +1300,9 @@
     {
       "ref_name": "MIS-7a9bc",
       "target": 250,
-      "filled": 49,
-      "fill_pct": 19.6,
-      "ir": "14.5",
+      "filled": 50,
+      "fill_pct": 20.0,
+      "ir": "14.8",
       "loi": "11",
       "launch_date": "2026-11-16 2:44:30",
       "oof": "11/30/2026",
@@ -1324,8 +1324,8 @@
     {
       "ref_name": "MIS-ccc22",
       "target": 1000,
-      "filled": 983,
-      "fill_pct": 98.3,
+      "filled": 988,
+      "fill_pct": 98.8,
       "ir": "100",
       "loi": "7.5",
       "launch_date": "2026-11-16 17:04:19",
@@ -1338,7 +1338,7 @@
       "target": 650,
       "filled": 3,
       "fill_pct": 0.5,
-      "ir": "33.3",
+      "ir": "21.4",
       "loi": "6",
       "launch_date": "2026-11-16 19:34:18",
       "oof": "12/11/2026",
@@ -1650,8 +1650,8 @@
     {
       "ref_name": "MIS-6e611",
       "target": 500,
-      "filled": 117,
-      "fill_pct": 23.4,
+      "filled": 121,
+      "fill_pct": 24.2,
       "ir": "81.8",
       "loi": "5",
       "launch_date": "2026-11-16 19:58:03",
@@ -1662,9 +1662,9 @@
     {
       "ref_name": "MIS-601a3",
       "target": 1000,
-      "filled": 268,
-      "fill_pct": 26.8,
-      "ir": "76.1",
+      "filled": 269,
+      "fill_pct": 26.9,
+      "ir": "76",
       "loi": "4.5",
       "launch_date": "2026-11-16 22:00:20",
       "oof": "11/30/2026",
@@ -1676,7 +1676,7 @@
       "target": 1000,
       "filled": 3,
       "fill_pct": 0.3,
-      "ir": "8.8",
+      "ir": "8.1",
       "loi": "21",
       "launch_date": "2026-11-16 23:02:44",
       "oof": "11/30/2026",

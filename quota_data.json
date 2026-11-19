@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T05:02:02",
+  "last_updated": "2026-11-19T05:25:05",
   "mission_count": 16,
   "missions": [
     {
@@ -503,8 +503,8 @@
     {
       "ref_name": "MIS-347ea",
       "target": 500,
-      "filled": 141,
-      "fill_pct": 28.2,
+      "filled": 146,
+      "fill_pct": 29.2,
       "ir": "8.9",
       "loi": "4.5",
       "launch_date": "2026-11-16 15:06:03",
@@ -527,9 +527,9 @@
     {
       "ref_name": "MIS-edb97",
       "target": 650,
-      "filled": 455,
-      "fill_pct": 70.0,
-      "ir": "29.5",
+      "filled": 457,
+      "fill_pct": 70.3,
+      "ir": "29.6",
       "loi": "6",
       "launch_date": "2026-11-16 19:34:18",
       "oof": "12/11/2026",
@@ -554,15 +554,15 @@
             {
               "label": "Non-Samsung Health user",
               "target": 325,
-              "filled": 297,
-              "needed": 28,
-              "fill_pct": 91.4,
+              "filled": 299,
+              "needed": 26,
+              "fill_pct": 92.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 28,
-              "open_to_max": 28
+              "needed_to_min": 26,
+              "open_to_max": 26
             },
             {
               "label": "None of the above",
@@ -650,15 +650,15 @@
             {
               "label": "Group B | Wellness Seeker",
               "target": 65,
-              "filled": 54,
-              "needed": 11,
-              "fill_pct": 83.1,
+              "filled": 55,
+              "needed": 10,
+              "fill_pct": 84.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 11,
-              "open_to_max": 11
+              "needed_to_min": 10,
+              "open_to_max": 10
             },
             {
               "label": "Group B | Chronic Patient",
@@ -702,15 +702,15 @@
             {
               "label": "Group C | Wellness Seeker",
               "target": 65,
-              "filled": 59,
-              "needed": 6,
-              "fill_pct": 90.8,
+              "filled": 60,
+              "needed": 5,
+              "fill_pct": 92.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 6,
-              "open_to_max": 6
+              "needed_to_min": 5,
+              "open_to_max": 5
             },
             {
               "label": "Group C | Chronic Patient",
@@ -811,19 +811,6 @@
             {
               "label": "Square",
               "target": 215,
-              "filled": 144,
-              "needed": 71,
-              "fill_pct": 67.0,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 71,
-              "open_to_max": 71
-            },
-            {
-              "label": "Triangle",
-              "target": 215,
               "filled": 145,
               "needed": 70,
               "fill_pct": 67.4,
@@ -833,6 +820,19 @@
               "max_target": 0,
               "needed_to_min": 70,
               "open_to_max": 70
+            },
+            {
+              "label": "Triangle",
+              "target": 215,
+              "filled": 146,
+              "needed": 69,
+              "fill_pct": 67.9,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 69,
+              "open_to_max": 69
             }
           ]
         }
@@ -897,8 +897,8 @@
     {
       "ref_name": "MIS-1dfd0",
       "target": 1000,
-      "filled": 957,
-      "fill_pct": 95.7,
+      "filled": 958,
+      "fill_pct": 95.8,
       "ir": "30.9",
       "loi": "1",
       "launch_date": "2026-11-17 2:23:32",
@@ -1229,9 +1229,9 @@
     {
       "ref_name": "MIS-15dfc",
       "target": 1000,
-      "filled": 419,
-      "fill_pct": 41.9,
-      "ir": "70.1",
+      "filled": 443,
+      "fill_pct": 44.3,
+      "ir": "71",
       "loi": "9.5",
       "launch_date": "2026-11-19 0:10:20",
       "oof": "12/3/2026",
@@ -1243,28 +1243,28 @@
             {
               "label": "Godiva Purchasers",
               "target": 300,
-              "filled": 175,
-              "needed": 125,
-              "fill_pct": 58.3,
+              "filled": 190,
+              "needed": 110,
+              "fill_pct": 63.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 125,
-              "open_to_max": 125
+              "needed_to_min": 110,
+              "open_to_max": 110
             },
             {
               "label": "Premium Chocolate Purchasers",
               "target": 700,
-              "filled": 248,
-              "needed": 452,
-              "fill_pct": 35.4,
+              "filled": 253,
+              "needed": 447,
+              "fill_pct": 36.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 452,
-              "open_to_max": 452
+              "needed_to_min": 447,
+              "open_to_max": 447
             },
             {
               "label": "None of the above",

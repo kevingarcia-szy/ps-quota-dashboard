@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-20T17:38:03",
-  "mission_count": 15,
+  "last_updated": "2026-11-20T18:00:04",
+  "mission_count": 14,
   "missions": [
     {
       "ref_name": "MIS-53f70",
       "target": 1000,
-      "filled": 998,
-      "fill_pct": 99.8,
-      "ir": "71.4",
+      "filled": 999,
+      "fill_pct": 99.9,
+      "ir": "71.5",
       "loi": "13",
       "launch_date": "2026-11-10 21:49:00",
       "oof": "11/24/2026",
@@ -485,9 +485,9 @@
     {
       "ref_name": "MIS-347ea",
       "target": 500,
-      "filled": 431,
-      "fill_pct": 86.2,
-      "ir": "8.6",
+      "filled": 438,
+      "fill_pct": 87.6,
+      "ir": "8.7",
       "loi": "4.5",
       "launch_date": "2026-11-16 15:06:03",
       "oof": "11/30/2026",
@@ -497,13 +497,13 @@
     {
       "ref_name": "MIS-a7876",
       "target": 450,
-      "filled": 211,
-      "fill_pct": 46.9,
-      "ir": "23.2",
+      "filled": 252,
+      "fill_pct": 56.0,
+      "ir": "26.1",
       "loi": "3",
       "launch_date": "2026-11-18 23:37:57",
       "oof": "12/2/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
@@ -511,7 +511,7 @@
       "target": 650,
       "filled": 503,
       "fill_pct": 77.4,
-      "ir": "22.1",
+      "ir": "21.7",
       "loi": "6",
       "launch_date": "2026-11-16 19:34:18",
       "oof": "12/11/2026",
@@ -823,9 +823,9 @@
     {
       "ref_name": "MIS-7ee56",
       "target": 1000,
-      "filled": 384,
-      "fill_pct": 38.4,
-      "ir": "9.2",
+      "filled": 389,
+      "fill_pct": 38.9,
+      "ir": "9.1",
       "loi": "7",
       "launch_date": "2026-11-18 19:50:18",
       "oof": "12/2/2026",
@@ -837,28 +837,28 @@
             {
               "label": "18 - 35",
               "target": 500,
-              "filled": 114,
-              "needed": 386,
-              "fill_pct": 22.8,
+              "filled": 116,
+              "needed": 384,
+              "fill_pct": 23.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 386,
-              "open_to_max": 386
+              "needed_to_min": 384,
+              "open_to_max": 384
             },
             {
               "label": "36 - 65",
               "target": 500,
-              "filled": 270,
-              "needed": 230,
-              "fill_pct": 54.0,
+              "filled": 273,
+              "needed": 227,
+              "fill_pct": 54.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 230,
-              "open_to_max": 230
+              "needed_to_min": 227,
+              "open_to_max": 227
             }
           ]
         }
@@ -1290,9 +1290,9 @@
     {
       "ref_name": "MIS-ed6a5",
       "target": 1000,
-      "filled": 0,
-      "fill_pct": 0.0,
-      "ir": "0",
+      "filled": 1,
+      "fill_pct": 0.1,
+      "ir": "100",
       "loi": "2.5",
       "launch_date": "2026-11-20 21:34:32",
       "oof": "12/4/2026",
@@ -1356,15 +1356,15 @@
             {
               "label": "Male | 18 - 29",
               "target": 110,
-              "filled": 0,
-              "needed": 110,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 109,
+              "fill_pct": 0.9,
               "is_paused": false,
               "is_range": true,
               "min_target": 100,
               "max_target": 120,
-              "needed_to_min": 100,
-              "open_to_max": 120
+              "needed_to_min": 99,
+              "open_to_max": 119
             },
             {
               "label": "Male | 30 - 45",
@@ -1413,15 +1413,15 @@
             {
               "label": "Northeast",
               "target": 170,
-              "filled": 0,
-              "needed": 170,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 169,
+              "fill_pct": 0.6,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 170,
-              "open_to_max": 170
+              "needed_to_min": 169,
+              "open_to_max": 169
             },
             {
               "label": "Midwest",
@@ -1646,22 +1646,10 @@
       ]
     },
     {
-      "ref_name": "MIS-72a40",
-      "target": 500,
-      "filled": 500,
-      "fill_pct": 100.0,
-      "ir": "82.2",
-      "loi": "5",
-      "launch_date": "2026-11-19 19:06:02",
-      "oof": "12/3/2026",
-      "status": "on_track",
-      "quotas": []
-    },
-    {
       "ref_name": "MIS-04a02",
       "target": 1000,
-      "filled": 731,
-      "fill_pct": 73.1,
+      "filled": 741,
+      "fill_pct": 74.1,
       "ir": "83.1",
       "loi": "4",
       "launch_date": "2026-11-19 20:01:28",
@@ -1684,9 +1672,9 @@
     {
       "ref_name": "MIS-6f12f",
       "target": 500,
-      "filled": 11,
-      "fill_pct": 2.2,
-      "ir": "14.5",
+      "filled": 16,
+      "fill_pct": 3.2,
+      "ir": "14.6",
       "loi": "2.5",
       "launch_date": "2026-11-20 14:06:24",
       "oof": "12/4/2026",
@@ -1698,41 +1686,41 @@
             {
               "label": "18 - 24",
               "target": 70,
-              "filled": 4,
-              "needed": 66,
-              "fill_pct": 5.7,
+              "filled": 5,
+              "needed": 65,
+              "fill_pct": 7.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 66,
-              "open_to_max": 66
+              "needed_to_min": 65,
+              "open_to_max": 65
             },
             {
               "label": "25 - 34",
               "target": 65,
-              "filled": 3,
-              "needed": 62,
-              "fill_pct": 4.6,
+              "filled": 4,
+              "needed": 61,
+              "fill_pct": 6.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 62,
-              "open_to_max": 62
+              "needed_to_min": 61,
+              "open_to_max": 61
             },
             {
               "label": "35 - 44",
               "target": 45,
-              "filled": 3,
-              "needed": 42,
-              "fill_pct": 6.7,
+              "filled": 4,
+              "needed": 41,
+              "fill_pct": 8.9,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 42,
-              "open_to_max": 42
+              "needed_to_min": 41,
+              "open_to_max": 41
             },
             {
               "label": "45 - 54",
@@ -1763,15 +1751,15 @@
             {
               "label": "65 - 99",
               "target": 165,
-              "filled": 1,
-              "needed": 164,
-              "fill_pct": 0.6,
+              "filled": 3,
+              "needed": 162,
+              "fill_pct": 1.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 164,
-              "open_to_max": 164
+              "needed_to_min": 162,
+              "open_to_max": 162
             }
           ]
         },
@@ -1781,28 +1769,28 @@
             {
               "label": "Female",
               "target": 255,
-              "filled": 6,
-              "needed": 249,
-              "fill_pct": 2.4,
+              "filled": 8,
+              "needed": 247,
+              "fill_pct": 3.1,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 249,
-              "open_to_max": 249
+              "needed_to_min": 247,
+              "open_to_max": 247
             },
             {
               "label": "Male",
               "target": 245,
-              "filled": 5,
-              "needed": 240,
-              "fill_pct": 2.0,
+              "filled": 8,
+              "needed": 237,
+              "fill_pct": 3.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 240,
-              "open_to_max": 240
+              "needed_to_min": 237,
+              "open_to_max": 237
             }
           ]
         },
@@ -1812,41 +1800,41 @@
             {
               "label": "Under $25,000",
               "target": 50,
-              "filled": 5,
-              "needed": 45,
-              "fill_pct": 10.0,
+              "filled": 8,
+              "needed": 42,
+              "fill_pct": 16.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 45,
-              "open_to_max": 45
+              "needed_to_min": 42,
+              "open_to_max": 42
             },
             {
               "label": "$25,000 - $34,999",
               "target": 50,
-              "filled": 2,
-              "needed": 48,
-              "fill_pct": 4.0,
+              "filled": 3,
+              "needed": 47,
+              "fill_pct": 6.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 48,
-              "open_to_max": 48
+              "needed_to_min": 47,
+              "open_to_max": 47
             },
             {
               "label": "$35,000 - $44,999",
               "target": 50,
-              "filled": 0,
-              "needed": 50,
-              "fill_pct": 0.0,
+              "filled": 1,
+              "needed": 49,
+              "fill_pct": 2.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 50,
-              "open_to_max": 50
+              "needed_to_min": 49,
+              "open_to_max": 49
             },
             {
               "label": "$45,000 - $59,999",
@@ -1947,28 +1935,28 @@
             {
               "label": "Midwest",
               "target": 80,
-              "filled": 3,
-              "needed": 77,
-              "fill_pct": 3.8,
+              "filled": 5,
+              "needed": 75,
+              "fill_pct": 6.2,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 77,
-              "open_to_max": 77
+              "needed_to_min": 75,
+              "open_to_max": 75
             },
             {
               "label": "South",
               "target": 170,
-              "filled": 3,
-              "needed": 167,
-              "fill_pct": 1.8,
+              "filled": 6,
+              "needed": 164,
+              "fill_pct": 3.5,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 167,
-              "open_to_max": 167
+              "needed_to_min": 164,
+              "open_to_max": 164
             },
             {
               "label": "West",
@@ -1990,9 +1978,9 @@
     {
       "ref_name": "MIS-13b4b",
       "target": 500,
-      "filled": 473,
-      "fill_pct": 94.6,
-      "ir": "89.4",
+      "filled": 480,
+      "fill_pct": 96.0,
+      "ir": "89.2",
       "loi": "2.5",
       "launch_date": "2026-11-20 14:06:51",
       "oof": "12/4/2026",
@@ -2004,28 +1992,28 @@
             {
               "label": "18-24 | Female",
               "target": 35,
-              "filled": 27,
-              "needed": 8,
-              "fill_pct": 77.1,
+              "filled": 28,
+              "needed": 7,
+              "fill_pct": 80.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 8,
-              "open_to_max": 8
+              "needed_to_min": 7,
+              "open_to_max": 7
             },
             {
               "label": "18-24 | Male",
               "target": 40,
-              "filled": 24,
-              "needed": 16,
-              "fill_pct": 60.0,
+              "filled": 26,
+              "needed": 14,
+              "fill_pct": 65.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 16,
-              "open_to_max": 16
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "25-34 | Female",
@@ -2043,15 +2031,15 @@
             {
               "label": "25-34 | Male",
               "target": 55,
-              "filled": 51,
-              "needed": 4,
-              "fill_pct": 92.7,
+              "filled": 55,
+              "needed": 0,
+              "fill_pct": 100.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 0,
+              "open_to_max": 0
             },
             {
               "label": "35-54 | Female",

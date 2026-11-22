@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T10:21:27",
-  "mission_count": 14,
+  "last_updated": "2026-11-22T10:44:30",
+  "mission_count": 12,
   "missions": [
     {
       "ref_name": "MIS-53f70",
@@ -119,364 +119,6 @@
               "max_target": 0,
               "needed_to_min": 0,
               "open_to_max": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-85011",
-      "target": 1000,
-      "filled": 1004,
-      "fill_pct": 100.4,
-      "ir": "19.1",
-      "loi": "4",
-      "launch_date": "2026-11-12 15:16:00",
-      "oof": "11/22/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Have you made a purchase on any of the following ecommerce sites in the last 6 months?",
-          "cells": [
-            {
-              "label": "Amazon",
-              "target": 700,
-              "filled": 707,
-              "needed": 0,
-              "fill_pct": 101.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 690,
-              "max_target": 710,
-              "needed_to_min": 0,
-              "open_to_max": 3
-            },
-            {
-              "label": "Walmart.com",
-              "target": 50,
-              "filled": 62,
-              "needed": 0,
-              "fill_pct": 124.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Ebay",
-              "target": 50,
-              "filled": 50,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 10
-            },
-            {
-              "label": "BestBuy.com",
-              "target": 50,
-              "filled": 52,
-              "needed": 0,
-              "fill_pct": 104.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 8
-            },
-            {
-              "label": "Staples.com",
-              "target": 50,
-              "filled": 50,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 10
-            },
-            {
-              "label": "Target.com",
-              "target": 20,
-              "filled": 26,
-              "needed": 0,
-              "fill_pct": 130.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 10,
-              "max_target": 30,
-              "needed_to_min": 0,
-              "open_to_max": 4
-            },
-            {
-              "label": "Newegg",
-              "target": 20,
-              "filled": 20,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 10,
-              "max_target": 30,
-              "needed_to_min": 0,
-              "open_to_max": 10
-            },
-            {
-              "label": "Other",
-              "target": 50,
-              "filled": 27,
-              "needed": 23,
-              "fill_pct": 54.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 13,
-              "open_to_max": 33
-            },
-            {
-              "label": "None of the above",
-              "target": 10,
-              "filled": 10,
-              "needed": 0,
-              "fill_pct": 100.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 0,
-              "max_target": 20,
-              "needed_to_min": 0,
-              "open_to_max": 10
-            }
-          ]
-        },
-        {
-          "group": "Have you purchased any off-brand compatible toner cartridges in the last 6 months? By \"compatible\" we mean toners made by a company other than the original brand or manufacturer.",
-          "cells": [
-            {
-              "label": "Yes",
-              "target": 600,
-              "filled": 656,
-              "needed": 0,
-              "fill_pct": 109.3,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 500,
-              "max_target": 700,
-              "needed_to_min": 0,
-              "open_to_max": 44
-            },
-            {
-              "label": "No",
-              "target": 200,
-              "filled": 254,
-              "needed": 0,
-              "fill_pct": 127.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 100,
-              "max_target": 300,
-              "needed_to_min": 0,
-              "open_to_max": 46
-            },
-            {
-              "label": "I'm not sure",
-              "target": 200,
-              "filled": 94,
-              "needed": 106,
-              "fill_pct": 47.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 100,
-              "max_target": 300,
-              "needed_to_min": 6,
-              "open_to_max": 206
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-b9f4e",
-      "target": 1000,
-      "filled": 1046,
-      "fill_pct": 104.6,
-      "ir": "31.1",
-      "loi": "4",
-      "launch_date": "2026-11-12 15:18:00",
-      "oof": "11/22/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Have you made a purchase on any of the following ecommerce sites in the last 6 months?",
-          "cells": [
-            {
-              "label": "Amazon",
-              "target": 700,
-              "filled": 710,
-              "needed": 0,
-              "fill_pct": 101.4,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 690,
-              "max_target": 710,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Walmart.com",
-              "target": 50,
-              "filled": 64,
-              "needed": 0,
-              "fill_pct": 128.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Ebay",
-              "target": 50,
-              "filled": 61,
-              "needed": 0,
-              "fill_pct": 122.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "BestBuy.com",
-              "target": 50,
-              "filled": 61,
-              "needed": 0,
-              "fill_pct": 122.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Staples.com",
-              "target": 50,
-              "filled": 60,
-              "needed": 0,
-              "fill_pct": 120.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Target.com",
-              "target": 20,
-              "filled": 30,
-              "needed": 0,
-              "fill_pct": 150.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 10,
-              "max_target": 30,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Newegg",
-              "target": 20,
-              "filled": 24,
-              "needed": 0,
-              "fill_pct": 120.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 10,
-              "max_target": 30,
-              "needed_to_min": 0,
-              "open_to_max": 6
-            },
-            {
-              "label": "Other",
-              "target": 50,
-              "filled": 21,
-              "needed": 29,
-              "fill_pct": 42.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 40,
-              "max_target": 60,
-              "needed_to_min": 19,
-              "open_to_max": 39
-            },
-            {
-              "label": "None of the above",
-              "target": 10,
-              "filled": 13,
-              "needed": 0,
-              "fill_pct": 130.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 0,
-              "max_target": 20,
-              "needed_to_min": 0,
-              "open_to_max": 7
-            }
-          ]
-        },
-        {
-          "group": "Have you purchased any off-brand compatible toner cartridges in the last 6 months? By \"compatible\" we mean toners made by a company other than the original brand or manufacturer.",
-          "cells": [
-            {
-              "label": "Yes",
-              "target": 600,
-              "filled": 730,
-              "needed": 0,
-              "fill_pct": 121.7,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 470,
-              "max_target": 730,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "No",
-              "target": 200,
-              "filled": 262,
-              "needed": 0,
-              "fill_pct": 131.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 70,
-              "max_target": 330,
-              "needed_to_min": 0,
-              "open_to_max": 68
-            },
-            {
-              "label": "I'm not sure",
-              "target": 200,
-              "filled": 52,
-              "needed": 148,
-              "fill_pct": 26.0,
-              "is_paused": false,
-              "is_range": true,
-              "min_target": 70,
-              "max_target": 330,
-              "needed_to_min": 18,
-              "open_to_max": 278
             }
           ]
         }
@@ -799,8 +441,8 @@
     {
       "ref_name": "MIS-7ee56",
       "target": 1000,
-      "filled": 915,
-      "fill_pct": 91.5,
+      "filled": 922,
+      "fill_pct": 92.2,
       "ir": "9.9",
       "loi": "7",
       "launch_date": "2026-11-18 19:50:18",
@@ -813,15 +455,15 @@
             {
               "label": "18 - 35",
               "target": 500,
-              "filled": 412,
-              "needed": 88,
-              "fill_pct": 82.4,
+              "filled": 419,
+              "needed": 81,
+              "fill_pct": 83.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 88,
-              "open_to_max": 88
+              "needed_to_min": 81,
+              "open_to_max": 81
             },
             {
               "label": "36 - 65",
@@ -1266,9 +908,9 @@
     {
       "ref_name": "MIS-ed6a5",
       "target": 1000,
-      "filled": 628,
-      "fill_pct": 62.8,
-      "ir": "48.1",
+      "filled": 629,
+      "fill_pct": 62.9,
+      "ir": "48",
       "loi": "2.5",
       "launch_date": "2026-11-20 21:34:32",
       "oof": "12/4/2026",
@@ -1306,15 +948,15 @@
             {
               "label": "Female | 46 - 60",
               "target": 130,
-              "filled": 89,
-              "needed": 41,
-              "fill_pct": 68.5,
+              "filled": 90,
+              "needed": 40,
+              "fill_pct": 69.2,
               "is_paused": false,
               "is_range": true,
               "min_target": 120,
               "max_target": 140,
-              "needed_to_min": 31,
-              "open_to_max": 51
+              "needed_to_min": 30,
+              "open_to_max": 50
             },
             {
               "label": "Female | 61 - 80",
@@ -1415,15 +1057,15 @@
             {
               "label": "South",
               "target": 390,
-              "filled": 248,
-              "needed": 142,
-              "fill_pct": 63.6,
+              "filled": 249,
+              "needed": 141,
+              "fill_pct": 63.8,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 142,
-              "open_to_max": 142
+              "needed_to_min": 141,
+              "open_to_max": 141
             },
             {
               "label": "West",
@@ -2076,8 +1718,8 @@
     {
       "ref_name": "MIS-dcac3",
       "target": 1000,
-      "filled": 640,
-      "fill_pct": 64.0,
+      "filled": 643,
+      "fill_pct": 64.3,
       "ir": "100",
       "loi": "11.5",
       "launch_date": "2026-11-21 2:39:10",
@@ -2090,15 +1732,15 @@
             {
               "label": "New to Category",
               "target": 230,
-              "filled": 174,
-              "needed": 56,
-              "fill_pct": 75.7,
+              "filled": 176,
+              "needed": 54,
+              "fill_pct": 76.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 130,
               "max_target": 330,
               "needed_to_min": 0,
-              "open_to_max": 156
+              "open_to_max": 154
             },
             {
               "label": "New to Brand",
@@ -2129,15 +1771,15 @@
             {
               "label": "LIV Buyer",
               "target": 220,
-              "filled": 154,
-              "needed": 66,
-              "fill_pct": 70.0,
+              "filled": 155,
+              "needed": 65,
+              "fill_pct": 70.5,
               "is_paused": false,
               "is_range": true,
               "min_target": 120,
               "max_target": 320,
               "needed_to_min": 0,
-              "open_to_max": 166
+              "open_to_max": 165
             },
             {
               "label": "None of the above",

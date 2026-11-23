@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T17:03:03",
-  "mission_count": 7,
+  "last_updated": "2026-11-23T17:22:14",
+  "mission_count": 6,
   "missions": [
     {
       "ref_name": "MIS-53f70",
@@ -1253,9 +1253,9 @@
     {
       "ref_name": "MIS-fa1ee",
       "target": 1000,
-      "filled": 1001,
-      "fill_pct": 100.1,
-      "ir": "39.2",
+      "filled": 1002,
+      "fill_pct": 100.2,
+      "ir": "39.3",
       "loi": "2.5",
       "launch_date": "2026-11-22 22:55:33",
       "oof": "12/6/2026",
@@ -1306,31 +1306,19 @@
             {
               "label": "30 - 44 | Male",
               "target": 310,
-              "filled": 308,
-              "needed": 2,
-              "fill_pct": 99.4,
+              "filled": 309,
+              "needed": 1,
+              "fill_pct": 99.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 2,
-              "open_to_max": 2
+              "needed_to_min": 1,
+              "open_to_max": 1
             }
           ]
         }
       ]
-    },
-    {
-      "ref_name": "MIS-5b86d",
-      "target": 1000,
-      "filled": 981,
-      "fill_pct": 98.1,
-      "ir": "38.9",
-      "loi": "1",
-      "launch_date": "2026-11-23 14:07:30",
-      "oof": "12/7/2026",
-      "status": "on_track",
-      "quotas": []
     }
   ]
 }

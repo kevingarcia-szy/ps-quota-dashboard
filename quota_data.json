@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T15:35:45",
+  "last_updated": "2026-11-24T15:54:32",
   "mission_count": 4,
   "missions": [
     {
@@ -446,11 +446,11 @@
               "needed": 0,
               "fill_pct": 102.4,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
+              "is_range": true,
+              "min_target": 200,
+              "max_target": 300,
               "needed_to_min": 0,
-              "open_to_max": 0
+              "open_to_max": 44
             },
             {
               "label": "Employed part-time",
@@ -459,11 +459,11 @@
               "needed": 189,
               "fill_pct": 24.4,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 189,
-              "open_to_max": 189
+              "is_range": true,
+              "min_target": 200,
+              "max_target": 300,
+              "needed_to_min": 139,
+              "open_to_max": 239
             },
             {
               "label": "Self-employed",
@@ -472,11 +472,11 @@
               "needed": 250,
               "fill_pct": 0.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 250,
-              "open_to_max": 250
+              "is_range": true,
+              "min_target": 200,
+              "max_target": 300,
+              "needed_to_min": 200,
+              "open_to_max": 300
             },
             {
               "label": "Unemployed",
@@ -485,7 +485,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": true,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -498,7 +498,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": true,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -511,11 +511,11 @@
               "needed": 250,
               "fill_pct": 0.0,
               "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 250,
-              "open_to_max": 250
+              "is_range": true,
+              "min_target": 200,
+              "max_target": 300,
+              "needed_to_min": 200,
+              "open_to_max": 300
             },
             {
               "label": "Retired",
@@ -524,7 +524,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": true,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -537,7 +537,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": true,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,
@@ -550,7 +550,7 @@
               "needed": 0,
               "fill_pct": 0,
               "is_paused": true,
-              "is_range": false,
+              "is_range": true,
               "min_target": 0,
               "max_target": 0,
               "needed_to_min": 0,

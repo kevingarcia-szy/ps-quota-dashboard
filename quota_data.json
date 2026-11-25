@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T12:42:18",
-  "mission_count": 7,
+  "last_updated": "2026-11-25T13:02:00",
+  "mission_count": 11,
   "missions": [
     {
       "ref_name": "MIS-edb97",
@@ -742,8 +742,8 @@
     {
       "ref_name": "MIS-6f12f",
       "target": 500,
-      "filled": 407,
-      "fill_pct": 81.4,
+      "filled": 409,
+      "fill_pct": 81.8,
       "ir": "14.8",
       "loi": "2.5",
       "launch_date": "2026-11-20 14:06:24",
@@ -821,15 +821,15 @@
             {
               "label": "65 - 99",
               "target": 165,
-              "filled": 129,
-              "needed": 36,
-              "fill_pct": 78.2,
+              "filled": 131,
+              "needed": 34,
+              "fill_pct": 79.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 36,
-              "open_to_max": 36
+              "needed_to_min": 34,
+              "open_to_max": 34
             }
           ]
         },
@@ -839,28 +839,28 @@
             {
               "label": "Female",
               "target": 255,
-              "filled": 199,
-              "needed": 56,
-              "fill_pct": 78.0,
+              "filled": 200,
+              "needed": 55,
+              "fill_pct": 78.4,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 56,
-              "open_to_max": 56
+              "needed_to_min": 55,
+              "open_to_max": 55
             },
             {
               "label": "Male",
               "target": 245,
-              "filled": 208,
-              "needed": 37,
-              "fill_pct": 84.9,
+              "filled": 209,
+              "needed": 36,
+              "fill_pct": 85.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 37,
-              "open_to_max": 37
+              "needed_to_min": 36,
+              "open_to_max": 36
             }
           ]
         },
@@ -909,15 +909,15 @@
             {
               "label": "$45,000 - $59,999",
               "target": 70,
-              "filled": 51,
-              "needed": 19,
-              "fill_pct": 72.9,
+              "filled": 52,
+              "needed": 18,
+              "fill_pct": 74.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 19,
-              "open_to_max": 19
+              "needed_to_min": 18,
+              "open_to_max": 18
             },
             {
               "label": "$60,000 - $74,999",
@@ -935,15 +935,15 @@
             {
               "label": "$75,000 - $99,999",
               "target": 50,
-              "filled": 46,
-              "needed": 4,
-              "fill_pct": 92.0,
+              "filled": 47,
+              "needed": 3,
+              "fill_pct": 94.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 4,
-              "open_to_max": 4
+              "needed_to_min": 3,
+              "open_to_max": 3
             },
             {
               "label": "$100,000 - $149,999",
@@ -992,15 +992,15 @@
             {
               "label": "Northeast",
               "target": 95,
-              "filled": 68,
-              "needed": 27,
-              "fill_pct": 71.6,
+              "filled": 70,
+              "needed": 25,
+              "fill_pct": 73.7,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 27,
-              "open_to_max": 27
+              "needed_to_min": 25,
+              "open_to_max": 25
             },
             {
               "label": "Midwest",
@@ -1143,13 +1143,13 @@
     {
       "ref_name": "MIS-e941c",
       "target": 1000,
-      "filled": 69,
-      "fill_pct": 6.9,
+      "filled": 757,
+      "fill_pct": 75.7,
       "ir": "100",
       "loi": "2",
       "launch_date": "2026-11-25 16:59:21",
       "oof": "12/9/2026",
-      "status": "behind",
+      "status": "watch",
       "quotas": []
     },
     {
@@ -1513,6 +1513,234 @@
               "max_target": 0,
               "needed_to_min": 20,
               "open_to_max": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-e2533",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-25 17:41:43",
+      "oof": "12/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-9bbb2",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-25 17:42:02",
+      "oof": "12/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-68b26",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-25 17:42:27",
+      "oof": "12/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ref_name": "MIS-6c20e",
+      "target": 1000,
+      "filled": 0,
+      "fill_pct": 0.0,
+      "ir": "0",
+      "loi": "4.5",
+      "launch_date": "2026-11-25 17:42:54",
+      "oof": "12/9/2026",
+      "status": "behind",
+      "quotas": [
+        {
+          "group": "Turtles & Chocolate Groups",
+          "cells": [
+            {
+              "label": "Turtles Purchasers",
+              "target": 300,
+              "filled": 0,
+              "needed": 300,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 300,
+              "open_to_max": 300
+            },
+            {
+              "label": "Chocolate Purchasers",
+              "target": 700,
+              "filled": 0,
+              "needed": 700,
+              "fill_pct": 0.0,
+              "is_paused": false,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 700,
+              "open_to_max": 700
+            },
+            {
+              "label": "None of the above",
+              "target": 0,
+              "filled": 0,
+              "needed": 0,
+              "fill_pct": 0,
+              "is_paused": true,
+              "is_range": false,
+              "min_target": 0,
+              "max_target": 0,
+              "needed_to_min": 0,
+              "open_to_max": 0
             }
           ]
         }

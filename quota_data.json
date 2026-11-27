@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-27T09:12:29",
-  "mission_count": 6,
+  "last_updated": "2026-11-27T09:31:29",
+  "mission_count": 5,
   "missions": [
     {
       "ref_name": "MIS-edb97",
       "target": 650,
       "filled": 535,
       "fill_pct": 82.3,
-      "ir": "15.1",
+      "ir": "14.7",
       "loi": "6",
       "launch_date": "2026-11-16 19:34:18",
       "oof": "12/11/2026",
@@ -321,7 +321,7 @@
       "target": 1000,
       "filled": 379,
       "fill_pct": 37.9,
-      "ir": "65.5",
+      "ir": "65.3",
       "loi": "5.5",
       "launch_date": "2026-11-19 16:28:16",
       "oof": "1/18/2027",
@@ -1131,9 +1131,9 @@
     {
       "ref_name": "MIS-40591",
       "target": 500,
-      "filled": 446,
-      "fill_pct": 89.2,
-      "ir": "35.8",
+      "filled": 447,
+      "fill_pct": 89.4,
+      "ir": "35.5",
       "loi": "4",
       "launch_date": "2026-11-25 17:13:37",
       "oof": "12/9/2026",
@@ -1171,15 +1171,15 @@
             {
               "label": "25 - 34 | Female",
               "target": 75,
-              "filled": 60,
-              "needed": 15,
-              "fill_pct": 80.0,
+              "filled": 61,
+              "needed": 14,
+              "fill_pct": 81.3,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 15,
-              "open_to_max": 15
+              "needed_to_min": 14,
+              "open_to_max": 14
             },
             {
               "label": "25 - 34 | Male",
@@ -1371,15 +1371,15 @@
             {
               "label": "$150,000 or more",
               "target": 80,
-              "filled": 67,
-              "needed": 13,
-              "fill_pct": 83.8,
+              "filled": 68,
+              "needed": 12,
+              "fill_pct": 85.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 13,
-              "open_to_max": 13
+              "needed_to_min": 12,
+              "open_to_max": 12
             },
             {
               "label": "I prefer not to answer",
@@ -1467,15 +1467,15 @@
             {
               "label": "Hispanic (of Hispanic, Latino, or Spanish origin)",
               "target": 100,
-              "filled": 75,
-              "needed": 25,
-              "fill_pct": 75.0,
+              "filled": 76,
+              "needed": 24,
+              "fill_pct": 76.0,
               "is_paused": false,
               "is_range": false,
               "min_target": 0,
               "max_target": 0,
-              "needed_to_min": 25,
-              "open_to_max": 25
+              "needed_to_min": 24,
+              "open_to_max": 24
             },
             {
               "label": "Some other race (please specify)",
@@ -1489,63 +1489,6 @@
               "max_target": 0,
               "needed_to_min": 17,
               "open_to_max": 17
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ref_name": "MIS-e2533",
-      "target": 1000,
-      "filled": 986,
-      "fill_pct": 98.6,
-      "ir": "76.5",
-      "loi": "4.5",
-      "launch_date": "2026-11-25 17:41:43",
-      "oof": "12/9/2026",
-      "status": "on_track",
-      "quotas": [
-        {
-          "group": "Turtles & Chocolate Groups",
-          "cells": [
-            {
-              "label": "Turtles Purchasers",
-              "target": 300,
-              "filled": 305,
-              "needed": 0,
-              "fill_pct": 101.7,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
-            },
-            {
-              "label": "Chocolate Purchasers",
-              "target": 700,
-              "filled": 681,
-              "needed": 19,
-              "fill_pct": 97.3,
-              "is_paused": false,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 19,
-              "open_to_max": 19
-            },
-            {
-              "label": "None of the above",
-              "target": 0,
-              "filled": 0,
-              "needed": 0,
-              "fill_pct": 0,
-              "is_paused": true,
-              "is_range": false,
-              "min_target": 0,
-              "max_target": 0,
-              "needed_to_min": 0,
-              "open_to_max": 0
             }
           ]
         }
